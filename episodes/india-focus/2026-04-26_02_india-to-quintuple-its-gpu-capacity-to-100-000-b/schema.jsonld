@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=dV_V5FJeKXA",
+      "embedUrl": "https://www.youtube.com/embed/dV_V5FJeKXA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dV_V5FJeKXA/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India to Quintuple Its GPU Capacity to 100,000 by End of 2026 — L&T and Yotta Lead the Build",
+            "articleSection": "Discovery & Research",
+            "abstract": "India is executing one of the fastest sovereign AI infrastructure builds in the world. The country already has 38,000 GPUs deployed and has announced plans to expand to 100,000 by end of 2026 — a near-tripling in less than a year. Larsen & Toubro is building gigawatt-scale NVIDIA AI factories in Chennai and Mumbai. Yotta Data Services is constructing a $2 billion AI hub called Shakti Cloud powered by over 20,000 NVIDIA Blackwell Ultra GPUs. Companies at the India AI Summit committed $277 billion in investment over five to seven years. For any Indian developer, researcher, or startup that could not afford compute, access is about to get fundamentally easier.",
+            "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2229171&reg=3&lang=2",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Larsen & Toubro"
+              },
+              {
+                "@type": "Organization",
+                "name": "Yotta Data Services"
+              },
+              {
+                "@type": "Organization",
+                "name": "NVIDIA"
+              },
+              {
+                "@type": "Organization",
+                "name": "IndiaAI Mission"
+              },
+              {
+                "@type": "Thing",
+                "name": "NVIDIA Blackwell Ultra GPUs"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI Data Centers"
+              },
+              {
+                "@type": "Thing",
+                "name": "Sovereign Cloud"
+              }
+            ],
+            "keywords": "Larsen & Toubro, Yotta Data Services, NVIDIA, IndiaAI Mission, NVIDIA Blackwell Ultra GPUs, AI Data Centers, Sovereign Cloud, National AI compute access, Startup infrastructure, Sovereign AI training",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

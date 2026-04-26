@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=O3zN59_DbxA",
+      "embedUrl": "https://www.youtube.com/embed/O3zN59_DbxA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/O3zN59_DbxA/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India's AI Hiring Moves to Skills-First — 2 Million Already Upskilled, Tier 2 Cities Surge",
+            "articleSection": "How to Evolve",
+            "abstract": "India's hiring market is undergoing a structural shift in 2026: employers are moving from degree-first to skills-first, and AI fluency — the ability to use AI to deliver results that once took a team of three — is now the primary filter. Over 2 million Indian professionals have already completed formal AI upskilling. Demand for generative AI and LLM skills surged nearly 60 percent year-on-year. The geographic story is equally significant: while Bengaluru leads with 26 percent of AI roles, Jaipur, Indore, and Mysuru are emerging as genuine AI job hubs, not just Tier 1 overflow. For a fresh graduate in a Tier 2 city, the window to enter a high-demand field with a skills certificate — not a postgraduate degree — has never been more open.",
+            "url": "https://www.news9live.com/technology/artificial-intelligence/linkedin-ai-jobs-india-freshers-top-roles-2026-report-2957144",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "LinkedIn India"
+              },
+              {
+                "@type": "Organization",
+                "name": "Nasscom"
+              },
+              {
+                "@type": "Organization",
+                "name": "Google"
+              },
+              {
+                "@type": "Organization",
+                "name": "Microsoft"
+              },
+              {
+                "@type": "Thing",
+                "name": "Generative AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "Prompt Engineering"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI Agent Workflows"
+              }
+            ],
+            "keywords": "LinkedIn India, Nasscom, Google, Microsoft, Generative AI, Prompt Engineering, AI Agent Workflows, Career transition to AI, Tier 2 city job growth, Skill certification",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-26",
+  "rank": 5,
+  "video_url": "https://www.youtube.com/watch?v=8mVWhhOL_gs",
+  "thumbnail_url": "https://i.ytimg.com/vi/8mVWhhOL_gs/maxresdefault.jpg",
+  "story": {
+    "title": "Health-care AI is proliferating in hospitals, but evidence it helps patients remains thin",
+    "pillar": "Daily Utility",
+    "summary": "AI tools are now widely used across US hospitals for clinical notetaking, patient record triage, flagging at-risk individuals, and interpreting X-rays and medical exam results. Despite this rapid deployment, MIT Technology Review reports that robust clinical evidence demonstrating these tools actually improve patient outcomes remains scarce. Hospitals are adopting AI faster than the research community can evaluate it, raising questions about whether procurement decisions are driven by efficiency promises rather than proven benefit. The article calls for more rigorous, independent trials before broader mandated rollout.",
+    "source_url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+    "source_name": "MIT Technology Review",
+    "companies": [],
+    "technologies": [
+      "clinical AI",
+      "AI-assisted diagnostics",
+      "medical record AI",
+      "AI notetaking"
+    ],
+    "use_cases": [
+      "hospital patient triage",
+      "X-ray interpretation",
+      "clinical documentation automation"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=MkuhTRphPv8",
+      "embedUrl": "https://www.youtube.com/embed/MkuhTRphPv8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MkuhTRphPv8/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Krutrim's Bhashik Brings AI Voice Intelligence to 22 Indian Languages — Targets 500 Million Non-English Speakers",
+            "articleSection": "Daily Utility",
+            "abstract": "Krutrim, India's first AI unicorn backed by Ola founder Bhavish Aggarwal, has deployed Bhashik — a natively multilingual AI product targeting the 500 million Indians who conduct their daily lives entirely in regional languages. Krutrim-2, the underlying model trained on over 2 trillion tokens, supports 22 Indian languages with a 128K context window and powers Bhashik's vernacular speech products and Document Intelligence Service for enterprise document processing in local languages. The strategic bet is straightforward: the next billion AI users will not use AI in English. The company that owns native-language AI for India owns the largest untapped AI market in the world.",
+            "url": "https://www.ibtimes.com.au/indias-top-10-ai-companies-2026-sarvam-ai-krutrim-lead-sovereign-push-amid-29b-funding-boom-1866020",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Krutrim"
+              },
+              {
+                "@type": "Organization",
+                "name": "Ola"
+              },
+              {
+                "@type": "Organization",
+                "name": "Bhavish Aggarwal"
+              },
+              {
+                "@type": "Thing",
+                "name": "Multilingual LLM"
+              },
+              {
+                "@type": "Thing",
+                "name": "Speech AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "Document Intelligence AI"
+              }
+            ],
+            "keywords": "Krutrim, Ola, Bhavish Aggarwal, Multilingual LLM, Speech AI, Document Intelligence AI, Vernacular AI assistants, Regional language document processing, Rural AI access",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

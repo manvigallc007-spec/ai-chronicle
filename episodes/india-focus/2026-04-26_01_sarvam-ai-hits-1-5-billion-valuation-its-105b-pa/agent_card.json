@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-26",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=T2mAYr5gTh0",
+  "thumbnail_url": "https://i.ytimg.com/vi/T2mAYr5gTh0/maxresdefault.jpg",
+  "story": {
+    "title": "Sarvam AI Hits $1.5 Billion Valuation — Its 105B-Parameter Model Now Rivals Global Giants",
+    "pillar": "Discovery & Research",
+    "summary": "Sarvam AI, India's sovereign AI startup founded in Bengaluru in 2023, is closing a $350 million funding round at a $1.5 billion valuation — making it one of the most valuable AI companies ever built in India. At the India AI Impact Summit in February 2026, Sarvam unveiled two large language models: Sarvam-30B and the flagship Sarvam-105B, a 105-billion parameter mixture-of-experts model with a 128,000-token context window capable of complex reasoning and enterprise tasks. Both models are optimised for Indian languages, edge deployment, and data sovereignty. India is no longer just consuming global AI — it is building frontier models that compete at the top of global benchmarks.",
+    "source_url": "https://restofworld.org/2026/india-frugal-ai-sarvam-krutrim-sovereign/",
+    "source_name": "Rest of World / IBTimes Australia",
+    "companies": [
+      "Sarvam AI",
+      "Lightspeed",
+      "Peak XV Partners",
+      "Khosla Ventures"
+    ],
+    "technologies": [
+      "Large Language Models",
+      "Mixture of Experts",
+      "Multilingual AI"
+    ],
+    "use_cases": [
+      "Sovereign AI deployment",
+      "Indian language understanding",
+      "Enterprise reasoning"
+    ]
+  }
+}

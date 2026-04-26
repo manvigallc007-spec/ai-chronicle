@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=ZUFR3HHXnGw",
+      "embedUrl": "https://www.youtube.com/embed/ZUFR3HHXnGw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZUFR3HHXnGw/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "AI is accelerating the global e-waste crisis as hardware demand surges and waste flows to poorer nations",
+            "articleSection": "Policy & Rights",
+            "abstract": "Rest of World reports that the rapid expansion of AI hardware infrastructure is dramatically worsening the global e-waste problem, with discarded GPUs, servers, and consumer AI devices disproportionately ending up in informal recycling operations in non-Western countries. The piece documents how existing e-waste trade routes and processing capacity in Africa, South and Southeast Asia are being overwhelmed by the accelerating hardware replacement cycles driven by AI model upgrades. Inadequate regulatory oversight in receiving countries means workers face health risks from toxic materials with little protection. The article calls for AI hardware manufacturers and hyperscalers to take extended producer responsibility for end-of-life equipment.",
+            "url": "https://restofworld.org/2026/global-ewaste-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "AI hardware"
+              },
+              {
+                "@type": "Thing",
+                "name": "GPU infrastructure"
+              },
+              {
+                "@type": "Thing",
+                "name": "e-waste processing"
+              }
+            ],
+            "keywords": "AI hardware, GPU infrastructure, e-waste processing, AI data centre hardware lifecycle, informal e-waste recycling, extended producer responsibility",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

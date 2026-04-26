@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=fBCYxAV-seI",
+      "embedUrl": "https://www.youtube.com/embed/fBCYxAV-seI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fBCYxAV-seI/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Anthropic runs agent-on-agent commerce experiment where AI buys and sells real goods",
+            "articleSection": "Daily Utility",
+            "abstract": "Anthropic designed a classified-ad marketplace in which AI agents acted as both buyers and sellers, negotiating and completing transactions for real goods with real money. The experiment is among the first documented cases of fully autonomous agent-to-agent commerce at a reputable AI lab. The findings could inform how future AI systems handle procurement, supply chains, and consumer purchasing on behalf of humans. Anthropic has not yet disclosed the full scope of goods exchanged or the total monetary value of transactions.",
+            "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Anthropic"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI agents"
+              },
+              {
+                "@type": "Thing",
+                "name": "agentic commerce"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              }
+            ],
+            "keywords": "Anthropic, AI agents, agentic commerce, large language models, automated purchasing, AI-driven marketplace negotiation, agent-to-agent transactions",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

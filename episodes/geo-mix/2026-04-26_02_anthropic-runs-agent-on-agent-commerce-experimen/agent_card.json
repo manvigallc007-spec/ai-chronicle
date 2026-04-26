@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-26",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=fBCYxAV-seI",
+  "thumbnail_url": "https://i.ytimg.com/vi/fBCYxAV-seI/maxresdefault.jpg",
+  "story": {
+    "title": "Anthropic runs agent-on-agent commerce experiment where AI buys and sells real goods",
+    "pillar": "Daily Utility",
+    "summary": "Anthropic designed a classified-ad marketplace in which AI agents acted as both buyers and sellers, negotiating and completing transactions for real goods with real money. The experiment is among the first documented cases of fully autonomous agent-to-agent commerce at a reputable AI lab. The findings could inform how future AI systems handle procurement, supply chains, and consumer purchasing on behalf of humans. Anthropic has not yet disclosed the full scope of goods exchanged or the total monetary value of transactions.",
+    "source_url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Anthropic"
+    ],
+    "technologies": [
+      "AI agents",
+      "agentic commerce",
+      "large language models"
+    ],
+    "use_cases": [
+      "automated purchasing",
+      "AI-driven marketplace negotiation",
+      "agent-to-agent transactions"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=8mVWhhOL_gs",
+      "embedUrl": "https://www.youtube.com/embed/8mVWhhOL_gs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8mVWhhOL_gs/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Health-care AI is proliferating in hospitals, but evidence it helps patients remains thin",
+            "articleSection": "Daily Utility",
+            "abstract": "AI tools are now widely used across US hospitals for clinical notetaking, patient record triage, flagging at-risk individuals, and interpreting X-rays and medical exam results. Despite this rapid deployment, MIT Technology Review reports that robust clinical evidence demonstrating these tools actually improve patient outcomes remains scarce. Hospitals are adopting AI faster than the research community can evaluate it, raising questions about whether procurement decisions are driven by efficiency promises rather than proven benefit. The article calls for more rigorous, independent trials before broader mandated rollout.",
+            "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "clinical AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-assisted diagnostics"
+              },
+              {
+                "@type": "Thing",
+                "name": "medical record AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI notetaking"
+              }
+            ],
+            "keywords": "clinical AI, AI-assisted diagnostics, medical record AI, AI notetaking, hospital patient triage, X-ray interpretation, clinical documentation automation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-26",
+  "rank": 5,
+  "video_url": "https://www.youtube.com/watch?v=GpHe0mFXG08",
+  "thumbnail_url": "https://i.ytimg.com/vi/GpHe0mFXG08/maxresdefault.jpg",
+  "story": {
+    "title": "RBI: Generative AI Could Boost Indian Banking Efficiency by 46% — 90% of Banks Already Using It",
+    "pillar": "Daily Utility",
+    "summary": "The Reserve Bank of India has reported that generative AI could boost banking efficiency by up to 46 percent, with applications spanning compliance, fraud detection, credit scoring, and customer service. Nearly 90 percent of Indian banks, fintechs, and insurers have now integrated AI into their strategic plans, and 60 to 70 percent are actively using it in live operations. An April 2026 regulatory deadline is also in effect: every digital transaction must now include an additional authentication layer beyond OTP — a change that will push banks to deploy smarter, faster AI-based verification systems. India already leads the world in real-time payments. In 2026, the goal is to lead in intelligent payments where AI, biometric identity, and global interoperability converge.",
+    "source_url": "https://www.llrx.com/2026/04/ai-in-finance-and-banking-april-15-2026/",
+    "source_name": "LLRX / Nasscom / M2P Fintech",
+    "companies": [
+      "RBI",
+      "HDFC Bank",
+      "Paytm",
+      "PhonePe"
+    ],
+    "technologies": [
+      "Generative AI",
+      "Biometric AI",
+      "Fraud Detection AI"
+    ],
+    "use_cases": [
+      "Banking compliance automation",
+      "Credit risk AI",
+      "Real-time payment intelligence"
+    ]
+  }
+}

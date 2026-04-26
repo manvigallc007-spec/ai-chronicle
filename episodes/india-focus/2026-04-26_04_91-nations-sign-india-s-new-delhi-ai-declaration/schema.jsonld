@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=eWaFH7ChvHM",
+      "embedUrl": "https://www.youtube.com/embed/eWaFH7ChvHM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eWaFH7ChvHM/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "91 Nations Sign India's New Delhi AI Declaration — Delhi Reframes Global AI From Risk to Impact",
+            "articleSection": "Policy & Rights",
+            "abstract": "India hosted the global India AI Impact Summit 2026 at Bharat Mandapam, New Delhi, with delegations from over 100 countries, 20 international organisations, and 600,000 attendees. The summit's headline achievement: 91 countries and international organisations signed the New Delhi AI Declaration — shifting the global AI governance conversation from the 'risk' framing established in Bletchley and Paris to a new 'impact' framing focused on People, Planet, and Progress. India also set a Guinness World Record for the most pledges for an AI responsibility campaign in 24 hours: 250,946 participants. This positions India not just as an AI builder but as the country that is defining the ethical and policy framework for AI in the Global South.",
+            "url": "https://edunovations.com/currentaffairs/national/india-ai-impact-summit-2026-3/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "IndiaAI Mission"
+              },
+              {
+                "@type": "Organization",
+                "name": "Ministry of Electronics and IT"
+              },
+              {
+                "@type": "Organization",
+                "name": "MEITY"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI Governance"
+              },
+              {
+                "@type": "Thing",
+                "name": "Responsible AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI Policy Frameworks"
+              }
+            ],
+            "keywords": "IndiaAI Mission, Ministry of Electronics and IT, MEITY, AI Governance, Responsible AI, AI Policy Frameworks, Global AI diplomacy, AI safety pledges, South-South AI cooperation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

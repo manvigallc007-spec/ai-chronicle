@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=F2JhKfaCOHo",
+      "embedUrl": "https://www.youtube.com/embed/F2JhKfaCOHo",
+      "thumbnailUrl": "https://i.ytimg.com/vi/F2JhKfaCOHo/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Google commits up to $40B investment in Anthropic for cash and compute capacity",
+            "articleSection": "Daily Utility",
+            "abstract": "Google has announced plans to invest up to $40 billion in AI safety company Anthropic, combining cash and compute resources in what would be one of the largest AI sector deals on record. The investment follows Anthropic's limited release of Mythos, a powerful model focused on cybersecurity applications. The deal signals that leading tech firms are racing to lock in massive infrastructure advantages as competition in frontier AI intensifies. This level of compute backing could directly shape which AI tools reach consumers and enterprises over the next several years.",
+            "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Google"
+              },
+              {
+                "@type": "Organization",
+                "name": "Anthropic"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI compute infrastructure"
+              },
+              {
+                "@type": "Thing",
+                "name": "cybersecurity AI"
+              }
+            ],
+            "keywords": "Google, Anthropic, large language models, AI compute infrastructure, cybersecurity AI, enterprise AI deployment, cybersecurity threat detection, AI model training at scale",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

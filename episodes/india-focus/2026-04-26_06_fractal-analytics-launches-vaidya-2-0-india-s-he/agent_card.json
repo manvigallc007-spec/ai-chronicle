@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-26",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=M3HJOd9czQ0",
+  "thumbnail_url": "https://i.ytimg.com/vi/M3HJOd9czQ0/maxresdefault.jpg",
+  "story": {
+    "title": "Fractal Analytics Launches Vaidya 2.0 — India's Healthcare AI That Answers Symptoms in 22 Languages",
+    "pillar": "Daily Utility",
+    "summary": "Fractal Analytics has released Vaidya 2.0, a specialised healthcare AI model that allows patients in India to describe symptoms in any of 22 regional languages and receive safe, structured health guidance. The model is designed for deployment in primary health centres, ASHA worker programs, and rural telemedicine networks where doctors are scarce. India's AI healthcare market is projected to grow from $1.6 billion in 2025 to $34 billion by 2034, and the government has established three AI Centres of Excellence specifically for healthcare, agriculture, and sustainable cities. For a patient in rural Bihar or northeastern India who has never had easy access to a doctor, a multilingual AI health assistant is not a luxury — it is a first-responder.",
+    "source_url": "https://edunovations.com/currentaffairs/national/india-ai-impact-summit-2026-3/",
+    "source_name": "Edunovations / IndiaAI / BCG",
+    "companies": [
+      "Fractal Analytics",
+      "Ministry of Health",
+      "IndiaAI"
+    ],
+    "technologies": [
+      "Healthcare AI",
+      "Multilingual NLP",
+      "Clinical AI"
+    ],
+    "use_cases": [
+      "Rural health diagnostics",
+      "Multilingual symptom triage",
+      "ASHA worker support"
+    ]
+  }
+}

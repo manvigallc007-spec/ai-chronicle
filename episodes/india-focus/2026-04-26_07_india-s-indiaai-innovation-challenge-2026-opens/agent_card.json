@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-26",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=6nxzdLY-hf0",
+  "thumbnail_url": "https://i.ytimg.com/vi/6nxzdLY-hf0/maxresdefault.jpg",
+  "story": {
+    "title": "India's IndiaAI Innovation Challenge 2026 Opens — Ministry of AYUSH and MSME Back First Two Problems",
+    "pillar": "Policy & Rights",
+    "summary": "IndiaAI has launched its Innovation Challenge 2026 — a competitive programme inviting startups and developers to submit market-deployed AI solutions that address real government problem statements. The first two partner ministries are the Ministry of AYUSH and the Ministry of MSME, targeting AI applications in traditional medicine, small business operations, and rural enterprise. Winners get pilots within government systems, not just prize money — a direct route from startup to national-scale deployment. This is India's version of using government as a customer and launchpad for AI companies that cannot afford the traditional enterprise sales cycle. For India's 63 million small businesses, AI tailored to their specific constraints and languages could be genuinely transformative.",
+    "source_url": "https://indiaai.gov.in/article/indiaai-innovation-challenge-2026",
+    "source_name": "IndiaAI.gov.in",
+    "companies": [
+      "IndiaAI",
+      "Ministry of AYUSH",
+      "Ministry of MSME"
+    ],
+    "technologies": [
+      "Agentic AI",
+      "Domain-Specific AI",
+      "Multilingual AI"
+    ],
+    "use_cases": [
+      "MSME automation",
+      "Traditional medicine AI",
+      "Government AI procurement"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Rm0RgGcZg8k",
+      "embedUrl": "https://www.youtube.com/embed/Rm0RgGcZg8k",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Rm0RgGcZg8k/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "AI Hiring in India Surges 32% — But 84% of Workers Feel Unprepared for AI-Driven Jobs",
+            "articleSection": "Job Evolution",
+            "abstract": "AI-linked job postings in India are growing at 32 percent year-on-year in 2026, heading toward 380,000 open AI roles. AI skills now appear in 14 percent of all Indian job listings — up from 12.8 percent just three months ago. Bengaluru leads with 26 percent of all AI roles, but Hyderabad is growing fastest among Tier 1 cities, and Jaipur, Indore, and Mysuru are emerging as Tier 2 hotspots. The catch: 84 percent of Indian professionals say they feel unprepared to compete in this market, and for advanced roles like Generative AI Engineer, there may be as few as one qualified candidate for every ten open positions. The demand is real. The readiness is not.",
+            "url": "https://www.siliconindia.com/news/ai-hiring-surges-in-india-with-32-percent-growth-expected-in-2026-nwid-53129.html",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "LinkedIn India"
+              },
+              {
+                "@type": "Organization",
+                "name": "Nasscom"
+              },
+              {
+                "@type": "Organization",
+                "name": "Naukri"
+              },
+              {
+                "@type": "Thing",
+                "name": "Generative AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "MLOps"
+              },
+              {
+                "@type": "Thing",
+                "name": "Large Language Models"
+              }
+            ],
+            "keywords": "LinkedIn India, Nasscom, Naukri, Generative AI, MLOps, Large Language Models, AI talent hiring, Workforce upskilling, Skills gap measurement",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

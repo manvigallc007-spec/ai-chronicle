@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-26",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=FTxuMDVw9cs",
+  "thumbnail_url": "https://i.ytimg.com/vi/FTxuMDVw9cs/maxresdefault.jpg",
+  "story": {
+    "title": "Cohere merges with Aleph Alpha to build sovereign AI alternative for European enterprises",
+    "pillar": "Policy & Rights",
+    "summary": "Canadian AI startup Cohere is acquiring Germany-based Aleph Alpha in a deal backed by Schwarz Group, the parent company of European retailer Lidl, with the explicit goal of offering a sovereign AI alternative to US-dominated providers for European enterprises. Both governments have signalled support for the transaction, framing it as a strategic move to reduce dependence on American AI infrastructure. The combined entity is expected to serve large enterprises seeking data sovereignty and compliance with EU AI and data regulations. Financial terms of the deal have not been fully disclosed.",
+    "source_url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Cohere",
+      "Aleph Alpha",
+      "Schwarz Group",
+      "Lidl"
+    ],
+    "technologies": [
+      "large language models",
+      "sovereign AI",
+      "enterprise AI"
+    ],
+    "use_cases": [
+      "EU data sovereignty compliance",
+      "enterprise AI deployment",
+      "non-US AI infrastructure"
+    ]
+  }
+}

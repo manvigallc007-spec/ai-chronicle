@@ -1,0 +1,108 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=1L1eGKfpJ90",
+      "embedUrl": "https://www.youtube.com/embed/1L1eGKfpJ90",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1L1eGKfpJ90/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India Bets $277 Billion on AI Infrastructure — The Summit That Made India the World's AI Landlord",
+            "articleSection": "Discovery & Research",
+            "abstract": "Companies gathered at the India AI Impact Summit collectively committed $277 billion in AI investment over five to seven years — the majority directed at building data centers, GPU clusters, and AI factories on Indian soil. Beyond the summit, the picture is already moving: Blackstone made a $600 million equity investment in Indian AI cloud startup Neysa, which plans to deploy over 20,000 GPUs. India's sovereign AI cloud capacity is on track to reach 100,000 GPUs by the end of 2026. The logic is strategic: every country that builds its AI on foreign clouds is a tenant. India is choosing to become the landlord — building infrastructure it owns, controls, and can rent to the rest of the Global South.",
+            "url": "https://asanify.com/blog/news/ai-infrastructure-india-investment-april-11-2026/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Blackstone"
+              },
+              {
+                "@type": "Organization",
+                "name": "Neysa"
+              },
+              {
+                "@type": "Organization",
+                "name": "NVIDIA"
+              },
+              {
+                "@type": "Organization",
+                "name": "IndiaAI Mission"
+              },
+              {
+                "@type": "Organization",
+                "name": "Yotta"
+              },
+              {
+                "@type": "Thing",
+                "name": "Sovereign AI Cloud"
+              },
+              {
+                "@type": "Thing",
+                "name": "GPU Clusters"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI Factory Infrastructure"
+              }
+            ],
+            "keywords": "Blackstone, Neysa, NVIDIA, IndiaAI Mission, Yotta, Sovereign AI Cloud, GPU Clusters, AI Factory Infrastructure, National AI compute sovereignty, Global South AI access, AI infrastructure investment",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

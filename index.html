@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The AI Chronicle - Episodes</title>
+    <style>
+        body { font-family: sans-serif; background: #f5f5f5; padding: 20px; }
+        .container { max-width: 1200px; margin: 0 auto; background: white; padding: 30px; border-radius: 8px; }
+        h1 { color: #667eea; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+        .card { border: 1px solid #ddd; padding: 15px; border-radius: 6px; }
+        .card h3 { margin-top: 0; color: #667eea; }
+        .links { display: flex; gap: 10px; margin-top: 10px; }
+        .links a { padding: 8px 12px; background: #667eea; color: white; text-decoration: none; border-radius: 4px; font-size: 0.9em; }
+        .links a:hover { background: #764ba2; }
+        .feed { padding: 15px; background: #f9f9f9; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>The AI Chronicle - Machine-Readable Metadata</h1>
+        <p>Episodes and structured metadata for AI agent discovery</p>
+        
+        <div class="feed">
+            <strong>RSS Feed:</strong> <a href="rss_feed.xml">rss_feed.xml</a> | 
+            <strong>YouTube:</strong> <a href="https://www.youtube.com/@theaichronicle007-p8o">@theaichronicle007-p8o</a>
+        </div>
+
+        <h2>India Focus (10 episodes)</h2>
+        <div class="grid" id="india-focus"></div>
+
+        <h2>Geo Mix (10 episodes)</h2>
+        <div class="grid" id="geo-mix"></div>
+    </div>
+
+    <script>
+        const episodes = {
+            'india-focus': [
+                ['Sarvam AI $1.5B', '2026-04-26_01_sarvam-ai-hits-1-5-billion-valuation-its-105b-pa'],
+                ['GPU Capacity 100K', '2026-04-26_02_india-to-quintuple-its-gpu-capacity-to-100-000-b'],
+                ['AI Hiring +32%', '2026-04-26_03_ai-hiring-in-india-surges-32-but-84-of-workers-f'],
+                ['Delhi AI Declaration', '2026-04-26_04_91-nations-sign-india-s-new-delhi-ai-declaration'],
+                ['RBI Banking Efficiency', '2026-04-26_05_rbi-generative-ai-could-boost-indian-banking-eff'],
+                ['Vaidya 2.0', '2026-04-26_06_fractal-analytics-launches-vaidya-2-0-india-s-he'],
+                ['IndiaAI Challenge', '2026-04-26_07_india-s-indiaai-innovation-challenge-2026-opens'],
+                ['Skills-First Hiring', '2026-04-26_08_india-s-ai-hiring-moves-to-skills-first-2-millio'],
+                ['Krutrim Bhashik', '2026-04-26_09_krutrim-s-bhashik-brings-ai-voice-intelligence-t'],
+                ['AI Infrastructure $2.77B', '2026-04-26_10_india-bets-277-billion-on-ai-infrastructure-the']
+            ],
+            'geo-mix': [
+                ['Google $40B Anthropic', '2026-04-26_01_google-commits-up-to-40b-investment-in-anthropic'],
+                ['Agent Commerce', '2026-04-26_02_anthropic-runs-agent-on-agent-commerce-experimen'],
+                ['DeepSeek V4', '2026-04-26_03_deepseek-v4-preview-released-longer-context-open'],
+                ['Asia AI Optimism', '2026-04-26_04_ai-optimism-surges-across-asia-while-americans-r'],
+                ['Healthcare AI', '2026-04-26_05_health-care-ai-is-proliferating-in-hospitals-but'],
+                ['Cohere-Aleph', '2026-04-26_06_cohere-merges-with-aleph-alpha-to-build-sovereig'],
+                ['Netflix VFX AI', '2026-04-26_07_netflix-s-ai-deal-with-ben-affleck-s-startup-thr'],
+                ['Deepfakes Crisis', '2026-04-26_08_deadly-deepfakes-in-conflict-zones-ai-generated'],
+                ['ComfyUI $30M', '2026-04-26_09_comfyui-raises-30m-at-500m-valuation-as-creators'],
+                ['E-Waste Crisis', '2026-04-26_10_ai-is-accelerating-the-global-e-waste-crisis-as']
+            ]
+        };
+
+        Object.entries(episodes).forEach(([div, eps], idx) => {
+            const container = document.getElementById(div);
+            eps.forEach((ep, i) => {
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <h3>#${i+1} ${ep[0]}</h3>
+                    <div class="links">
+                        <a href="episodes/${div}/${ep[1]}/agent_card.json">Agent Card</a>
+                        <a href="episodes/${div}/${ep[1]}/schema.jsonld">Schema</a>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        });
+    </script>
+</body>
+</html>

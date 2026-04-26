@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=6nxzdLY-hf0",
+      "embedUrl": "https://www.youtube.com/embed/6nxzdLY-hf0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6nxzdLY-hf0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India's IndiaAI Innovation Challenge 2026 Opens — Ministry of AYUSH and MSME Back First Two Problems",
+            "articleSection": "Policy & Rights",
+            "abstract": "IndiaAI has launched its Innovation Challenge 2026 — a competitive programme inviting startups and developers to submit market-deployed AI solutions that address real government problem statements. The first two partner ministries are the Ministry of AYUSH and the Ministry of MSME, targeting AI applications in traditional medicine, small business operations, and rural enterprise. Winners get pilots within government systems, not just prize money — a direct route from startup to national-scale deployment. This is India's version of using government as a customer and launchpad for AI companies that cannot afford the traditional enterprise sales cycle. For India's 63 million small businesses, AI tailored to their specific constraints and languages could be genuinely transformative.",
+            "url": "https://indiaai.gov.in/article/indiaai-innovation-challenge-2026",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "IndiaAI"
+              },
+              {
+                "@type": "Organization",
+                "name": "Ministry of AYUSH"
+              },
+              {
+                "@type": "Organization",
+                "name": "Ministry of MSME"
+              },
+              {
+                "@type": "Thing",
+                "name": "Agentic AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "Domain-Specific AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "Multilingual AI"
+              }
+            ],
+            "keywords": "IndiaAI, Ministry of AYUSH, Ministry of MSME, Agentic AI, Domain-Specific AI, Multilingual AI, MSME automation, Traditional medicine AI, Government AI procurement",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

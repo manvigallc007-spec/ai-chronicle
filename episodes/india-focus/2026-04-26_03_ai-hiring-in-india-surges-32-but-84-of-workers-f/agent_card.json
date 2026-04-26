@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-26",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=Rm0RgGcZg8k",
+  "thumbnail_url": "https://i.ytimg.com/vi/Rm0RgGcZg8k/maxresdefault.jpg",
+  "story": {
+    "title": "AI Hiring in India Surges 32% — But 84% of Workers Feel Unprepared for AI-Driven Jobs",
+    "pillar": "Job Evolution",
+    "summary": "AI-linked job postings in India are growing at 32 percent year-on-year in 2026, heading toward 380,000 open AI roles. AI skills now appear in 14 percent of all Indian job listings — up from 12.8 percent just three months ago. Bengaluru leads with 26 percent of all AI roles, but Hyderabad is growing fastest among Tier 1 cities, and Jaipur, Indore, and Mysuru are emerging as Tier 2 hotspots. The catch: 84 percent of Indian professionals say they feel unprepared to compete in this market, and for advanced roles like Generative AI Engineer, there may be as few as one qualified candidate for every ten open positions. The demand is real. The readiness is not.",
+    "source_url": "https://www.siliconindia.com/news/ai-hiring-surges-in-india-with-32-percent-growth-expected-in-2026-nwid-53129.html",
+    "source_name": "SiliconIndia / LinkedIn India / News9Live",
+    "companies": [
+      "LinkedIn India",
+      "Nasscom",
+      "Naukri"
+    ],
+    "technologies": [
+      "Generative AI",
+      "MLOps",
+      "Large Language Models"
+    ],
+    "use_cases": [
+      "AI talent hiring",
+      "Workforce upskilling",
+      "Skills gap measurement"
+    ]
+  }
+}

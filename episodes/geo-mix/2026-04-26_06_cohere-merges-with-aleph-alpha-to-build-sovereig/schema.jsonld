@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=FTxuMDVw9cs",
+      "embedUrl": "https://www.youtube.com/embed/FTxuMDVw9cs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FTxuMDVw9cs/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Cohere merges with Aleph Alpha to build sovereign AI alternative for European enterprises",
+            "articleSection": "Policy & Rights",
+            "abstract": "Canadian AI startup Cohere is acquiring Germany-based Aleph Alpha in a deal backed by Schwarz Group, the parent company of European retailer Lidl, with the explicit goal of offering a sovereign AI alternative to US-dominated providers for European enterprises. Both governments have signalled support for the transaction, framing it as a strategic move to reduce dependence on American AI infrastructure. The combined entity is expected to serve large enterprises seeking data sovereignty and compliance with EU AI and data regulations. Financial terms of the deal have not been fully disclosed.",
+            "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Cohere"
+              },
+              {
+                "@type": "Organization",
+                "name": "Aleph Alpha"
+              },
+              {
+                "@type": "Organization",
+                "name": "Schwarz Group"
+              },
+              {
+                "@type": "Organization",
+                "name": "Lidl"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "sovereign AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "enterprise AI"
+              }
+            ],
+            "keywords": "Cohere, Aleph Alpha, Schwarz Group, Lidl, large language models, sovereign AI, enterprise AI, EU data sovereignty compliance, enterprise AI deployment, non-US AI infrastructure",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

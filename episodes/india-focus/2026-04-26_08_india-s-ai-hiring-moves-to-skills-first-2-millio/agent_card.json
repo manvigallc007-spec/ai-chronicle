@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-26",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=O3zN59_DbxA",
+  "thumbnail_url": "https://i.ytimg.com/vi/O3zN59_DbxA/maxresdefault.jpg",
+  "story": {
+    "title": "India's AI Hiring Moves to Skills-First — 2 Million Already Upskilled, Tier 2 Cities Surge",
+    "pillar": "How to Evolve",
+    "summary": "India's hiring market is undergoing a structural shift in 2026: employers are moving from degree-first to skills-first, and AI fluency — the ability to use AI to deliver results that once took a team of three — is now the primary filter. Over 2 million Indian professionals have already completed formal AI upskilling. Demand for generative AI and LLM skills surged nearly 60 percent year-on-year. The geographic story is equally significant: while Bengaluru leads with 26 percent of AI roles, Jaipur, Indore, and Mysuru are emerging as genuine AI job hubs, not just Tier 1 overflow. For a fresh graduate in a Tier 2 city, the window to enter a high-demand field with a skills certificate — not a postgraduate degree — has never been more open.",
+    "source_url": "https://www.news9live.com/technology/artificial-intelligence/linkedin-ai-jobs-india-freshers-top-roles-2026-report-2957144",
+    "source_name": "News9Live / LinkedIn India / CrazeHQ",
+    "companies": [
+      "LinkedIn India",
+      "Nasscom",
+      "Google",
+      "Microsoft"
+    ],
+    "technologies": [
+      "Generative AI",
+      "Prompt Engineering",
+      "AI Agent Workflows"
+    ],
+    "use_cases": [
+      "Career transition to AI",
+      "Tier 2 city job growth",
+      "Skill certification"
+    ]
+  }
+}

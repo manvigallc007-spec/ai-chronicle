@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-26",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=80_oBfydapc",
+  "thumbnail_url": "https://i.ytimg.com/vi/80_oBfydapc/maxresdefault.jpg",
+  "story": {
+    "title": "Netflix's AI deal with Ben Affleck's startup threatens VFX jobs across India, South Korea, and Latin America",
+    "pillar": "Job Evolution",
+    "summary": "Netflix has acquired Interpositive, a VFX startup co-founded by actor Ben Affleck, whose AI technology automates the frame-by-frame visual effects work that is currently performed by large workforces of artists in India, South Korea, and Latin America. Rest of World reports that the deal could displace significant numbers of workers in countries where Hollywood studios have long outsourced labour-intensive post-production tasks at lower cost. The acquisition raises concerns not only about job losses but also about the cultural and creative autonomy of non-English-speaking VFX industries. No workforce impact figures have been officially confirmed by Netflix or Interpositive.",
+    "source_url": "https://restofworld.org/2026/netflix-interpositive-vfx-ai-automation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source_name": "Rest of World",
+    "companies": [
+      "Netflix",
+      "Interpositive"
+    ],
+    "technologies": [
+      "AI VFX automation",
+      "generative video AI",
+      "frame interpolation AI"
+    ],
+    "use_cases": [
+      "automated visual effects production",
+      "post-production AI",
+      "Hollywood content localisation"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-26",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=F2JhKfaCOHo",
+  "thumbnail_url": "https://i.ytimg.com/vi/F2JhKfaCOHo/maxresdefault.jpg",
+  "story": {
+    "title": "Google commits up to $40B investment in Anthropic for cash and compute capacity",
+    "pillar": "Daily Utility",
+    "summary": "Google has announced plans to invest up to $40 billion in AI safety company Anthropic, combining cash and compute resources in what would be one of the largest AI sector deals on record. The investment follows Anthropic's limited release of Mythos, a powerful model focused on cybersecurity applications. The deal signals that leading tech firms are racing to lock in massive infrastructure advantages as competition in frontier AI intensifies. This level of compute backing could directly shape which AI tools reach consumers and enterprises over the next several years.",
+    "source_url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Google",
+      "Anthropic"
+    ],
+    "technologies": [
+      "large language models",
+      "AI compute infrastructure",
+      "cybersecurity AI"
+    ],
+    "use_cases": [
+      "enterprise AI deployment",
+      "cybersecurity threat detection",
+      "AI model training at scale"
+    ]
+  }
+}

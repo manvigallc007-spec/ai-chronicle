@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Q15TrTBSi1s",
+      "embedUrl": "https://www.youtube.com/embed/Q15TrTBSi1s",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Q15TrTBSi1s/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Deadly deepfakes in conflict zones: AI-generated disinformation is putting civilians at risk globally",
+            "articleSection": "Policy & Rights",
+            "abstract": "Researcher Rachel Adams, writing for Rest of World, documents how AI-generated deepfakes are being deployed as weapons of disinformation in active conflict zones, directly undermining civilian safety by spreading false evacuation orders, fabricated atrocity footage, and fake official communications. The analysis highlights that the burden of AI-generated disinformation falls disproportionately on populations in the Global South, where platform moderation and AI detection tools are weakest. Adams calls out the role of Western technology companies in providing the infrastructure that enables this harm without adequate safeguards for non-Western users. The piece is an analytical essay rather than a breaking news report, drawing on documented cases from multiple conflict regions.",
+            "url": "https://restofworld.org/2026/deepfakes-ai-war-disinformation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "deepfakes"
+              },
+              {
+                "@type": "Thing",
+                "name": "generative AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI disinformation"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI content detection"
+              }
+            ],
+            "keywords": "deepfakes, generative AI, AI disinformation, AI content detection, conflict-zone disinformation, civilian safety communications, AI-generated propaganda",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

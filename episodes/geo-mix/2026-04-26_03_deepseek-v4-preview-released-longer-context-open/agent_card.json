@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-26",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=5SeB9iPAS2M",
+  "thumbnail_url": "https://i.ytimg.com/vi/5SeB9iPAS2M/maxresdefault.jpg",
+  "story": {
+    "title": "DeepSeek V4 preview released: longer context, open weights, and Huawei NPU support",
+    "pillar": "Discovery & Research",
+    "summary": "Chinese AI firm DeepSeek has released a preview of V4, its new flagship large language model, featuring significantly extended context windows enabled by a new architectural design for handling large amounts of text efficiently. Like its predecessors, V4 is open source and freely available, and it adds expanded support for Huawei's Ascend AI accelerator chips, reducing dependence on Nvidia hardware. MIT Technology Review identified three key reasons the model matters: its performance targets top proprietary models, its inference costs are a fraction of comparable systems, and its open-weights availability could shift global AI development dynamics. The model's preview status means full benchmarks have not yet been independently validated.",
+    "source_url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "source_name": "MIT Technology Review",
+    "companies": [
+      "DeepSeek",
+      "Huawei"
+    ],
+    "technologies": [
+      "large language models",
+      "open-weights AI",
+      "Huawei Ascend NPU",
+      "long-context architecture"
+    ],
+    "use_cases": [
+      "low-cost AI inference",
+      "open-source model deployment",
+      "enterprise AI on non-Nvidia hardware"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-26",
+  "rank": 9,
+  "video_url": "https://www.youtube.com/watch?v=O86F61DHVIY",
+  "thumbnail_url": "https://i.ytimg.com/vi/O86F61DHVIY/maxresdefault.jpg",
+  "story": {
+    "title": "ComfyUI raises $30M at $500M valuation as creators demand more control over AI-generated media",
+    "pillar": "How to Evolve",
+    "summary": "ComfyUI, a platform that gives creators granular control over AI-generated image, video, and audio output, has raised $30 million in new funding at a $500 million valuation. The round signals growing investor conviction that professional and semi-professional creators want fine-grained tools rather than fully automated black-box AI generators. ComfyUI's node-based workflow system has attracted a large open-source community before this funding round. The company plans to use the capital to expand its tooling and enterprise offering.",
+    "source_url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "ComfyUI"
+    ],
+    "technologies": [
+      "AI image generation",
+      "AI video generation",
+      "AI audio generation",
+      "node-based AI workflows"
+    ],
+    "use_cases": [
+      "professional creative production",
+      "AI media generation control",
+      "open-source AI tooling"
+    ]
+  }
+}

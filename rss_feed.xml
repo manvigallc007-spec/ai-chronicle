@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>The AI Chronicle — Daily AI News</title>
+    <link>https://theaichronicle.com</link>
+    <description>Top 10 AI stories every day — jobs, policy, research, tools. India Focus and International editions.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2026 20:04:17 +0000</lastBuildDate>
+    <generator>ai-chronicle/rss-builder</generator>
+    <atom:link href="https://theaichronicle.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sarvam AI Hits $1.5 Billion Valuation — Its... + 9 More AI Stories | AI Chronicle April 26, 2026</title>
+      <link>https://theaichronicle.com</link>
+      <description>Sarvam AI Hits $1.5 Billion Valuation — Its 105B-Parameter Model Now Rivals Global Giants</description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://theaichronicle.com/india-focus/2026-04-26</guid>
+      <dc:creator>india-focus</dc:creator>
+      <category>Discovery &amp; Research</category>
+      <category>Job Evolution</category>
+      <category>Policy &amp; Rights</category>
+      <category>Daily Utility</category>
+      <category>How to Evolve</category>
+      <category>Sarvam AI</category>
+      <category>Larsen &amp; Toubro</category>
+      <category>LinkedIn India</category>
+      <category>IndiaAI Mission</category>
+      <category>RBI</category>
+    </item>
+    <item>
+      <title>Google commits up to $40B investment in... | Top 10 AI News | AI Chronicle</title>
+      <link>https://theaichronicle.com</link>
+      <description>Google commits up to $40B investment in Anthropic for cash and compute capacity</description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://theaichronicle.com/geo-mix/2026-04-26</guid>
+      <dc:creator>geo-mix</dc:creator>
+      <category>Daily Utility</category>
+      <category>Discovery &amp; Research</category>
+      <category>Policy &amp; Rights</category>
+      <category>Job Evolution</category>
+      <category>How to Evolve</category>
+      <category>Google</category>
+      <category>Anthropic</category>
+      <category>DeepSeek</category>
+      <category>Cohere</category>
+      <category>Netflix</category>
+    </item>
+  </channel>
+</rss>

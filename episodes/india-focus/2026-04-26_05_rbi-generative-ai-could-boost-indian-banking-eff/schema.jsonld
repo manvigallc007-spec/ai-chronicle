@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=GpHe0mFXG08",
+      "embedUrl": "https://www.youtube.com/embed/GpHe0mFXG08",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GpHe0mFXG08/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "RBI: Generative AI Could Boost Indian Banking Efficiency by 46% — 90% of Banks Already Using It",
+            "articleSection": "Daily Utility",
+            "abstract": "The Reserve Bank of India has reported that generative AI could boost banking efficiency by up to 46 percent, with applications spanning compliance, fraud detection, credit scoring, and customer service. Nearly 90 percent of Indian banks, fintechs, and insurers have now integrated AI into their strategic plans, and 60 to 70 percent are actively using it in live operations. An April 2026 regulatory deadline is also in effect: every digital transaction must now include an additional authentication layer beyond OTP — a change that will push banks to deploy smarter, faster AI-based verification systems. India already leads the world in real-time payments. In 2026, the goal is to lead in intelligent payments where AI, biometric identity, and global interoperability converge.",
+            "url": "https://www.llrx.com/2026/04/ai-in-finance-and-banking-april-15-2026/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "RBI"
+              },
+              {
+                "@type": "Organization",
+                "name": "HDFC Bank"
+              },
+              {
+                "@type": "Organization",
+                "name": "Paytm"
+              },
+              {
+                "@type": "Organization",
+                "name": "PhonePe"
+              },
+              {
+                "@type": "Thing",
+                "name": "Generative AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "Biometric AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "Fraud Detection AI"
+              }
+            ],
+            "keywords": "RBI, HDFC Bank, Paytm, PhonePe, Generative AI, Biometric AI, Fraud Detection AI, Banking compliance automation, Credit risk AI, Real-time payment intelligence",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

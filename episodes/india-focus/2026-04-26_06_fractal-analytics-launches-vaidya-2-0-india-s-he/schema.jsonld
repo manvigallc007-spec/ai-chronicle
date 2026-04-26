@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=M3HJOd9czQ0",
+      "embedUrl": "https://www.youtube.com/embed/M3HJOd9czQ0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/M3HJOd9czQ0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Fractal Analytics Launches Vaidya 2.0 — India's Healthcare AI That Answers Symptoms in 22 Languages",
+            "articleSection": "Daily Utility",
+            "abstract": "Fractal Analytics has released Vaidya 2.0, a specialised healthcare AI model that allows patients in India to describe symptoms in any of 22 regional languages and receive safe, structured health guidance. The model is designed for deployment in primary health centres, ASHA worker programs, and rural telemedicine networks where doctors are scarce. India's AI healthcare market is projected to grow from $1.6 billion in 2025 to $34 billion by 2034, and the government has established three AI Centres of Excellence specifically for healthcare, agriculture, and sustainable cities. For a patient in rural Bihar or northeastern India who has never had easy access to a doctor, a multilingual AI health assistant is not a luxury — it is a first-responder.",
+            "url": "https://edunovations.com/currentaffairs/national/india-ai-impact-summit-2026-3/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Fractal Analytics"
+              },
+              {
+                "@type": "Organization",
+                "name": "Ministry of Health"
+              },
+              {
+                "@type": "Organization",
+                "name": "IndiaAI"
+              },
+              {
+                "@type": "Thing",
+                "name": "Healthcare AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "Multilingual NLP"
+              },
+              {
+                "@type": "Thing",
+                "name": "Clinical AI"
+              }
+            ],
+            "keywords": "Fractal Analytics, Ministry of Health, IndiaAI, Healthcare AI, Multilingual NLP, Clinical AI, Rural health diagnostics, Multilingual symptom triage, ASHA worker support",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

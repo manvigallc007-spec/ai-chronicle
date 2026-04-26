@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-26",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=dV_V5FJeKXA",
+  "thumbnail_url": "https://i.ytimg.com/vi/dV_V5FJeKXA/maxresdefault.jpg",
+  "story": {
+    "title": "India to Quintuple Its GPU Capacity to 100,000 by End of 2026 — L&T and Yotta Lead the Build",
+    "pillar": "Discovery & Research",
+    "summary": "India is executing one of the fastest sovereign AI infrastructure builds in the world. The country already has 38,000 GPUs deployed and has announced plans to expand to 100,000 by end of 2026 — a near-tripling in less than a year. Larsen & Toubro is building gigawatt-scale NVIDIA AI factories in Chennai and Mumbai. Yotta Data Services is constructing a $2 billion AI hub called Shakti Cloud powered by over 20,000 NVIDIA Blackwell Ultra GPUs. Companies at the India AI Summit committed $277 billion in investment over five to seven years. For any Indian developer, researcher, or startup that could not afford compute, access is about to get fundamentally easier.",
+    "source_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2229171&reg=3&lang=2",
+    "source_name": "PIB India / CNBC / NVIDIA Blog",
+    "companies": [
+      "Larsen & Toubro",
+      "Yotta Data Services",
+      "NVIDIA",
+      "IndiaAI Mission"
+    ],
+    "technologies": [
+      "NVIDIA Blackwell Ultra GPUs",
+      "AI Data Centers",
+      "Sovereign Cloud"
+    ],
+    "use_cases": [
+      "National AI compute access",
+      "Startup infrastructure",
+      "Sovereign AI training"
+    ]
+  }
+}

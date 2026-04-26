@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=QQy68PdBgBM",
+      "embedUrl": "https://www.youtube.com/embed/QQy68PdBgBM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QQy68PdBgBM/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "AI optimism surges across Asia while Americans remain sceptical and distrust regulators",
+            "articleSection": "Policy & Rights",
+            "abstract": "New research published by Rest of World shows a striking divergence in public attitudes toward AI: populations across Asia express significantly higher optimism about AI's benefits compared to Americans, who also report far lower trust in regulators to govern the technology responsibly. The findings suggest that cultural, economic, and governance contexts shape how societies receive and adopt AI, with potential long-term implications for where AI investment and talent flows. The survey did not specify which Asian countries were included or the sample sizes involved. These attitudinal gaps could influence how governments design AI policy and how companies prioritise regional market strategies.",
+            "url": "https://restofworld.org/2026/ai-optimism-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "AI public sentiment research"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI governance"
+              }
+            ],
+            "keywords": "AI public sentiment research, AI governance, regional AI policy design, cross-cultural AI adoption, regulator trust measurement",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

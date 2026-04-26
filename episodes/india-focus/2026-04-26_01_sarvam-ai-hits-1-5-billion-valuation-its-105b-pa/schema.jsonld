@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-26",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-26T00:00:00Z",
+      "datePublished": "2026-04-26T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=T2mAYr5gTh0",
+      "embedUrl": "https://www.youtube.com/embed/T2mAYr5gTh0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/T2mAYr5gTh0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-26",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Sarvam AI Hits $1.5 Billion Valuation — Its 105B-Parameter Model Now Rivals Global Giants",
+            "articleSection": "Discovery & Research",
+            "abstract": "Sarvam AI, India's sovereign AI startup founded in Bengaluru in 2023, is closing a $350 million funding round at a $1.5 billion valuation — making it one of the most valuable AI companies ever built in India. At the India AI Impact Summit in February 2026, Sarvam unveiled two large language models: Sarvam-30B and the flagship Sarvam-105B, a 105-billion parameter mixture-of-experts model with a 128,000-token context window capable of complex reasoning and enterprise tasks. Both models are optimised for Indian languages, edge deployment, and data sovereignty. India is no longer just consuming global AI — it is building frontier models that compete at the top of global benchmarks.",
+            "url": "https://restofworld.org/2026/india-frugal-ai-sarvam-krutrim-sovereign/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Sarvam AI"
+              },
+              {
+                "@type": "Organization",
+                "name": "Lightspeed"
+              },
+              {
+                "@type": "Organization",
+                "name": "Peak XV Partners"
+              },
+              {
+                "@type": "Organization",
+                "name": "Khosla Ventures"
+              },
+              {
+                "@type": "Thing",
+                "name": "Large Language Models"
+              },
+              {
+                "@type": "Thing",
+                "name": "Mixture of Experts"
+              },
+              {
+                "@type": "Thing",
+                "name": "Multilingual AI"
+              }
+            ],
+            "keywords": "Sarvam AI, Lightspeed, Peak XV Partners, Khosla Ventures, Large Language Models, Mixture of Experts, Multilingual AI, Sovereign AI deployment, Indian language understanding, Enterprise reasoning",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
