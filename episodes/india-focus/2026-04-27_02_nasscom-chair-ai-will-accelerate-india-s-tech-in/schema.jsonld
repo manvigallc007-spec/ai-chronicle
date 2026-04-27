@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-27",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-27T00:00:00Z",
+      "datePublished": "2026-04-27T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=gjqcww-oMKM",
+      "embedUrl": "https://www.youtube.com/embed/gjqcww-oMKM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gjqcww-oMKM/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-27",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "NASSCOM Chair: AI Will Accelerate India's Tech Industry, Not Replace Its Workforce",
+            "articleSection": "Job Evolution",
+            "abstract": "Newly appointed NASSCOM Chairman Srikanth Velamakanni has stated publicly that AI will act as an accelerator for India's technology sector rather than a threat to employment, affirming that the tech industry will continue hiring people. His remarks come at a critical juncture as India's IT sector faces twin pressures of geopolitical uncertainty and rapid AI-driven disruption. NASSCOM represents hundreds of Indian IT firms employing millions of workers, giving this leadership position significant weight in shaping industry and government narratives around AI and jobs.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/ai-to-accelerate-indias-tech-industry-not-a-threat-tech-to-continue-hiring-people-nasscom-chair/articleshow/130531908.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "NASSCOM"
+              },
+              {
+                "@type": "Thing",
+                "name": "artificial intelligence"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI automation"
+              },
+              {
+                "@type": "Thing",
+                "name": "IT services platforms"
+              }
+            ],
+            "keywords": "NASSCOM, artificial intelligence, AI automation, IT services platforms, workforce planning, AI-driven IT services, industry advocacy",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

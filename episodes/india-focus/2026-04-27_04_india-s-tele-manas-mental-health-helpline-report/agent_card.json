@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-27",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=ejy7GBQkM90",
+  "thumbnail_url": "https://i.ytimg.com/vi/ejy7GBQkM90/maxresdefault.jpg",
+  "story": {
+    "title": "India's Tele-MANAS Mental Health Helpline Reports Surge in Users Switching From AI to Human Counsellors",
+    "pillar": "Daily Utility",
+    "summary": "India's government-run Tele-MANAS mental health helpline is recording a notable rise in callers who initially interact with its AI interface but then request to be transferred to a human counsellor, indicating that AI falls short in delivering adequate mental health support. The trend raises important questions about the deployment of AI in sensitive healthcare settings where empathy and contextual understanding are critical. Tele-MANAS, launched by the Union Ministry of Health, was designed to expand mental health access across India using a tiered AI-plus-human model.",
+    "source_url": "https://www.thehindu.com/news/cities/Hyderabad/tele-manas-helpline-sees-rise-in-callers-turning-to-humans-after-ai-falls-short-on-mental-health/article70908591.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "Ministry of Health and Family Welfare",
+      "Tele-MANAS"
+    ],
+    "technologies": [
+      "AI mental health interface",
+      "conversational AI",
+      "human-AI hybrid helpline"
+    ],
+    "use_cases": [
+      "mental health support",
+      "AI triage in healthcare",
+      "government digital health services"
+    ]
+  }
+}

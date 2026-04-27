@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-27",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-27T00:00:00Z",
+      "datePublished": "2026-04-27T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=DKVgwwO077c",
+      "embedUrl": "https://www.youtube.com/embed/DKVgwwO077c",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DKVgwwO077c/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-27",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "MeitY Tightens AI Labelling Rules for India, Mandates Continuous Disclosure of AI-Generated Content",
+            "articleSection": "Policy & Rights",
+            "abstract": "India's Ministry of Electronics and Information Technology (MeitY) has issued updated regulations requiring platforms to apply continuous disclosure labels to AI-generated content, going beyond one-time labelling at upload. The new rules tighten accountability for platforms hosting synthetic media and are part of India's broader push to regulate AI outputs in public-facing digital spaces. This move follows growing global concern around AI-generated misinformation and deepfakes circulating on Indian social media platforms.",
+            "url": "https://www.medianama.com/2026/04/223-meity-ai-label-rules-mandates-continuous-disclosure/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "MeitY"
+              },
+              {
+                "@type": "Organization",
+                "name": "Government of India"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI content labelling"
+              },
+              {
+                "@type": "Thing",
+                "name": "synthetic media detection"
+              },
+              {
+                "@type": "Thing",
+                "name": "deepfake regulation"
+              }
+            ],
+            "keywords": "MeitY, Government of India, AI content labelling, synthetic media detection, deepfake regulation, AI transparency enforcement, consumer protection, platform accountability",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

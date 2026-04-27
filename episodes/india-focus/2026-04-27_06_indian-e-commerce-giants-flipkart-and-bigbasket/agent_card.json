@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-27",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=KSCzDc5jOFs",
+  "thumbnail_url": "https://i.ytimg.com/vi/KSCzDc5jOFs/maxresdefault.jpg",
+  "story": {
+    "title": "Indian E-Commerce Giants Flipkart and Bigbasket Build AI Storefronts to Enable Autonomous Shopping",
+    "pillar": "Daily Utility",
+    "summary": "Indian e-commerce majors Flipkart and Bigbasket are actively building AI-powered storefronts that enable agentic commerce, where AI agents can autonomously search for, order, and pay for products on behalf of users through platforms like ChatGPT. Indian fintechs have already built the payment rails required for this automated transaction model, and quick commerce and travel are identified as the leading sectors for early adoption. The shift represents a fundamental change in how Indian consumers may interact with online retail within the next few years.",
+    "source_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/platforms-brands-accelerate-agentic-commerce-push-as-fintechs-plug-payment-gaps/articleshow/130535589.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Flipkart",
+      "Bigbasket",
+      "OpenAI"
+    ],
+    "technologies": [
+      "agentic AI",
+      "AI storefronts",
+      "autonomous commerce",
+      "ChatGPT shopping agents"
+    ],
+    "use_cases": [
+      "autonomous online shopping",
+      "AI-driven e-commerce",
+      "fintech payment integration for AI agents"
+    ]
+  }
+}

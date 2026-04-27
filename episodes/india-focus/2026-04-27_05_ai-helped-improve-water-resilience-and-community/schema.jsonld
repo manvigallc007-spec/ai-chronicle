@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-27",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-27T00:00:00Z",
+      "datePublished": "2026-04-27T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=qOjT8Ri3qFM",
+      "embedUrl": "https://www.youtube.com/embed/qOjT8Ri3qFM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qOjT8Ri3qFM/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-27",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "AI Helped Improve Water Resilience and Community Development in Rajasthan's Last-Mile Villages",
+            "articleSection": "Discovery & Research",
+            "abstract": "A community development project in two Rajasthan districts used a lightweight AI application to strengthen water resilience and improve last-mile responsiveness among frontline government workers. The AI tool was designed to sit within existing large government programmes, enhancing local coordination and behaviour change without requiring heavy infrastructure. The project demonstrated that AI does not need to be large-scale or expensive to deliver meaningful impact in rural India.",
+            "url": "https://www.thehindu.com/sci-tech/energy-and-environment/how-ai-helped-promote-community-led-development-in-rajasthan/article70908118.ece",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "lightweight AI application"
+              },
+              {
+                "@type": "Thing",
+                "name": "community AI tools"
+              },
+              {
+                "@type": "Thing",
+                "name": "last-mile digital coordination"
+              }
+            ],
+            "keywords": "lightweight AI application, community AI tools, last-mile digital coordination, water resilience, community-led development, frontline worker support in rural India",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-27",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-27T00:00:00Z",
+      "datePublished": "2026-04-27T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=T0sSH97GW3A",
+      "embedUrl": "https://www.youtube.com/embed/T0sSH97GW3A",
+      "thumbnailUrl": "https://i.ytimg.com/vi/T0sSH97GW3A/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-27",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "RateGain Wins ET Emerging Company Award as AI-Powered Travel Intelligence Platform Scales Globally",
+            "articleSection": "How to Evolve",
+            "abstract": "Noida-based RateGain Travel Technologies has won the Economic Times Emerging Company of the Year award, recognised for its AI-driven platform that aggregates and analyses real-time data from over 1,100 sources to serve the global travel and hospitality industry. The company demonstrated strong post-pandemic revenue growth, maintained high client retention, and scaled rapidly to become one of India's leading B2B AI platforms for travel. RateGain's success illustrates how Indian AI startups can build globally competitive, specialised intelligence products.",
+            "url": "https://economictimes.indiatimes.com/tech/startups/et-awards-for-corporate-excellence-rategain-travel-technologies-wins-emerging-company-of-the-year-aided-by-ai-powered-growth/articleshow/130535827.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "RateGain Travel Technologies"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-powered travel intelligence"
+              },
+              {
+                "@type": "Thing",
+                "name": "real-time data aggregation"
+              },
+              {
+                "@type": "Thing",
+                "name": "B2B SaaS AI platform"
+              }
+            ],
+            "keywords": "RateGain Travel Technologies, AI-powered travel intelligence, real-time data aggregation, B2B SaaS AI platform, travel industry pricing intelligence, hospitality AI analytics, global B2B AI product scaling",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

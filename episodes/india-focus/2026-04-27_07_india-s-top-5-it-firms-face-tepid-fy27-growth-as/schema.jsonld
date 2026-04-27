@@ -1,0 +1,108 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-27",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-27T00:00:00Z",
+      "datePublished": "2026-04-27T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=TLxH37ILZ5Q",
+      "embedUrl": "https://www.youtube.com/embed/TLxH37ILZ5Q",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TLxH37ILZ5Q/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-27",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India's Top 5 IT Firms Face Tepid FY27 Growth as AI Pricing Pressure Compounds Geopolitical Headwinds",
+            "articleSection": "Job Evolution",
+            "abstract": "India's five largest IT services companies are forecasting modest revenue growth in FY27, squeezed between reduced client spending caused by geopolitical uncertainty and AI-driven price deflation in traditional IT services. While companies are maintaining stable margins through cost management, analysts warn that the benefits of new AI service lines have yet to materialise at scale. The subdued outlook has direct implications for hiring, salary growth, and the career trajectories of millions of Indian IT professionals.",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/tepid-fy27-revenue-growth-awaits-top-5-it-services-companies/articleshow/130536880.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "TCS"
+              },
+              {
+                "@type": "Organization",
+                "name": "Infosys"
+              },
+              {
+                "@type": "Organization",
+                "name": "Wipro"
+              },
+              {
+                "@type": "Organization",
+                "name": "HCL Technologies"
+              },
+              {
+                "@type": "Organization",
+                "name": "Tech Mahindra"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI services"
+              },
+              {
+                "@type": "Thing",
+                "name": "IT automation"
+              },
+              {
+                "@type": "Thing",
+                "name": "generative AI in enterprise"
+              }
+            ],
+            "keywords": "TCS, Infosys, Wipro, HCL Technologies, Tech Mahindra, AI services, IT automation, generative AI in enterprise, IT services revenue management, AI-driven cost deflation, workforce restructuring",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-27",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-27T00:00:00Z",
+      "datePublished": "2026-04-27T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=pHKqNuKFZDc",
+      "embedUrl": "https://www.youtube.com/embed/pHKqNuKFZDc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pHKqNuKFZDc/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-27",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "LTIMindtree CEO Says AI-Driven Cost Pressures Are Normal, Restructures Into Three Lines Including New Business AI Unit",
+            "articleSection": "Job Evolution",
+            "abstract": "LTIMindtree CEO Venu Lambu has publicly downplayed concerns about AI-led revenue deflation, framing current pricing pressures as a natural phase of market evolution that requires adaptation rather than alarm. The company is reorganising its service structure into three lines, with a newly created Business AI unit designed to capture emerging demand for enterprise AI services. Lambu identified execution as the central challenge for Indian IT firms navigating this generational shift in technology.",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/cost-pressures-part-of-normal-market-evolution-says-ltm-ceo/articleshow/130537042.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "LTIMindtree"
+              },
+              {
+                "@type": "Thing",
+                "name": "business AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "enterprise AI services"
+              },
+              {
+                "@type": "Thing",
+                "name": "IT service restructuring"
+              }
+            ],
+            "keywords": "LTIMindtree, business AI, enterprise AI services, IT service restructuring, AI-driven IT service delivery, corporate restructuring for AI, enterprise transformation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

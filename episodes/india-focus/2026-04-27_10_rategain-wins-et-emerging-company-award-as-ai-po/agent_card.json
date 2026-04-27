@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-27",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=T0sSH97GW3A",
+  "thumbnail_url": "https://i.ytimg.com/vi/T0sSH97GW3A/maxresdefault.jpg",
+  "story": {
+    "title": "RateGain Wins ET Emerging Company Award as AI-Powered Travel Intelligence Platform Scales Globally",
+    "pillar": "How to Evolve",
+    "summary": "Noida-based RateGain Travel Technologies has won the Economic Times Emerging Company of the Year award, recognised for its AI-driven platform that aggregates and analyses real-time data from over 1,100 sources to serve the global travel and hospitality industry. The company demonstrated strong post-pandemic revenue growth, maintained high client retention, and scaled rapidly to become one of India's leading B2B AI platforms for travel. RateGain's success illustrates how Indian AI startups can build globally competitive, specialised intelligence products.",
+    "source_url": "https://economictimes.indiatimes.com/tech/startups/et-awards-for-corporate-excellence-rategain-travel-technologies-wins-emerging-company-of-the-year-aided-by-ai-powered-growth/articleshow/130535827.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "RateGain Travel Technologies"
+    ],
+    "technologies": [
+      "AI-powered travel intelligence",
+      "real-time data aggregation",
+      "B2B SaaS AI platform"
+    ],
+    "use_cases": [
+      "travel industry pricing intelligence",
+      "hospitality AI analytics",
+      "global B2B AI product scaling"
+    ]
+  }
+}

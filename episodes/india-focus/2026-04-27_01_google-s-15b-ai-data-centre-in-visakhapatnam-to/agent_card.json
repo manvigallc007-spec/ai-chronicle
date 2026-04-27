@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-27",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=2ZRIEs91nzY",
+  "thumbnail_url": "https://i.ytimg.com/vi/2ZRIEs91nzY/maxresdefault.jpg",
+  "story": {
+    "title": "Google's $15B AI Data Centre in Visakhapatnam to Make India a Premier AI Hub in Asia",
+    "pillar": "Policy & Rights",
+    "summary": "Andhra Pradesh Chief Minister N Chandrababu Naidu will officially unveil Google's $15 billion AI data centre project in Visakhapatnam on April 28, 2026. The facility will carry a capacity of 1 gigawatt, one of the largest single AI infrastructure investments ever announced in Asia. The project is positioned to transform Visakhapatnam into a technology and AI hub with significant implications for jobs, digital infrastructure, and India's standing in the global AI race.",
+    "source_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/andhra-cm-naidu-to-launch-google-ai-data-centre-project-in-visakhapatnam/articleshow/130542451.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Google",
+      "Andhra Pradesh Government"
+    ],
+    "technologies": [
+      "AI data centre",
+      "1 GW compute infrastructure",
+      "cloud AI"
+    ],
+    "use_cases": [
+      "AI infrastructure buildout",
+      "regional technology hub development",
+      "digital economy expansion"
+    ]
+  }
+}

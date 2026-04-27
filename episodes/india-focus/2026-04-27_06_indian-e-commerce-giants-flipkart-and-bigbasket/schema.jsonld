@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-27",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-27T00:00:00Z",
+      "datePublished": "2026-04-27T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=KSCzDc5jOFs",
+      "embedUrl": "https://www.youtube.com/embed/KSCzDc5jOFs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KSCzDc5jOFs/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-27",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Indian E-Commerce Giants Flipkart and Bigbasket Build AI Storefronts to Enable Autonomous Shopping",
+            "articleSection": "Daily Utility",
+            "abstract": "Indian e-commerce majors Flipkart and Bigbasket are actively building AI-powered storefronts that enable agentic commerce, where AI agents can autonomously search for, order, and pay for products on behalf of users through platforms like ChatGPT. Indian fintechs have already built the payment rails required for this automated transaction model, and quick commerce and travel are identified as the leading sectors for early adoption. The shift represents a fundamental change in how Indian consumers may interact with online retail within the next few years.",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/platforms-brands-accelerate-agentic-commerce-push-as-fintechs-plug-payment-gaps/articleshow/130535589.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Flipkart"
+              },
+              {
+                "@type": "Organization",
+                "name": "Bigbasket"
+              },
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Thing",
+                "name": "agentic AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI storefronts"
+              },
+              {
+                "@type": "Thing",
+                "name": "autonomous commerce"
+              },
+              {
+                "@type": "Thing",
+                "name": "ChatGPT shopping agents"
+              }
+            ],
+            "keywords": "Flipkart, Bigbasket, OpenAI, agentic AI, AI storefronts, autonomous commerce, ChatGPT shopping agents, autonomous online shopping, AI-driven e-commerce, fintech payment integration for AI agents",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

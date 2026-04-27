@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-27",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-27T00:00:00Z",
+      "datePublished": "2026-04-27T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=NeHUn-jhY_Q",
+      "embedUrl": "https://www.youtube.com/embed/NeHUn-jhY_Q",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NeHUn-jhY_Q/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-27",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "HCL-Foxconn JV Picks Taiwanese Firm CTCI as EPC Partner for UP Semiconductor Plant Worth Rs 3,706 Crore",
+            "articleSection": "Discovery & Research",
+            "abstract": "The HCL-Foxconn joint venture has appointed Taiwanese engineering firm CTCI as its engineering, procurement, and construction partner for a Rs 3,706 crore semiconductor assembly and testing facility in Uttar Pradesh. The OSAT plant will manufacture display driver chips and marks CTCI's first entry into India's semiconductor ecosystem. The appointment advances India's ambition to build a domestic semiconductor supply chain and reduces reliance on chip imports.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/hcl-foxconn-selects-ctci-as-epc-partner-for-uttar-pradesh-semiconductor-facility/articleshow/130535718.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "HCL Technologies"
+              },
+              {
+                "@type": "Organization",
+                "name": "Foxconn"
+              },
+              {
+                "@type": "Organization",
+                "name": "CTCI"
+              },
+              {
+                "@type": "Thing",
+                "name": "OSAT semiconductor facility"
+              },
+              {
+                "@type": "Thing",
+                "name": "display driver chip manufacturing"
+              },
+              {
+                "@type": "Thing",
+                "name": "semiconductor assembly and testing"
+              }
+            ],
+            "keywords": "HCL Technologies, Foxconn, CTCI, OSAT semiconductor facility, display driver chip manufacturing, semiconductor assembly and testing, domestic chip manufacturing, semiconductor supply chain development, India electronics production",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

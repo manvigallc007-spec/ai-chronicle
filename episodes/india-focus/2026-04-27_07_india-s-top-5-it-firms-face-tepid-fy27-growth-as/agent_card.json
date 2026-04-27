@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-27",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=TLxH37ILZ5Q",
+  "thumbnail_url": "https://i.ytimg.com/vi/TLxH37ILZ5Q/maxresdefault.jpg",
+  "story": {
+    "title": "India's Top 5 IT Firms Face Tepid FY27 Growth as AI Pricing Pressure Compounds Geopolitical Headwinds",
+    "pillar": "Job Evolution",
+    "summary": "India's five largest IT services companies are forecasting modest revenue growth in FY27, squeezed between reduced client spending caused by geopolitical uncertainty and AI-driven price deflation in traditional IT services. While companies are maintaining stable margins through cost management, analysts warn that the benefits of new AI service lines have yet to materialise at scale. The subdued outlook has direct implications for hiring, salary growth, and the career trajectories of millions of Indian IT professionals.",
+    "source_url": "https://economictimes.indiatimes.com/tech/information-tech/tepid-fy27-revenue-growth-awaits-top-5-it-services-companies/articleshow/130536880.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "HCL Technologies",
+      "Tech Mahindra"
+    ],
+    "technologies": [
+      "AI services",
+      "IT automation",
+      "generative AI in enterprise"
+    ],
+    "use_cases": [
+      "IT services revenue management",
+      "AI-driven cost deflation",
+      "workforce restructuring"
+    ]
+  }
+}
