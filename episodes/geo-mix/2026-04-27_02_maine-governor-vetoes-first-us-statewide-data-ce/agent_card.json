@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-27",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=IIUHAHPrXzY",
+  "thumbnail_url": "https://i.ytimg.com/vi/IIUHAHPrXzY/maxresdefault.jpg",
+  "story": {
+    "title": "Maine governor vetoes first US statewide data center moratorium, clearing path for AI infrastructure",
+    "pillar": "Policy & Rights",
+    "summary": "Maine's governor vetoed L.D. 307, a bill that would have imposed the first statewide moratorium in the United States on new data center construction, pausing approvals until November 2027. The veto signals that state-level attempts to slow AI infrastructure buildout face significant executive resistance, even as communities raise concerns about energy use and land impact. The decision will likely influence similar legislative efforts underway in other states.",
+    "source_url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+    "source_name": "TechCrunch AI",
+    "companies": [],
+    "technologies": [
+      "data centers",
+      "AI compute infrastructure"
+    ],
+    "use_cases": [
+      "state AI infrastructure policy",
+      "energy regulation",
+      "land use governance"
+    ]
+  }
+}

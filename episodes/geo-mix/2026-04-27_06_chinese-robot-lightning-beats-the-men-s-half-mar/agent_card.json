@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-27",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=EkAu9U1ocio",
+  "thumbnail_url": "https://i.ytimg.com/vi/EkAu9U1ocio/maxresdefault.jpg",
+  "story": {
+    "title": "Chinese robot 'Lightning' beats the men's half-marathon world record in mixed human-robot race",
+    "pillar": "Discovery & Research",
+    "summary": "A Chinese humanoid robot named Lightning won China's second annual mixed human-robot half-marathon, completing the course in a time that surpassed the existing men's world record for the distance. The event, which saw robots and human runners compete on the same course, is part of China's broader national push to develop competitive humanoid robotics. The result is being cited by Chinese researchers as a milestone in bipedal locomotion and real-world robot endurance.",
+    "source_url": "https://www.sixthtone.com/news/1018442/Chinese Robot Runner Beats Men's Half-Marathon World Record",
+    "source_name": "Sixth Tone",
+    "companies": [],
+    "technologies": [
+      "humanoid robotics",
+      "bipedal locomotion",
+      "AI motion control"
+    ],
+    "use_cases": [
+      "competitive robotics",
+      "endurance performance benchmarking",
+      "humanoid robot development"
+    ]
+  }
+}

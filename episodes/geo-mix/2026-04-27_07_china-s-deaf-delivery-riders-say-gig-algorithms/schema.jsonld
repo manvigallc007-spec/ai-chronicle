@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-27",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-27T00:00:00Z",
+      "datePublished": "2026-04-27T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=bNxsC9iOBDk",
+      "embedUrl": "https://www.youtube.com/embed/bNxsC9iOBDk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bNxsC9iOBDk/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-27",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "China's deaf delivery riders say gig algorithms give them fairer treatment than human employers",
+            "articleSection": "Job Evolution",
+            "abstract": "A Sixth Tone investigation found that deaf and hard-of-hearing workers in China are increasingly gravitating to food delivery platforms, reporting that algorithm-driven dispatch systems treat them more equitably than human managers who may discriminate based on disability. While most gig workers describe algorithmic management as oppressive, deaf couriers say the system's indifference to identity is a form of fairness they rarely encountered in traditional employment. The story highlights how AI-driven labour platforms can have uneven and sometimes counterintuitive social effects.",
+            "url": "https://www.sixthtone.com/news/1018446/How China's Deaf Delivery Riders Find a New Life in Gig Work",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "algorithmic dispatch"
+              },
+              {
+                "@type": "Thing",
+                "name": "gig platform AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "labour management systems"
+              }
+            ],
+            "keywords": "algorithmic dispatch, gig platform AI, labour management systems, disability inclusion in gig economy, AI-managed workforce, platform labour equity",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

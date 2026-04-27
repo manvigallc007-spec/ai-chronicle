@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-27",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-27T00:00:00Z",
+      "datePublished": "2026-04-27T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-27",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Why AI alone cannot fix social problems: human capacity and institutions still essential, experts warn",
+            "articleSection": "How to Evolve",
+            "abstract": "A new analysis from Rest of World finds that AI deployments aimed at solving social challenges in lower-income countries consistently underperform when the surrounding human and institutional infrastructure is weak. Case studies from healthcare, agriculture, and public services across Africa, South Asia, and Latin America show that even technically sophisticated AI tools fail without trained local operators, reliable data pipelines, and accountable governance. Experts argue that framing AI as a shortcut to development goals is actively harmful when it diverts resources from capacity building.",
+            "url": "https://restofworld.org/2026/ai-social-good-humans/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "AI for social good"
+              },
+              {
+                "@type": "Thing",
+                "name": "machine learning deployment"
+              },
+              {
+                "@type": "Thing",
+                "name": "decision support systems"
+              }
+            ],
+            "keywords": "AI for social good, machine learning deployment, decision support systems, AI in healthcare, agricultural AI, public sector AI governance",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

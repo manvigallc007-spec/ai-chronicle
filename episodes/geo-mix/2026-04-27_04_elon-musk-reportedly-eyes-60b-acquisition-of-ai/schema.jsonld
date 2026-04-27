@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-27",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-27T00:00:00Z",
+      "datePublished": "2026-04-27T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=3BJ91UxLIA0",
+      "embedUrl": "https://www.youtube.com/embed/3BJ91UxLIA0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3BJ91UxLIA0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-27",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Elon Musk reportedly eyes $60B acquisition of AI coding tool Cursor as Apple names new CEO",
+            "articleSection": "Job Evolution",
+            "abstract": "Reports emerged that Elon Musk is exploring a $60 billion acquisition of Cursor, the AI-powered coding assistant, in a move that would represent one of the largest-ever purchases of an AI developer tool. Simultaneously, Apple confirmed that Tim Cook will step down as CEO in September, handing leadership to hardware chief John Ternus. Both stories signal major structural shifts in how AI is reshaping software development jobs and the strategies of the world's biggest tech companies.",
+            "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Cursor"
+              },
+              {
+                "@type": "Organization",
+                "name": "Anysphere"
+              },
+              {
+                "@type": "Organization",
+                "name": "Apple"
+              },
+              {
+                "@type": "Organization",
+                "name": "xAI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI coding assistants"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              }
+            ],
+            "keywords": "Cursor, Anysphere, Apple, xAI, AI coding assistants, large language models, software development automation, AI-assisted coding, developer productivity",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

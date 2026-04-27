@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-27",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-27T00:00:00Z",
+      "datePublished": "2026-04-27T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-27",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Global edtech funding collapses as investors pivot from K-12 apps to AI workforce training",
+            "articleSection": "Education & Youth",
+            "abstract": "Venture capital funding for K-12 education technology has dropped sharply worldwide, with investors redirecting capital toward AI-powered workforce training platforms that promise faster and more measurable returns. The shift is leaving school-focused edtech startups in emerging markets particularly exposed, as they had relied on international VC to reach underserved students. Rest of World's analysis shows the funding reorientation is accelerating a two-tier global education technology landscape.",
+            "url": "https://restofworld.org/2026/edtech-funding-collapse-k12-startups-ai-workforce/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "AI workforce training"
+              },
+              {
+                "@type": "Thing",
+                "name": "edtech platforms"
+              },
+              {
+                "@type": "Thing",
+                "name": "machine learning for education"
+              }
+            ],
+            "keywords": "AI workforce training, edtech platforms, machine learning for education, K-12 digital education, adult upskilling, emerging market edtech investment",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

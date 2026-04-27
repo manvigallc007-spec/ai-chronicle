@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-27",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=JMa8QxAqYlk",
+  "thumbnail_url": "https://i.ytimg.com/vi/JMa8QxAqYlk/maxresdefault.jpg",
+  "story": {
+    "title": "OpenAI CEO Sam Altman apologizes to Tumbler Ridge over failure to alert police before mass shooting",
+    "pillar": "Policy & Rights",
+    "summary": "OpenAI CEO Sam Altman issued a public letter to residents of Tumbler Ridge, Canada, expressing deep regret that his company did not alert law enforcement about a suspect who later carried out a mass shooting. The incident has reignited urgent debate about whether AI companies bear a duty of care when their systems surface evidence of imminent danger. The apology marks one of the most significant public admissions of responsibility by a frontier AI lab over real-world harm.",
+    "source_url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "OpenAI"
+    ],
+    "technologies": [
+      "large language models",
+      "AI safety monitoring"
+    ],
+    "use_cases": [
+      "threat detection",
+      "law enforcement notification",
+      "AI accountability"
+    ]
+  }
+}

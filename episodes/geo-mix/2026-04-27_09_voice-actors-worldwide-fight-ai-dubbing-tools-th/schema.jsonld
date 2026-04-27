@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-27",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-27T00:00:00Z",
+      "datePublished": "2026-04-27T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-27",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Voice actors worldwide fight AI dubbing tools that threaten jobs and local cultural identity",
+            "articleSection": "Job Evolution",
+            "abstract": "Voice-over and dubbing artists across non-English-speaking countries are organising against Hollywood studios and streaming platforms increasingly using AI voice synthesis to replace human performers. Beyond job losses, advocates warn that AI-generated dubbing trained on limited datasets strips local accents, idioms, and cultural nuance from localised content. The movement spans workers in Latin America, Southeast Asia, Eastern Europe, and the Middle East, making it one of the broadest AI labour disputes to emerge outside the United States.",
+            "url": "https://restofworld.org/2026/ai-voice-actors-hollywood-dubbing/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "AI voice synthesis"
+              },
+              {
+                "@type": "Thing",
+                "name": "automated dubbing"
+              },
+              {
+                "@type": "Thing",
+                "name": "text-to-speech"
+              }
+            ],
+            "keywords": "AI voice synthesis, automated dubbing, text-to-speech, media localisation, voice-over automation, cultural content adaptation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-27",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-27T00:00:00Z",
+      "datePublished": "2026-04-27T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=OSgVrw1hX6g",
+      "embedUrl": "https://www.youtube.com/embed/OSgVrw1hX6g",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OSgVrw1hX6g/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-27",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Mac mini sells out as demand for local AI model hardware surges, sparking eBay markup frenzy",
+            "articleSection": "Daily Utility",
+            "abstract": "Apple's Mac mini has sold out across major retail channels, with resellers listing units on eBay at significant markups as consumers race to acquire compact desktops capable of running local AI models. The shortage reflects a broader consumer shift toward on-device AI inference, driven partly by privacy concerns and the desire to avoid cloud subscription fees. Analysts note the Mac mini's unified memory architecture makes it unusually efficient for running large language models at home.",
+            "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Apple"
+              },
+              {
+                "@type": "Thing",
+                "name": "local AI inference"
+              },
+              {
+                "@type": "Thing",
+                "name": "unified memory architecture"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              }
+            ],
+            "keywords": "Apple, local AI inference, unified memory architecture, large language models, on-device AI, consumer AI hardware, local model hosting",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

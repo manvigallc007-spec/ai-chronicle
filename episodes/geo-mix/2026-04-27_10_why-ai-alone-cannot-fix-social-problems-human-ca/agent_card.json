@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-27",
+  "rank": 10,
+  "video_url": null,
+  "thumbnail_url": null,
+  "story": {
+    "title": "Why AI alone cannot fix social problems: human capacity and institutions still essential, experts warn",
+    "pillar": "How to Evolve",
+    "summary": "A new analysis from Rest of World finds that AI deployments aimed at solving social challenges in lower-income countries consistently underperform when the surrounding human and institutional infrastructure is weak. Case studies from healthcare, agriculture, and public services across Africa, South Asia, and Latin America show that even technically sophisticated AI tools fail without trained local operators, reliable data pipelines, and accountable governance. Experts argue that framing AI as a shortcut to development goals is actively harmful when it diverts resources from capacity building.",
+    "source_url": "https://restofworld.org/2026/ai-social-good-humans/",
+    "source_name": "Rest of World",
+    "companies": [],
+    "technologies": [
+      "AI for social good",
+      "machine learning deployment",
+      "decision support systems"
+    ],
+    "use_cases": [
+      "AI in healthcare",
+      "agricultural AI",
+      "public sector AI governance"
+    ]
+  }
+}
