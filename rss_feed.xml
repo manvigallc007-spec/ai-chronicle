@@ -1,66 +1,268 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
   <channel>
-    <title>The AI Chronicle — Daily AI News</title>
-    <link>https://theaichronicle.com</link>
-    <description>Top 10 AI stories every day — jobs, policy, research, tools. India Focus and International editions.</description>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2026 04:25:56 +0000</lastBuildDate>
-    <generator>ai-chronicle/rss-builder</generator>
-    <atom:link href="https://theaichronicle.com/rss.xml" rel="self" type="application/rss+xml" />
+    <title>The AI Chronicle</title>
+    <link>https://manvigallc007-spec.github.io/ai-chronicle/</link>
+    <description>Daily AI news — India focus and global mix</description>
+    <lastBuildDate>Tue, 28 Apr 2026 01:21:24 +0000</lastBuildDate>
     <item>
-      <title>Google's $15B AI Data Centre in... | Top 10 AI News | AI Chronicle</title>
-      <link>https://theaichronicle.com</link>
-      <description>Google's $15B AI Data Centre in Visakhapatnam to Make India a Premier AI Hub in Asia</description>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=T0sSH97GW3A</link>
+      <description></description>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://theaichronicle.com/india-focus/2026-04-27</guid>
-      <dc:creator>india-focus</dc:creator>
-      <category>Policy &amp; Rights</category>
-      <category>Job Evolution</category>
-      <category>Daily Utility</category>
-      <category>Discovery &amp; Research</category>
-      <category>How to Evolve</category>
-      <category>Google</category>
-      <category>NASSCOM</category>
-      <category>MeitY</category>
-      <category>Ministry of Health and Family Welfare</category>
-      <category>Flipkart</category>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=T0sSH97GW3A</guid>
     </item>
     <item>
-      <title>Sarvam AI Hits $1.5 Billion Valuation — Its... + 9 More AI Stories | AI Chronicle April 26, 2026</title>
-      <link>https://theaichronicle.com</link>
-      <description>Sarvam AI Hits $1.5 Billion Valuation — Its 105B-Parameter Model Now Rivals Global Giants</description>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://theaichronicle.com/india-focus/2026-04-26</guid>
-      <dc:creator>india-focus</dc:creator>
-      <category>Discovery &amp; Research</category>
-      <category>Job Evolution</category>
-      <category>Policy &amp; Rights</category>
-      <category>Daily Utility</category>
-      <category>How to Evolve</category>
-      <category>Sarvam AI</category>
-      <category>Larsen &amp; Toubro</category>
-      <category>LinkedIn India</category>
-      <category>IndiaAI Mission</category>
-      <category>RBI</category>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=NeHUn-jhY_Q</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=NeHUn-jhY_Q</guid>
     </item>
     <item>
-      <title>Google commits up to $40B investment in... | Top 10 AI News | AI Chronicle</title>
-      <link>https://theaichronicle.com</link>
-      <description>Google commits up to $40B investment in Anthropic for cash and compute capacity</description>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=pHKqNuKFZDc</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=pHKqNuKFZDc</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=TLxH37ILZ5Q</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=TLxH37ILZ5Q</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=KSCzDc5jOFs</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=KSCzDc5jOFs</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=qOjT8Ri3qFM</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=qOjT8Ri3qFM</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=ejy7GBQkM90</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ejy7GBQkM90</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=DKVgwwO077c</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=DKVgwwO077c</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=gjqcww-oMKM</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=gjqcww-oMKM</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=2ZRIEs91nzY</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=2ZRIEs91nzY</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=1L1eGKfpJ90</link>
+      <description></description>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://theaichronicle.com/geo-mix/2026-04-26</guid>
-      <dc:creator>geo-mix</dc:creator>
-      <category>Daily Utility</category>
-      <category>Discovery &amp; Research</category>
-      <category>Policy &amp; Rights</category>
-      <category>Job Evolution</category>
-      <category>How to Evolve</category>
-      <category>Google</category>
-      <category>Anthropic</category>
-      <category>DeepSeek</category>
-      <category>Cohere</category>
-      <category>Netflix</category>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=1L1eGKfpJ90</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=MkuhTRphPv8</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=MkuhTRphPv8</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=O3zN59_DbxA</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=O3zN59_DbxA</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=6nxzdLY-hf0</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=6nxzdLY-hf0</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=M3HJOd9czQ0</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=M3HJOd9czQ0</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=GpHe0mFXG08</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=GpHe0mFXG08</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=eWaFH7ChvHM</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=eWaFH7ChvHM</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=Rm0RgGcZg8k</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Rm0RgGcZg8k</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=dV_V5FJeKXA</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=dV_V5FJeKXA</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=T2mAYr5gTh0</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=T2mAYr5gTh0</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=bNxsC9iOBDk</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=bNxsC9iOBDk</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=EkAu9U1ocio</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=EkAu9U1ocio</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=bGlTNa-nCuI</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=bGlTNa-nCuI</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=3BJ91UxLIA0</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=3BJ91UxLIA0</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=OSgVrw1hX6g</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=OSgVrw1hX6g</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=IIUHAHPrXzY</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=IIUHAHPrXzY</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=JMa8QxAqYlk</link>
+      <description></description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=JMa8QxAqYlk</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=ZUFR3HHXnGw</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ZUFR3HHXnGw</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=O86F61DHVIY</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=O86F61DHVIY</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=Q15TrTBSi1s</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Q15TrTBSi1s</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=80_oBfydapc</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=80_oBfydapc</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=FTxuMDVw9cs</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=FTxuMDVw9cs</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=8mVWhhOL_gs</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=8mVWhhOL_gs</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=QQy68PdBgBM</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=QQy68PdBgBM</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=5SeB9iPAS2M</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=5SeB9iPAS2M</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=fBCYxAV-seI</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=fBCYxAV-seI</guid>
+    </item>
+    <item>
+      <title>AI Chronicle</title>
+      <link>https://www.youtube.com/watch?v=F2JhKfaCOHo</link>
+      <description></description>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=F2JhKfaCOHo</guid>
     </item>
   </channel>
 </rss>
