@@ -1,0 +1,165 @@
+{
+  "schema_version": "1.0",
+  "type": "ai-news-publisher",
+  "name": "The AI Chronicle",
+  "description": "Daily AI news briefings covering India and global AI developments. 10 stories per day, two divisions: india-focus and geo-mix.",
+  "url": "https://manvigallc007-spec.github.io/ai-chronicle/",
+  "rss_feed": "https://manvigallc007-spec.github.io/ai-chronicle/rss_feed.xml",
+  "sitemap": "https://manvigallc007-spec.github.io/ai-chronicle/sitemap.xml",
+  "youtube_channel": "https://www.youtube.com/@theaichronicle007-p8o",
+  "divisions": [
+    "india-focus",
+    "geo-mix"
+  ],
+  "update_frequency": "daily",
+  "language": "en",
+  "topics": [
+    "artificial intelligence",
+    "India AI",
+    "global AI",
+    "AI policy",
+    "AI startups"
+  ],
+  "recent_episodes": [
+    {
+      "title": "RateGain Wins ET Emerging Company Award as AI-Powered Travel Intelligence Platform Scales Globally",
+      "video_url": "https://www.youtube.com/watch?v=T0sSH97GW3A",
+      "date": "2026-04-27",
+      "division": "india-focus",
+      "pillar": "How to Evolve"
+    },
+    {
+      "title": "HCL-Foxconn JV Picks Taiwanese Firm CTCI as EPC Partner for UP Semiconductor Plant Worth Rs 3,706 Crore",
+      "video_url": "https://www.youtube.com/watch?v=NeHUn-jhY_Q",
+      "date": "2026-04-27",
+      "division": "india-focus",
+      "pillar": "Discovery & Research"
+    },
+    {
+      "title": "LTIMindtree CEO Says AI-Driven Cost Pressures Are Normal, Restructures Into Three Lines Including New Business AI Unit",
+      "video_url": "https://www.youtube.com/watch?v=pHKqNuKFZDc",
+      "date": "2026-04-27",
+      "division": "india-focus",
+      "pillar": "Job Evolution"
+    },
+    {
+      "title": "India's Top 5 IT Firms Face Tepid FY27 Growth as AI Pricing Pressure Compounds Geopolitical Headwinds",
+      "video_url": "https://www.youtube.com/watch?v=TLxH37ILZ5Q",
+      "date": "2026-04-27",
+      "division": "india-focus",
+      "pillar": "Job Evolution"
+    },
+    {
+      "title": "Indian E-Commerce Giants Flipkart and Bigbasket Build AI Storefronts to Enable Autonomous Shopping",
+      "video_url": "https://www.youtube.com/watch?v=KSCzDc5jOFs",
+      "date": "2026-04-27",
+      "division": "india-focus",
+      "pillar": "Daily Utility"
+    },
+    {
+      "title": "AI Helped Improve Water Resilience and Community Development in Rajasthan's Last-Mile Villages",
+      "video_url": "https://www.youtube.com/watch?v=qOjT8Ri3qFM",
+      "date": "2026-04-27",
+      "division": "india-focus",
+      "pillar": "Discovery & Research"
+    },
+    {
+      "title": "India's Tele-MANAS Mental Health Helpline Reports Surge in Users Switching From AI to Human Counsellors",
+      "video_url": "https://www.youtube.com/watch?v=ejy7GBQkM90",
+      "date": "2026-04-27",
+      "division": "india-focus",
+      "pillar": "Daily Utility"
+    },
+    {
+      "title": "MeitY Tightens AI Labelling Rules for India, Mandates Continuous Disclosure of AI-Generated Content",
+      "video_url": "https://www.youtube.com/watch?v=DKVgwwO077c",
+      "date": "2026-04-27",
+      "division": "india-focus",
+      "pillar": "Policy & Rights"
+    },
+    {
+      "title": "NASSCOM Chair: AI Will Accelerate India's Tech Industry, Not Replace Its Workforce",
+      "video_url": "https://www.youtube.com/watch?v=gjqcww-oMKM",
+      "date": "2026-04-27",
+      "division": "india-focus",
+      "pillar": "Job Evolution"
+    },
+    {
+      "title": "Google's $15B AI Data Centre in Visakhapatnam to Make India a Premier AI Hub in Asia",
+      "video_url": "https://www.youtube.com/watch?v=2ZRIEs91nzY",
+      "date": "2026-04-27",
+      "division": "india-focus",
+      "pillar": "Policy & Rights"
+    },
+    {
+      "title": "India Bets $277 Billion on AI Infrastructure — The Summit That Made India the World's AI Landlord",
+      "video_url": "https://www.youtube.com/watch?v=1L1eGKfpJ90",
+      "date": "2026-04-26",
+      "division": "india-focus",
+      "pillar": "Discovery & Research"
+    },
+    {
+      "title": "Krutrim's Bhashik Brings AI Voice Intelligence to 22 Indian Languages — Targets 500 Million Non-English Speakers",
+      "video_url": "https://www.youtube.com/watch?v=MkuhTRphPv8",
+      "date": "2026-04-26",
+      "division": "india-focus",
+      "pillar": "Daily Utility"
+    },
+    {
+      "title": "India's AI Hiring Moves to Skills-First — 2 Million Already Upskilled, Tier 2 Cities Surge",
+      "video_url": "https://www.youtube.com/watch?v=O3zN59_DbxA",
+      "date": "2026-04-26",
+      "division": "india-focus",
+      "pillar": "How to Evolve"
+    },
+    {
+      "title": "India's IndiaAI Innovation Challenge 2026 Opens — Ministry of AYUSH and MSME Back First Two Problems",
+      "video_url": "https://www.youtube.com/watch?v=6nxzdLY-hf0",
+      "date": "2026-04-26",
+      "division": "india-focus",
+      "pillar": "Policy & Rights"
+    },
+    {
+      "title": "Fractal Analytics Launches Vaidya 2.0 — India's Healthcare AI That Answers Symptoms in 22 Languages",
+      "video_url": "https://www.youtube.com/watch?v=M3HJOd9czQ0",
+      "date": "2026-04-26",
+      "division": "india-focus",
+      "pillar": "Daily Utility"
+    },
+    {
+      "title": "RBI: Generative AI Could Boost Indian Banking Efficiency by 46% — 90% of Banks Already Using It",
+      "video_url": "https://www.youtube.com/watch?v=GpHe0mFXG08",
+      "date": "2026-04-26",
+      "division": "india-focus",
+      "pillar": "Daily Utility"
+    },
+    {
+      "title": "91 Nations Sign India's New Delhi AI Declaration — Delhi Reframes Global AI From Risk to Impact",
+      "video_url": "https://www.youtube.com/watch?v=eWaFH7ChvHM",
+      "date": "2026-04-26",
+      "division": "india-focus",
+      "pillar": "Policy & Rights"
+    },
+    {
+      "title": "AI Hiring in India Surges 32% — But 84% of Workers Feel Unprepared for AI-Driven Jobs",
+      "video_url": "https://www.youtube.com/watch?v=Rm0RgGcZg8k",
+      "date": "2026-04-26",
+      "division": "india-focus",
+      "pillar": "Job Evolution"
+    },
+    {
+      "title": "India to Quintuple Its GPU Capacity to 100,000 by End of 2026 — L&T and Yotta Lead the Build",
+      "video_url": "https://www.youtube.com/watch?v=dV_V5FJeKXA",
+      "date": "2026-04-26",
+      "division": "india-focus",
+      "pillar": "Discovery & Research"
+    },
+    {
+      "title": "Sarvam AI Hits $1.5 Billion Valuation — Its 105B-Parameter Model Now Rivals Global Giants",
+      "video_url": "https://www.youtube.com/watch?v=T2mAYr5gTh0",
+      "date": "2026-04-26",
+      "division": "india-focus",
+      "pillar": "Discovery & Research"
+    }
+  ]
+}

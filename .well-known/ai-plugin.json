@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "The AI Chronicle",
+  "name_for_model": "ai_chronicle",
+  "description_for_human": "Daily AI news: top 10 stories from India and around the world.",
+  "description_for_model": "The AI Chronicle publishes daily AI news briefings. Two divisions: india-focus (Indian AI ecosystem) and geo-mix (global AI). Each episode covers 10 ranked AI stories with summaries, source URLs, companies, and technologies. Use the RSS feed or agent_card.json for structured access to episodes.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://manvigallc007-spec.github.io/ai-chronicle/agent_card.json"
+  },
+  "logo_url": "https://manvigallc007-spec.github.io/ai-chronicle/logo.png",
+  "contact_email": "manvigallc007@gmail.com",
+  "legal_info_url": "https://manvigallc007-spec.github.io/ai-chronicle/"
+}
