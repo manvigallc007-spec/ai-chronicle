@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-28",
+  "rank": 2,
+  "video_url": null,
+  "thumbnail_url": null,
+  "story": {
+    "title": "OpenAI and Microsoft end exclusivity: OpenAI free to sell on AWS in exchange for revenue-share deal",
+    "pillar": "Daily Utility",
+    "summary": "OpenAI has renegotiated its partnership with Microsoft, ending the cloud exclusivity that had previously required OpenAI products to run solely on Azure. OpenAI can now sell its services on Amazon Web Services as part of a $50 billion deal, while Microsoft receives a revenue-share arrangement in return. The amended agreement, which keeps Microsoft as a licensed partner until 2032, signals a significant shift in the cloud AI market with real competitive consequences for developers and enterprise customers.",
+    "source_url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "OpenAI",
+      "Microsoft",
+      "Amazon Web Services"
+    ],
+    "technologies": [
+      "cloud computing",
+      "large language models",
+      "AI APIs"
+    ],
+    "use_cases": [
+      "enterprise AI deployment",
+      "cloud AI infrastructure"
+    ]
+  }
+}

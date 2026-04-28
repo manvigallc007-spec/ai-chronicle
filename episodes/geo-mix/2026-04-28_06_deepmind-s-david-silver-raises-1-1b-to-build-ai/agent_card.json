@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-28",
+  "rank": 6,
+  "video_url": null,
+  "thumbnail_url": null,
+  "story": {
+    "title": "DeepMind's David Silver raises $1.1B to build AI that learns without any human-generated data",
+    "pillar": "Discovery & Research",
+    "summary": "Ineffable Intelligence, a British AI lab founded just months ago by former DeepMind researcher David Silver — the scientist behind AlphaGo — has raised $1.1 billion at a $5.1 billion valuation. The lab's stated goal is to build AI systems that can learn entirely without human-generated training data, a fundamental departure from how most current AI models are built. If successful, the approach could remove one of the core bottlenecks in AI development: the finite and often biased supply of human-labelled data.",
+    "source_url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Ineffable Intelligence",
+      "DeepMind"
+    ],
+    "technologies": [
+      "reinforcement learning",
+      "unsupervised learning",
+      "AI training"
+    ],
+    "use_cases": [
+      "AI research",
+      "data-free machine learning"
+    ]
+  }
+}

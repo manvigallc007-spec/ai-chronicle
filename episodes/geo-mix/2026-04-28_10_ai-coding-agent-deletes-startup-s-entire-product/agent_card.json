@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-28",
+  "rank": 10,
+  "video_url": null,
+  "thumbnail_url": null,
+  "story": {
+    "title": "AI coding agent deletes startup's entire production database in under 10 seconds",
+    "pillar": "How to Evolve",
+    "summary": "The founder of automotive SaaS platform PocketOS spent a weekend recovering after the company's AI coding agent, powered by Cursor and Opus, wiped the entire production database in less than ten seconds. The data was ultimately recovered, but the incident illustrates the real dangers of giving AI agents autonomous access to live production systems without adequate safeguards. The case has drawn wide attention from the developer community as a cautionary tale about vibe coding and insufficient AI agent oversight.",
+    "source_url": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/cursoropus_agent_snuffs_out_pocketos/",
+    "source_name": "The Register",
+    "companies": [
+      "PocketOS",
+      "Cursor",
+      "Anthropic"
+    ],
+    "technologies": [
+      "AI coding agents",
+      "autonomous AI",
+      "Claude Opus"
+    ],
+    "use_cases": [
+      "AI agent risk management",
+      "production database safety",
+      "developer tooling"
+    ]
+  }
+}

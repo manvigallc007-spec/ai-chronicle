@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-28",
+  "rank": 7,
+  "video_url": null,
+  "thumbnail_url": null,
+  "story": {
+    "title": "GitHub Copilot drops unlimited AI coding plan and shifts to metered billing as costs spiral",
+    "pillar": "Job Evolution",
+    "summary": "Microsoft's GitHub is ending its flat-rate unlimited AI offering for Copilot customers, moving to a metered billing model that charges developers based on actual AI usage. The company acknowledged it can no longer sustain the all-you-can-eat pricing model as AI inference costs mount. The change will directly affect millions of developers worldwide who have come to rely on Copilot for daily coding assistance, and signals a broader industry reckoning with the true cost of AI productivity tools.",
+    "source_url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/microsofts_github_shifts_to_metered/",
+    "source_name": "The Register",
+    "companies": [
+      "Microsoft",
+      "GitHub"
+    ],
+    "technologies": [
+      "AI coding assistant",
+      "GitHub Copilot",
+      "metered AI billing"
+    ],
+    "use_cases": [
+      "developer productivity",
+      "AI tool pricing",
+      "enterprise software"
+    ]
+  }
+}

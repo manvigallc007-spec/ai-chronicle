@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-28",
+  "rank": 4,
+  "video_url": null,
+  "thumbnail_url": null,
+  "story": {
+    "title": "China blocks Meta's $2B acquisition of AI agent startup Manus after months-long probe",
+    "pillar": "Policy & Rights",
+    "summary": "China's regulators have ordered Meta to unwind its $2 billion acquisition of Manus, a Chinese-founded AI agent startup, following a months-long antitrust probe. The decision marks a significant setback for Meta CEO Mark Zuckerberg's strategy to expand the company's AI agent capabilities. The move underscores the growing role of geopolitical rivalry in shaping who can own and control frontier AI companies.",
+    "source_url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Meta",
+      "Manus"
+    ],
+    "technologies": [
+      "AI agents",
+      "autonomous AI systems"
+    ],
+    "use_cases": [
+      "AI M&A regulation",
+      "cross-border tech acquisitions"
+    ]
+  }
+}

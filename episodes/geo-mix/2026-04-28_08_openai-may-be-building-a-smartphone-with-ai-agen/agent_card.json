@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-28",
+  "rank": 8,
+  "video_url": null,
+  "thumbnail_url": null,
+  "story": {
+    "title": "OpenAI may be building a smartphone with AI agents replacing apps, in talks with MediaTek and Qualcomm",
+    "pillar": "Daily Utility",
+    "summary": "Industry analyst Ming-Chi Kuo reports that OpenAI is in discussions with chipmakers MediaTek and Qualcomm, and manufacturer Luxshare, to develop a smartphone in which AI agents replace traditional apps. The device would represent a radical reimagining of how people interact with their phones, with autonomous AI performing tasks instead of discrete applications. OpenAI is also reported to be developing earbuds, suggesting a broader consumer hardware push beyond software and APIs.",
+    "source_url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "OpenAI",
+      "MediaTek",
+      "Qualcomm",
+      "Luxshare"
+    ],
+    "technologies": [
+      "AI agents",
+      "smartphone hardware",
+      "on-device AI"
+    ],
+    "use_cases": [
+      "consumer AI hardware",
+      "app replacement by AI agents"
+    ]
+  }
+}

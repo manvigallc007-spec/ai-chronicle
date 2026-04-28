@@ -1,0 +1,105 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-28",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-28T00:00:00Z",
+      "datePublished": "2026-04-28T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-28",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Sam Altman's World ID expands via Tinder, Zoom, and DocuSign despite bans in multiple countries",
+            "articleSection": "Policy & Rights",
+            "abstract": "Sam Altman's biometric identity project World ID has secured new partnerships with Tinder, Zoom, and DocuSign to verify users via iris scans, even as the project has been halted or investigated in multiple countries including Kenya, Spain, and South Korea. The US company partnerships signal a push to embed World ID into mainstream platforms, potentially normalising iris-based identity verification at scale. Critics argue the expansion contradicts the regulatory findings of countries that have found the data collection to be unlawful.",
+            "url": "https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "World"
+              },
+              {
+                "@type": "Organization",
+                "name": "Tinder"
+              },
+              {
+                "@type": "Organization",
+                "name": "Zoom"
+              },
+              {
+                "@type": "Organization",
+                "name": "DocuSign"
+              },
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Thing",
+                "name": "biometric identity"
+              },
+              {
+                "@type": "Thing",
+                "name": "iris scanning"
+              },
+              {
+                "@type": "Thing",
+                "name": "digital verification"
+              }
+            ],
+            "keywords": "World, Tinder, Zoom, DocuSign, OpenAI, biometric identity, iris scanning, digital verification, online identity verification, bot detection, biometric data regulation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-28",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-28T00:00:00Z",
+      "datePublished": "2026-04-28T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-28",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "GitHub Copilot drops unlimited AI coding plan and shifts to metered billing as costs spiral",
+            "articleSection": "Job Evolution",
+            "abstract": "Microsoft's GitHub is ending its flat-rate unlimited AI offering for Copilot customers, moving to a metered billing model that charges developers based on actual AI usage. The company acknowledged it can no longer sustain the all-you-can-eat pricing model as AI inference costs mount. The change will directly affect millions of developers worldwide who have come to rely on Copilot for daily coding assistance, and signals a broader industry reckoning with the true cost of AI productivity tools.",
+            "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/microsofts_github_shifts_to_metered/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Microsoft"
+              },
+              {
+                "@type": "Organization",
+                "name": "GitHub"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI coding assistant"
+              },
+              {
+                "@type": "Thing",
+                "name": "GitHub Copilot"
+              },
+              {
+                "@type": "Thing",
+                "name": "metered AI billing"
+              }
+            ],
+            "keywords": "Microsoft, GitHub, AI coding assistant, GitHub Copilot, metered AI billing, developer productivity, AI tool pricing, enterprise software",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
