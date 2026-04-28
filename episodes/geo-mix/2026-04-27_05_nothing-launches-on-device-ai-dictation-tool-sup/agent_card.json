@@ -5,8 +5,8 @@
   "edition": "geo-mix",
   "date": "2026-04-27",
   "rank": 5,
-  "video_url": "https://www.youtube.com/watch?v=bGlTNa-nCuI",
-  "thumbnail_url": "https://i.ytimg.com/vi/bGlTNa-nCuI/maxresdefault.jpg",
+  "video_url": null,
+  "thumbnail_url": null,
   "story": {
     "title": "Nothing launches on-device AI dictation tool supporting over 100 languages",
     "pillar": "Daily Utility",

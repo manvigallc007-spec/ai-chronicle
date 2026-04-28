@@ -33,10 +33,7 @@
       },
       "isFamilyFriendly": true,
       "inLanguage": "en",
-      "genre": "News",
-      "contentUrl": "https://www.youtube.com/watch?v=3BJ91UxLIA0",
-      "embedUrl": "https://www.youtube.com/embed/3BJ91UxLIA0",
-      "thumbnailUrl": "https://i.ytimg.com/vi/3BJ91UxLIA0/maxresdefault.jpg"
+      "genre": "News"
     },
     {
       "@type": "ItemList",
