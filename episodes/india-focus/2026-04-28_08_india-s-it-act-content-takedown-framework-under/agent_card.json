@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-28",
+  "rank": 8,
+  "video_url": null,
+  "thumbnail_url": null,
+  "story": {
+    "title": "India's IT Act Content Takedown Framework Under Scrutiny — Experts Warn of Digital Overreach Risk",
+    "pillar": "Policy & Rights",
+    "summary": "Draft amendments to India's Information Technology Rules are raising alarm among legal experts and civil society groups, who warn that proposed changes could enable sweeping government control over online speech and content removal. The amendments are seen as a departure from existing judicial precedents that had provided limited safeguards against arbitrary content takedowns. Critics argue the rules could disproportionately affect independent media, content creators, and ordinary users who have limited recourse when their content is removed without explanation.",
+    "source_url": "https://www.thehindu.com/opinion/op-ed/a-tightening-of-the-fist-in-indias-digital-public-square/article70913381.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [],
+    "technologies": [
+      "content moderation systems",
+      "AI-assisted takedowns",
+      "digital governance frameworks"
+    ],
+    "use_cases": [
+      "online content regulation",
+      "free speech protection",
+      "platform accountability in India"
+    ]
+  }
+}

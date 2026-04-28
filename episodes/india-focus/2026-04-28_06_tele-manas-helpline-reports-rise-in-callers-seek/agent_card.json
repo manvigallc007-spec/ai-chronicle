@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-28",
+  "rank": 6,
+  "video_url": null,
+  "thumbnail_url": null,
+  "story": {
+    "title": "Tele-MANAS Helpline Reports Rise in Callers Seeking Human Counsellors After AI Falls Short on Mental Health",
+    "pillar": "Daily Utility",
+    "summary": "India's government-run Tele-MANAS mental health helpline has recorded an increase in callers who specifically request to be transferred to a human counsellor after initially interacting with an AI-assisted triage system. The trend highlights a growing awareness among users that AI tools, while helpful for routing and basic information, are perceived as inadequate for substantive emotional support in crisis situations. The data raises important questions about the appropriate boundaries of AI deployment in public health and social care settings in India.",
+    "source_url": "https://www.thehindu.com/news/cities/Hyderabad/tele-manas-helpline-sees-rise-in-callers-turning-to-humans-after-ai-falls-short-on-mental-health/article70908591.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "Tele-MANAS"
+    ],
+    "technologies": [
+      "AI triage",
+      "mental health AI",
+      "conversational AI"
+    ],
+    "use_cases": [
+      "mental health helpline triage",
+      "AI in public health",
+      "human-AI handoff in crisis support"
+    ]
+  }
+}

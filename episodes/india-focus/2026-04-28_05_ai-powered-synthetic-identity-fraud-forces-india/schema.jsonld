@@ -1,0 +1,89 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-28",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-28T00:00:00Z",
+      "datePublished": "2026-04-28T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-28",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "AI-Powered Synthetic Identity Fraud Forces India's Digital Lenders to Rethink Underwriting From Scratch",
+            "articleSection": "Policy & Rights",
+            "abstract": "As digital lending scales rapidly across India, AI-generated synthetic identities are emerging as the primary fraud vector, no longer a downstream risk but a core underwriting challenge. Fraudsters are using generative AI to fabricate convincing identity documents, credit histories, and behavioral profiles that defeat traditional KYC checks. Indian fintech lenders are being forced to adopt AI-native fraud detection systems that can identify synthetic patterns at the application stage rather than after disbursement.",
+            "url": "https://yourstory.com/2026/04/jamtara-was-just-the-trailer-fraud-runs-on-ai-now",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "generative AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "synthetic identity fraud"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-driven KYC"
+              },
+              {
+                "@type": "Thing",
+                "name": "digital lending platforms"
+              }
+            ],
+            "keywords": "generative AI, synthetic identity fraud, AI-driven KYC, digital lending platforms, fraud detection in digital lending, AI-powered identity verification, underwriting risk management",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

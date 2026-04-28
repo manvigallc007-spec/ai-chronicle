@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-28",
+  "rank": 1,
+  "video_url": null,
+  "thumbnail_url": null,
+  "story": {
+    "title": "Claude Mythos Puts India on Alert: CERT-In, Banks and Telcos Assess Unprecedented Zero-Day Cyber Risks",
+    "pillar": "Policy & Rights",
+    "summary": "Anthropic's Claude Mythos Preview AI model has identified thousands of zero-day vulnerabilities in widely used web browsers and operating systems, triggering a national security response in India. CERT-In, major banks, and telecom operators including Airtel and Vi have been activated to assess their exposure to the newly discovered attack surface. The development signals that AI-powered vulnerability discovery has reached a scale where traditional patch-and-respond security cycles may no longer be adequate for Indian enterprises and critical infrastructure.",
+    "source_url": "https://www.medianama.com/2026/04/223-claude-mythos-india-cert-in-telcos-banks-cyber-risks/",
+    "source_name": "Medianama",
+    "companies": [
+      "Anthropic",
+      "Airtel",
+      "Vi"
+    ],
+    "technologies": [
+      "Claude Mythos",
+      "zero-day vulnerability detection",
+      "AI-powered cybersecurity"
+    ],
+    "use_cases": [
+      "national cybersecurity threat assessment",
+      "enterprise vulnerability management",
+      "critical infrastructure protection"
+    ]
+  }
+}

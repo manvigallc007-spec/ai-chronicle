@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-28",
+  "rank": 7,
+  "video_url": null,
+  "thumbnail_url": null,
+  "story": {
+    "title": "AI Demand Spikes in India's R&D: Bettrlabs Digitises Consumer Product Development, Bengaluru Leads AI Hiring",
+    "pillar": "Job Evolution",
+    "summary": "Indian deeptech startup Bettrlabs has built an AI-powered R&D platform that digitises product formulation for consumer brands, enabling companies to move from idea to market-ready product significantly faster and without heavy investment in physical laboratory infrastructure. Separately, data cited in the same report shows Bengaluru has emerged as the top city for AI talent hiring in India, followed by Hyderabad, with Tier 2 cities now showing meaningful growth in AI job demand for the first time. The convergence of AI-native R&D tools and a broadening talent base signals an acceleration of India's applied AI economy beyond software into physical product sectors.",
+    "source_url": "https://yourstory.com/2026/04/-ai-powered-rd-platform-for-consumer-products-",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "Bettrlabs"
+    ],
+    "technologies": [
+      "AI-powered R&D platform",
+      "product formulation AI",
+      "AI talent hiring analytics"
+    ],
+    "use_cases": [
+      "consumer product development acceleration",
+      "AI in FMCG R&D",
+      "AI talent market analysis"
+    ]
+  }
+}

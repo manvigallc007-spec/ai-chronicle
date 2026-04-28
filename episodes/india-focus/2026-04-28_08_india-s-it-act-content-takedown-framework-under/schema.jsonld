@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-28",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-28T00:00:00Z",
+      "datePublished": "2026-04-28T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-28",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India's IT Act Content Takedown Framework Under Scrutiny — Experts Warn of Digital Overreach Risk",
+            "articleSection": "Policy & Rights",
+            "abstract": "Draft amendments to India's Information Technology Rules are raising alarm among legal experts and civil society groups, who warn that proposed changes could enable sweeping government control over online speech and content removal. The amendments are seen as a departure from existing judicial precedents that had provided limited safeguards against arbitrary content takedowns. Critics argue the rules could disproportionately affect independent media, content creators, and ordinary users who have limited recourse when their content is removed without explanation.",
+            "url": "https://www.thehindu.com/opinion/op-ed/a-tightening-of-the-fist-in-indias-digital-public-square/article70913381.ece",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "content moderation systems"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-assisted takedowns"
+              },
+              {
+                "@type": "Thing",
+                "name": "digital governance frameworks"
+              }
+            ],
+            "keywords": "content moderation systems, AI-assisted takedowns, digital governance frameworks, online content regulation, free speech protection, platform accountability in India",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

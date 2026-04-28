@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-28",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-28T00:00:00Z",
+      "datePublished": "2026-04-28T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-28",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Claude Mythos Puts India on Alert: CERT-In, Banks and Telcos Assess Unprecedented Zero-Day Cyber Risks",
+            "articleSection": "Policy & Rights",
+            "abstract": "Anthropic's Claude Mythos Preview AI model has identified thousands of zero-day vulnerabilities in widely used web browsers and operating systems, triggering a national security response in India. CERT-In, major banks, and telecom operators including Airtel and Vi have been activated to assess their exposure to the newly discovered attack surface. The development signals that AI-powered vulnerability discovery has reached a scale where traditional patch-and-respond security cycles may no longer be adequate for Indian enterprises and critical infrastructure.",
+            "url": "https://www.medianama.com/2026/04/223-claude-mythos-india-cert-in-telcos-banks-cyber-risks/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Anthropic"
+              },
+              {
+                "@type": "Organization",
+                "name": "Airtel"
+              },
+              {
+                "@type": "Organization",
+                "name": "Vi"
+              },
+              {
+                "@type": "Thing",
+                "name": "Claude Mythos"
+              },
+              {
+                "@type": "Thing",
+                "name": "zero-day vulnerability detection"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-powered cybersecurity"
+              }
+            ],
+            "keywords": "Anthropic, Airtel, Vi, Claude Mythos, zero-day vulnerability detection, AI-powered cybersecurity, national cybersecurity threat assessment, enterprise vulnerability management, critical infrastructure protection",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

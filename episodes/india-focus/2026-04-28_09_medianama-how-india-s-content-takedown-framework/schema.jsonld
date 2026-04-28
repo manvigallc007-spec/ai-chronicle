@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-28",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-28T00:00:00Z",
+      "datePublished": "2026-04-28T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-28",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Medianama: How India's Content Takedown Framework Was Built — and Where It Has Gone Wrong",
+            "articleSection": "Policy & Rights",
+            "abstract": "Digital policy analyst Rakesh Maheshwari has provided a detailed breakdown of how India's IT Act Section 79(3)(b) content takedown framework was constructed, identifying systemic gaps including the absence of meaningful user safeguards, risks of misuse by state and non-state actors, and the legally contentious three-hour takedown rule. The analysis also flags how binding government advisories to platforms are reshaping online speech norms without going through formal legislative processes. The piece comes as India faces concurrent scrutiny over its handling of content moderation across social media, streaming platforms, and news aggregators.",
+            "url": "https://www.medianama.com/2026/04/223-indias-content-takedown-framework-built-gone-wrong-nama/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "automated content moderation"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-assisted platform governance"
+              }
+            ],
+            "keywords": "automated content moderation, AI-assisted platform governance, online speech regulation, government content takedown powers, platform liability in India",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

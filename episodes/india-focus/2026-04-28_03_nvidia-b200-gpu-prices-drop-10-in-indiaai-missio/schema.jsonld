@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-28",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-28T00:00:00Z",
+      "datePublished": "2026-04-28T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-28",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Nvidia B200 GPU Prices Drop 10% in IndiaAI Mission Tender Amid Aggressive Bidding by Cloud Providers",
+            "articleSection": "Discovery & Research",
+            "abstract": "Nvidia's flagship B200 GPU has seen a 10% price reduction in India's government-run IndiaAI Mission compute tenders, driven by aggressive competitive bidding among cloud and compute service providers vying for the contract. The price drop makes advanced AI compute more accessible for Indian researchers and startups under the national AI infrastructure programme. However, senior industry executives have cautioned that the discount may not be sustainable given rising global GPU costs and a weakening Indian rupee.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-b200-gpu-prices-fall-10-in-indiaai-tender/articleshow/130560510.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Nvidia"
+              },
+              {
+                "@type": "Organization",
+                "name": "IndiaAI Mission"
+              },
+              {
+                "@type": "Thing",
+                "name": "B200 GPU"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI compute infrastructure"
+              },
+              {
+                "@type": "Thing",
+                "name": "cloud computing"
+              }
+            ],
+            "keywords": "Nvidia, IndiaAI Mission, B200 GPU, AI compute infrastructure, cloud computing, national AI compute provisioning, GPU procurement for AI research, cloud infrastructure tendering",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

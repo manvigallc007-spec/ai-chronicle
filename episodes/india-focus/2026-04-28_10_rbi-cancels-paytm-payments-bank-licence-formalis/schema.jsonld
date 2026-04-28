@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-28",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-28T00:00:00Z",
+      "datePublished": "2026-04-28T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-28",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "RBI Cancels Paytm Payments Bank Licence — Formalising Shutdown After Years of Compliance Failures",
+            "articleSection": "Policy & Rights",
+            "abstract": "The Reserve Bank of India has formally cancelled the banking licence of Paytm Payments Bank, bringing to a close a years-long regulatory saga involving repeated compliance lapses, KYC violations, and failed attempts to revive the institution's standing with the central bank. The cancellation formalises the effective operational shutdown that had already been enforced through earlier RBI restrictions, ending Paytm Payments Bank's ability to legally operate as a banking entity in India. The development has significant implications for the broader Indian fintech sector as a signal that regulatory compliance is non-negotiable even for high-profile, well-funded technology companies.",
+            "url": "https://www.medianama.com/2026/04/223-explained-rbi-cancel-paytms-banking-licence/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Paytm Payments Bank"
+              },
+              {
+                "@type": "Organization",
+                "name": "One97 Communications"
+              },
+              {
+                "@type": "Organization",
+                "name": "Reserve Bank of India"
+              },
+              {
+                "@type": "Thing",
+                "name": "digital payments infrastructure"
+              },
+              {
+                "@type": "Thing",
+                "name": "KYC compliance systems"
+              },
+              {
+                "@type": "Thing",
+                "name": "fintech banking platforms"
+              }
+            ],
+            "keywords": "Paytm Payments Bank, One97 Communications, Reserve Bank of India, digital payments infrastructure, KYC compliance systems, fintech banking platforms, digital banking regulation, payments bank compliance, fintech regulatory enforcement",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

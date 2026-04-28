@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-28",
+  "rank": 4,
+  "video_url": null,
+  "thumbnail_url": null,
+  "story": {
+    "title": "Wispr Flow Launches in India With Hinglish Support and Android App — Already India's Second-Largest Market",
+    "pillar": "Daily Utility",
+    "summary": "AI-powered voice-to-text startup Wispr Flow has officially launched in India, introducing dedicated Hinglish language support and releasing an Android app tailored for the Indian market. India had already become the company's second-largest market globally before the official launch, with user growth tripling organically in recent months. The company is also running an offline awareness campaign using branded auto-rickshaws in Bengaluru to reach commuters and non-technical users.",
+    "source_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/wispr-flow-launches-in-india-offers-hinglish-and-android-app-support/articleshow/130562780.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Wispr Flow"
+    ],
+    "technologies": [
+      "voice-to-text AI",
+      "Hinglish NLP",
+      "Android AI app"
+    ],
+    "use_cases": [
+      "multilingual voice dictation",
+      "AI productivity tools for Indian users",
+      "vernacular language AI input"
+    ]
+  }
+}

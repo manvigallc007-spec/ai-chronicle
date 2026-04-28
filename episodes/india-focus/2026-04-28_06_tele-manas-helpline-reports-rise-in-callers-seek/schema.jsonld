@@ -1,0 +1,89 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-28",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-28T00:00:00Z",
+      "datePublished": "2026-04-28T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-28",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Tele-MANAS Helpline Reports Rise in Callers Seeking Human Counsellors After AI Falls Short on Mental Health",
+            "articleSection": "Daily Utility",
+            "abstract": "India's government-run Tele-MANAS mental health helpline has recorded an increase in callers who specifically request to be transferred to a human counsellor after initially interacting with an AI-assisted triage system. The trend highlights a growing awareness among users that AI tools, while helpful for routing and basic information, are perceived as inadequate for substantive emotional support in crisis situations. The data raises important questions about the appropriate boundaries of AI deployment in public health and social care settings in India.",
+            "url": "https://www.thehindu.com/news/cities/Hyderabad/tele-manas-helpline-sees-rise-in-callers-turning-to-humans-after-ai-falls-short-on-mental-health/article70908591.ece",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Tele-MANAS"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI triage"
+              },
+              {
+                "@type": "Thing",
+                "name": "mental health AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "conversational AI"
+              }
+            ],
+            "keywords": "Tele-MANAS, AI triage, mental health AI, conversational AI, mental health helpline triage, AI in public health, human-AI handoff in crisis support",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
