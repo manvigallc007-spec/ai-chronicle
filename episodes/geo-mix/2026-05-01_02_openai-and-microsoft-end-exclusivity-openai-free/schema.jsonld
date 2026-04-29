@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-01",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-01T00:00:00Z",
+      "datePublished": "2026-05-01T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=hwJaEVAgYR0",
+      "embedUrl": "https://www.youtube.com/embed/hwJaEVAgYR0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hwJaEVAgYR0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-01",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "OpenAI and Microsoft end exclusivity: OpenAI free to sell on AWS in exchange for revenue-share deal",
+            "articleSection": "Daily Utility",
+            "abstract": "OpenAI has secured major concessions from its largest investor Microsoft, dissolving the exclusive cloud-hosting arrangement and allowing OpenAI to sell its products on Amazon Web Services. In return, Microsoft receives an expanded revenue-share agreement, and OpenAI models including a new agent service became available on AWS Bedrock within 24 hours of the deal being announced. The move marks a fundamental shift in the cloud AI landscape, opening OpenAI's technology to a far broader base of enterprise customers.",
+            "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Organization",
+                "name": "Microsoft"
+              },
+              {
+                "@type": "Organization",
+                "name": "Amazon"
+              },
+              {
+                "@type": "Organization",
+                "name": "AWS"
+              },
+              {
+                "@type": "Thing",
+                "name": "AWS Bedrock"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI agents"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              }
+            ],
+            "keywords": "OpenAI, Microsoft, Amazon, AWS, AWS Bedrock, AI agents, large language models, enterprise AI deployment, cloud AI inference, AI agent services",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

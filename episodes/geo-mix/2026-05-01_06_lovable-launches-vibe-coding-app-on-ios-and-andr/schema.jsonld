@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-01",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-01T00:00:00Z",
+      "datePublished": "2026-05-01T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=0oOBK6oyF9g",
+      "embedUrl": "https://www.youtube.com/embed/0oOBK6oyF9g",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0oOBK6oyF9g/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-01",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Lovable launches vibe-coding app on iOS and Android, bringing AI web development to mobile",
+            "articleSection": "How to Evolve",
+            "abstract": "Lovable has launched its AI-powered 'vibe coding' application on both iOS and Android, allowing developers and non-technical users to build web apps and websites directly from a mobile device using natural language prompts. The app extends Lovable's browser-based platform to mobile, targeting a fast-growing segment of developers who want to prototype and build on the go. The launch reflects a broader industry trend of making AI-assisted software creation accessible without traditional coding skills.",
+            "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Lovable"
+              },
+              {
+                "@type": "Thing",
+                "name": "vibe coding"
+              },
+              {
+                "@type": "Thing",
+                "name": "natural language programming"
+              },
+              {
+                "@type": "Thing",
+                "name": "mobile AI development"
+              }
+            ],
+            "keywords": "Lovable, vibe coding, natural language programming, mobile AI development, mobile app-building, no-code web development, AI-assisted prototyping",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

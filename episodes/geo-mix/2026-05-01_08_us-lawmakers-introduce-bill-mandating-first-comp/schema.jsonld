@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-01",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-01T00:00:00Z",
+      "datePublished": "2026-05-01T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=_fuVjymBi9Y",
+      "embedUrl": "https://www.youtube.com/embed/_fuVjymBi9Y",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_fuVjymBi9Y/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-01",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "US lawmakers introduce bill mandating first comprehensive State Department assessment of China's AI capabilities",
+            "articleSection": "Policy & Rights",
+            "abstract": "US lawmakers have unveiled a draft bill that would, for the first time, require the State Department to deliver a comprehensive report to Congress on China's AI development, including progress on autonomous capabilities benchmarked against international standards and identification of key Chinese AI leaders. The bill reflects escalating concern in Washington about the pace and ambition of China's AI programme following the release of DeepSeek V4 and advances by labs including Alibaba, Baidu, and ByteDance. If passed, it would formalise the US government's China AI intelligence-gathering framework.",
+            "url": "https://www.scmp.com/news/us/politics/article/3351764/us-draft-bill-targets-beijings-ai-rise-mandate-name-chinas-tech-leaders",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "DeepSeek"
+              },
+              {
+                "@type": "Organization",
+                "name": "Alibaba"
+              },
+              {
+                "@type": "Organization",
+                "name": "Baidu"
+              },
+              {
+                "@type": "Organization",
+                "name": "ByteDance"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "autonomous AI systems"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI benchmarking"
+              }
+            ],
+            "keywords": "DeepSeek, Alibaba, Baidu, ByteDance, large language models, autonomous AI systems, AI benchmarking, AI geopolitical intelligence, US-China AI competition policy, legislative AI oversight",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

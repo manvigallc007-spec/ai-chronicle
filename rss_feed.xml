@@ -4,7 +4,7 @@
     <title>The AI Chronicle</title>
     <link>https://manvigallc007-spec.github.io/ai-chronicle/</link>
     <description>Daily AI news — India focus and global mix</description>
-    <lastBuildDate>Wed, 29 Apr 2026 01:36:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 01:48:37 +0000</lastBuildDate>
     <item>
       <title>MobiKwik Secures NBFC Licence From RBI, Launches Own Lending Subsidiary to Move Beyond Distribution</title>
       <link>https://www.youtube.com/watch?v=qYU-Rg3OWd8</link>
@@ -286,74 +286,74 @@
       <guid isPermaLink="true">https://www.youtube.com/watch?v=T2mAYr5gTh0</guid>
     </item>
     <item>
-      <title>Otter.ai launches cross-enterprise search connecting Gmail, Drive, Notion, Jira, and Salesforce</title>
-      <link>https://www.youtube.com/watch?v=5lhNsv4vpxw</link>
-      <description>Otter.ai has launched a new feature allowing users to connect and query data across Gmail, Google Drive, Notion, Jira, and Salesforce alongside their existing meeting transcripts, creating a unified AI-powered search layer across enterprise tools. Microsoft Outlook, Teams, SharePoint, and Slack integrations are planned for the near future. The feature directly targets the daily productivity pain point of information being siloed across multiple platforms, a problem affecting millions of knowledge workers.</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=5lhNsv4vpxw</guid>
-    </item>
-    <item>
       <title>Vect ransomware hitting AI toolchains is actually a wiper — paying ransom recovers nothing</title>
-      <link>https://www.youtube.com/watch?v=0kSQBbQnzCE</link>
-      <description>Check Point Research has confirmed that organisations hit by supply-chain attacks targeting Trivy and LiteLLM AI toolchain components — and who paid the Vect ransom — almost certainly did not recover their data, because Vect is not true ransomware but a wiper that permanently destroys any file larger than 128KB. The attacks are spreading through AI developer infrastructure that is increasingly integrated into enterprise systems worldwide. Security researchers warn that full data recovery is impossible for victims regardless of whether a ransom is paid.</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=0kSQBbQnzCE</guid>
-    </item>
-    <item>
-      <title>Amazon adds AI-powered audio Q&amp;A to product pages, letting shoppers ask questions by voice</title>
-      <link>https://www.youtube.com/watch?v=-nkweVt5DrU</link>
-      <description>Amazon has launched a new feature called &apos;Join the chat&apos; that allows shoppers to ask questions about products on its platform and receive AI-powered audio responses, moving beyond text-based Q&amp;A. The feature is part of Amazon&apos;s broader push to embed conversational AI across its retail experience, potentially reducing friction in purchase decisions for hundreds of millions of customers. It also signals a shift toward voice as a primary interface for AI-assisted shopping.</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=-nkweVt5DrU</guid>
-    </item>
-    <item>
-      <title>US lawmakers introduce bill mandating first comprehensive State Department assessment of China&apos;s AI capabilities</title>
-      <link>https://www.youtube.com/watch?v=TQ3Do93oMxk</link>
-      <description>US lawmakers have unveiled a draft bill that would, for the first time, legally require the State Department to deliver a detailed assessment of China&apos;s AI development to Congress, including identifying specific Chinese AI leaders and benchmarking China&apos;s progress against independent public metrics. The bill reflects escalating concern in Washington about the pace of Chinese AI advancement and the lack of structured intelligence on the topic feeding into policymaking. If passed, the resulting report would become a key document shaping US AI export controls, investment restrictions, and diplomatic strategy toward Beijing.</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=TQ3Do93oMxk</guid>
-    </item>
-    <item>
-      <title>Humanitarian AI agents deployed by IRC provide critical assistance to refugees as crises outpace capacity</title>
-      <link>https://www.youtube.com/watch?v=75nR13ujOLA</link>
-      <description>The International Rescue Committee and its Signpost project are deploying purpose-built AI agents designed with safety guardrails to provide critical information and assistance to refugees and displaced populations, as the scale of global humanitarian crises increasingly outstrips human capacity to respond. The AI agents are purpose-designed rather than general-purpose, with a focus on avoiding harm to vulnerable users. The project represents one of the more concrete real-world tests of whether AI can be responsibly deployed in high-stakes, low-resource contexts outside the Global North.</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=75nR13ujOLA</guid>
-    </item>
-    <item>
-      <title>YouTube tests AI-powered guided search answers for US Premium subscribers</title>
-      <link>https://www.youtube.com/watch?v=hKLVRfA_a6Q</link>
-      <description>YouTube is rolling out a new AI-powered search feature to Premium subscribers in the United States on an opt-in basis, surfacing guided answers directly in search results rather than just video lists. The feature represents Google&apos;s push to make YouTube a destination for AI-synthesised information, not just video discovery, competing more directly with AI search tools like Perplexity and ChatGPT Search. The opt-in rollout suggests YouTube is gathering user feedback before a broader release.</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=hKLVRfA_a6Q</guid>
+      <link>https://www.youtube.com/watch?v=cAMzXAtzLRU</link>
+      <description>Check Point Research has confirmed that the Vect malware spreading through AI toolchain supply chains — including Trivy and LiteLLM — is not true ransomware but a destructive wiper that permanently destroys any file larger than 128KB, making full recovery impossible even after paying the demanded ransom. Organisations that have already paid to recover data are unlikely to retrieve it, as the attack is designed to destroy rather than encrypt. The finding is a critical warning for the growing ecosystem of companies deploying AI infrastructure that relies on open-source tooling.</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=cAMzXAtzLRU</guid>
     </item>
     <item>
       <title>IBM&apos;s AI coding assistant &apos;Bob&apos; reaches global availability after 80,000-employee internal trial</title>
-      <link>https://www.youtube.com/watch?v=6qaasf208N0</link>
-      <description>IBM has announced global general availability of Bob, its AI coding assistant, following an internal pilot with 80,000 IBM employees used as test subjects over the past year. IBM claims the tool delivered measurable productivity gains, though specific metrics have not been independently verified. The launch positions IBM as a direct competitor in the crowded enterprise AI coding market alongside GitHub Copilot, Cursor, and Amazon CodeWhisperer, with the added hook of mainframe support.</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=6qaasf208N0</guid>
+      <link>https://www.youtube.com/watch?v=krE7ASiaP_o</link>
+      <description>IBM has announced global availability of Bob, its AI coding assistant, after a year-long internal trial involving 80,000 IBM employees who served as a test base across enterprise and mainframe development workflows. IBM reports productivity improvements from the trial but has not published specific metrics publicly. Bob&apos;s general availability makes it one of the largest enterprise AI coding tools deployed at scale, entering a market that includes GitHub Copilot and Amazon CodeWhisperer.</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=krE7ASiaP_o</guid>
+    </item>
+    <item>
+      <title>US lawmakers introduce bill mandating first comprehensive State Department assessment of China&apos;s AI capabilities</title>
+      <link>https://www.youtube.com/watch?v=_fuVjymBi9Y</link>
+      <description>US lawmakers have unveiled a draft bill that would, for the first time, require the State Department to deliver a comprehensive report to Congress on China&apos;s AI development, including progress on autonomous capabilities benchmarked against international standards and identification of key Chinese AI leaders. The bill reflects escalating concern in Washington about the pace and ambition of China&apos;s AI programme following the release of DeepSeek V4 and advances by labs including Alibaba, Baidu, and ByteDance. If passed, it would formalise the US government&apos;s China AI intelligence-gathering framework.</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=_fuVjymBi9Y</guid>
+    </item>
+    <item>
+      <title>Humanitarian AI agents deployed by IRC provide critical assistance to refugees as crises outpace capacity</title>
+      <link>https://www.youtube.com/watch?v=Cblmo-6KXD4</link>
+      <description>The International Rescue Committee has deployed purpose-built AI agents to provide information and assistance to refugees and displaced populations, as humanitarian organisations face caseloads that vastly exceed human staff capacity. The AI system is designed with a safety-first architecture, aiming to avoid the harms that general-purpose AI tools can cause in high-stakes, vulnerable-population contexts. The deployment represents one of the most significant real-world tests of AI in the humanitarian sector to date.</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Cblmo-6KXD4</guid>
+    </item>
+    <item>
+      <title>Lovable launches vibe-coding app on iOS and Android, bringing AI web development to mobile</title>
+      <link>https://www.youtube.com/watch?v=0oOBK6oyF9g</link>
+      <description>Lovable has launched its AI-powered &apos;vibe coding&apos; application on both iOS and Android, allowing developers and non-technical users to build web apps and websites directly from a mobile device using natural language prompts. The app extends Lovable&apos;s browser-based platform to mobile, targeting a fast-growing segment of developers who want to prototype and build on the go. The launch reflects a broader industry trend of making AI-assisted software creation accessible without traditional coding skills.</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=0oOBK6oyF9g</guid>
+    </item>
+    <item>
+      <title>Health-care AI is proliferating in hospitals, but evidence it helps patients remains thin</title>
+      <link>https://www.youtube.com/watch?v=TgTsLj7dcNU</link>
+      <description>AI tools are now embedded in hospital workflows across note-taking, patient record analysis, diagnostics, and triage flagging, but rigorous evidence that these systems actually improve patient outcomes remains scarce. MIT Technology Review&apos;s investigation finds that adoption is outpacing clinical validation, with many tools deployed based on efficiency gains rather than demonstrated health benefits. Experts warn that without robust outcome data, hospitals risk institutionalising AI systems that may not deliver — or could even harm — patient care.</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=TgTsLj7dcNU</guid>
     </item>
     <item>
       <title>EU orders Google to open Android&apos;s AI sandbox to rival assistants under Digital Markets Act</title>
-      <link>https://www.youtube.com/watch?v=fDHOuygNOcg</link>
-      <description>The European Commission is drawing up measures requiring Google to give competing AI assistants the same deep device-level access on Android smartphones that its own Gemini assistant currently enjoys, under Digital Markets Act enforcement. The move is aimed at preventing Google from locking rival AI services out of the most important hardware layer — the smartphone — as AI assistants become central to daily digital life. If implemented, billions of Android users globally could see more choice in which AI assistant integrates natively with their device.</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=fDHOuygNOcg</guid>
+      <link>https://www.youtube.com/watch?v=8rTSE-vDxyQ</link>
+      <description>The European Commission is moving to require Google to open its Android AI sandbox — currently giving Gemini privileged deep-device access — to competing AI assistants under the Digital Markets Act. The measures would compel Google to grant rival services the same system-level integration it provides to its own AI, affecting billions of Android users globally. This is one of the most concrete AI competition enforcement actions taken under the DMA to date and sets a precedent for platform-level AI access rules.</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=8rTSE-vDxyQ</guid>
     </item>
     <item>
-      <title>Amazon launches OpenAI models on AWS Bedrock one day after Microsoft exclusivity ends</title>
-      <link>https://www.youtube.com/watch?v=rel9fPIHT5E</link>
-      <description>Just one day after OpenAI reached an agreement with Microsoft to end exclusive cloud rights, Amazon Web Services announced a slate of OpenAI model offerings on its Bedrock platform, including a new agent service. The rapid rollout signals how quickly the AI market is restructuring now that OpenAI can sell across multiple cloud providers. For businesses already on AWS, this means direct access to OpenAI&apos;s latest models without migrating infrastructure.</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=rel9fPIHT5E</guid>
+      <title>DeepMind&apos;s David Silver raises $1.1B to build AI that learns without any human-generated data</title>
+      <link>https://www.youtube.com/watch?v=WNUfmBdUeUE</link>
+      <description>Ineffable Intelligence, founded by former DeepMind researcher David Silver — the architect of AlphaGo — has raised $1.1 billion in funding at a valuation of $5.1 billion just months after its founding. The lab is pursuing a fundamentally different approach to AI, building systems that learn entirely without human-generated training data. If successful, this would remove one of the core bottlenecks in modern AI development: the requirement for vast quantities of human-labelled or human-produced content.</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=WNUfmBdUeUE</guid>
     </item>
     <item>
-      <title>Google expands Pentagon AI contract after Anthropic refuses DoD surveillance and weapons use</title>
-      <link>https://www.youtube.com/watch?v=q-NyWPdHWag</link>
-      <description>Google has signed a new contract expanding the US Department of Defense&apos;s access to its AI systems, stepping in after Anthropic declined to permit the DoD to use its models for domestic mass surveillance and autonomous weapons systems. The move highlights a growing divide among AI labs over where to draw ethical lines on military and surveillance applications. It raises immediate questions about the accountability frameworks governing AI in national security contexts and what safeguards, if any, are attached to Google&apos;s agreement.</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=q-NyWPdHWag</guid>
+      <title>OpenAI and Microsoft end exclusivity: OpenAI free to sell on AWS in exchange for revenue-share deal</title>
+      <link>https://www.youtube.com/watch?v=hwJaEVAgYR0</link>
+      <description>OpenAI has secured major concessions from its largest investor Microsoft, dissolving the exclusive cloud-hosting arrangement and allowing OpenAI to sell its products on Amazon Web Services. In return, Microsoft receives an expanded revenue-share agreement, and OpenAI models including a new agent service became available on AWS Bedrock within 24 hours of the deal being announced. The move marks a fundamental shift in the cloud AI landscape, opening OpenAI&apos;s technology to a far broader base of enterprise customers.</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=hwJaEVAgYR0</guid>
+    </item>
+    <item>
+      <title>Elon Musk and Sam Altman head to trial over OpenAI&apos;s for-profit future and IPO plans</title>
+      <link>https://www.youtube.com/watch?v=uh8-gZFVMxo</link>
+      <description>Elon Musk and OpenAI CEO Sam Altman are heading to trial in Northern California in a case that could determine whether OpenAI is legally permitted to operate as a for-profit company ahead of its anticipated IPO. A court ruling could potentially oust current leadership or block the corporate restructuring that underpins OpenAI&apos;s $50 billion Amazon deal and broader commercial expansion. The outcome would reshape the governance of one of the world&apos;s most consequential AI labs and set precedent for how AI nonprofits can convert to commercial entities.</description>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=uh8-gZFVMxo</guid>
     </item>
   </channel>
 </rss>

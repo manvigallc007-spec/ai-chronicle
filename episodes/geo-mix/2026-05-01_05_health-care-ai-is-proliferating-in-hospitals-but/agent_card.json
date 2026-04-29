@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-01",
+  "rank": 5,
+  "video_url": "https://www.youtube.com/watch?v=TgTsLj7dcNU",
+  "thumbnail_url": "https://i.ytimg.com/vi/TgTsLj7dcNU/maxresdefault.jpg",
+  "story": {
+    "title": "Health-care AI is proliferating in hospitals, but evidence it helps patients remains thin",
+    "pillar": "Discovery & Research",
+    "summary": "AI tools are now embedded in hospital workflows across note-taking, patient record analysis, diagnostics, and triage flagging, but rigorous evidence that these systems actually improve patient outcomes remains scarce. MIT Technology Review's investigation finds that adoption is outpacing clinical validation, with many tools deployed based on efficiency gains rather than demonstrated health benefits. Experts warn that without robust outcome data, hospitals risk institutionalising AI systems that may not deliver — or could even harm — patient care.",
+    "source_url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+    "source_name": "MIT Technology Review",
+    "companies": [],
+    "technologies": [
+      "clinical AI",
+      "medical note-taking AI",
+      "diagnostic AI",
+      "patient record analysis"
+    ],
+    "use_cases": [
+      "hospital AI deployment",
+      "clinical decision support",
+      "AI diagnostics"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-01",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-01T00:00:00Z",
+      "datePublished": "2026-05-01T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=krE7ASiaP_o",
+      "embedUrl": "https://www.youtube.com/embed/krE7ASiaP_o",
+      "thumbnailUrl": "https://i.ytimg.com/vi/krE7ASiaP_o/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-01",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "IBM's AI coding assistant 'Bob' reaches global availability after 80,000-employee internal trial",
+            "articleSection": "Job Evolution",
+            "abstract": "IBM has announced global availability of Bob, its AI coding assistant, after a year-long internal trial involving 80,000 IBM employees who served as a test base across enterprise and mainframe development workflows. IBM reports productivity improvements from the trial but has not published specific metrics publicly. Bob's general availability makes it one of the largest enterprise AI coding tools deployed at scale, entering a market that includes GitHub Copilot and Amazon CodeWhisperer.",
+            "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ibms_ai_coding_partner_bob/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "IBM"
+              },
+              {
+                "@type": "Organization",
+                "name": "GitHub"
+              },
+              {
+                "@type": "Organization",
+                "name": "Amazon"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI coding assistant"
+              },
+              {
+                "@type": "Thing",
+                "name": "mainframe AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "enterprise AI tooling"
+              }
+            ],
+            "keywords": "IBM, GitHub, Amazon, AI coding assistant, mainframe AI, enterprise AI tooling, software development productivity, enterprise code generation, legacy system modernisation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

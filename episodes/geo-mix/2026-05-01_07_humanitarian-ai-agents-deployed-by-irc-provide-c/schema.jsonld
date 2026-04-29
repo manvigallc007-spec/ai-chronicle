@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-01",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-01T00:00:00Z",
+      "datePublished": "2026-05-01T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Cblmo-6KXD4",
+      "embedUrl": "https://www.youtube.com/embed/Cblmo-6KXD4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Cblmo-6KXD4/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-01",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Humanitarian AI agents deployed by IRC provide critical assistance to refugees as crises outpace capacity",
+            "articleSection": "Daily Utility",
+            "abstract": "The International Rescue Committee has deployed purpose-built AI agents to provide information and assistance to refugees and displaced populations, as humanitarian organisations face caseloads that vastly exceed human staff capacity. The AI system is designed with a safety-first architecture, aiming to avoid the harms that general-purpose AI tools can cause in high-stakes, vulnerable-population contexts. The deployment represents one of the most significant real-world tests of AI in the humanitarian sector to date.",
+            "url": "https://restofworld.org/2026/irc-signpost-humanitarian-ai-refugee-assistance/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "International Rescue Committee"
+              },
+              {
+                "@type": "Organization",
+                "name": "Signpost"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI agents"
+              },
+              {
+                "@type": "Thing",
+                "name": "natural language processing"
+              },
+              {
+                "@type": "Thing",
+                "name": "humanitarian AI"
+              }
+            ],
+            "keywords": "International Rescue Committee, Signpost, AI agents, natural language processing, humanitarian AI, refugee assistance, humanitarian information delivery, AI for vulnerable populations",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

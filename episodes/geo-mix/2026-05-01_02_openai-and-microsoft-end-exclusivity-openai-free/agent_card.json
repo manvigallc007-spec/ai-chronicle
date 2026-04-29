@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-01",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=hwJaEVAgYR0",
+  "thumbnail_url": "https://i.ytimg.com/vi/hwJaEVAgYR0/maxresdefault.jpg",
+  "story": {
+    "title": "OpenAI and Microsoft end exclusivity: OpenAI free to sell on AWS in exchange for revenue-share deal",
+    "pillar": "Daily Utility",
+    "summary": "OpenAI has secured major concessions from its largest investor Microsoft, dissolving the exclusive cloud-hosting arrangement and allowing OpenAI to sell its products on Amazon Web Services. In return, Microsoft receives an expanded revenue-share agreement, and OpenAI models including a new agent service became available on AWS Bedrock within 24 hours of the deal being announced. The move marks a fundamental shift in the cloud AI landscape, opening OpenAI's technology to a far broader base of enterprise customers.",
+    "source_url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "OpenAI",
+      "Microsoft",
+      "Amazon",
+      "AWS"
+    ],
+    "technologies": [
+      "AWS Bedrock",
+      "AI agents",
+      "large language models"
+    ],
+    "use_cases": [
+      "enterprise AI deployment",
+      "cloud AI inference",
+      "AI agent services"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-01",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-01T00:00:00Z",
+      "datePublished": "2026-05-01T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=WNUfmBdUeUE",
+      "embedUrl": "https://www.youtube.com/embed/WNUfmBdUeUE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WNUfmBdUeUE/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-01",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "DeepMind's David Silver raises $1.1B to build AI that learns without any human-generated data",
+            "articleSection": "Discovery & Research",
+            "abstract": "Ineffable Intelligence, founded by former DeepMind researcher David Silver — the architect of AlphaGo — has raised $1.1 billion in funding at a valuation of $5.1 billion just months after its founding. The lab is pursuing a fundamentally different approach to AI, building systems that learn entirely without human-generated training data. If successful, this would remove one of the core bottlenecks in modern AI development: the requirement for vast quantities of human-labelled or human-produced content.",
+            "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Ineffable Intelligence"
+              },
+              {
+                "@type": "Organization",
+                "name": "DeepMind"
+              },
+              {
+                "@type": "Thing",
+                "name": "reinforcement learning"
+              },
+              {
+                "@type": "Thing",
+                "name": "self-supervised learning"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              }
+            ],
+            "keywords": "Ineffable Intelligence, DeepMind, reinforcement learning, self-supervised learning, large language models, AI training without human data, foundational AI research, autonomous learning systems",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

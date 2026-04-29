@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-01",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=_fuVjymBi9Y",
+  "thumbnail_url": "https://i.ytimg.com/vi/_fuVjymBi9Y/maxresdefault.jpg",
+  "story": {
+    "title": "US lawmakers introduce bill mandating first comprehensive State Department assessment of China's AI capabilities",
+    "pillar": "Policy & Rights",
+    "summary": "US lawmakers have unveiled a draft bill that would, for the first time, require the State Department to deliver a comprehensive report to Congress on China's AI development, including progress on autonomous capabilities benchmarked against international standards and identification of key Chinese AI leaders. The bill reflects escalating concern in Washington about the pace and ambition of China's AI programme following the release of DeepSeek V4 and advances by labs including Alibaba, Baidu, and ByteDance. If passed, it would formalise the US government's China AI intelligence-gathering framework.",
+    "source_url": "https://www.scmp.com/news/us/politics/article/3351764/us-draft-bill-targets-beijings-ai-rise-mandate-name-chinas-tech-leaders",
+    "source_name": "SCMP Tech",
+    "companies": [
+      "DeepSeek",
+      "Alibaba",
+      "Baidu",
+      "ByteDance"
+    ],
+    "technologies": [
+      "large language models",
+      "autonomous AI systems",
+      "AI benchmarking"
+    ],
+    "use_cases": [
+      "AI geopolitical intelligence",
+      "US-China AI competition policy",
+      "legislative AI oversight"
+    ]
+  }
+}

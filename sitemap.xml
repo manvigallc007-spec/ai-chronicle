@@ -562,6 +562,146 @@
     </video:video>
   </url>
   <url>
+    <loc>https://www.youtube.com/watch?v=cAMzXAtzLRU</loc>
+    <lastmod>2026-05-01T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Vect ransomware hitting AI toolchains is actually a wiper — paying ransom recovers nothing</video:title>
+      <video:description>Check Point Research has confirmed that the Vect malware spreading through AI toolchain supply chains — including Trivy and LiteLLM — is not true ransomware but a destructive wiper that permanently destroys any file larger than 128KB, making full recovery impossible even after paying the demanded ransom. Organisations that have already paid to recover data are unlikely to retrieve it, as the attack is designed to destroy rather than encrypt. The finding is a critical warning for the growing ecosystem of companies deploying AI infrastructure that relies on open-source tooling.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=cAMzXAtzLRU</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/cAMzXAtzLRU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-01T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=krE7ASiaP_o</loc>
+    <lastmod>2026-05-01T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>IBM's AI coding assistant 'Bob' reaches global availability after 80,000-employee internal trial</video:title>
+      <video:description>IBM has announced global availability of Bob, its AI coding assistant, after a year-long internal trial involving 80,000 IBM employees who served as a test base across enterprise and mainframe development workflows. IBM reports productivity improvements from the trial but has not published specific metrics publicly. Bob's general availability makes it one of the largest enterprise AI coding tools deployed at scale, entering a market that includes GitHub Copilot and Amazon CodeWhisperer.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=krE7ASiaP_o</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/krE7ASiaP_o/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-01T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=_fuVjymBi9Y</loc>
+    <lastmod>2026-05-01T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>US lawmakers introduce bill mandating first comprehensive State Department assessment of China's AI </video:title>
+      <video:description>US lawmakers have unveiled a draft bill that would, for the first time, require the State Department to deliver a comprehensive report to Congress on China's AI development, including progress on autonomous capabilities benchmarked against international standards and identification of key Chinese AI leaders. The bill reflects escalating concern in Washington about the pace and ambition of China's AI programme following the release of DeepSeek V4 and advances by labs including Alibaba, Baidu, and ByteDance. If passed, it would formalise the US government's China AI intelligence-gathering framework.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=_fuVjymBi9Y</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/_fuVjymBi9Y/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-01T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=Cblmo-6KXD4</loc>
+    <lastmod>2026-05-01T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Humanitarian AI agents deployed by IRC provide critical assistance to refugees as crises outpace cap</video:title>
+      <video:description>The International Rescue Committee has deployed purpose-built AI agents to provide information and assistance to refugees and displaced populations, as humanitarian organisations face caseloads that vastly exceed human staff capacity. The AI system is designed with a safety-first architecture, aiming to avoid the harms that general-purpose AI tools can cause in high-stakes, vulnerable-population contexts. The deployment represents one of the most significant real-world tests of AI in the humanitarian sector to date.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=Cblmo-6KXD4</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Cblmo-6KXD4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-01T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=0oOBK6oyF9g</loc>
+    <lastmod>2026-05-01T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Lovable launches vibe-coding app on iOS and Android, bringing AI web development to mobile</video:title>
+      <video:description>Lovable has launched its AI-powered 'vibe coding' application on both iOS and Android, allowing developers and non-technical users to build web apps and websites directly from a mobile device using natural language prompts. The app extends Lovable's browser-based platform to mobile, targeting a fast-growing segment of developers who want to prototype and build on the go. The launch reflects a broader industry trend of making AI-assisted software creation accessible without traditional coding skills.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=0oOBK6oyF9g</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/0oOBK6oyF9g/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-01T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=TgTsLj7dcNU</loc>
+    <lastmod>2026-05-01T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Health-care AI is proliferating in hospitals, but evidence it helps patients remains thin</video:title>
+      <video:description>AI tools are now embedded in hospital workflows across note-taking, patient record analysis, diagnostics, and triage flagging, but rigorous evidence that these systems actually improve patient outcomes remains scarce. MIT Technology Review's investigation finds that adoption is outpacing clinical validation, with many tools deployed based on efficiency gains rather than demonstrated health benefits. Experts warn that without robust outcome data, hospitals risk institutionalising AI systems that may not deliver — or could even harm — patient care.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=TgTsLj7dcNU</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/TgTsLj7dcNU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-01T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=8rTSE-vDxyQ</loc>
+    <lastmod>2026-05-01T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>EU orders Google to open Android's AI sandbox to rival assistants under Digital Markets Act</video:title>
+      <video:description>The European Commission is moving to require Google to open its Android AI sandbox — currently giving Gemini privileged deep-device access — to competing AI assistants under the Digital Markets Act. The measures would compel Google to grant rival services the same system-level integration it provides to its own AI, affecting billions of Android users globally. This is one of the most concrete AI competition enforcement actions taken under the DMA to date and sets a precedent for platform-level AI access rules.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=8rTSE-vDxyQ</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/8rTSE-vDxyQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-01T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=WNUfmBdUeUE</loc>
+    <lastmod>2026-05-01T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>DeepMind's David Silver raises $1.1B to build AI that learns without any human-generated data</video:title>
+      <video:description>Ineffable Intelligence, founded by former DeepMind researcher David Silver — the architect of AlphaGo — has raised $1.1 billion in funding at a valuation of $5.1 billion just months after its founding. The lab is pursuing a fundamentally different approach to AI, building systems that learn entirely without human-generated training data. If successful, this would remove one of the core bottlenecks in modern AI development: the requirement for vast quantities of human-labelled or human-produced content.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=WNUfmBdUeUE</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/WNUfmBdUeUE/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-01T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=hwJaEVAgYR0</loc>
+    <lastmod>2026-05-01T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>OpenAI and Microsoft end exclusivity: OpenAI free to sell on AWS in exchange for revenue-share deal</video:title>
+      <video:description>OpenAI has secured major concessions from its largest investor Microsoft, dissolving the exclusive cloud-hosting arrangement and allowing OpenAI to sell its products on Amazon Web Services. In return, Microsoft receives an expanded revenue-share agreement, and OpenAI models including a new agent service became available on AWS Bedrock within 24 hours of the deal being announced. The move marks a fundamental shift in the cloud AI landscape, opening OpenAI's technology to a far broader base of enterprise customers.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=hwJaEVAgYR0</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/hwJaEVAgYR0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-01T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=uh8-gZFVMxo</loc>
+    <lastmod>2026-05-01T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Elon Musk and Sam Altman head to trial over OpenAI's for-profit future and IPO plans</video:title>
+      <video:description>Elon Musk and OpenAI CEO Sam Altman are heading to trial in Northern California in a case that could determine whether OpenAI is legally permitted to operate as a for-profit company ahead of its anticipated IPO. A court ruling could potentially oust current leadership or block the corporate restructuring that underpins OpenAI's $50 billion Amazon deal and broader commercial expansion. The outcome would reshape the governance of one of the world's most consequential AI labs and set precedent for how AI nonprofits can convert to commercial entities.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=uh8-gZFVMxo</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/uh8-gZFVMxo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-01T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
     <loc>https://www.youtube.com/watch?v=5lhNsv4vpxw</loc>
     <lastmod>2026-04-29T00:00:00Z</lastmod>
     <changefreq>daily</changefreq>

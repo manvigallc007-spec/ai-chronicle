@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-01",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=0oOBK6oyF9g",
+  "thumbnail_url": "https://i.ytimg.com/vi/0oOBK6oyF9g/maxresdefault.jpg",
+  "story": {
+    "title": "Lovable launches vibe-coding app on iOS and Android, bringing AI web development to mobile",
+    "pillar": "How to Evolve",
+    "summary": "Lovable has launched its AI-powered 'vibe coding' application on both iOS and Android, allowing developers and non-technical users to build web apps and websites directly from a mobile device using natural language prompts. The app extends Lovable's browser-based platform to mobile, targeting a fast-growing segment of developers who want to prototype and build on the go. The launch reflects a broader industry trend of making AI-assisted software creation accessible without traditional coding skills.",
+    "source_url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Lovable"
+    ],
+    "technologies": [
+      "vibe coding",
+      "natural language programming",
+      "mobile AI development"
+    ],
+    "use_cases": [
+      "mobile app-building",
+      "no-code web development",
+      "AI-assisted prototyping"
+    ]
+  }
+}

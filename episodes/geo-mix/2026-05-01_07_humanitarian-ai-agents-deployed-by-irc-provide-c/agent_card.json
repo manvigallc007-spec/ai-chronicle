@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-01",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=Cblmo-6KXD4",
+  "thumbnail_url": "https://i.ytimg.com/vi/Cblmo-6KXD4/maxresdefault.jpg",
+  "story": {
+    "title": "Humanitarian AI agents deployed by IRC provide critical assistance to refugees as crises outpace capacity",
+    "pillar": "Daily Utility",
+    "summary": "The International Rescue Committee has deployed purpose-built AI agents to provide information and assistance to refugees and displaced populations, as humanitarian organisations face caseloads that vastly exceed human staff capacity. The AI system is designed with a safety-first architecture, aiming to avoid the harms that general-purpose AI tools can cause in high-stakes, vulnerable-population contexts. The deployment represents one of the most significant real-world tests of AI in the humanitarian sector to date.",
+    "source_url": "https://restofworld.org/2026/irc-signpost-humanitarian-ai-refugee-assistance/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source_name": "Rest of World",
+    "companies": [
+      "International Rescue Committee",
+      "Signpost"
+    ],
+    "technologies": [
+      "AI agents",
+      "natural language processing",
+      "humanitarian AI"
+    ],
+    "use_cases": [
+      "refugee assistance",
+      "humanitarian information delivery",
+      "AI for vulnerable populations"
+    ]
+  }
+}

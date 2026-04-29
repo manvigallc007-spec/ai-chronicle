@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-01",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=cAMzXAtzLRU",
+  "thumbnail_url": "https://i.ytimg.com/vi/cAMzXAtzLRU/maxresdefault.jpg",
+  "story": {
+    "title": "Vect ransomware hitting AI toolchains is actually a wiper — paying ransom recovers nothing",
+    "pillar": "Policy & Rights",
+    "summary": "Check Point Research has confirmed that the Vect malware spreading through AI toolchain supply chains — including Trivy and LiteLLM — is not true ransomware but a destructive wiper that permanently destroys any file larger than 128KB, making full recovery impossible even after paying the demanded ransom. Organisations that have already paid to recover data are unlikely to retrieve it, as the attack is designed to destroy rather than encrypt. The finding is a critical warning for the growing ecosystem of companies deploying AI infrastructure that relies on open-source tooling.",
+    "source_url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/dont_pay_vect_a_ransom/",
+    "source_name": "The Register",
+    "companies": [
+      "Check Point Research"
+    ],
+    "technologies": [
+      "Vect wiper malware",
+      "Trivy",
+      "LiteLLM",
+      "AI supply chain security"
+    ],
+    "use_cases": [
+      "AI toolchain security",
+      "ransomware defence",
+      "enterprise data protection"
+    ]
+  }
+}

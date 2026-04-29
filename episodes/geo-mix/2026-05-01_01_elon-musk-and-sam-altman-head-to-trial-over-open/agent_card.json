@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-01",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=uh8-gZFVMxo",
+  "thumbnail_url": "https://i.ytimg.com/vi/uh8-gZFVMxo/maxresdefault.jpg",
+  "story": {
+    "title": "Elon Musk and Sam Altman head to trial over OpenAI's for-profit future and IPO plans",
+    "pillar": "Policy & Rights",
+    "summary": "Elon Musk and OpenAI CEO Sam Altman are heading to trial in Northern California in a case that could determine whether OpenAI is legally permitted to operate as a for-profit company ahead of its anticipated IPO. A court ruling could potentially oust current leadership or block the corporate restructuring that underpins OpenAI's $50 billion Amazon deal and broader commercial expansion. The outcome would reshape the governance of one of the world's most consequential AI labs and set precedent for how AI nonprofits can convert to commercial entities.",
+    "source_url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+    "source_name": "MIT Technology Review",
+    "companies": [
+      "OpenAI",
+      "xAI"
+    ],
+    "technologies": [
+      "large language models",
+      "AI governance"
+    ],
+    "use_cases": [
+      "AI corporate restructuring",
+      "nonprofit-to-for-profit conversion",
+      "AI IPO"
+    ]
+  }
+}

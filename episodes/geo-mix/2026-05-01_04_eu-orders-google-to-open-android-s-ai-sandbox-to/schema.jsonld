@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-01",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-01T00:00:00Z",
+      "datePublished": "2026-05-01T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=8rTSE-vDxyQ",
+      "embedUrl": "https://www.youtube.com/embed/8rTSE-vDxyQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8rTSE-vDxyQ/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-01",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "EU orders Google to open Android's AI sandbox to rival assistants under Digital Markets Act",
+            "articleSection": "Policy & Rights",
+            "abstract": "The European Commission is moving to require Google to open its Android AI sandbox — currently giving Gemini privileged deep-device access — to competing AI assistants under the Digital Markets Act. The measures would compel Google to grant rival services the same system-level integration it provides to its own AI, affecting billions of Android users globally. This is one of the most concrete AI competition enforcement actions taken under the DMA to date and sets a precedent for platform-level AI access rules.",
+            "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ai_competition_in_android_phones/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Google"
+              },
+              {
+                "@type": "Organization",
+                "name": "European Commission"
+              },
+              {
+                "@type": "Thing",
+                "name": "Android AI sandbox"
+              },
+              {
+                "@type": "Thing",
+                "name": "Gemini"
+              },
+              {
+                "@type": "Thing",
+                "name": "on-device AI"
+              }
+            ],
+            "keywords": "Google, European Commission, Android AI sandbox, Gemini, on-device AI, AI competition enforcement, mobile AI assistant access, platform interoperability",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
