@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-29",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-29T00:00:00Z",
+      "datePublished": "2026-04-29T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=fDHOuygNOcg",
+      "embedUrl": "https://www.youtube.com/embed/fDHOuygNOcg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fDHOuygNOcg/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-29",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "EU orders Google to open Android's AI sandbox to rival assistants under Digital Markets Act",
+            "articleSection": "Policy & Rights",
+            "abstract": "The European Commission is drawing up measures requiring Google to give competing AI assistants the same deep device-level access on Android smartphones that its own Gemini assistant currently enjoys, under Digital Markets Act enforcement. The move is aimed at preventing Google from locking rival AI services out of the most important hardware layer — the smartphone — as AI assistants become central to daily digital life. If implemented, billions of Android users globally could see more choice in which AI assistant integrates natively with their device.",
+            "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ai_competition_in_android_phones/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Google"
+              },
+              {
+                "@type": "Organization",
+                "name": "European Commission"
+              },
+              {
+                "@type": "Thing",
+                "name": "Android"
+              },
+              {
+                "@type": "Thing",
+                "name": "Gemini AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI assistants"
+              },
+              {
+                "@type": "Thing",
+                "name": "Digital Markets Act"
+              }
+            ],
+            "keywords": "Google, European Commission, Android, Gemini AI, AI assistants, Digital Markets Act, smartphone AI integration, platform competition enforcement, consumer AI access",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-29",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=6qaasf208N0",
+  "thumbnail_url": "https://i.ytimg.com/vi/6qaasf208N0/maxresdefault.jpg",
+  "story": {
+    "title": "IBM's AI coding assistant 'Bob' reaches global availability after 80,000-employee internal trial",
+    "pillar": "Job Evolution",
+    "summary": "IBM has announced global general availability of Bob, its AI coding assistant, following an internal pilot with 80,000 IBM employees used as test subjects over the past year. IBM claims the tool delivered measurable productivity gains, though specific metrics have not been independently verified. The launch positions IBM as a direct competitor in the crowded enterprise AI coding market alongside GitHub Copilot, Cursor, and Amazon CodeWhisperer, with the added hook of mainframe support.",
+    "source_url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ibms_ai_coding_partner_bob/",
+    "source_name": "The Register",
+    "companies": [
+      "IBM"
+    ],
+    "technologies": [
+      "AI coding assistant",
+      "Bob",
+      "mainframe AI"
+    ],
+    "use_cases": [
+      "enterprise software development",
+      "developer productivity",
+      "AI-assisted coding"
+    ]
+  }
+}

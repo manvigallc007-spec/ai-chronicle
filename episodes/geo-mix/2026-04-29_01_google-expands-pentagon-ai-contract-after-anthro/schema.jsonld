@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-29",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-29T00:00:00Z",
+      "datePublished": "2026-04-29T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=q-NyWPdHWag",
+      "embedUrl": "https://www.youtube.com/embed/q-NyWPdHWag",
+      "thumbnailUrl": "https://i.ytimg.com/vi/q-NyWPdHWag/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-29",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Google expands Pentagon AI contract after Anthropic refuses DoD surveillance and weapons use",
+            "articleSection": "Policy & Rights",
+            "abstract": "Google has signed a new contract expanding the US Department of Defense's access to its AI systems, stepping in after Anthropic declined to permit the DoD to use its models for domestic mass surveillance and autonomous weapons systems. The move highlights a growing divide among AI labs over where to draw ethical lines on military and surveillance applications. It raises immediate questions about the accountability frameworks governing AI in national security contexts and what safeguards, if any, are attached to Google's agreement.",
+            "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Google"
+              },
+              {
+                "@type": "Organization",
+                "name": "Anthropic"
+              },
+              {
+                "@type": "Organization",
+                "name": "US Department of Defense"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI models"
+              },
+              {
+                "@type": "Thing",
+                "name": "autonomous weapons systems"
+              },
+              {
+                "@type": "Thing",
+                "name": "surveillance AI"
+              }
+            ],
+            "keywords": "Google, Anthropic, US Department of Defense, AI models, autonomous weapons systems, surveillance AI, military AI deployment, domestic surveillance, Pentagon AI contracting",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

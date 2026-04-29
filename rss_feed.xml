@@ -4,7 +4,7 @@
     <title>The AI Chronicle</title>
     <link>https://manvigallc007-spec.github.io/ai-chronicle/</link>
     <description>Daily AI news — India focus and global mix</description>
-    <lastBuildDate>Wed, 29 Apr 2026 00:39:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 01:36:52 +0000</lastBuildDate>
     <item>
       <title>MobiKwik Secures NBFC Licence From RBI, Launches Own Lending Subsidiary to Move Beyond Distribution</title>
       <link>https://www.youtube.com/watch?v=qYU-Rg3OWd8</link>
@@ -286,74 +286,74 @@
       <guid isPermaLink="true">https://www.youtube.com/watch?v=T2mAYr5gTh0</guid>
     </item>
     <item>
-      <title>China&apos;s deaf delivery riders say gig algorithms give them fairer treatment than human employers</title>
-      <link>https://www.youtube.com/watch?v=bNxsC9iOBDk</link>
-      <description>A Sixth Tone investigation found that deaf and hard-of-hearing workers in China are increasingly gravitating to food delivery platforms, reporting that algorithm-driven dispatch systems treat them more equitably than human managers who may discriminate based on disability. While most gig workers describe algorithmic management as oppressive, deaf couriers say the system&apos;s indifference to identity is a form of fairness they rarely encountered in traditional employment. The story highlights how AI-driven labour platforms can have uneven and sometimes counterintuitive social effects.</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=bNxsC9iOBDk</guid>
+      <title>Otter.ai launches cross-enterprise search connecting Gmail, Drive, Notion, Jira, and Salesforce</title>
+      <link>https://www.youtube.com/watch?v=5lhNsv4vpxw</link>
+      <description>Otter.ai has launched a new feature allowing users to connect and query data across Gmail, Google Drive, Notion, Jira, and Salesforce alongside their existing meeting transcripts, creating a unified AI-powered search layer across enterprise tools. Microsoft Outlook, Teams, SharePoint, and Slack integrations are planned for the near future. The feature directly targets the daily productivity pain point of information being siloed across multiple platforms, a problem affecting millions of knowledge workers.</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=5lhNsv4vpxw</guid>
     </item>
     <item>
-      <title>Chinese robot &apos;Lightning&apos; beats the men&apos;s half-marathon world record in mixed human-robot race</title>
-      <link>https://www.youtube.com/watch?v=EkAu9U1ocio</link>
-      <description>A Chinese humanoid robot named Lightning won China&apos;s second annual mixed human-robot half-marathon, completing the course in a time that surpassed the existing men&apos;s world record for the distance. The event, which saw robots and human runners compete on the same course, is part of China&apos;s broader national push to develop competitive humanoid robotics. The result is being cited by Chinese researchers as a milestone in bipedal locomotion and real-world robot endurance.</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=EkAu9U1ocio</guid>
+      <title>Vect ransomware hitting AI toolchains is actually a wiper — paying ransom recovers nothing</title>
+      <link>https://www.youtube.com/watch?v=0kSQBbQnzCE</link>
+      <description>Check Point Research has confirmed that organisations hit by supply-chain attacks targeting Trivy and LiteLLM AI toolchain components — and who paid the Vect ransom — almost certainly did not recover their data, because Vect is not true ransomware but a wiper that permanently destroys any file larger than 128KB. The attacks are spreading through AI developer infrastructure that is increasingly integrated into enterprise systems worldwide. Security researchers warn that full data recovery is impossible for victims regardless of whether a ransom is paid.</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=0kSQBbQnzCE</guid>
     </item>
     <item>
-      <title>AI is accelerating the global e-waste crisis as hardware demand surges and waste flows to poorer nations</title>
-      <link>https://www.youtube.com/watch?v=ZUFR3HHXnGw</link>
-      <description>Rest of World reports that the rapid expansion of AI hardware infrastructure is dramatically worsening the global e-waste problem, with discarded GPUs, servers, and consumer AI devices disproportionately ending up in informal recycling operations in non-Western countries. The piece documents how existing e-waste trade routes and processing capacity in Africa, South and Southeast Asia are being overwhelmed by the accelerating hardware replacement cycles driven by AI model upgrades. Inadequate regulatory oversight in receiving countries means workers face health risks from toxic materials with little protection. The article calls for AI hardware manufacturers and hyperscalers to take extended producer responsibility for end-of-life equipment.</description>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=ZUFR3HHXnGw</guid>
+      <title>Amazon adds AI-powered audio Q&amp;A to product pages, letting shoppers ask questions by voice</title>
+      <link>https://www.youtube.com/watch?v=-nkweVt5DrU</link>
+      <description>Amazon has launched a new feature called &apos;Join the chat&apos; that allows shoppers to ask questions about products on its platform and receive AI-powered audio responses, moving beyond text-based Q&amp;A. The feature is part of Amazon&apos;s broader push to embed conversational AI across its retail experience, potentially reducing friction in purchase decisions for hundreds of millions of customers. It also signals a shift toward voice as a primary interface for AI-assisted shopping.</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=-nkweVt5DrU</guid>
     </item>
     <item>
-      <title>ComfyUI raises $30M at $500M valuation as creators demand more control over AI-generated media</title>
-      <link>https://www.youtube.com/watch?v=O86F61DHVIY</link>
-      <description>ComfyUI, a platform that gives creators granular control over AI-generated image, video, and audio output, has raised $30 million in new funding at a $500 million valuation. The round signals growing investor conviction that professional and semi-professional creators want fine-grained tools rather than fully automated black-box AI generators. ComfyUI&apos;s node-based workflow system has attracted a large open-source community before this funding round. The company plans to use the capital to expand its tooling and enterprise offering.</description>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=O86F61DHVIY</guid>
+      <title>US lawmakers introduce bill mandating first comprehensive State Department assessment of China&apos;s AI capabilities</title>
+      <link>https://www.youtube.com/watch?v=TQ3Do93oMxk</link>
+      <description>US lawmakers have unveiled a draft bill that would, for the first time, legally require the State Department to deliver a detailed assessment of China&apos;s AI development to Congress, including identifying specific Chinese AI leaders and benchmarking China&apos;s progress against independent public metrics. The bill reflects escalating concern in Washington about the pace of Chinese AI advancement and the lack of structured intelligence on the topic feeding into policymaking. If passed, the resulting report would become a key document shaping US AI export controls, investment restrictions, and diplomatic strategy toward Beijing.</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=TQ3Do93oMxk</guid>
     </item>
     <item>
-      <title>Deadly deepfakes in conflict zones: AI-generated disinformation is putting civilians at risk globally</title>
-      <link>https://www.youtube.com/watch?v=Q15TrTBSi1s</link>
-      <description>Researcher Rachel Adams, writing for Rest of World, documents how AI-generated deepfakes are being deployed as weapons of disinformation in active conflict zones, directly undermining civilian safety by spreading false evacuation orders, fabricated atrocity footage, and fake official communications. The analysis highlights that the burden of AI-generated disinformation falls disproportionately on populations in the Global South, where platform moderation and AI detection tools are weakest. Adams calls out the role of Western technology companies in providing the infrastructure that enables this harm without adequate safeguards for non-Western users. The piece is an analytical essay rather than a breaking news report, drawing on documented cases from multiple conflict regions.</description>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Q15TrTBSi1s</guid>
+      <title>Humanitarian AI agents deployed by IRC provide critical assistance to refugees as crises outpace capacity</title>
+      <link>https://www.youtube.com/watch?v=75nR13ujOLA</link>
+      <description>The International Rescue Committee and its Signpost project are deploying purpose-built AI agents designed with safety guardrails to provide critical information and assistance to refugees and displaced populations, as the scale of global humanitarian crises increasingly outstrips human capacity to respond. The AI agents are purpose-designed rather than general-purpose, with a focus on avoiding harm to vulnerable users. The project represents one of the more concrete real-world tests of whether AI can be responsibly deployed in high-stakes, low-resource contexts outside the Global North.</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=75nR13ujOLA</guid>
     </item>
     <item>
-      <title>Netflix&apos;s AI deal with Ben Affleck&apos;s startup threatens VFX jobs across India, South Korea, and Latin America</title>
-      <link>https://www.youtube.com/watch?v=80_oBfydapc</link>
-      <description>Netflix has acquired Interpositive, a VFX startup co-founded by actor Ben Affleck, whose AI technology automates the frame-by-frame visual effects work that is currently performed by large workforces of artists in India, South Korea, and Latin America. Rest of World reports that the deal could displace significant numbers of workers in countries where Hollywood studios have long outsourced labour-intensive post-production tasks at lower cost. The acquisition raises concerns not only about job losses but also about the cultural and creative autonomy of non-English-speaking VFX industries. No workforce impact figures have been officially confirmed by Netflix or Interpositive.</description>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=80_oBfydapc</guid>
+      <title>YouTube tests AI-powered guided search answers for US Premium subscribers</title>
+      <link>https://www.youtube.com/watch?v=hKLVRfA_a6Q</link>
+      <description>YouTube is rolling out a new AI-powered search feature to Premium subscribers in the United States on an opt-in basis, surfacing guided answers directly in search results rather than just video lists. The feature represents Google&apos;s push to make YouTube a destination for AI-synthesised information, not just video discovery, competing more directly with AI search tools like Perplexity and ChatGPT Search. The opt-in rollout suggests YouTube is gathering user feedback before a broader release.</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=hKLVRfA_a6Q</guid>
     </item>
     <item>
-      <title>Cohere merges with Aleph Alpha to build sovereign AI alternative for European enterprises</title>
-      <link>https://www.youtube.com/watch?v=FTxuMDVw9cs</link>
-      <description>Canadian AI startup Cohere is acquiring Germany-based Aleph Alpha in a deal backed by Schwarz Group, the parent company of European retailer Lidl, with the explicit goal of offering a sovereign AI alternative to US-dominated providers for European enterprises. Both governments have signalled support for the transaction, framing it as a strategic move to reduce dependence on American AI infrastructure. The combined entity is expected to serve large enterprises seeking data sovereignty and compliance with EU AI and data regulations. Financial terms of the deal have not been fully disclosed.</description>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=FTxuMDVw9cs</guid>
+      <title>IBM&apos;s AI coding assistant &apos;Bob&apos; reaches global availability after 80,000-employee internal trial</title>
+      <link>https://www.youtube.com/watch?v=6qaasf208N0</link>
+      <description>IBM has announced global general availability of Bob, its AI coding assistant, following an internal pilot with 80,000 IBM employees used as test subjects over the past year. IBM claims the tool delivered measurable productivity gains, though specific metrics have not been independently verified. The launch positions IBM as a direct competitor in the crowded enterprise AI coding market alongside GitHub Copilot, Cursor, and Amazon CodeWhisperer, with the added hook of mainframe support.</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=6qaasf208N0</guid>
     </item>
     <item>
-      <title>Health-care AI is proliferating in hospitals, but evidence it helps patients remains thin</title>
-      <link>https://www.youtube.com/watch?v=8mVWhhOL_gs</link>
-      <description>AI tools are now widely used across US hospitals for clinical notetaking, patient record triage, flagging at-risk individuals, and interpreting X-rays and medical exam results. Despite this rapid deployment, MIT Technology Review reports that robust clinical evidence demonstrating these tools actually improve patient outcomes remains scarce. Hospitals are adopting AI faster than the research community can evaluate it, raising questions about whether procurement decisions are driven by efficiency promises rather than proven benefit. The article calls for more rigorous, independent trials before broader mandated rollout.</description>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=8mVWhhOL_gs</guid>
+      <title>EU orders Google to open Android&apos;s AI sandbox to rival assistants under Digital Markets Act</title>
+      <link>https://www.youtube.com/watch?v=fDHOuygNOcg</link>
+      <description>The European Commission is drawing up measures requiring Google to give competing AI assistants the same deep device-level access on Android smartphones that its own Gemini assistant currently enjoys, under Digital Markets Act enforcement. The move is aimed at preventing Google from locking rival AI services out of the most important hardware layer — the smartphone — as AI assistants become central to daily digital life. If implemented, billions of Android users globally could see more choice in which AI assistant integrates natively with their device.</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=fDHOuygNOcg</guid>
     </item>
     <item>
-      <title>AI optimism surges across Asia while Americans remain sceptical and distrust regulators</title>
-      <link>https://www.youtube.com/watch?v=QQy68PdBgBM</link>
-      <description>New research published by Rest of World shows a striking divergence in public attitudes toward AI: populations across Asia express significantly higher optimism about AI&apos;s benefits compared to Americans, who also report far lower trust in regulators to govern the technology responsibly. The findings suggest that cultural, economic, and governance contexts shape how societies receive and adopt AI, with potential long-term implications for where AI investment and talent flows. The survey did not specify which Asian countries were included or the sample sizes involved. These attitudinal gaps could influence how governments design AI policy and how companies prioritise regional market strategies.</description>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=QQy68PdBgBM</guid>
+      <title>Amazon launches OpenAI models on AWS Bedrock one day after Microsoft exclusivity ends</title>
+      <link>https://www.youtube.com/watch?v=rel9fPIHT5E</link>
+      <description>Just one day after OpenAI reached an agreement with Microsoft to end exclusive cloud rights, Amazon Web Services announced a slate of OpenAI model offerings on its Bedrock platform, including a new agent service. The rapid rollout signals how quickly the AI market is restructuring now that OpenAI can sell across multiple cloud providers. For businesses already on AWS, this means direct access to OpenAI&apos;s latest models without migrating infrastructure.</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=rel9fPIHT5E</guid>
     </item>
     <item>
-      <title>DeepSeek V4 preview released: longer context, open weights, and Huawei NPU support</title>
-      <link>https://www.youtube.com/watch?v=5SeB9iPAS2M</link>
-      <description>Chinese AI firm DeepSeek has released a preview of V4, its new flagship large language model, featuring significantly extended context windows enabled by a new architectural design for handling large amounts of text efficiently. Like its predecessors, V4 is open source and freely available, and it adds expanded support for Huawei&apos;s Ascend AI accelerator chips, reducing dependence on Nvidia hardware. MIT Technology Review identified three key reasons the model matters: its performance targets top proprietary models, its inference costs are a fraction of comparable systems, and its open-weights availability could shift global AI development dynamics. The model&apos;s preview status means full benchmarks have not yet been independently validated.</description>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=5SeB9iPAS2M</guid>
+      <title>Google expands Pentagon AI contract after Anthropic refuses DoD surveillance and weapons use</title>
+      <link>https://www.youtube.com/watch?v=q-NyWPdHWag</link>
+      <description>Google has signed a new contract expanding the US Department of Defense&apos;s access to its AI systems, stepping in after Anthropic declined to permit the DoD to use its models for domestic mass surveillance and autonomous weapons systems. The move highlights a growing divide among AI labs over where to draw ethical lines on military and surveillance applications. It raises immediate questions about the accountability frameworks governing AI in national security contexts and what safeguards, if any, are attached to Google&apos;s agreement.</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=q-NyWPdHWag</guid>
     </item>
   </channel>
 </rss>

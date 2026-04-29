@@ -562,6 +562,146 @@
     </video:video>
   </url>
   <url>
+    <loc>https://www.youtube.com/watch?v=5lhNsv4vpxw</loc>
+    <lastmod>2026-04-29T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Otter.ai launches cross-enterprise search connecting Gmail, Drive, Notion, Jira, and Salesforce</video:title>
+      <video:description>Otter.ai has launched a new feature allowing users to connect and query data across Gmail, Google Drive, Notion, Jira, and Salesforce alongside their existing meeting transcripts, creating a unified AI-powered search layer across enterprise tools. Microsoft Outlook, Teams, SharePoint, and Slack integrations are planned for the near future. The feature directly targets the daily productivity pain point of information being siloed across multiple platforms, a problem affecting millions of knowledge workers.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=5lhNsv4vpxw</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5lhNsv4vpxw/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-04-29T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=0kSQBbQnzCE</loc>
+    <lastmod>2026-04-29T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Vect ransomware hitting AI toolchains is actually a wiper — paying ransom recovers nothing</video:title>
+      <video:description>Check Point Research has confirmed that organisations hit by supply-chain attacks targeting Trivy and LiteLLM AI toolchain components — and who paid the Vect ransom — almost certainly did not recover their data, because Vect is not true ransomware but a wiper that permanently destroys any file larger than 128KB. The attacks are spreading through AI developer infrastructure that is increasingly integrated into enterprise systems worldwide. Security researchers warn that full data recovery is impossible for victims regardless of whether a ransom is paid.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=0kSQBbQnzCE</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/0kSQBbQnzCE/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-04-29T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=-nkweVt5DrU</loc>
+    <lastmod>2026-04-29T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Amazon adds AI-powered audio Q&amp;A to product pages, letting shoppers ask questions by voice</video:title>
+      <video:description>Amazon has launched a new feature called 'Join the chat' that allows shoppers to ask questions about products on its platform and receive AI-powered audio responses, moving beyond text-based Q&amp;A. The feature is part of Amazon's broader push to embed conversational AI across its retail experience, potentially reducing friction in purchase decisions for hundreds of millions of customers. It also signals a shift toward voice as a primary interface for AI-assisted shopping.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=-nkweVt5DrU</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/-nkweVt5DrU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-04-29T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=TQ3Do93oMxk</loc>
+    <lastmod>2026-04-29T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>US lawmakers introduce bill mandating first comprehensive State Department assessment of China's AI </video:title>
+      <video:description>US lawmakers have unveiled a draft bill that would, for the first time, legally require the State Department to deliver a detailed assessment of China's AI development to Congress, including identifying specific Chinese AI leaders and benchmarking China's progress against independent public metrics. The bill reflects escalating concern in Washington about the pace of Chinese AI advancement and the lack of structured intelligence on the topic feeding into policymaking. If passed, the resulting report would become a key document shaping US AI export controls, investment restrictions, and diplomatic strategy toward Beijing.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=TQ3Do93oMxk</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/TQ3Do93oMxk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-04-29T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=75nR13ujOLA</loc>
+    <lastmod>2026-04-29T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Humanitarian AI agents deployed by IRC provide critical assistance to refugees as crises outpace cap</video:title>
+      <video:description>The International Rescue Committee and its Signpost project are deploying purpose-built AI agents designed with safety guardrails to provide critical information and assistance to refugees and displaced populations, as the scale of global humanitarian crises increasingly outstrips human capacity to respond. The AI agents are purpose-designed rather than general-purpose, with a focus on avoiding harm to vulnerable users. The project represents one of the more concrete real-world tests of whether AI can be responsibly deployed in high-stakes, low-resource contexts outside the Global North.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=75nR13ujOLA</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/75nR13ujOLA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-04-29T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=hKLVRfA_a6Q</loc>
+    <lastmod>2026-04-29T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>YouTube tests AI-powered guided search answers for US Premium subscribers</video:title>
+      <video:description>YouTube is rolling out a new AI-powered search feature to Premium subscribers in the United States on an opt-in basis, surfacing guided answers directly in search results rather than just video lists. The feature represents Google's push to make YouTube a destination for AI-synthesised information, not just video discovery, competing more directly with AI search tools like Perplexity and ChatGPT Search. The opt-in rollout suggests YouTube is gathering user feedback before a broader release.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=hKLVRfA_a6Q</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/hKLVRfA_a6Q/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-04-29T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=6qaasf208N0</loc>
+    <lastmod>2026-04-29T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>IBM's AI coding assistant 'Bob' reaches global availability after 80,000-employee internal trial</video:title>
+      <video:description>IBM has announced global general availability of Bob, its AI coding assistant, following an internal pilot with 80,000 IBM employees used as test subjects over the past year. IBM claims the tool delivered measurable productivity gains, though specific metrics have not been independently verified. The launch positions IBM as a direct competitor in the crowded enterprise AI coding market alongside GitHub Copilot, Cursor, and Amazon CodeWhisperer, with the added hook of mainframe support.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=6qaasf208N0</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/6qaasf208N0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-04-29T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=fDHOuygNOcg</loc>
+    <lastmod>2026-04-29T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>EU orders Google to open Android's AI sandbox to rival assistants under Digital Markets Act</video:title>
+      <video:description>The European Commission is drawing up measures requiring Google to give competing AI assistants the same deep device-level access on Android smartphones that its own Gemini assistant currently enjoys, under Digital Markets Act enforcement. The move is aimed at preventing Google from locking rival AI services out of the most important hardware layer — the smartphone — as AI assistants become central to daily digital life. If implemented, billions of Android users globally could see more choice in which AI assistant integrates natively with their device.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=fDHOuygNOcg</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/fDHOuygNOcg/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-04-29T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=rel9fPIHT5E</loc>
+    <lastmod>2026-04-29T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Amazon launches OpenAI models on AWS Bedrock one day after Microsoft exclusivity ends</video:title>
+      <video:description>Just one day after OpenAI reached an agreement with Microsoft to end exclusive cloud rights, Amazon Web Services announced a slate of OpenAI model offerings on its Bedrock platform, including a new agent service. The rapid rollout signals how quickly the AI market is restructuring now that OpenAI can sell across multiple cloud providers. For businesses already on AWS, this means direct access to OpenAI's latest models without migrating infrastructure.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=rel9fPIHT5E</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/rel9fPIHT5E/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-04-29T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=q-NyWPdHWag</loc>
+    <lastmod>2026-04-29T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Google expands Pentagon AI contract after Anthropic refuses DoD surveillance and weapons use</video:title>
+      <video:description>Google has signed a new contract expanding the US Department of Defense's access to its AI systems, stepping in after Anthropic declined to permit the DoD to use its models for domestic mass surveillance and autonomous weapons systems. The move highlights a growing divide among AI labs over where to draw ethical lines on military and surveillance applications. It raises immediate questions about the accountability frameworks governing AI in national security contexts and what safeguards, if any, are attached to Google's agreement.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=q-NyWPdHWag</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/q-NyWPdHWag/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-04-29T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
     <loc>https://www.youtube.com/watch?v=bNxsC9iOBDk</loc>
     <lastmod>2026-04-27T00:00:00Z</lastmod>
     <changefreq>daily</changefreq>

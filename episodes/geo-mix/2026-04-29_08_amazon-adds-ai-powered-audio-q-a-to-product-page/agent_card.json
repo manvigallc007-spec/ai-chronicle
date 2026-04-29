@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-29",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=-nkweVt5DrU",
+  "thumbnail_url": "https://i.ytimg.com/vi/-nkweVt5DrU/maxresdefault.jpg",
+  "story": {
+    "title": "Amazon adds AI-powered audio Q&A to product pages, letting shoppers ask questions by voice",
+    "pillar": "Daily Utility",
+    "summary": "Amazon has launched a new feature called 'Join the chat' that allows shoppers to ask questions about products on its platform and receive AI-powered audio responses, moving beyond text-based Q&A. The feature is part of Amazon's broader push to embed conversational AI across its retail experience, potentially reducing friction in purchase decisions for hundreds of millions of customers. It also signals a shift toward voice as a primary interface for AI-assisted shopping.",
+    "source_url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Amazon"
+    ],
+    "technologies": [
+      "audio AI",
+      "conversational AI",
+      "voice Q&A"
+    ],
+    "use_cases": [
+      "AI-powered shopping assistant",
+      "voice commerce",
+      "product discovery"
+    ]
+  }
+}

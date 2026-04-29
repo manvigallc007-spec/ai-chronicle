@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-29",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=75nR13ujOLA",
+  "thumbnail_url": "https://i.ytimg.com/vi/75nR13ujOLA/maxresdefault.jpg",
+  "story": {
+    "title": "Humanitarian AI agents deployed by IRC provide critical assistance to refugees as crises outpace capacity",
+    "pillar": "Policy & Rights",
+    "summary": "The International Rescue Committee and its Signpost project are deploying purpose-built AI agents designed with safety guardrails to provide critical information and assistance to refugees and displaced populations, as the scale of global humanitarian crises increasingly outstrips human capacity to respond. The AI agents are purpose-designed rather than general-purpose, with a focus on avoiding harm to vulnerable users. The project represents one of the more concrete real-world tests of whether AI can be responsibly deployed in high-stakes, low-resource contexts outside the Global North.",
+    "source_url": "https://restofworld.org/2026/irc-signpost-humanitarian-ai-refugee-assistance/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source_name": "Rest of World",
+    "companies": [
+      "International Rescue Committee",
+      "Signpost"
+    ],
+    "technologies": [
+      "AI agents",
+      "safety-focused AI",
+      "humanitarian AI"
+    ],
+    "use_cases": [
+      "refugee assistance",
+      "humanitarian aid delivery",
+      "crisis response AI"
+    ]
+  }
+}

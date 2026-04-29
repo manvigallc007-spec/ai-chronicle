@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-29",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=5lhNsv4vpxw",
+  "thumbnail_url": "https://i.ytimg.com/vi/5lhNsv4vpxw/maxresdefault.jpg",
+  "story": {
+    "title": "Otter.ai launches cross-enterprise search connecting Gmail, Drive, Notion, Jira, and Salesforce",
+    "pillar": "Daily Utility",
+    "summary": "Otter.ai has launched a new feature allowing users to connect and query data across Gmail, Google Drive, Notion, Jira, and Salesforce alongside their existing meeting transcripts, creating a unified AI-powered search layer across enterprise tools. Microsoft Outlook, Teams, SharePoint, and Slack integrations are planned for the near future. The feature directly targets the daily productivity pain point of information being siloed across multiple platforms, a problem affecting millions of knowledge workers.",
+    "source_url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Otter.ai",
+      "Google",
+      "Notion",
+      "Atlassian",
+      "Salesforce"
+    ],
+    "technologies": [
+      "AI search",
+      "enterprise knowledge management",
+      "natural language query"
+    ],
+    "use_cases": [
+      "workplace productivity",
+      "cross-platform enterprise search",
+      "AI meeting assistant"
+    ]
+  }
+}

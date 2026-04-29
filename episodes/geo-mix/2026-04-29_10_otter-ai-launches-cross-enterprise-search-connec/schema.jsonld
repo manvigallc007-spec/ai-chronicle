@@ -1,0 +1,112 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-29",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-29T00:00:00Z",
+      "datePublished": "2026-04-29T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=5lhNsv4vpxw",
+      "embedUrl": "https://www.youtube.com/embed/5lhNsv4vpxw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5lhNsv4vpxw/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-29",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Otter.ai launches cross-enterprise search connecting Gmail, Drive, Notion, Jira, and Salesforce",
+            "articleSection": "Daily Utility",
+            "abstract": "Otter.ai has launched a new feature allowing users to connect and query data across Gmail, Google Drive, Notion, Jira, and Salesforce alongside their existing meeting transcripts, creating a unified AI-powered search layer across enterprise tools. Microsoft Outlook, Teams, SharePoint, and Slack integrations are planned for the near future. The feature directly targets the daily productivity pain point of information being siloed across multiple platforms, a problem affecting millions of knowledge workers.",
+            "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Otter.ai"
+              },
+              {
+                "@type": "Organization",
+                "name": "Google"
+              },
+              {
+                "@type": "Organization",
+                "name": "Notion"
+              },
+              {
+                "@type": "Organization",
+                "name": "Atlassian"
+              },
+              {
+                "@type": "Organization",
+                "name": "Salesforce"
+              },
+              {
+                "@type": "Organization",
+                "name": "Microsoft"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI search"
+              },
+              {
+                "@type": "Thing",
+                "name": "enterprise knowledge management"
+              },
+              {
+                "@type": "Thing",
+                "name": "natural language query"
+              }
+            ],
+            "keywords": "Otter.ai, Google, Notion, Atlassian, Salesforce, Microsoft, AI search, enterprise knowledge management, natural language query, workplace productivity, cross-platform enterprise search, AI meeting assistant",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

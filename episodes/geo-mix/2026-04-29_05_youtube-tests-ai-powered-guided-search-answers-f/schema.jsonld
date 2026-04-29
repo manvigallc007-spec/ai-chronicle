@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-29",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-29T00:00:00Z",
+      "datePublished": "2026-04-29T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=hKLVRfA_a6Q",
+      "embedUrl": "https://www.youtube.com/embed/hKLVRfA_a6Q",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hKLVRfA_a6Q/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-29",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "YouTube tests AI-powered guided search answers for US Premium subscribers",
+            "articleSection": "Daily Utility",
+            "abstract": "YouTube is rolling out a new AI-powered search feature to Premium subscribers in the United States on an opt-in basis, surfacing guided answers directly in search results rather than just video lists. The feature represents Google's push to make YouTube a destination for AI-synthesised information, not just video discovery, competing more directly with AI search tools like Perplexity and ChatGPT Search. The opt-in rollout suggests YouTube is gathering user feedback before a broader release.",
+            "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "YouTube"
+              },
+              {
+                "@type": "Organization",
+                "name": "Google"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI search"
+              },
+              {
+                "@type": "Thing",
+                "name": "guided answers"
+              },
+              {
+                "@type": "Thing",
+                "name": "generative AI"
+              }
+            ],
+            "keywords": "YouTube, Google, AI search, guided answers, generative AI, video search enhancement, AI-assisted information retrieval, consumer AI utility",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

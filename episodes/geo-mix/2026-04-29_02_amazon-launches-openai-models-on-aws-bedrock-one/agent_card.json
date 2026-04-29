@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-04-29",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=rel9fPIHT5E",
+  "thumbnail_url": "https://i.ytimg.com/vi/rel9fPIHT5E/maxresdefault.jpg",
+  "story": {
+    "title": "Amazon launches OpenAI models on AWS Bedrock one day after Microsoft exclusivity ends",
+    "pillar": "Daily Utility",
+    "summary": "Just one day after OpenAI reached an agreement with Microsoft to end exclusive cloud rights, Amazon Web Services announced a slate of OpenAI model offerings on its Bedrock platform, including a new agent service. The rapid rollout signals how quickly the AI market is restructuring now that OpenAI can sell across multiple cloud providers. For businesses already on AWS, this means direct access to OpenAI's latest models without migrating infrastructure.",
+    "source_url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Amazon",
+      "OpenAI",
+      "Microsoft",
+      "AWS"
+    ],
+    "technologies": [
+      "AWS Bedrock",
+      "AI agents",
+      "large language models"
+    ],
+    "use_cases": [
+      "enterprise AI deployment",
+      "cloud-based AI inference",
+      "AI agent services"
+    ]
+  }
+}

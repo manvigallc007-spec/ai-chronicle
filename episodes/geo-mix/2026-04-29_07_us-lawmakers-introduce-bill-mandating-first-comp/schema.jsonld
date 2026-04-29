@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-29",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-29T00:00:00Z",
+      "datePublished": "2026-04-29T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=TQ3Do93oMxk",
+      "embedUrl": "https://www.youtube.com/embed/TQ3Do93oMxk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TQ3Do93oMxk/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-29",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "US lawmakers introduce bill mandating first comprehensive State Department assessment of China's AI capabilities",
+            "articleSection": "Policy & Rights",
+            "abstract": "US lawmakers have unveiled a draft bill that would, for the first time, legally require the State Department to deliver a detailed assessment of China's AI development to Congress, including identifying specific Chinese AI leaders and benchmarking China's progress against independent public metrics. The bill reflects escalating concern in Washington about the pace of Chinese AI advancement and the lack of structured intelligence on the topic feeding into policymaking. If passed, the resulting report would become a key document shaping US AI export controls, investment restrictions, and diplomatic strategy toward Beijing.",
+            "url": "https://www.scmp.com/news/us/politics/article/3351764/us-draft-bill-targets-beijings-ai-rise-mandate-name-chinas-tech-leaders?utm_source=rss_feed",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "US State Department"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI benchmarking"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI policy"
+              },
+              {
+                "@type": "Thing",
+                "name": "frontier AI models"
+              }
+            ],
+            "keywords": "US State Department, AI benchmarking, AI policy, frontier AI models, national security AI assessment, AI governance, US-China AI competition policy",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

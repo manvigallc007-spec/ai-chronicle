@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-04-29",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-04-29T00:00:00Z",
+      "datePublished": "2026-04-29T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=-nkweVt5DrU",
+      "embedUrl": "https://www.youtube.com/embed/-nkweVt5DrU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-nkweVt5DrU/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-29",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Amazon adds AI-powered audio Q&A to product pages, letting shoppers ask questions by voice",
+            "articleSection": "Daily Utility",
+            "abstract": "Amazon has launched a new feature called 'Join the chat' that allows shoppers to ask questions about products on its platform and receive AI-powered audio responses, moving beyond text-based Q&A. The feature is part of Amazon's broader push to embed conversational AI across its retail experience, potentially reducing friction in purchase decisions for hundreds of millions of customers. It also signals a shift toward voice as a primary interface for AI-assisted shopping.",
+            "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Amazon"
+              },
+              {
+                "@type": "Thing",
+                "name": "audio AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "conversational AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "voice Q&A"
+              }
+            ],
+            "keywords": "Amazon, audio AI, conversational AI, voice Q&A, AI-powered shopping assistant, voice commerce, product discovery",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
