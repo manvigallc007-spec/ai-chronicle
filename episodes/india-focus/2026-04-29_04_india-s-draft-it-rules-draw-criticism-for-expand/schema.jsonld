@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-29",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-29T00:00:00Z",
+      "datePublished": "2026-04-29T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=9Hql6h0rVoM",
+      "embedUrl": "https://www.youtube.com/embed/9Hql6h0rVoM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9Hql6h0rVoM/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-29",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India's Draft IT Rules Draw Criticism for Expanding Content Blocking Powers With No Transparency Safeguards",
+            "articleSection": "Policy & Rights",
+            "abstract": "The Hindu's editorial analysis of India's draft amendments to the Information Technology Rules warns that proposed changes represent a significant tightening of state control over the digital public sphere, departing from existing judicial rulings on free expression. The draft rules would expand the government's ability to block online content — including AI-generated material — without adequate transparency requirements, due process, or independent review mechanisms. Legal experts cited in the piece argue that the amendments risk enabling digital overreach at a scale that could chill legitimate speech for millions of internet users in India.",
+            "url": "https://www.thehindu.com/opinion/op-ed/a-tightening-of-the-fist-in-indias-digital-public-square/article70913381.ece",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "MeitY"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI content detection"
+              },
+              {
+                "@type": "Thing",
+                "name": "content moderation systems"
+              },
+              {
+                "@type": "Thing",
+                "name": "digital governance frameworks"
+              }
+            ],
+            "keywords": "MeitY, AI content detection, content moderation systems, digital governance frameworks, online speech regulation, AI content takedown, platform accountability in India",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

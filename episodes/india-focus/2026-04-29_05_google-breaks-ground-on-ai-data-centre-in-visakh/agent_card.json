@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-29",
+  "rank": 5,
+  "video_url": "https://www.youtube.com/watch?v=pCb4q0vjvFs",
+  "thumbnail_url": "https://i.ytimg.com/vi/pCb4q0vjvFs/maxresdefault.jpg",
+  "story": {
+    "title": "Google Breaks Ground on AI Data Centre in Visakhapatnam as Part of $15B India Investment",
+    "pillar": "Discovery & Research",
+    "summary": "Google has officially broken ground on its AI data centre in Visakhapatnam, marking a concrete construction milestone in its announced $15 billion, five-year commitment to build a gigawatt-scale AI ecosystem in India. The facility is expected to become a major node in Google's Asia-Pacific AI infrastructure, providing cloud compute capacity to Indian enterprises, government bodies, and research institutions. The groundbreaking follows a series of high-level government engagements and positions Andhra Pradesh as a central geography in India's AI infrastructure buildout.",
+    "source_url": "https://yourstory.com/2026/04/google-breaks-ground-on-ai-hub-in-visakhapatnam",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "Google",
+      "Government of Andhra Pradesh"
+    ],
+    "technologies": [
+      "AI data centres",
+      "cloud compute",
+      "gigawatt-scale AI infrastructure"
+    ],
+    "use_cases": [
+      "AI cloud services for India",
+      "enterprise AI compute",
+      "government AI infrastructure"
+    ]
+  }
+}

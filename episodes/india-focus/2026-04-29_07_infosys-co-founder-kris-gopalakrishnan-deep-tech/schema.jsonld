@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-29",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-29T00:00:00Z",
+      "datePublished": "2026-04-29T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=i2z-VJ4bQVI",
+      "embedUrl": "https://www.youtube.com/embed/i2z-VJ4bQVI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/i2z-VJ4bQVI/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-29",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Infosys Co-Founder Kris Gopalakrishnan: Deep Tech and Advanced Manufacturing Will Drive India's Unicorn 2.0 Wave",
+            "articleSection": "How to Evolve",
+            "abstract": "Infosys co-founder Kris Gopalakrishnan has called for India's next generation of startups to anchor themselves in deep technology and advanced manufacturing rather than software services, framing this pivot as essential for national self-reliance and long-term competitive advantage. Gopalakrishnan described this shift as 'Unicorn 2.0', arguing that proprietary technology — including AI — must underpin future high-value companies rather than imported platforms or service arbitrage. His remarks carry weight given Infosys's own AI-driven restructuring pressures and reflect a growing consensus among India's senior tech leadership about where sustainable value creation lies.",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/deep-tech-to-drive-indias-unicorn-2-0-wave-infosys-co-founder-kris-gopalakrishnan/articleshow/130584010.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Infosys"
+              },
+              {
+                "@type": "Thing",
+                "name": "deep tech"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-embedded manufacturing"
+              },
+              {
+                "@type": "Thing",
+                "name": "proprietary AI platforms"
+              }
+            ],
+            "keywords": "Infosys, deep tech, AI-embedded manufacturing, proprietary AI platforms, AI-driven startup formation, technology self-reliance, next-generation Indian unicorns",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-29",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-29T00:00:00Z",
+      "datePublished": "2026-04-29T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Kpnu5ToOPBc",
+      "embedUrl": "https://www.youtube.com/embed/Kpnu5ToOPBc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Kpnu5ToOPBc/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-29",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "IAMAI Alleges TRAI Is Overstepping to Regulate OTT Platforms Like WhatsApp Under Spam Call Rules",
+            "articleSection": "Policy & Rights",
+            "abstract": "India's Internet and Mobile Association (IAMAI) has formally alleged that the Telecom Regulatory Authority of India (TRAI) is exceeding its jurisdiction by attempting to bring over-the-top platforms such as WhatsApp under the scope of proposed anti-spam regulations designed for traditional telecom services. IAMAI argues that OTT platforms are not telecommunications services and that requiring them to share user data under these rules would be unconstitutional. The dispute raises fundamental questions about regulatory boundaries in an era where AI-driven communication platforms increasingly blur the line between telecom and internet services.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/iamai-alleges-trai-attempts-to-regulate-ott-platforms/articleshow/130583945.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "IAMAI"
+              },
+              {
+                "@type": "Organization",
+                "name": "TRAI"
+              },
+              {
+                "@type": "Organization",
+                "name": "WhatsApp"
+              },
+              {
+                "@type": "Organization",
+                "name": "Meta"
+              },
+              {
+                "@type": "Thing",
+                "name": "OTT platforms"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-driven spam detection"
+              },
+              {
+                "@type": "Thing",
+                "name": "telecom regulation frameworks"
+              }
+            ],
+            "keywords": "IAMAI, TRAI, WhatsApp, Meta, OTT platforms, AI-driven spam detection, telecom regulation frameworks, platform regulatory compliance, anti-spam enforcement, AI communication oversight in India",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

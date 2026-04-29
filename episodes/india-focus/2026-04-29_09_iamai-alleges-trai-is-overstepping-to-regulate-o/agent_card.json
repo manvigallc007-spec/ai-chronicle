@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-29",
+  "rank": 9,
+  "video_url": "https://www.youtube.com/watch?v=Kpnu5ToOPBc",
+  "thumbnail_url": "https://i.ytimg.com/vi/Kpnu5ToOPBc/maxresdefault.jpg",
+  "story": {
+    "title": "IAMAI Alleges TRAI Is Overstepping to Regulate OTT Platforms Like WhatsApp Under Spam Call Rules",
+    "pillar": "Policy & Rights",
+    "summary": "India's Internet and Mobile Association (IAMAI) has formally alleged that the Telecom Regulatory Authority of India (TRAI) is exceeding its jurisdiction by attempting to bring over-the-top platforms such as WhatsApp under the scope of proposed anti-spam regulations designed for traditional telecom services. IAMAI argues that OTT platforms are not telecommunications services and that requiring them to share user data under these rules would be unconstitutional. The dispute raises fundamental questions about regulatory boundaries in an era where AI-driven communication platforms increasingly blur the line between telecom and internet services.",
+    "source_url": "https://economictimes.indiatimes.com/tech/technology/iamai-alleges-trai-attempts-to-regulate-ott-platforms/articleshow/130583945.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "IAMAI",
+      "TRAI",
+      "WhatsApp",
+      "Meta"
+    ],
+    "technologies": [
+      "OTT platforms",
+      "AI-driven spam detection",
+      "telecom regulation frameworks"
+    ],
+    "use_cases": [
+      "platform regulatory compliance",
+      "anti-spam enforcement",
+      "AI communication oversight in India"
+    ]
+  }
+}

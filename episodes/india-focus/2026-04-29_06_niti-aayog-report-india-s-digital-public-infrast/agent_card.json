@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-29",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=ktZKEbp4Dx4",
+  "thumbnail_url": "https://i.ytimg.com/vi/ktZKEbp4Dx4/maxresdefault.jpg",
+  "story": {
+    "title": "NITI Aayog Report: India's Digital Public Infrastructure Could Contribute 4% of GDP by 2030",
+    "pillar": "Policy & Rights",
+    "summary": "A new NITI Aayog report titled 'DPI@2047 for Viksit Bharat' projects that India's Digital Public Infrastructure initiatives — including UPI, Aadhaar, and emerging AI-linked data layers — could contribute up to 4% of GDP by 2030, describing the current moment as a 'once-in-a-generation inflection point'. The report lays out a strategic roadmap for non-linear, inclusive socio-economic growth through DPI expansion and calls for deeper integration of AI into public service delivery. The findings are significant for Indian policymakers, as they provide an official economic rationale for accelerating AI-linked digital infrastructure investment.",
+    "source_url": "https://yourstory.com/2026/04/digital-public-infra-initiatives-contribute-4-pc-gdp-2030-niti-report",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "NITI Aayog",
+      "Government of India"
+    ],
+    "technologies": [
+      "Digital Public Infrastructure",
+      "UPI",
+      "Aadhaar",
+      "AI in public services"
+    ],
+    "use_cases": [
+      "AI-driven public service delivery",
+      "inclusive economic growth",
+      "national digital strategy"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-29",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-29T00:00:00Z",
+      "datePublished": "2026-04-29T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=46-QdbehUhc",
+      "embedUrl": "https://www.youtube.com/embed/46-QdbehUhc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/46-QdbehUhc/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-29",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Jamtara Is Old News: How AI-Powered Synthetic Identity Fraud Is Now Threatening India's Digital Lenders",
+            "articleSection": "Daily Utility",
+            "abstract": "As India's digital lending sector scales rapidly, AI-powered synthetic identity fraud has emerged as a structural threat to the underwriting models that lenders rely upon, according to a YourStory analysis. Fraudsters are now using generative AI to construct convincing fake identities — combining real and fabricated personal data — that pass conventional KYC and credit scoring checks, forcing lenders to rethink risk assessment from the ground up. The piece argues that fraud is no longer a downstream compliance problem but has become an upstream design challenge embedded in how digital credit is originated in India.",
+            "url": "https://yourstory.com/2026/04/jamtara-was-just-the-trailer-fraud-runs-on-ai-now",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "digital lenders in India"
+              },
+              {
+                "@type": "Organization",
+                "name": "fintech sector"
+              },
+              {
+                "@type": "Thing",
+                "name": "generative AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "synthetic identity creation"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-powered KYC bypass"
+              }
+            ],
+            "keywords": "digital lenders in India, fintech sector, generative AI, synthetic identity creation, AI-powered KYC bypass, AI fraud detection, digital lending risk management, underwriting model redesign",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

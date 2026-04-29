@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-04-29",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=9Hql6h0rVoM",
+  "thumbnail_url": "https://i.ytimg.com/vi/9Hql6h0rVoM/maxresdefault.jpg",
+  "story": {
+    "title": "India's Draft IT Rules Draw Criticism for Expanding Content Blocking Powers With No Transparency Safeguards",
+    "pillar": "Policy & Rights",
+    "summary": "The Hindu's editorial analysis of India's draft amendments to the Information Technology Rules warns that proposed changes represent a significant tightening of state control over the digital public sphere, departing from existing judicial rulings on free expression. The draft rules would expand the government's ability to block online content — including AI-generated material — without adequate transparency requirements, due process, or independent review mechanisms. Legal experts cited in the piece argue that the amendments risk enabling digital overreach at a scale that could chill legitimate speech for millions of internet users in India.",
+    "source_url": "https://www.thehindu.com/opinion/op-ed/a-tightening-of-the-fist-in-indias-digital-public-square/article70913381.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "MeitY"
+    ],
+    "technologies": [
+      "AI content detection",
+      "content moderation systems",
+      "digital governance frameworks"
+    ],
+    "use_cases": [
+      "online speech regulation",
+      "AI content takedown",
+      "platform accountability in India"
+    ]
+  }
+}

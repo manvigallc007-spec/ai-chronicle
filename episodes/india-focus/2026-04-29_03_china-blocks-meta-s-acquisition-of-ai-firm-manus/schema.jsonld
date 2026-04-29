@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-29",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-29T00:00:00Z",
+      "datePublished": "2026-04-29T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=15x4Wvb1ev0",
+      "embedUrl": "https://www.youtube.com/embed/15x4Wvb1ev0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/15x4Wvb1ev0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-29",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "China Blocks Meta's Acquisition of AI Firm Manus — and the Move Has Direct Implications for India",
+            "articleSection": "Policy & Rights",
+            "abstract": "China's top economic planning body has blocked Meta's acquisition of AI startup Manus, asserting origin-country jurisdiction over the deal — a move that sets a significant precedent for how nations can claim regulatory authority over AI companies based on where the technology was developed, regardless of where the transaction occurs. MediaNama's analysis highlights that this decision has direct implications for India, which is building its own AI regulatory architecture and considering how to treat cross-border AI acquisitions involving Indian-origin technology. The ruling raises questions about whether India should establish similar sovereign controls over its emerging AI startup ecosystem.",
+            "url": "https://www.medianama.com/2026/04/223-china-blocks-meta-manus-deal-asserts-origin-country-jurisdiction-what-this-means-for-india/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Meta"
+              },
+              {
+                "@type": "Organization",
+                "name": "Manus"
+              },
+              {
+                "@type": "Organization",
+                "name": "MeitY"
+              },
+              {
+                "@type": "Thing",
+                "name": "agentic AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI acquisition regulation"
+              },
+              {
+                "@type": "Thing",
+                "name": "origin-country jurisdiction"
+              }
+            ],
+            "keywords": "Meta, Manus, MeitY, agentic AI, AI acquisition regulation, origin-country jurisdiction, cross-border AI M&A oversight, sovereign AI policy, Indian startup protection",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

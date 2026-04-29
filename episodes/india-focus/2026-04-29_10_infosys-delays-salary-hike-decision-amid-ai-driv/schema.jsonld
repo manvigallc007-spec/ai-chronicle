@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-04-29",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-04-29T00:00:00Z",
+      "datePublished": "2026-04-29T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=ObLrRdBCxkQ",
+      "embedUrl": "https://www.youtube.com/embed/ObLrRdBCxkQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ObLrRdBCxkQ/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-04-29",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Infosys Delays Salary Hike Decision Amid AI-Driven Cost Pressures and Cautious FY27 Revenue Outlook",
+            "articleSection": "Job Evolution",
+            "abstract": "Infosys management has told employees at a recent town hall that the company has not yet decided on salary revision timelines, citing macroeconomic uncertainty and cautious client spending — with communication already delayed by four months. The non-commitment comes as Infosys forecasts modest revenue growth for FY27 and faces compounding pressure from AI-driven productivity tools that are reducing billable headcount requirements. The development signals broader structural tension across India's IT sector, where AI efficiency gains are increasingly being absorbed as margin improvement rather than passed on to employees as wage growth.",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/infosys-non-committal-on-pay-hikes-keeps-employees-guessing/articleshow/130583743.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Infosys"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI productivity tools"
+              },
+              {
+                "@type": "Thing",
+                "name": "enterprise AI automation"
+              },
+              {
+                "@type": "Thing",
+                "name": "agentic software"
+              }
+            ],
+            "keywords": "Infosys, AI productivity tools, enterprise AI automation, agentic software, AI impact on IT workforce compensation, employee relations in AI transition, India IT sector restructuring",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
