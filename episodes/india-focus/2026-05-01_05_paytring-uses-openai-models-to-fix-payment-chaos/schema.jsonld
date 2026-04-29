@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-01",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-01T00:00:00Z",
+      "datePublished": "2026-05-01T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=SSV1sla7kpY",
+      "embedUrl": "https://www.youtube.com/embed/SSV1sla7kpY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SSV1sla7kpY/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-01",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Paytring Uses OpenAI Models to Fix Payment Chaos for Indian Merchants — Founder Explains How",
+            "articleSection": "Daily Utility",
+            "abstract": "Bengaluru-based fintech startup Paytring has built a payment orchestration layer for Indian merchants that uses OpenAI's language models to improve transaction success rates and simplify checkout operations. Founder Debal Chakraborty explains that AI is used to route payments intelligently across multiple gateways, reducing failures that cost merchants revenue on every failed transaction. The startup addresses a gap in India's booming digital payments ecosystem where checkout friction remains a persistent problem for small and mid-sized businesses.",
+            "url": "https://yourstory.com/2026/04/fintech-solving-payment-chaos-checkout-friction",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Paytring"
+              },
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Thing",
+                "name": "payment orchestration"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "transaction routing AI"
+              }
+            ],
+            "keywords": "Paytring, OpenAI, payment orchestration, large language models, transaction routing AI, merchant payment success optimisation, checkout friction reduction, AI-driven fintech",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-01",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-01T00:00:00Z",
+      "datePublished": "2026-05-01T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=qYU-Rg3OWd8",
+      "embedUrl": "https://www.youtube.com/embed/qYU-Rg3OWd8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qYU-Rg3OWd8/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-01",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "MobiKwik Secures NBFC Licence From RBI, Launches Own Lending Subsidiary to Move Beyond Distribution",
+            "articleSection": "Daily Utility",
+            "abstract": "Digital payments and financial services platform MobiKwik has received a Non-Banking Financial Company licence from the Reserve Bank of India, allowing it to launch its own lending subsidiary, MobiKwik Financial Services Private Limited, and move from being a lending distributor to a direct lender. The NBFC licence is a significant regulatory milestone that gives MobiKwik control over its own credit products, pricing, and underwriting rather than acting as a pass-through for partner NBFCs. This transition is expected to improve unit economics and enable the platform to offer more competitive loan products to its user base of tens of millions of Indians.",
+            "url": "https://www.medianama.com/2026/04/223-why-nbfc-licence-matters-mobikwik/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "MobiKwik"
+              },
+              {
+                "@type": "Organization",
+                "name": "MobiKwik Financial Services Private Limited"
+              },
+              {
+                "@type": "Organization",
+                "name": "Reserve Bank of India"
+              },
+              {
+                "@type": "Thing",
+                "name": "NBFC lending platforms"
+              },
+              {
+                "@type": "Thing",
+                "name": "digital credit underwriting"
+              },
+              {
+                "@type": "Thing",
+                "name": "fintech AI scoring"
+              }
+            ],
+            "keywords": "MobiKwik, MobiKwik Financial Services Private Limited, Reserve Bank of India, NBFC lending platforms, digital credit underwriting, fintech AI scoring, direct digital lending, fintech credit expansion, RBI-regulated financial services",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

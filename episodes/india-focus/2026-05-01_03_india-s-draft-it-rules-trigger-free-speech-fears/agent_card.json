@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-01",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=fCLVzRm8hJY",
+  "thumbnail_url": "https://i.ytimg.com/vi/fCLVzRm8hJY/maxresdefault.jpg",
+  "story": {
+    "title": "India's Draft IT Rules Trigger Free Speech Fears as IDC Gains Powers to Block Online Content",
+    "pillar": "Policy & Rights",
+    "summary": "The Hindu's editorial analysis of India's proposed IT Rules amendments warns that the draft departs from existing Supreme Court rulings and consolidates content-blocking authority in the executive, raising the risk of digital overreach. The piece highlights how the proposed Inter-Departmental Committee structure lacks judicial checks, giving bureaucrats power to restrict online speech without transparency or appeal mechanisms. Legal experts cited in the article argue the rules conflict with constitutional free speech protections.",
+    "source_url": "https://www.thehindu.com/opinion/op-ed/a-tightening-of-the-fist-in-indias-digital-public-square/article70913381.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "MeitY"
+    ],
+    "technologies": [
+      "content moderation systems",
+      "AI-assisted content blocking"
+    ],
+    "use_cases": [
+      "online speech governance",
+      "digital rights protection",
+      "judicial oversight of AI rules"
+    ]
+  }
+}

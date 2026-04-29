@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-01",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-01T00:00:00Z",
+      "datePublished": "2026-05-01T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=M9r-nJn4404",
+      "embedUrl": "https://www.youtube.com/embed/M9r-nJn4404",
+      "thumbnailUrl": "https://i.ytimg.com/vi/M9r-nJn4404/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-01",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India's Content Takedown Rules Under Scrutiny: Experts Warn of Expanding Powers With No Transparency",
+            "articleSection": "Policy & Rights",
+            "abstract": "A MediaNama discussion surfaced expert warnings that India's content-blocking legal framework is being expanded through draft IT Rules in ways that are largely hidden from public view, with experts saying what is not disclosed may be more consequential than what is. Former MeitY official Rakesh Maheshwari and former Meta public policy manager Snehashish Ghosh traced the origins of the three-hour content takedown mandate to the 2019 election code of ethics, revealing how an emergency electoral measure has been normalised into permanent regulatory architecture. Panellists warned that the lack of transparency in how blocking decisions are made leaves citizens and platforms with no meaningful redress.",
+            "url": "https://www.medianama.com/2026/04/223-india-content-blocking-laws-transparency-issue/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "MeitY"
+              },
+              {
+                "@type": "Organization",
+                "name": "Meta"
+              },
+              {
+                "@type": "Thing",
+                "name": "content moderation"
+              },
+              {
+                "@type": "Thing",
+                "name": "automated takedown systems"
+              }
+            ],
+            "keywords": "MeitY, Meta, content moderation, automated takedown systems, online content regulation, electoral misinformation control, platform compliance",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

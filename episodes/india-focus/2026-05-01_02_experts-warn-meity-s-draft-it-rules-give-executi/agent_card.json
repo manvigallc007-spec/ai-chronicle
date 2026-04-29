@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-01",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=oJrq7VvqaWs",
+  "thumbnail_url": "https://i.ytimg.com/vi/oJrq7VvqaWs/maxresdefault.jpg",
+  "story": {
+    "title": "Experts Warn MeitY's Draft IT Rules Give Executive Power to Issue Binding AI Advisories, Bypassing Parliament",
+    "pillar": "Policy & Rights",
+    "summary": "Legal and policy experts at a MediaNama event raised serious alarms over proposed Rule 3(4) in India's draft IT Rules amendments, which they say allows MeitY to issue binding advisories, guidelines, and standard operating procedures without parliamentary oversight or judicial review. Critics argue the provision effectively hands the executive branch unchecked authority to shape what speech is permissible online, with no mandatory transparency mechanism. The concern is compounded by separate warnings about an Inter-Departmental Committee being granted expansive powers to act as 'judge, jury, and executioner' over online content.",
+    "source_url": "https://www.medianama.com/2026/04/223-meity-binding-advisories-experts-alarm-draft-it-rules/",
+    "source_name": "Medianama",
+    "companies": [
+      "MeitY",
+      "Meta"
+    ],
+    "technologies": [
+      "AI content moderation",
+      "online speech regulation"
+    ],
+    "use_cases": [
+      "digital rights oversight",
+      "AI advisory enforcement",
+      "content blocking powers"
+    ]
+  }
+}

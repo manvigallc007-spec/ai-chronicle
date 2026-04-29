@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-01",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=M9r-nJn4404",
+  "thumbnail_url": "https://i.ytimg.com/vi/M9r-nJn4404/maxresdefault.jpg",
+  "story": {
+    "title": "India's Content Takedown Rules Under Scrutiny: Experts Warn of Expanding Powers With No Transparency",
+    "pillar": "Policy & Rights",
+    "summary": "A MediaNama discussion surfaced expert warnings that India's content-blocking legal framework is being expanded through draft IT Rules in ways that are largely hidden from public view, with experts saying what is not disclosed may be more consequential than what is. Former MeitY official Rakesh Maheshwari and former Meta public policy manager Snehashish Ghosh traced the origins of the three-hour content takedown mandate to the 2019 election code of ethics, revealing how an emergency electoral measure has been normalised into permanent regulatory architecture. Panellists warned that the lack of transparency in how blocking decisions are made leaves citizens and platforms with no meaningful redress.",
+    "source_url": "https://www.medianama.com/2026/04/223-india-content-blocking-laws-transparency-issue/",
+    "source_name": "Medianama",
+    "companies": [
+      "MeitY",
+      "Meta"
+    ],
+    "technologies": [
+      "content moderation",
+      "automated takedown systems"
+    ],
+    "use_cases": [
+      "online content regulation",
+      "electoral misinformation control",
+      "platform compliance"
+    ]
+  }
+}

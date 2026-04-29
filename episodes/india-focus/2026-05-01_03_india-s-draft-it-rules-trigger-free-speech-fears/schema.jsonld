@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-01",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-01T00:00:00Z",
+      "datePublished": "2026-05-01T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=fCLVzRm8hJY",
+      "embedUrl": "https://www.youtube.com/embed/fCLVzRm8hJY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fCLVzRm8hJY/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-01",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India's Draft IT Rules Trigger Free Speech Fears as IDC Gains Powers to Block Online Content",
+            "articleSection": "Policy & Rights",
+            "abstract": "The Hindu's editorial analysis of India's proposed IT Rules amendments warns that the draft departs from existing Supreme Court rulings and consolidates content-blocking authority in the executive, raising the risk of digital overreach. The piece highlights how the proposed Inter-Departmental Committee structure lacks judicial checks, giving bureaucrats power to restrict online speech without transparency or appeal mechanisms. Legal experts cited in the article argue the rules conflict with constitutional free speech protections.",
+            "url": "https://www.thehindu.com/opinion/op-ed/a-tightening-of-the-fist-in-indias-digital-public-square/article70913381.ece",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "MeitY"
+              },
+              {
+                "@type": "Thing",
+                "name": "content moderation systems"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-assisted content blocking"
+              }
+            ],
+            "keywords": "MeitY, content moderation systems, AI-assisted content blocking, online speech governance, digital rights protection, judicial oversight of AI rules",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

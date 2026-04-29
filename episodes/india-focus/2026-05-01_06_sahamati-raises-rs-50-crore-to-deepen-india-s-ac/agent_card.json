@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-01",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=-wXvk8pOp0I",
+  "thumbnail_url": "https://i.ytimg.com/vi/-wXvk8pOp0I/maxresdefault.jpg",
+  "story": {
+    "title": "Sahamati Raises Rs 50 Crore to Deepen India's Account Aggregator Ecosystem",
+    "pillar": "Daily Utility",
+    "summary": "Sahamati, the industry alliance backing India's Account Aggregator financial data-sharing framework, has raised Rs 50 crore from financial sector entities to strengthen its technical and policy infrastructure. The capital will be used to deepen ecosystem participation among banks, insurers, and fintech players who use the AA framework to enable consent-based financial data sharing for millions of Indians. The Account Aggregator system is a foundational piece of India's Digital Public Infrastructure and underpins credit access for underserved borrowers.",
+    "source_url": "https://yourstory.com/2026/04/sahamati-raises-rs-50-cr-financial-sector-entities",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "Sahamati"
+    ],
+    "technologies": [
+      "Account Aggregator framework",
+      "financial data APIs",
+      "Digital Public Infrastructure"
+    ],
+    "use_cases": [
+      "consent-based financial data sharing",
+      "credit access for underserved populations",
+      "fintech ecosystem development"
+    ]
+  }
+}

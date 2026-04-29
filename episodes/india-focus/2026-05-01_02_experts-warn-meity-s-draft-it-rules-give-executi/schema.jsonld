@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-01",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-01T00:00:00Z",
+      "datePublished": "2026-05-01T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=oJrq7VvqaWs",
+      "embedUrl": "https://www.youtube.com/embed/oJrq7VvqaWs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oJrq7VvqaWs/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-01",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Experts Warn MeitY's Draft IT Rules Give Executive Power to Issue Binding AI Advisories, Bypassing Parliament",
+            "articleSection": "Policy & Rights",
+            "abstract": "Legal and policy experts at a MediaNama event raised serious alarms over proposed Rule 3(4) in India's draft IT Rules amendments, which they say allows MeitY to issue binding advisories, guidelines, and standard operating procedures without parliamentary oversight or judicial review. Critics argue the provision effectively hands the executive branch unchecked authority to shape what speech is permissible online, with no mandatory transparency mechanism. The concern is compounded by separate warnings about an Inter-Departmental Committee being granted expansive powers to act as 'judge, jury, and executioner' over online content.",
+            "url": "https://www.medianama.com/2026/04/223-meity-binding-advisories-experts-alarm-draft-it-rules/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "MeitY"
+              },
+              {
+                "@type": "Organization",
+                "name": "Meta"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI content moderation"
+              },
+              {
+                "@type": "Thing",
+                "name": "online speech regulation"
+              }
+            ],
+            "keywords": "MeitY, Meta, AI content moderation, online speech regulation, digital rights oversight, AI advisory enforcement, content blocking powers",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

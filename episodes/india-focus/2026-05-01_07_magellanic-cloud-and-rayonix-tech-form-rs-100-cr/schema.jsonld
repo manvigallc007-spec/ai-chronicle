@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-01",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-01T00:00:00Z",
+      "datePublished": "2026-05-01T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=79m7qqJjZjA",
+      "embedUrl": "https://www.youtube.com/embed/79m7qqJjZjA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/79m7qqJjZjA/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-01",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Magellanic Cloud and Rayonix Tech Form Rs 100-Crore JV With Israel's Xtend to Make Drones in India",
+            "articleSection": "Discovery & Research",
+            "abstract": "Indian technology firms Magellanic Cloud and Rayonix Tech have announced a Rs 100-crore joint venture with Israeli drone technology company Xtend to manufacture advanced unmanned aerial vehicles in India. The JV aims to meet India's growing demand for sophisticated drones, with the first production-ready drone sets expected within four to six months. The initiative aligns with India's Make in India push for defence and dual-use technology self-reliance, reducing dependence on imported UAV systems.",
+            "url": "https://economictimes.indiatimes.com/tech/startups/magellanic-cloud-forms-rs-100-crore-jv-with-rayonix-tech-israels-xtend-to-make-drones-in-india/articleshow/130583795.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Magellanic Cloud"
+              },
+              {
+                "@type": "Organization",
+                "name": "Rayonix Tech"
+              },
+              {
+                "@type": "Organization",
+                "name": "Xtend"
+              },
+              {
+                "@type": "Thing",
+                "name": "unmanned aerial vehicles"
+              },
+              {
+                "@type": "Thing",
+                "name": "drone manufacturing"
+              },
+              {
+                "@type": "Thing",
+                "name": "defence AI systems"
+              }
+            ],
+            "keywords": "Magellanic Cloud, Rayonix Tech, Xtend, unmanned aerial vehicles, drone manufacturing, defence AI systems, domestic drone production, defence self-reliance, Make in India deeptech",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

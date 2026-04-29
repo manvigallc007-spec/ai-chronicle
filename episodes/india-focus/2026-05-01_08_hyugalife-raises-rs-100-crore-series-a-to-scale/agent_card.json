@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-01",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=h9BSVkFOMPo",
+  "thumbnail_url": "https://i.ytimg.com/vi/h9BSVkFOMPo/maxresdefault.jpg",
+  "story": {
+    "title": "HyugaLife Raises Rs 100 Crore Series A to Scale AI Personalisation and Dark Store Network Across India",
+    "pillar": "Daily Utility",
+    "summary": "Health and wellness e-commerce platform HyugaLife has closed a Rs 100 crore Series A round led by IvyCap Ventures, which it will deploy to strengthen its AI-driven personalisation engine, expand its dark store fulfilment network, and open offline retail touchpoints. The company uses AI to match customers with personalised health product recommendations based on lifestyle data, aiming to compete in India's rapidly growing wellness commerce segment. The funding positions HyugaLife to scale beyond its current urban customer base into Tier 2 and Tier 3 markets.",
+    "source_url": "https://yourstory.com/2026/04/funding-hyugalife-rs-100-crore-series-a-ivycap-ventures",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "HyugaLife",
+      "IvyCap Ventures"
+    ],
+    "technologies": [
+      "AI personalisation",
+      "dark store logistics",
+      "health recommendation AI"
+    ],
+    "use_cases": [
+      "personalised health e-commerce",
+      "wellness product discovery",
+      "Tier 2 market expansion"
+    ]
+  }
+}

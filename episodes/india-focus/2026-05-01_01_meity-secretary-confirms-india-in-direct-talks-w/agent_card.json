@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-01",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=qtYNpy78KjI",
+  "thumbnail_url": "https://i.ytimg.com/vi/qtYNpy78KjI/maxresdefault.jpg",
+  "story": {
+    "title": "MeitY Secretary Confirms India in Direct Talks With Anthropic Over Mythos Cybersecurity Threat",
+    "pillar": "Policy & Rights",
+    "summary": "India's Ministry of Electronics and Information Technology Secretary S. Krishnan confirmed the Union government is in direct talks with Anthropic regarding concerns over the Mythos AI model, describing AI's impact on cybersecurity as a 'very real threat' that has materialised 'in very real terms.' The development signals the Indian government's escalating concern about advanced AI capabilities posing risks to national digital infrastructure. This is the first confirmed high-level bilateral engagement between MeitY and Anthropic specifically on the Mythos vulnerability.",
+    "source_url": "https://www.thehindu.com/sci-tech/technology/union-government-speaking-to-anthropic-about-concerns-over-mythos-topmeityofficial/article70915651.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "Anthropic",
+      "MeitY"
+    ],
+    "technologies": [
+      "Mythos AI",
+      "cybersecurity AI",
+      "generative AI"
+    ],
+    "use_cases": [
+      "government AI risk diplomacy",
+      "cybersecurity threat assessment",
+      "AI vulnerability disclosure"
+    ]
+  }
+}
