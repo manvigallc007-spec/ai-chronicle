@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-04",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-04T00:00:00Z",
+      "datePublished": "2026-05-04T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=1nHWXpFrfEk",
+      "embedUrl": "https://www.youtube.com/embed/1nHWXpFrfEk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1nHWXpFrfEk/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-04",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "IndiaMART Stops Reporting Traffic Metrics as AI Agent Bots Overwhelm Platform With Agentic Traffic",
+            "articleSection": "Daily Utility",
+            "abstract": "IndiaMART, India's largest B2B e-commerce marketplace, has quietly stopped disclosing its 'unique business inquiries' traffic metric after agentic AI bots began flooding the platform with automated queries, distorting data that investors and sellers had relied on to gauge platform health. The company introduced OTP verification to filter bot traffic, but this created a 1% drop in genuine user conversion in Q4 FY26, illustrating the trade-off between data integrity and user friction. The shift marks a significant moment for Indian digital commerce: AI agents are now active enough to meaningfully disrupt the reporting and operations of a major public platform. This is one of the first documented cases of an Indian company formally abandoning a key business metric due to AI agent interference.",
+            "url": "https://www.medianama.com/2026/05/223-indiamart-q4fy26-agentic-traffic-stop-traffic-metrics/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "IndiaMART"
+              },
+              {
+                "@type": "Thing",
+                "name": "agentic AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI bots"
+              },
+              {
+                "@type": "Thing",
+                "name": "OTP verification"
+              },
+              {
+                "@type": "Thing",
+                "name": "B2B e-commerce platforms"
+              }
+            ],
+            "keywords": "IndiaMART, agentic AI, AI bots, OTP verification, B2B e-commerce platforms, AI agent traffic management, platform integrity, B2B marketplace operations",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-04",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=fIykjEVr8o0",
+  "thumbnail_url": "https://i.ytimg.com/vi/fIykjEVr8o0/maxresdefault.jpg",
+  "story": {
+    "title": "Apple Calls India's Competition Commission an Overreach as CCI-Apple Antitrust Dispute Intensifies",
+    "pillar": "Policy & Rights",
+    "summary": "Apple has formally accused India's Competition Commission (CCI) of overstepping its judicial authority after the regulator sought detailed financial information from the company — data typically requested when calculating penalties — following a 2024 investigation that found Apple abused its dominant position in the Indian app marketplace. Apple has disputed the CCI's jurisdiction to compel such disclosures, escalating what began as a regulatory inquiry into a high-stakes legal confrontation. The dispute has significant implications for how India regulates Big Tech, particularly as the government attempts to assert stronger sovereign oversight over dominant platform ecosystems. The outcome could set a precedent for how foreign tech giants respond to Indian antitrust authority.",
+    "source_url": "https://www.thehindu.com/sci-tech/technology/apple-says-india-antitrust-body-overstepping-judicial-authority-as-spat-intensifies/article70930709.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "Apple",
+      "Competition Commission of India"
+    ],
+    "technologies": [
+      "app marketplace",
+      "iOS platform"
+    ],
+    "use_cases": [
+      "antitrust regulation",
+      "platform accountability",
+      "Big Tech oversight in India"
+    ]
+  }
+}

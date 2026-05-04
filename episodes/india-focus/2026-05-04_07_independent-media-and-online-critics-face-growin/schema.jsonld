@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-04",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-04T00:00:00Z",
+      "datePublished": "2026-05-04T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=3Rekgm78W1M",
+      "embedUrl": "https://www.youtube.com/embed/3Rekgm78W1M",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3Rekgm78W1M/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-04",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Independent Media and Online Critics Face Growing Censorship Risk as India's Content Takedown Infrastructure Expands",
+            "articleSection": "Policy & Rights",
+            "abstract": "An investigative report by The Hindu finds that an expanding infrastructure of content takedown mechanisms — enabled by existing laws and IT rules — is being used by Central and State governments to suppress social media content, with independent media outlets and online critics increasingly caught in its crosshairs. The report documents how, in an environment of heightened concern about misinformation and deepfakes, legitimate opposing voices are also being targeted under the same regulatory tools. The analysis highlights how the lack of transparency in takedown orders makes it nearly impossible for affected parties to challenge removals. The piece adds fresh evidence to ongoing expert concerns about the erosion of digital free speech in India.",
+            "url": "https://www.thehindu.com/sci-tech/technology/independent-media-outlets-and-online-critics-far-from-a-safe-harbour/article70929031.ece",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "The Hindu"
+              },
+              {
+                "@type": "Thing",
+                "name": "content moderation systems"
+              },
+              {
+                "@type": "Thing",
+                "name": "deepfake detection"
+              },
+              {
+                "@type": "Thing",
+                "name": "social media platforms"
+              }
+            ],
+            "keywords": "The Hindu, content moderation systems, deepfake detection, social media platforms, digital free speech protection, online censorship documentation, media accountability",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-04",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=rdphpCotbuI",
+  "thumbnail_url": "https://i.ytimg.com/vi/rdphpCotbuI/maxresdefault.jpg",
+  "story": {
+    "title": "GalaxEye Launches World's First OptoSAR Satellite — India's Largest Private Space Payload Reaches Orbit",
+    "pillar": "Discovery & Research",
+    "summary": "Indian deep-tech startup GalaxEye successfully launched Mission Drishti aboard a SpaceX rocket, making it the world's first satellite to combine electro-optical and synthetic aperture radar (OptoSAR) sensors in a single 190-kilogram platform — the largest satellite ever built by an Indian private company. The satellite is designed to capture high-quality Earth observation data regardless of weather or lighting conditions, overcoming limitations of conventional single-sensor systems. Prime Minister Narendra Modi publicly hailed the launch as a landmark achievement for India's private space sector. GalaxEye expects to begin commercial data sales within eight weeks, with defence and security agencies anticipated as anchor customers.",
+    "source_url": "https://economictimes.indiatimes.com/tech/tech-bytes/internet-celebrates-galaxeyes-launch-of-worlds-first-optosar-satellite/articleshow/130735158.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "GalaxEye",
+      "SpaceX",
+      "ISRO"
+    ],
+    "technologies": [
+      "OptoSAR",
+      "synthetic aperture radar",
+      "electro-optical sensors",
+      "Earth observation satellites"
+    ],
+    "use_cases": [
+      "all-weather satellite imagery",
+      "defence and security intelligence",
+      "commercial remote sensing"
+    ]
+  }
+}

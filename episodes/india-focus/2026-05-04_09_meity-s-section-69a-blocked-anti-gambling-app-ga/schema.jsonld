@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-04",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-04T00:00:00Z",
+      "datePublished": "2026-05-04T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=bGZNgOTmLEY",
+      "embedUrl": "https://www.youtube.com/embed/bGZNgOTmLEY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bGZNgOTmLEY/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-04",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "MeitY's Section 69A Blocked Anti-Gambling App Gamban for Three Years Without Disclosing Reasons",
+            "articleSection": "Policy & Rights",
+            "abstract": "UK-based Gamban, an app designed to help people block access to gambling sites and protect themselves from addiction, says India's Ministry of Electronics and Information Technology blocked it under Section 69A of the IT Act for three years without providing any reasons or formal order. MeitY has cited privacy concerns as a justification, but Gamban's representatives describe the block as arbitrary and legally unfounded, noting the irony of a harm-reduction tool being censored without explanation. The case spotlights how opaque India's content blocking regime can be, even when the affected party is a consumer protection service. It adds a concrete new example to ongoing debates about the accountability and proportionality of Section 69A orders.",
+            "url": "https://www.medianama.com/2026/05/223-meitys-section-69a-blocked-anti-gambling-app-gamban-3-years-no-reasons-shared/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Gamban"
+              },
+              {
+                "@type": "Organization",
+                "name": "MeitY"
+              },
+              {
+                "@type": "Thing",
+                "name": "content blocking"
+              },
+              {
+                "@type": "Thing",
+                "name": "Section 69A IT Act"
+              },
+              {
+                "@type": "Thing",
+                "name": "app regulation"
+              }
+            ],
+            "keywords": "Gamban, MeitY, content blocking, Section 69A IT Act, app regulation, digital harm reduction, content takedown transparency, regulatory accountability",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

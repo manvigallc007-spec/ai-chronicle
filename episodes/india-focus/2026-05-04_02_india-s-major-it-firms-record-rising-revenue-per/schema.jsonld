@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-04",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-04T00:00:00Z",
+      "datePublished": "2026-05-04T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Zah6RqHmvk0",
+      "embedUrl": "https://www.youtube.com/embed/Zah6RqHmvk0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Zah6RqHmvk0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-04",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India's Major IT Firms Record Rising Revenue Per Employee as AI and Automation Drive Productivity Shift",
+            "articleSection": "Job Evolution",
+            "abstract": "India's top IT companies — including TCS, Infosys, HCLTech, and Tech Mahindra — have reported measurable increases in revenue generated per employee, a metric that signals a structural shift away from the traditional headcount-driven business model. Analysts attribute the gains to widespread adoption of AI coding assistants, automation of routine service tasks, and leaner project delivery pipelines. The trend suggests firms are extracting more value from existing workforces rather than scaling headcount proportionally with revenue. This marks one of the clearest financial confirmations yet that AI-led productivity is reshaping how India's $250-billion IT industry operates.",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/its-revenue-per-employee-up-in-productivity-win/articleshow/130739462.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Tata Consultancy Services"
+              },
+              {
+                "@type": "Organization",
+                "name": "Infosys"
+              },
+              {
+                "@type": "Organization",
+                "name": "HCLTech"
+              },
+              {
+                "@type": "Organization",
+                "name": "Tech Mahindra"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI automation"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI coding assistants"
+              },
+              {
+                "@type": "Thing",
+                "name": "generative AI"
+              }
+            ],
+            "keywords": "Tata Consultancy Services, Infosys, HCLTech, Tech Mahindra, AI automation, AI coding assistants, generative AI, IT service delivery optimisation, workforce productivity measurement, AI-driven cost efficiency",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

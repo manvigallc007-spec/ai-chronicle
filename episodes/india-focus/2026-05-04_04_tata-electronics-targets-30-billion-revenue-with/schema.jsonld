@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-04",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-04T00:00:00Z",
+      "datePublished": "2026-05-04T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=7MHx-8VSXGM",
+      "embedUrl": "https://www.youtube.com/embed/7MHx-8VSXGM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7MHx-8VSXGM/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-04",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Tata Electronics Targets $30 Billion Revenue With India's First Semiconductor Fab and Global Customer Wins",
+            "articleSection": "Discovery & Research",
+            "abstract": "Tata Electronics CEO and MD Randhir Thakur says the company aims to become a $30 billion business within five years, anchored by India's first semiconductor fabrication plant and an assembly and test unit currently under construction. The company has already achieved significant revenue growth and crossed into profitability, while securing global customers and manufacturing partnerships. Tata Electronics is simultaneously scaling its iPhone component manufacturing operations, making it one of India's most strategically significant industrial plays in electronics and semiconductors. The ambition positions India as a genuine alternative to China in global chip supply chains.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/tata-electronics-aims-to-be-30-billion-business-with-fab-play-ceo-md-randhir-thakur/articleshow/130739476.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Tata Electronics"
+              },
+              {
+                "@type": "Thing",
+                "name": "semiconductor fabrication"
+              },
+              {
+                "@type": "Thing",
+                "name": "chip assembly and test"
+              },
+              {
+                "@type": "Thing",
+                "name": "electronics manufacturing"
+              }
+            ],
+            "keywords": "Tata Electronics, semiconductor fabrication, chip assembly and test, electronics manufacturing, domestic semiconductor production, global supply chain diversification, AI hardware manufacturing",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

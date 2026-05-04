@@ -22,6 +22,76 @@
   ],
   "recent_episodes": [
     {
+      "title": "ISB DLabs I-HEAL Fourth Cohort: 15 Health Startups Building AI-Led Solutions for India's Most Overlooked Gaps",
+      "video_url": "https://www.youtube.com/watch?v=F_FETHFmWms",
+      "date": "2026-05-04",
+      "division": "india-focus",
+      "pillar": "Education & Youth"
+    },
+    {
+      "title": "MeitY's Section 69A Blocked Anti-Gambling App Gamban for Three Years Without Disclosing Reasons",
+      "video_url": "https://www.youtube.com/watch?v=bGZNgOTmLEY",
+      "date": "2026-05-04",
+      "division": "india-focus",
+      "pillar": "Policy & Rights"
+    },
+    {
+      "title": "Skyroot's Vikram-1 — India's First Private Orbital Rocket — Set for Launch From Sriharikota Within Weeks",
+      "video_url": "https://www.youtube.com/watch?v=P5-SwHvH0-s",
+      "date": "2026-05-04",
+      "division": "india-focus",
+      "pillar": "Discovery & Research"
+    },
+    {
+      "title": "Independent Media and Online Critics Face Growing Censorship Risk as India's Content Takedown Infrastructure Expands",
+      "video_url": "https://www.youtube.com/watch?v=3Rekgm78W1M",
+      "date": "2026-05-04",
+      "division": "india-focus",
+      "pillar": "Policy & Rights"
+    },
+    {
+      "title": "Apple Calls India's Competition Commission an Overreach as CCI-Apple Antitrust Dispute Intensifies",
+      "video_url": "https://www.youtube.com/watch?v=fIykjEVr8o0",
+      "date": "2026-05-04",
+      "division": "india-focus",
+      "pillar": "Policy & Rights"
+    },
+    {
+      "title": "IndiaMART Stops Reporting Traffic Metrics as AI Agent Bots Overwhelm Platform With Agentic Traffic",
+      "video_url": "https://www.youtube.com/watch?v=1nHWXpFrfEk",
+      "date": "2026-05-04",
+      "division": "india-focus",
+      "pillar": "Daily Utility"
+    },
+    {
+      "title": "Tata Electronics Targets $30 Billion Revenue With India's First Semiconductor Fab and Global Customer Wins",
+      "video_url": "https://www.youtube.com/watch?v=7MHx-8VSXGM",
+      "date": "2026-05-04",
+      "division": "india-focus",
+      "pillar": "Discovery & Research"
+    },
+    {
+      "title": "UpGrad to Acquire Unacademy for Rs 2,055 Crore — 90% Below Peak Valuation in India's Edtech Reckoning",
+      "video_url": "https://www.youtube.com/watch?v=xMZjQGdSqy0",
+      "date": "2026-05-04",
+      "division": "india-focus",
+      "pillar": "Education & Youth"
+    },
+    {
+      "title": "India's Major IT Firms Record Rising Revenue Per Employee as AI and Automation Drive Productivity Shift",
+      "video_url": "https://www.youtube.com/watch?v=Zah6RqHmvk0",
+      "date": "2026-05-04",
+      "division": "india-focus",
+      "pillar": "Job Evolution"
+    },
+    {
+      "title": "GalaxEye Launches World's First OptoSAR Satellite — India's Largest Private Space Payload Reaches Orbit",
+      "video_url": "https://www.youtube.com/watch?v=rdphpCotbuI",
+      "date": "2026-05-04",
+      "division": "india-focus",
+      "pillar": "Discovery & Research"
+    },
+    {
       "title": "MobiKwik Secures NBFC Licence From RBI, Launches Own Lending Subsidiary to Move Beyond Distribution",
       "video_url": "https://www.youtube.com/watch?v=qYU-Rg3OWd8",
       "date": "2026-05-01",
@@ -88,76 +158,6 @@
       "title": "MeitY Secretary Confirms India in Direct Talks With Anthropic Over Mythos Cybersecurity Threat",
       "video_url": "https://www.youtube.com/watch?v=qtYNpy78KjI",
       "date": "2026-05-01",
-      "division": "india-focus",
-      "pillar": "Policy & Rights"
-    },
-    {
-      "title": "Infosys Delays Salary Hike Decision Amid AI-Driven Cost Pressures and Cautious FY27 Revenue Outlook",
-      "video_url": "https://www.youtube.com/watch?v=ObLrRdBCxkQ",
-      "date": "2026-04-29",
-      "division": "india-focus",
-      "pillar": "Job Evolution"
-    },
-    {
-      "title": "IAMAI Alleges TRAI Is Overstepping to Regulate OTT Platforms Like WhatsApp Under Spam Call Rules",
-      "video_url": "https://www.youtube.com/watch?v=Kpnu5ToOPBc",
-      "date": "2026-04-29",
-      "division": "india-focus",
-      "pillar": "Policy & Rights"
-    },
-    {
-      "title": "Jamtara Is Old News: How AI-Powered Synthetic Identity Fraud Is Now Threatening India's Digital Lenders",
-      "video_url": "https://www.youtube.com/watch?v=46-QdbehUhc",
-      "date": "2026-04-29",
-      "division": "india-focus",
-      "pillar": "Daily Utility"
-    },
-    {
-      "title": "Infosys Co-Founder Kris Gopalakrishnan: Deep Tech and Advanced Manufacturing Will Drive India's Unicorn 2.0 Wave",
-      "video_url": "https://www.youtube.com/watch?v=i2z-VJ4bQVI",
-      "date": "2026-04-29",
-      "division": "india-focus",
-      "pillar": "How to Evolve"
-    },
-    {
-      "title": "NITI Aayog Report: India's Digital Public Infrastructure Could Contribute 4% of GDP by 2030",
-      "video_url": "https://www.youtube.com/watch?v=ktZKEbp4Dx4",
-      "date": "2026-04-29",
-      "division": "india-focus",
-      "pillar": "Policy & Rights"
-    },
-    {
-      "title": "Google Breaks Ground on AI Data Centre in Visakhapatnam as Part of $15B India Investment",
-      "video_url": "https://www.youtube.com/watch?v=pCb4q0vjvFs",
-      "date": "2026-04-29",
-      "division": "india-focus",
-      "pillar": "Discovery & Research"
-    },
-    {
-      "title": "India's Draft IT Rules Draw Criticism for Expanding Content Blocking Powers With No Transparency Safeguards",
-      "video_url": "https://www.youtube.com/watch?v=9Hql6h0rVoM",
-      "date": "2026-04-29",
-      "division": "india-focus",
-      "pillar": "Policy & Rights"
-    },
-    {
-      "title": "China Blocks Meta's Acquisition of AI Firm Manus — and the Move Has Direct Implications for India",
-      "video_url": "https://www.youtube.com/watch?v=15x4Wvb1ev0",
-      "date": "2026-04-29",
-      "division": "india-focus",
-      "pillar": "Policy & Rights"
-    },
-    {
-      "title": "Experts Warn MeitY's Draft IT Rules Would Let Executive Bypass Parliament to Issue Binding AI Advisories",
-      "video_url": "https://www.youtube.com/watch?v=KyGqQTE_-UI",
-      "date": "2026-04-29",
-      "division": "india-focus",
-      "pillar": "Policy & Rights"
-    },
-    {
-      "title": "MeitY Secretary Confirms India in Direct Talks With Anthropic Over Mythos Cybersecurity Threat",
-      "video_url": "https://www.youtube.com/watch?v=O0wRJ0I0kkU",
-      "date": "2026-04-29",
       "division": "india-focus",
       "pillar": "Policy & Rights"
     }

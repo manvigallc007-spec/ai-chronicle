@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-04",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-04T00:00:00Z",
+      "datePublished": "2026-05-04T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=xMZjQGdSqy0",
+      "embedUrl": "https://www.youtube.com/embed/xMZjQGdSqy0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xMZjQGdSqy0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-04",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "UpGrad to Acquire Unacademy for Rs 2,055 Crore — 90% Below Peak Valuation in India's Edtech Reckoning",
+            "articleSection": "Education & Youth",
+            "abstract": "Ronnie Screwvala's UpGrad is set to acquire Unacademy for approximately Rs 2,055 crore — a valuation nearly 90% below Unacademy's peak of over Rs 20,000 crore — marking one of the starkest corrections in India's edtech sector since its pandemic-era peak. The deal, which follows months of on-again, off-again negotiations, is being financed partly through an internal fundraising round of approximately Rs 375 crore from existing backers including Temasek, a common investor in both companies. The consolidation reflects broader pressure on India's online learning platforms as post-COVID enrolment normalised and profitability proved elusive. The combined entity would position UpGrad as India's dominant working-professional upskilling platform.",
+            "url": "https://economictimes.indiatimes.com/tech/startups/upgrad-to-acquire-unacademy-at-lower-rs-2000-crore-valuation/articleshow/130738922.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "UpGrad"
+              },
+              {
+                "@type": "Organization",
+                "name": "Unacademy"
+              },
+              {
+                "@type": "Organization",
+                "name": "Temasek"
+              },
+              {
+                "@type": "Thing",
+                "name": "online learning platforms"
+              },
+              {
+                "@type": "Thing",
+                "name": "edtech"
+              }
+            ],
+            "keywords": "UpGrad, Unacademy, Temasek, online learning platforms, edtech, professional upskilling, online education consolidation, edtech M&A",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

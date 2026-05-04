@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-04",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-04T00:00:00Z",
+      "datePublished": "2026-05-04T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=F_FETHFmWms",
+      "embedUrl": "https://www.youtube.com/embed/F_FETHFmWms",
+      "thumbnailUrl": "https://i.ytimg.com/vi/F_FETHFmWms/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-04",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "ISB DLabs I-HEAL Fourth Cohort: 15 Health Startups Building AI-Led Solutions for India's Most Overlooked Gaps",
+            "articleSection": "Education & Youth",
+            "abstract": "The Indian School of Business's DLabs accelerator has unveiled 15 startups in the fourth cohort of its I-HEAL healthcare programme, each targeting persistent and underserved gaps across India's health system — from diagnostics and rehabilitation to hearing health, which affects over 63 million Indians. The cohort reflects a broader push to build technology-enabled solutions that can reach patients beyond urban hospital infrastructure. Several startups are deploying AI for early diagnosis, remote monitoring, and personalised care pathways in areas where specialist access is limited. The programme positions ISB as a key institutional bridge between academic research and applied health innovation in India.",
+            "url": "https://yourstory.com/2026/04/meet-15-startups-in-isb-dlabs-i-heal-fourth-cohort-tackling-critical-healthcare-gaps",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "ISB DLabs"
+              },
+              {
+                "@type": "Organization",
+                "name": "Indian School of Business"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI diagnostics"
+              },
+              {
+                "@type": "Thing",
+                "name": "remote health monitoring"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-powered rehabilitation tools"
+              }
+            ],
+            "keywords": "ISB DLabs, Indian School of Business, AI diagnostics, remote health monitoring, AI-powered rehabilitation tools, last-mile healthcare delivery, hearing health technology, AI-assisted diagnosis in underserved regions",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

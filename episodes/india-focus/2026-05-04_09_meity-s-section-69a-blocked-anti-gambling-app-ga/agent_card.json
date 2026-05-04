@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-04",
+  "rank": 9,
+  "video_url": "https://www.youtube.com/watch?v=bGZNgOTmLEY",
+  "thumbnail_url": "https://i.ytimg.com/vi/bGZNgOTmLEY/maxresdefault.jpg",
+  "story": {
+    "title": "MeitY's Section 69A Blocked Anti-Gambling App Gamban for Three Years Without Disclosing Reasons",
+    "pillar": "Policy & Rights",
+    "summary": "UK-based Gamban, an app designed to help people block access to gambling sites and protect themselves from addiction, says India's Ministry of Electronics and Information Technology blocked it under Section 69A of the IT Act for three years without providing any reasons or formal order. MeitY has cited privacy concerns as a justification, but Gamban's representatives describe the block as arbitrary and legally unfounded, noting the irony of a harm-reduction tool being censored without explanation. The case spotlights how opaque India's content blocking regime can be, even when the affected party is a consumer protection service. It adds a concrete new example to ongoing debates about the accountability and proportionality of Section 69A orders.",
+    "source_url": "https://www.medianama.com/2026/05/223-meitys-section-69a-blocked-anti-gambling-app-gamban-3-years-no-reasons-shared/",
+    "source_name": "Medianama",
+    "companies": [
+      "Gamban",
+      "MeitY"
+    ],
+    "technologies": [
+      "content blocking",
+      "Section 69A IT Act",
+      "app regulation"
+    ],
+    "use_cases": [
+      "digital harm reduction",
+      "content takedown transparency",
+      "regulatory accountability"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-04",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=xMZjQGdSqy0",
+  "thumbnail_url": "https://i.ytimg.com/vi/xMZjQGdSqy0/maxresdefault.jpg",
+  "story": {
+    "title": "UpGrad to Acquire Unacademy for Rs 2,055 Crore — 90% Below Peak Valuation in India's Edtech Reckoning",
+    "pillar": "Education & Youth",
+    "summary": "Ronnie Screwvala's UpGrad is set to acquire Unacademy for approximately Rs 2,055 crore — a valuation nearly 90% below Unacademy's peak of over Rs 20,000 crore — marking one of the starkest corrections in India's edtech sector since its pandemic-era peak. The deal, which follows months of on-again, off-again negotiations, is being financed partly through an internal fundraising round of approximately Rs 375 crore from existing backers including Temasek, a common investor in both companies. The consolidation reflects broader pressure on India's online learning platforms as post-COVID enrolment normalised and profitability proved elusive. The combined entity would position UpGrad as India's dominant working-professional upskilling platform.",
+    "source_url": "https://economictimes.indiatimes.com/tech/startups/upgrad-to-acquire-unacademy-at-lower-rs-2000-crore-valuation/articleshow/130738922.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "UpGrad",
+      "Unacademy",
+      "Temasek"
+    ],
+    "technologies": [
+      "online learning platforms",
+      "edtech"
+    ],
+    "use_cases": [
+      "professional upskilling",
+      "online education consolidation",
+      "edtech M&A"
+    ]
+  }
+}

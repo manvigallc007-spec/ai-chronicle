@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-04",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=Zah6RqHmvk0",
+  "thumbnail_url": "https://i.ytimg.com/vi/Zah6RqHmvk0/maxresdefault.jpg",
+  "story": {
+    "title": "India's Major IT Firms Record Rising Revenue Per Employee as AI and Automation Drive Productivity Shift",
+    "pillar": "Job Evolution",
+    "summary": "India's top IT companies — including TCS, Infosys, HCLTech, and Tech Mahindra — have reported measurable increases in revenue generated per employee, a metric that signals a structural shift away from the traditional headcount-driven business model. Analysts attribute the gains to widespread adoption of AI coding assistants, automation of routine service tasks, and leaner project delivery pipelines. The trend suggests firms are extracting more value from existing workforces rather than scaling headcount proportionally with revenue. This marks one of the clearest financial confirmations yet that AI-led productivity is reshaping how India's $250-billion IT industry operates.",
+    "source_url": "https://economictimes.indiatimes.com/tech/information-tech/its-revenue-per-employee-up-in-productivity-win/articleshow/130739462.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Tata Consultancy Services",
+      "Infosys",
+      "HCLTech",
+      "Tech Mahindra"
+    ],
+    "technologies": [
+      "AI automation",
+      "AI coding assistants",
+      "generative AI"
+    ],
+    "use_cases": [
+      "IT service delivery optimisation",
+      "workforce productivity measurement",
+      "AI-driven cost efficiency"
+    ]
+  }
+}

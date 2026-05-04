@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-04",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=F_FETHFmWms",
+  "thumbnail_url": "https://i.ytimg.com/vi/F_FETHFmWms/maxresdefault.jpg",
+  "story": {
+    "title": "ISB DLabs I-HEAL Fourth Cohort: 15 Health Startups Building AI-Led Solutions for India's Most Overlooked Gaps",
+    "pillar": "Education & Youth",
+    "summary": "The Indian School of Business's DLabs accelerator has unveiled 15 startups in the fourth cohort of its I-HEAL healthcare programme, each targeting persistent and underserved gaps across India's health system — from diagnostics and rehabilitation to hearing health, which affects over 63 million Indians. The cohort reflects a broader push to build technology-enabled solutions that can reach patients beyond urban hospital infrastructure. Several startups are deploying AI for early diagnosis, remote monitoring, and personalised care pathways in areas where specialist access is limited. The programme positions ISB as a key institutional bridge between academic research and applied health innovation in India.",
+    "source_url": "https://yourstory.com/2026/04/meet-15-startups-in-isb-dlabs-i-heal-fourth-cohort-tackling-critical-healthcare-gaps",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "ISB DLabs",
+      "Indian School of Business"
+    ],
+    "technologies": [
+      "AI diagnostics",
+      "remote health monitoring",
+      "AI-powered rehabilitation tools"
+    ],
+    "use_cases": [
+      "last-mile healthcare delivery",
+      "hearing health technology",
+      "AI-assisted diagnosis in underserved regions"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-04",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-04T00:00:00Z",
+      "datePublished": "2026-05-04T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=rdphpCotbuI",
+      "embedUrl": "https://www.youtube.com/embed/rdphpCotbuI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rdphpCotbuI/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-04",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "GalaxEye Launches World's First OptoSAR Satellite — India's Largest Private Space Payload Reaches Orbit",
+            "articleSection": "Discovery & Research",
+            "abstract": "Indian deep-tech startup GalaxEye successfully launched Mission Drishti aboard a SpaceX rocket, making it the world's first satellite to combine electro-optical and synthetic aperture radar (OptoSAR) sensors in a single 190-kilogram platform — the largest satellite ever built by an Indian private company. The satellite is designed to capture high-quality Earth observation data regardless of weather or lighting conditions, overcoming limitations of conventional single-sensor systems. Prime Minister Narendra Modi publicly hailed the launch as a landmark achievement for India's private space sector. GalaxEye expects to begin commercial data sales within eight weeks, with defence and security agencies anticipated as anchor customers.",
+            "url": "https://economictimes.indiatimes.com/tech/tech-bytes/internet-celebrates-galaxeyes-launch-of-worlds-first-optosar-satellite/articleshow/130735158.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "GalaxEye"
+              },
+              {
+                "@type": "Organization",
+                "name": "SpaceX"
+              },
+              {
+                "@type": "Organization",
+                "name": "ISRO"
+              },
+              {
+                "@type": "Thing",
+                "name": "OptoSAR"
+              },
+              {
+                "@type": "Thing",
+                "name": "synthetic aperture radar"
+              },
+              {
+                "@type": "Thing",
+                "name": "electro-optical sensors"
+              },
+              {
+                "@type": "Thing",
+                "name": "Earth observation satellites"
+              }
+            ],
+            "keywords": "GalaxEye, SpaceX, ISRO, OptoSAR, synthetic aperture radar, electro-optical sensors, Earth observation satellites, all-weather satellite imagery, defence and security intelligence, commercial remote sensing",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-04",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=P5-SwHvH0-s",
+  "thumbnail_url": "https://i.ytimg.com/vi/P5-SwHvH0-s/maxresdefault.jpg",
+  "story": {
+    "title": "Skyroot's Vikram-1 — India's First Private Orbital Rocket — Set for Launch From Sriharikota Within Weeks",
+    "pillar": "Discovery & Research",
+    "summary": "Hyderabad-based Skyroot Aerospace is weeks away from launching Vikram-1, which would become India's first privately developed orbital rocket to reach space, lifting off from ISRO's Sriharikota launch facility. The test flight will carry diverse payloads and is designed primarily to gather engineering data that will underpin future commercial missions. A successful launch would establish Skyroot as a credible competitor for global satellite launch contracts, building on India's reputation as a cost-effective launch destination. The milestone reflects the maturation of India's private space sector following policy reforms that opened ISRO's infrastructure to commercial operators.",
+    "source_url": "https://economictimes.indiatimes.com/tech/technology/skyroot-vikram-1-rocket-is-raring-to-soar-high/articleshow/130739460.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Skyroot Aerospace",
+      "ISRO"
+    ],
+    "technologies": [
+      "Vikram-1 orbital rocket",
+      "private launch vehicles",
+      "space payload delivery"
+    ],
+    "use_cases": [
+      "commercial satellite launch",
+      "private space sector development",
+      "orbital test flight"
+    ]
+  }
+}
