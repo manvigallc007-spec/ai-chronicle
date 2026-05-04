@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-04",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=JScZ2anC3E8",
+  "thumbnail_url": "https://i.ytimg.com/vi/JScZ2anC3E8/maxresdefault.jpg",
+  "story": {
+    "title": "Chinese court rules AI cost-cutting is not legal grounds to fire workers, setting landmark precedent",
+    "pillar": "Job Evolution",
+    "summary": "A court in Hangzhou, China has ruled that a fintech company acted illegally when it dismissed a 35-year-old employee on the grounds that an AI replacement would be cheaper, rejecting the argument that cost savings from automation justify termination. The worker, surnamed Zhou, had overseen AI-generated responses and was offered a demotion and pay cut before being fired for refusing. The ruling is being watched closely as China grapples with rising anxiety about AI-driven unemployment, and the court affirmed that existing labour protections cover workers displaced by automation.",
+    "source_url": "https://www.scmp.com/tech/tech-trends/article/3352327/ai-cost-cutting-not-legal-excuse-fire-workers-chinese-court-says",
+    "source_name": "SCMP Tech",
+    "companies": [
+      "unnamed Hangzhou fintech firm"
+    ],
+    "technologies": [
+      "AI-generated content",
+      "large language models"
+    ],
+    "use_cases": [
+      "AI replacing white-collar roles",
+      "labour law and automation",
+      "worker rights in AI transition"
+    ]
+  }
+}

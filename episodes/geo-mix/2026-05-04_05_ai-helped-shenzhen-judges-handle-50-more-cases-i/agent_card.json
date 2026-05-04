@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-04",
+  "rank": 5,
+  "video_url": "https://www.youtube.com/watch?v=s48t1Sr6v8E",
+  "thumbnail_url": "https://i.ytimg.com/vi/s48t1Sr6v8E/maxresdefault.jpg",
+  "story": {
+    "title": "AI helped Shenzhen judges handle 50% more cases in 2025 and will now expand to dozens of Chinese cities",
+    "pillar": "Daily Utility",
+    "summary": "Judges at Shenzhen's Intermediate People's Court processed 50 percent more cases in 2025 compared to 2024, with each judge handling an average of 744 cases — up by 249 — after deploying a pilot AI-powered case management system. The court has announced the system will now be rolled out to dozens of additional Chinese cities. The development marks one of the most concrete large-scale deployments of AI in a national judicial system, raising both efficiency and due-process questions.",
+    "source_url": "https://www.scmp.com/news/china/politics/article/3352161/ai-helped-shenzhen-judges-handle-cases-50-faster-future-china",
+    "source_name": "SCMP Tech",
+    "companies": [
+      "Shenzhen Intermediate People's Court"
+    ],
+    "technologies": [
+      "AI case management",
+      "judicial AI systems",
+      "legal technology"
+    ],
+    "use_cases": [
+      "court efficiency",
+      "AI in legal systems",
+      "judicial administration"
+    ]
+  }
+}

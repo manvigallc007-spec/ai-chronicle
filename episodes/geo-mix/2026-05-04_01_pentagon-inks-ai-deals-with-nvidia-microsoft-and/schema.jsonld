@@ -1,0 +1,108 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-04",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-04T00:00:00Z",
+      "datePublished": "2026-05-04T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=0CNLWmkFY5w",
+      "embedUrl": "https://www.youtube.com/embed/0CNLWmkFY5w",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0CNLWmkFY5w/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-04",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Pentagon inks AI deals with Nvidia, Microsoft, and AWS to deploy models on classified networks",
+            "articleSection": "Policy & Rights",
+            "abstract": "The US Department of Defense has signed new contracts with Nvidia, Microsoft, and Amazon Web Services to bring AI capabilities into classified government networks. The move comes after the DoD's high-profile dispute with Anthropic over the terms of use for its AI models, prompting the Pentagon to diversify its AI vendor base. The deals signal a major escalation in the US military's adoption of commercial AI for sensitive operations.",
+            "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Nvidia"
+              },
+              {
+                "@type": "Organization",
+                "name": "Microsoft"
+              },
+              {
+                "@type": "Organization",
+                "name": "Amazon Web Services"
+              },
+              {
+                "@type": "Organization",
+                "name": "Anthropic"
+              },
+              {
+                "@type": "Organization",
+                "name": "US Department of Defense"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "classified AI networks"
+              },
+              {
+                "@type": "Thing",
+                "name": "cloud computing"
+              }
+            ],
+            "keywords": "Nvidia, Microsoft, Amazon Web Services, Anthropic, US Department of Defense, large language models, classified AI networks, cloud computing, military AI deployment, classified network intelligence, defence vendor diversification",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

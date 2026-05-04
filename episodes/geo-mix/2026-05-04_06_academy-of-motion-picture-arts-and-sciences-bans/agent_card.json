@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-04",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=WMioyhhCOMQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/WMioyhhCOMQ/maxresdefault.jpg",
+  "story": {
+    "title": "Academy of Motion Picture Arts and Sciences bans AI-generated actors and scripts from Oscar eligibility",
+    "pillar": "Job Evolution",
+    "summary": "The Academy of Motion Picture Arts and Sciences has formally ruled that films featuring AI-generated actors or AI-written scripts are ineligible for Oscar consideration. The decision sets a clear cultural and industry line on the role of AI in Hollywood storytelling and comes amid growing anxiety among actors, writers, and directors about automation displacing human creative labour. The ruling is expected to influence eligibility standards at other major film festivals and awards bodies worldwide.",
+    "source_url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Academy of Motion Picture Arts and Sciences"
+    ],
+    "technologies": [
+      "AI-generated actors",
+      "AI scriptwriting",
+      "generative AI"
+    ],
+    "use_cases": [
+      "film industry AI policy",
+      "creative labour protection",
+      "entertainment awards eligibility"
+    ]
+  }
+}

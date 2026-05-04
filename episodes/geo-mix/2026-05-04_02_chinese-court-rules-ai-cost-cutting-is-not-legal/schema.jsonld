@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-04",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-04T00:00:00Z",
+      "datePublished": "2026-05-04T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=JScZ2anC3E8",
+      "embedUrl": "https://www.youtube.com/embed/JScZ2anC3E8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JScZ2anC3E8/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-04",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Chinese court rules AI cost-cutting is not legal grounds to fire workers, setting landmark precedent",
+            "articleSection": "Job Evolution",
+            "abstract": "A court in Hangzhou, China has ruled that a fintech company acted illegally when it dismissed a 35-year-old employee on the grounds that an AI replacement would be cheaper, rejecting the argument that cost savings from automation justify termination. The worker, surnamed Zhou, had overseen AI-generated responses and was offered a demotion and pay cut before being fired for refusing. The ruling is being watched closely as China grapples with rising anxiety about AI-driven unemployment, and the court affirmed that existing labour protections cover workers displaced by automation.",
+            "url": "https://www.scmp.com/tech/tech-trends/article/3352327/ai-cost-cutting-not-legal-excuse-fire-workers-chinese-court-says",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "unnamed Hangzhou fintech firm"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-generated content"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              }
+            ],
+            "keywords": "unnamed Hangzhou fintech firm, AI-generated content, large language models, AI replacing white-collar roles, labour law and automation, worker rights in AI transition",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

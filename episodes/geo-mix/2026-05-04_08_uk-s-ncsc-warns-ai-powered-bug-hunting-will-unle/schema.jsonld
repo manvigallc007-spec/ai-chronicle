@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-04",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-04T00:00:00Z",
+      "datePublished": "2026-05-04T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=etDC9ScLLRQ",
+      "embedUrl": "https://www.youtube.com/embed/etDC9ScLLRQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/etDC9ScLLRQ/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-04",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "UK's NCSC warns AI-powered bug hunting will unleash a patch tsunami of long-buried code vulnerabilities",
+            "articleSection": "Policy & Rights",
+            "abstract": "Britain's National Cyber Security Centre has issued a warning that AI-assisted vulnerability discovery is rapidly surfacing decades of previously undetected software flaws, creating a wave of urgent patches that security teams will struggle to absorb. The agency says years of accumulated technical debt in codebases — shortcuts and legacy decisions made by developers under time pressure — are now being exposed at machine speed. Organisations are advised to prioritise patch management infrastructure and incident response capacity before the volume of disclosures overwhelms them.",
+            "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "NCSC"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI vulnerability scanning"
+              },
+              {
+                "@type": "Thing",
+                "name": "automated bug detection"
+              },
+              {
+                "@type": "Thing",
+                "name": "patch management"
+              }
+            ],
+            "keywords": "NCSC, AI vulnerability scanning, automated bug detection, patch management, enterprise cybersecurity, software vulnerability management, government cyber advisory",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

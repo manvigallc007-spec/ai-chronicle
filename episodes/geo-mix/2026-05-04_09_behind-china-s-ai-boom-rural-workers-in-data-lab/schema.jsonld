@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-04",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-04T00:00:00Z",
+      "datePublished": "2026-05-04T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=dP7w1MNeM8Q",
+      "embedUrl": "https://www.youtube.com/embed/dP7w1MNeM8Q",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dP7w1MNeM8Q/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-04",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Behind China's AI boom: rural workers in data-labelling rooms are the hidden human layer powering models",
+            "articleSection": "Job Evolution",
+            "abstract": "A Sixth Tone investigation reveals that in China's less-developed inland provinces, labelling training data for AI models has become a government-backed poverty-alleviation strategy, with rural workers earning wages by annotating images, text, and audio in repurposed computer rooms. The work is repetitive, low-paid, and largely invisible to the consumers and companies that benefit from the resulting AI systems. The piece raises questions about who bears the human cost of AI advancement and whether data-labelling work offers a genuine pathway out of poverty or a temporary stopgap.",
+            "url": "https://www.sixthtone.com/news/1018459/Behind China's AI Boom Are Computer Rooms Full of Rural Workers",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "data labelling"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI training pipelines"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              }
+            ],
+            "keywords": "data labelling, AI training pipelines, large language models, rural AI workforce, poverty alleviation through tech, AI supply chain labour",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

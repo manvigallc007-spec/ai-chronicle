@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-04",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=0CNLWmkFY5w",
+  "thumbnail_url": "https://i.ytimg.com/vi/0CNLWmkFY5w/maxresdefault.jpg",
+  "story": {
+    "title": "Pentagon inks AI deals with Nvidia, Microsoft, and AWS to deploy models on classified networks",
+    "pillar": "Policy & Rights",
+    "summary": "The US Department of Defense has signed new contracts with Nvidia, Microsoft, and Amazon Web Services to bring AI capabilities into classified government networks. The move comes after the DoD's high-profile dispute with Anthropic over the terms of use for its AI models, prompting the Pentagon to diversify its AI vendor base. The deals signal a major escalation in the US military's adoption of commercial AI for sensitive operations.",
+    "source_url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Nvidia",
+      "Microsoft",
+      "Amazon Web Services",
+      "Anthropic",
+      "US Department of Defense"
+    ],
+    "technologies": [
+      "large language models",
+      "classified AI networks",
+      "cloud computing"
+    ],
+    "use_cases": [
+      "military AI deployment",
+      "classified network intelligence",
+      "defence vendor diversification"
+    ]
+  }
+}

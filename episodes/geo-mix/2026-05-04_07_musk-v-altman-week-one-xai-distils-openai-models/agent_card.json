@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-04",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=0NdFjX5oHeI",
+  "thumbnail_url": "https://i.ytimg.com/vi/0NdFjX5oHeI/maxresdefault.jpg",
+  "story": {
+    "title": "Musk v. Altman week one: xAI distils OpenAI models, Musk claims he was duped into funding the company",
+    "pillar": "Policy & Rights",
+    "summary": "In the first week of the landmark civil trial between Elon Musk and OpenAI, Musk testified that CEO Sam Altman and president Greg Brockman deceived him into financing the company, and warned the court that AI poses an existential threat to humanity. Most significantly, Musk admitted under questioning that his own AI company xAI has been distilling — training derivative models from — OpenAI's outputs, a practice that raises its own legal and ethical questions. The trial, which centres on OpenAI's conversion from a nonprofit to a for-profit entity, is expected to continue for several weeks with more witnesses.",
+    "source_url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "source_name": "MIT Technology Review",
+    "companies": [
+      "OpenAI",
+      "xAI",
+      "Elon Musk",
+      "Sam Altman"
+    ],
+    "technologies": [
+      "large language models",
+      "model distillation",
+      "AI governance"
+    ],
+    "use_cases": [
+      "AI corporate governance",
+      "nonprofit-to-profit conversion",
+      "AI industry legal precedent"
+    ]
+  }
+}

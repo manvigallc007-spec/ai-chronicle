@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-04",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=QPH72eSu0Ao",
+  "thumbnail_url": "https://i.ytimg.com/vi/QPH72eSu0Ao/maxresdefault.jpg",
+  "story": {
+    "title": "Meta acquires humanoid robotics startup Assured Robot Intelligence to accelerate embodied AI ambitions",
+    "pillar": "Discovery & Research",
+    "summary": "Meta has acquired Assured Robot Intelligence, a humanoid robotics startup, to strengthen its AI models for physical robots as the company pushes deeper into embodied AI research. The acquisition signals Meta's intention to compete with Tesla, Figure, and other players racing to build robots that can operate in human environments using AI. Financial terms of the deal were not disclosed, but the move reflects the broader industry conviction that the next frontier of AI is physical, not just digital.",
+    "source_url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Meta",
+      "Assured Robot Intelligence",
+      "Tesla",
+      "Figure"
+    ],
+    "technologies": [
+      "humanoid robotics",
+      "embodied AI",
+      "robot AI models"
+    ],
+    "use_cases": [
+      "humanoid robot development",
+      "physical AI research",
+      "robotics acquisition strategy"
+    ]
+  }
+}

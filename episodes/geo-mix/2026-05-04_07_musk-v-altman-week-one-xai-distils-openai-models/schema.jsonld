@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-04",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-04T00:00:00Z",
+      "datePublished": "2026-05-04T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=0NdFjX5oHeI",
+      "embedUrl": "https://www.youtube.com/embed/0NdFjX5oHeI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0NdFjX5oHeI/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-04",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Musk v. Altman week one: xAI distils OpenAI models, Musk claims he was duped into funding the company",
+            "articleSection": "Policy & Rights",
+            "abstract": "In the first week of the landmark civil trial between Elon Musk and OpenAI, Musk testified that CEO Sam Altman and president Greg Brockman deceived him into financing the company, and warned the court that AI poses an existential threat to humanity. Most significantly, Musk admitted under questioning that his own AI company xAI has been distilling — training derivative models from — OpenAI's outputs, a practice that raises its own legal and ethical questions. The trial, which centres on OpenAI's conversion from a nonprofit to a for-profit entity, is expected to continue for several weeks with more witnesses.",
+            "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Organization",
+                "name": "xAI"
+              },
+              {
+                "@type": "Organization",
+                "name": "Elon Musk"
+              },
+              {
+                "@type": "Organization",
+                "name": "Sam Altman"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "model distillation"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI governance"
+              }
+            ],
+            "keywords": "OpenAI, xAI, Elon Musk, Sam Altman, large language models, model distillation, AI governance, AI corporate governance, nonprofit-to-profit conversion, AI industry legal precedent",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

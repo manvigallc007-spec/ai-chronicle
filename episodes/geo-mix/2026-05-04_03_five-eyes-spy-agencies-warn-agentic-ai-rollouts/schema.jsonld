@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-04",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-04T00:00:00Z",
+      "datePublished": "2026-05-04T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=LT8H5XNTQwI",
+      "embedUrl": "https://www.youtube.com/embed/LT8H5XNTQwI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LT8H5XNTQwI/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-04",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Five Eyes spy agencies warn agentic AI rollouts are too risky and urge slow, resilience-first adoption",
+            "articleSection": "Policy & Rights",
+            "abstract": "Intelligence and cybersecurity agencies from the Five Eyes alliance — including the US CISA, UK NCSC, and counterparts from Australia, New Zealand, and Canada — have jointly published guidance warning that agentic AI systems are likely to misbehave and will amplify existing organisational security weaknesses. The agencies advise prioritising resilience over productivity gains and recommend slow, carefully staged adoption rather than rapid enterprise deployment. The guidance is the first coordinated multinational policy statement on the specific risks of autonomous AI agents acting on behalf of organisations.",
+            "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/five_eyes_agentic_ai_recommendations/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "CISA"
+              },
+              {
+                "@type": "Organization",
+                "name": "NCSC"
+              },
+              {
+                "@type": "Organization",
+                "name": "Five Eyes"
+              },
+              {
+                "@type": "Thing",
+                "name": "agentic AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "autonomous AI agents"
+              },
+              {
+                "@type": "Thing",
+                "name": "cybersecurity AI"
+              }
+            ],
+            "keywords": "CISA, NCSC, Five Eyes, agentic AI, autonomous AI agents, cybersecurity AI, enterprise AI risk management, government AI policy, cybersecurity resilience",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
