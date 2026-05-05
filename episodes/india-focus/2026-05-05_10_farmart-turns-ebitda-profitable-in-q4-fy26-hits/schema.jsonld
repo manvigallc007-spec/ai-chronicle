@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-05",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-05T00:00:00Z",
+      "datePublished": "2026-05-05T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=GpQY6s817YI",
+      "embedUrl": "https://www.youtube.com/embed/GpQY6s817YI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GpQY6s817YI/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-05",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "FarMart Turns EBITDA Profitable in Q4 FY26, Hits Rs 3,600 Crore Run Rate With AI-Powered Agri Workflows",
+            "articleSection": "Job Evolution",
+            "abstract": "Agrifood platform FarMart has reached EBITDA profitability in Q4 FY26 and achieved a Rs 3,600 crore annualised revenue run rate, attributing its 50 percent year-on-year growth to deeper farmer wallet share, stronger supply chain networks, and AI-powered workflows across its operations. The decade-old platform connects farmers, input suppliers, and agri-businesses, with AI now embedded in procurement, logistics, and advisory services. The milestone is significant for India's agritech sector, which has seen multiple high-profile shutdowns in recent years.",
+            "url": "https://yourstory.com/2026/05/farmart-turns-ebitda-profitable-in-q4-fy26-hits-rs-3600-crore-run-rate",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "FarMart"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-powered supply chain"
+              },
+              {
+                "@type": "Thing",
+                "name": "agritech AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "procurement automation"
+              }
+            ],
+            "keywords": "FarMart, AI-powered supply chain, agritech AI, procurement automation, agricultural supply chain optimisation, farmer digital services, AI-driven agri procurement",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

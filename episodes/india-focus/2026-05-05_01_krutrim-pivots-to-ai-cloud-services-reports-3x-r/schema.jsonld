@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-05",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-05T00:00:00Z",
+      "datePublished": "2026-05-05T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=VeJYv8bV1XA",
+      "embedUrl": "https://www.youtube.com/embed/VeJYv8bV1XA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VeJYv8bV1XA/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-05",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Krutrim Pivots to AI Cloud Services, Reports 3x Revenue Growth and First Net Profit in FY26",
+            "articleSection": "Discovery & Research",
+            "abstract": "Krutrim, India's first AI unicorn, has announced a strategic pivot to become a focused domestic AI Cloud Services provider, reporting its first annual net profit in FY26 alongside threefold revenue growth. The company's platform is built entirely in-house and now serves over 25 large enterprise customers across multiple sectors. This marks a significant shift from a broad AI model developer to a sustainable, infrastructure-led cloud business — a milestone for India's homegrown AI industry.",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/krutrim-announces-strategic-pivot-to-ai-cloud-services-reports-3x-revenue-growth-and-first-net-profit-in-fy26/articleshow/130815491.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Krutrim"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI cloud services"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "enterprise AI infrastructure"
+              }
+            ],
+            "keywords": "Krutrim, AI cloud services, large language models, enterprise AI infrastructure, enterprise AI cloud computing, domestic AI infrastructure, B2B AI services",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

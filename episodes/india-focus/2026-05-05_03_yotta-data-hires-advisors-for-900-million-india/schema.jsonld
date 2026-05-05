@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-05",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-05T00:00:00Z",
+      "datePublished": "2026-05-05T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=RrMmiFrAbcw",
+      "embedUrl": "https://www.youtube.com/embed/RrMmiFrAbcw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/RrMmiFrAbcw/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-05",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Yotta Data Hires Advisors for $900 Million India IPO, Targeting $6 Billion Valuation on AI Demand",
+            "articleSection": "Daily Utility",
+            "abstract": "Yotta Data Services, a key player in India's AI infrastructure build-out, is planning a Mumbai IPO to raise up to $900 million and is also considering a $300 million pre-IPO placement round. The company is targeting a valuation of approximately $6 billion, buoyed by surging demand for data centre capacity driven by AI workloads across India. This IPO, if completed, would be one of the largest technology listings in India in recent years and signals strong investor conviction in the country's AI infrastructure story.",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/yotta-data-said-to-hire-advisors-for-900-million-india-ipo/articleshow/130818719.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Yotta Data Services"
+              },
+              {
+                "@type": "Thing",
+                "name": "data centres"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI cloud infrastructure"
+              },
+              {
+                "@type": "Thing",
+                "name": "GPU computing"
+              }
+            ],
+            "keywords": "Yotta Data Services, data centres, AI cloud infrastructure, GPU computing, AI workload hosting, enterprise cloud services, public market fundraising for AI infrastructure",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

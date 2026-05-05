@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-05",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=5K7X37vsTM4",
+  "thumbnail_url": "https://i.ytimg.com/vi/5K7X37vsTM4/maxresdefault.jpg",
+  "story": {
+    "title": "Perceptyne Builds AI-Powered Dual-Arm Robots for India's Factory Floors With Flexible Low-Cost Deployment",
+    "pillar": "Job Evolution",
+    "summary": "Indian startup Perceptyne is developing AI-driven dual-arm robotic systems designed to automate complex manufacturing tasks that traditional industrial robots cannot perform cost-effectively. The company positions its robots as flexible and affordable enough for mid-sized Indian factories, aiming to reduce the barrier to automation that has historically kept smaller manufacturers from deploying robotics. The startup enters a manufacturing sector where AI-driven automation is increasingly reshaping the nature of factory work across India.",
+    "source_url": "https://yourstory.com/2026/04/perceptyne-robots-factory-automation",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "Perceptyne"
+    ],
+    "technologies": [
+      "AI robotics",
+      "dual-arm robots",
+      "factory automation AI"
+    ],
+    "use_cases": [
+      "manufacturing automation",
+      "flexible industrial robotics",
+      "AI-driven assembly"
+    ]
+  }
+}

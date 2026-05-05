@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-05",
+  "rank": 9,
+  "video_url": "https://www.youtube.com/watch?v=fTPMyW5sodA",
+  "thumbnail_url": "https://i.ytimg.com/vi/fTPMyW5sodA/maxresdefault.jpg",
+  "story": {
+    "title": "Curium Life's SurgiMeasure Brings Real-Time AI Intelligence to Indian Operating Theatres",
+    "pillar": "Discovery & Research",
+    "summary": "Curium Life, an Indian healthtech startup, has developed SurgiMeasure, an AI-powered surgical intelligence tool that delivers real-time intraoperative insights to surgeons during procedures. The platform is backed by clinical studies and has attracted global collaborators, positioning India as an emerging hub for surgical AI innovation. The tool aims to improve surgical precision and outcomes by giving operating theatre teams data-driven guidance at the moment of decision.",
+    "source_url": "https://yourstory.com/2026/04/curium-life-surgical-ai",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "Curium Life"
+    ],
+    "technologies": [
+      "surgical AI",
+      "real-time intraoperative analytics",
+      "clinical decision support"
+    ],
+    "use_cases": [
+      "AI-assisted surgery",
+      "operating theatre intelligence",
+      "surgical outcome improvement"
+    ]
+  }
+}

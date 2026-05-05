@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-05",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=VeJYv8bV1XA",
+  "thumbnail_url": "https://i.ytimg.com/vi/VeJYv8bV1XA/maxresdefault.jpg",
+  "story": {
+    "title": "Krutrim Pivots to AI Cloud Services, Reports 3x Revenue Growth and First Net Profit in FY26",
+    "pillar": "Discovery & Research",
+    "summary": "Krutrim, India's first AI unicorn, has announced a strategic pivot to become a focused domestic AI Cloud Services provider, reporting its first annual net profit in FY26 alongside threefold revenue growth. The company's platform is built entirely in-house and now serves over 25 large enterprise customers across multiple sectors. This marks a significant shift from a broad AI model developer to a sustainable, infrastructure-led cloud business — a milestone for India's homegrown AI industry.",
+    "source_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/krutrim-announces-strategic-pivot-to-ai-cloud-services-reports-3x-revenue-growth-and-first-net-profit-in-fy26/articleshow/130815491.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Krutrim"
+    ],
+    "technologies": [
+      "AI cloud services",
+      "large language models",
+      "enterprise AI infrastructure"
+    ],
+    "use_cases": [
+      "enterprise AI cloud computing",
+      "domestic AI infrastructure",
+      "B2B AI services"
+    ]
+  }
+}

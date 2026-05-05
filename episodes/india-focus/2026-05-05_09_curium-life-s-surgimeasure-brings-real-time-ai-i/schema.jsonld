@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-05",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-05T00:00:00Z",
+      "datePublished": "2026-05-05T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=fTPMyW5sodA",
+      "embedUrl": "https://www.youtube.com/embed/fTPMyW5sodA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/fTPMyW5sodA/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-05",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Curium Life's SurgiMeasure Brings Real-Time AI Intelligence to Indian Operating Theatres",
+            "articleSection": "Discovery & Research",
+            "abstract": "Curium Life, an Indian healthtech startup, has developed SurgiMeasure, an AI-powered surgical intelligence tool that delivers real-time intraoperative insights to surgeons during procedures. The platform is backed by clinical studies and has attracted global collaborators, positioning India as an emerging hub for surgical AI innovation. The tool aims to improve surgical precision and outcomes by giving operating theatre teams data-driven guidance at the moment of decision.",
+            "url": "https://yourstory.com/2026/04/curium-life-surgical-ai",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Curium Life"
+              },
+              {
+                "@type": "Thing",
+                "name": "surgical AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "real-time intraoperative analytics"
+              },
+              {
+                "@type": "Thing",
+                "name": "clinical decision support"
+              }
+            ],
+            "keywords": "Curium Life, surgical AI, real-time intraoperative analytics, clinical decision support, AI-assisted surgery, operating theatre intelligence, surgical outcome improvement",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-05",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-05T00:00:00Z",
+      "datePublished": "2026-05-05T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=BY-k-YfC9nU",
+      "embedUrl": "https://www.youtube.com/embed/BY-k-YfC9nU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BY-k-YfC9nU/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-05",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Pixxel and Sarvam AI to Launch India's First Orbital Data Centre Satellite in 2026",
+            "articleSection": "Discovery & Research",
+            "abstract": "Bengaluru-based space tech startup Pixxel is set to launch India's first orbital data centre satellite this year, with Sarvam AI providing the onboard AI backbone for the mission. Pixxel will design, build, launch, and operate the satellite, marking a convergence of India's fast-growing space and AI sectors. The collaboration positions India as one of very few countries attempting to place AI computing capability directly in orbit.",
+            "url": "https://www.thehindu.com/news/national/karnataka/pixxel-to-launch-indias-first-orbital-data-centre-satellite-this-year/article70938748.ece",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Pixxel"
+              },
+              {
+                "@type": "Organization",
+                "name": "Sarvam AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "orbital data centre"
+              },
+              {
+                "@type": "Thing",
+                "name": "satellite AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "earth observation"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              }
+            ],
+            "keywords": "Pixxel, Sarvam AI, orbital data centre, satellite AI, earth observation, large language models, space-based AI computing, real-time Earth observation analytics, sovereign AI infrastructure",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

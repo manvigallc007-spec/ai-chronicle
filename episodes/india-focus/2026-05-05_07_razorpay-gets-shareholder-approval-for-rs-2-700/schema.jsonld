@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-05",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-05T00:00:00Z",
+      "datePublished": "2026-05-05T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=C52RAc2mUAU",
+      "embedUrl": "https://www.youtube.com/embed/C52RAc2mUAU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/C52RAc2mUAU/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-05",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Razorpay Gets Shareholder Approval for Rs 2,700 Crore IPO as Fintech Bets on AI Amid Rising Losses",
+            "articleSection": "Daily Utility",
+            "abstract": "Indian fintech giant Razorpay has secured shareholder approval to raise Rs 2,700 crore through an IPO, which will include an offer for sale component and a pre-IPO placement tranche. The company is positioning AI-driven payment infrastructure as a central growth narrative for its public market debut, even as it continues to report net losses amid intense competition in India's digital payments sector. A successful listing would be a major milestone for India's fintech ecosystem and would test public market appetite for loss-making AI-first fintech platforms.",
+            "url": "https://www.medianama.com/2026/05/223-exclusive-razorpay-shareholder-approval-rs-2700-crore-ipo/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Razorpay"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI payment infrastructure"
+              },
+              {
+                "@type": "Thing",
+                "name": "digital payments"
+              },
+              {
+                "@type": "Thing",
+                "name": "fintech AI"
+              }
+            ],
+            "keywords": "Razorpay, AI payment infrastructure, digital payments, fintech AI, IPO fundraising, AI-driven payment processing, digital merchant services",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

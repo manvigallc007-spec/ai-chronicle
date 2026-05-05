@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-05",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-05T00:00:00Z",
+      "datePublished": "2026-05-05T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=jUuH5Bz65rk",
+      "embedUrl": "https://www.youtube.com/embed/jUuH5Bz65rk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jUuH5Bz65rk/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-05",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Dream Sports Launches AI-Powered Stock Broking Platform DreamStreet to Target First-Time Indian Investors",
+            "articleSection": "Daily Utility",
+            "abstract": "Dream Sports, the parent company of fantasy sports platform Dream11, has launched DreamStreet, a new AI-powered stockbroking platform specifically designed to simplify equity investing for first-time retail investors in India. The platform uses AI to generate personalised investment insights and provides access to licensed research analysts to guide users who are new to financial markets. The move represents Dream Sports' diversification beyond gaming following regulatory changes that impacted its core fantasy sports business.",
+            "url": "https://economictimes.indiatimes.com/tech/startups/dream-sports-launches-stockbroking-platform-dreamstreet-targets-first-time-investors/articleshow/130817927.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Dream Sports"
+              },
+              {
+                "@type": "Organization",
+                "name": "DreamStreet"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI investment insights"
+              },
+              {
+                "@type": "Thing",
+                "name": "stockbroking platform"
+              },
+              {
+                "@type": "Thing",
+                "name": "personalised financial AI"
+              }
+            ],
+            "keywords": "Dream Sports, DreamStreet, AI investment insights, stockbroking platform, personalised financial AI, retail investor onboarding, AI-driven stock recommendations, first-time investor education",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
