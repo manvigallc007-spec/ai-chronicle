@@ -842,6 +842,146 @@
     </video:video>
   </url>
   <url>
+    <loc>https://www.youtube.com/watch?v=c0WlyDkWLFY</loc>
+    <lastmod>2026-05-05T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Shadow AI rises in enterprises: AI-BOMs emerge as the new security standard for AI supply chains</video:title>
+      <video:description>Security professionals are warning that traditional software bills of materials (SBOMs) are no longer sufficient to track the AI components embedded in enterprise technology stacks, as shadow AI — employees and teams deploying AI tools without IT approval — has replaced shadow IT as the primary supply chain risk. A new category called AI-BOMs (AI Bills of Materials) is emerging to give organisations visibility into every AI model, agent, and data pipeline in their environment. Without this visibility, experts say, companies cannot adequately assess or protect their AI-augmented systems.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=c0WlyDkWLFY</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/c0WlyDkWLFY/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=UI6UUuks1NM</loc>
+    <lastmod>2026-05-05T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>The quiet layoffs sweeping China's tech giants as Alibaba cuts headcount by a third amid AI pivot</video:title>
+      <video:description>China's largest tech companies are conducting sweeping but low-profile workforce reductions as they pivot aggressively toward AI-first business models. Alibaba reduced its headcount by approximately one third in 2025, while Baidu's workforce declined by nearly 7 percent. Workers inside these companies describe an environment of constant churn, with roles being eliminated faster than AI-adjacent positions are being created.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=UI6UUuks1NM</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/UI6UUuks1NM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=u4ThzCiMA1M</loc>
+    <lastmod>2026-05-05T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>NHS orders AI-related close-sourcing of hundreds of GitHub repositories over Anthropic security conc</video:title>
+      <video:description>The UK's National Health Service has issued a directive requiring technology leaders to wall off hundreds of its open-source GitHub repositories, citing concerns about advanced AI capabilities and specifically referencing Anthropic's Mythos. All maintainers have been given a May deadline to enact the change. The move marks one of the largest government-mandated AI-driven open-source restrictions by a public health body anywhere in the world.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=u4ThzCiMA1M</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/u4ThzCiMA1M/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=iwJCxxUTtQ8</loc>
+    <lastmod>2026-05-05T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Global cybersecurity gap widens as AI-powered attacks surge and defensive tools remain unevenly dist</video:title>
+      <video:description>Rest of World reports that restricted access to powerful AI-based defensive security tools — including Anthropic's Mythos platform — is leaving companies, central banks, and governments in lower-income countries significantly more exposed to AI-powered cyberattacks. As offensive AI capabilities spread faster than defensive ones, a structural cybersecurity inequality is emerging between nations. Experts warn this gap could destabilise financial systems and critical infrastructure in vulnerable economies.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=iwJCxxUTtQ8</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/iwJCxxUTtQ8/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=INBunMA6A7M</loc>
+    <lastmod>2026-05-05T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>DoorDash adds AI tools to speed merchant onboarding and edit food photos automatically</video:title>
+      <video:description>DoorDash has rolled out a suite of AI-powered tools for restaurant and merchant partners, enabling faster onboarding, AI-assisted photo editing to improve dish images, and automated website creation from existing content. The tools aim to reduce the technical barrier for small businesses joining the platform. The update directly affects hundreds of thousands of US merchants who rely on DoorDash for delivery revenue.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=INBunMA6A7M</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/INBunMA6A7M/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=JN5LoONlfIQ</loc>
+    <lastmod>2026-05-05T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Nvidia's Jensen Huang pushes back on AI job fears, claims AI is creating enormous number of jobs</video:title>
+      <video:description>Nvidia CEO Jensen Huang publicly disputed widespread fears that AI is a net job killer, arguing instead that AI is generating a large number of new roles. His comments come as worker anxiety about AI-driven displacement is near an all-time high globally. Critics note that Huang's position as head of the world's leading AI chip company creates a significant conflict of interest in making such assessments.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=JN5LoONlfIQ</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/JN5LoONlfIQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=61q71JjpCc4</loc>
+    <lastmod>2026-05-05T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Anthropic and OpenAI both launch enterprise AI joint ventures with asset management partners</video:title>
+      <video:description>Both Anthropic and OpenAI have simultaneously announced partnerships with asset management firms to create joint ventures targeting enterprise AI service markets. The moves signal a strategic push by the two leading AI labs to embed their models directly into large corporate and financial institutions. The parallel announcements suggest escalating competition for enterprise AI dominance in the second half of 2026.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=61q71JjpCc4</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/61q71JjpCc4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=CjXRylaS2Rw</loc>
+    <lastmod>2026-05-05T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>MIT study: AI could help strengthen democracy if information architecture is redesigned</video:title>
+      <video:description>MIT Technology Review has published a blueprint arguing that AI, if deliberately designed, could reinforce democratic institutions rather than undermine them. The analysis draws historical parallels to the printing press and broadcast media, arguing that information technology reshapes governance and that AI represents the next such inflection point. The authors call for intentional policy design before AI's effects on democratic systems become irreversible.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=CjXRylaS2Rw</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/CjXRylaS2Rw/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=WlgDevEPsiI</loc>
+    <lastmod>2026-05-05T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Cerebras AI chip maker on track for blockbuster IPO at $26.6B valuation amid OpenAI ties</video:title>
+      <video:description>AI chip manufacturer Cerebras is advancing toward a major IPO that could value the company at $26.6 billion or more. The company has a deep commercial and technical relationship with OpenAI, which has helped fuel its growth trajectory. The listing would mark one of the largest AI-sector public offerings and reflects surging investor appetite for AI infrastructure plays.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=WlgDevEPsiI</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/WlgDevEPsiI/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=HYtCTAblJAc</loc>
+    <lastmod>2026-05-05T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Sierra raises $950M as race to own enterprise AI customer experience heats up</video:title>
+      <video:description>Sierra, an AI startup focused on enterprise customer experience, has raised $950 million, giving it over $1 billion in total capital. The company says it intends to use the funding to become the global standard for AI-powered customer interactions. The raise signals intense investor confidence in enterprise AI as a near-term revenue category, with major players competing for dominant market position.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=HYtCTAblJAc</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HYtCTAblJAc/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
     <loc>https://www.youtube.com/watch?v=QPH72eSu0Ao</loc>
     <lastmod>2026-05-04T00:00:00Z</lastmod>
     <changefreq>daily</changefreq>

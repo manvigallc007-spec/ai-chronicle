@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-05",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-05T00:00:00Z",
+      "datePublished": "2026-05-05T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=WlgDevEPsiI",
+      "embedUrl": "https://www.youtube.com/embed/WlgDevEPsiI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WlgDevEPsiI/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-05",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Cerebras AI chip maker on track for blockbuster IPO at $26.6B valuation amid OpenAI ties",
+            "articleSection": "Job Evolution",
+            "abstract": "AI chip manufacturer Cerebras is advancing toward a major IPO that could value the company at $26.6 billion or more. The company has a deep commercial and technical relationship with OpenAI, which has helped fuel its growth trajectory. The listing would mark one of the largest AI-sector public offerings and reflects surging investor appetite for AI infrastructure plays.",
+            "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Cerebras"
+              },
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI chips"
+              },
+              {
+                "@type": "Thing",
+                "name": "semiconductor hardware"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI accelerators"
+              }
+            ],
+            "keywords": "Cerebras, OpenAI, AI chips, semiconductor hardware, AI accelerators, AI model training infrastructure, enterprise AI compute",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

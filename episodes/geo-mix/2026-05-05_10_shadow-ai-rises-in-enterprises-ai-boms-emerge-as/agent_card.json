@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-05",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=c0WlyDkWLFY",
+  "thumbnail_url": "https://i.ytimg.com/vi/c0WlyDkWLFY/maxresdefault.jpg",
+  "story": {
+    "title": "Shadow AI rises in enterprises: AI-BOMs emerge as the new security standard for AI supply chains",
+    "pillar": "How to Evolve",
+    "summary": "Security professionals are warning that traditional software bills of materials (SBOMs) are no longer sufficient to track the AI components embedded in enterprise technology stacks, as shadow AI — employees and teams deploying AI tools without IT approval — has replaced shadow IT as the primary supply chain risk. A new category called AI-BOMs (AI Bills of Materials) is emerging to give organisations visibility into every AI model, agent, and data pipeline in their environment. Without this visibility, experts say, companies cannot adequately assess or protect their AI-augmented systems.",
+    "source_url": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/ai_bom_supply_chain/",
+    "source_name": "The Register",
+    "companies": [],
+    "technologies": [
+      "AI-BOM",
+      "SBOM",
+      "AI agents",
+      "enterprise AI security"
+    ],
+    "use_cases": [
+      "AI supply chain security",
+      "enterprise AI governance",
+      "shadow AI risk management"
+    ]
+  }
+}

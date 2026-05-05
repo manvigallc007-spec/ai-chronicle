@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-05",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-05T00:00:00Z",
+      "datePublished": "2026-05-05T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=UI6UUuks1NM",
+      "embedUrl": "https://www.youtube.com/embed/UI6UUuks1NM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UI6UUuks1NM/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-05",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "The quiet layoffs sweeping China's tech giants as Alibaba cuts headcount by a third amid AI pivot",
+            "articleSection": "Job Evolution",
+            "abstract": "China's largest tech companies are conducting sweeping but low-profile workforce reductions as they pivot aggressively toward AI-first business models. Alibaba reduced its headcount by approximately one third in 2025, while Baidu's workforce declined by nearly 7 percent. Workers inside these companies describe an environment of constant churn, with roles being eliminated faster than AI-adjacent positions are being created.",
+            "url": "https://restofworld.org/2026/china-tech-layoffs-alibaba-baidu-ai-pivot/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Alibaba"
+              },
+              {
+                "@type": "Organization",
+                "name": "Baidu"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI automation"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-first business transformation"
+              }
+            ],
+            "keywords": "Alibaba, Baidu, AI automation, large language models, AI-first business transformation, workforce restructuring, AI-driven operational efficiency, tech sector employment trends",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

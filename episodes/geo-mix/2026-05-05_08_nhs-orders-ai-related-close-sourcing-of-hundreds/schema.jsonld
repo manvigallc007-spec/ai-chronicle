@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-05",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-05T00:00:00Z",
+      "datePublished": "2026-05-05T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=u4ThzCiMA1M",
+      "embedUrl": "https://www.youtube.com/embed/u4ThzCiMA1M",
+      "thumbnailUrl": "https://i.ytimg.com/vi/u4ThzCiMA1M/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-05",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "NHS orders AI-related close-sourcing of hundreds of GitHub repositories over Anthropic security concerns",
+            "articleSection": "Policy & Rights",
+            "abstract": "The UK's National Health Service has issued a directive requiring technology leaders to wall off hundreds of its open-source GitHub repositories, citing concerns about advanced AI capabilities and specifically referencing Anthropic's Mythos. All maintainers have been given a May deadline to enact the change. The move marks one of the largest government-mandated AI-driven open-source restrictions by a public health body anywhere in the world.",
+            "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/nhs_to_closesource_hundreds_of_repos/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "NHS"
+              },
+              {
+                "@type": "Organization",
+                "name": "Anthropic"
+              },
+              {
+                "@type": "Organization",
+                "name": "GitHub"
+              },
+              {
+                "@type": "Thing",
+                "name": "Mythos AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "open-source software security"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-assisted code exploitation"
+              }
+            ],
+            "keywords": "NHS, Anthropic, GitHub, Mythos AI, open-source software security, AI-assisted code exploitation, public health IT security, government AI risk mitigation, open-source governance",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

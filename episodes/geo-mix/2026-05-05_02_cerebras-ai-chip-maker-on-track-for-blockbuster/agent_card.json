@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-05",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=WlgDevEPsiI",
+  "thumbnail_url": "https://i.ytimg.com/vi/WlgDevEPsiI/maxresdefault.jpg",
+  "story": {
+    "title": "Cerebras AI chip maker on track for blockbuster IPO at $26.6B valuation amid OpenAI ties",
+    "pillar": "Job Evolution",
+    "summary": "AI chip manufacturer Cerebras is advancing toward a major IPO that could value the company at $26.6 billion or more. The company has a deep commercial and technical relationship with OpenAI, which has helped fuel its growth trajectory. The listing would mark one of the largest AI-sector public offerings and reflects surging investor appetite for AI infrastructure plays.",
+    "source_url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Cerebras",
+      "OpenAI"
+    ],
+    "technologies": [
+      "AI chips",
+      "semiconductor hardware",
+      "AI accelerators"
+    ],
+    "use_cases": [
+      "AI model training infrastructure",
+      "enterprise AI compute"
+    ]
+  }
+}

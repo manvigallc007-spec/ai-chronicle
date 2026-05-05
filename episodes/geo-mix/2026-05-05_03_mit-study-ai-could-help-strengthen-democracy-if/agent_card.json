@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-05",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=CjXRylaS2Rw",
+  "thumbnail_url": "https://i.ytimg.com/vi/CjXRylaS2Rw/maxresdefault.jpg",
+  "story": {
+    "title": "MIT study: AI could help strengthen democracy if information architecture is redesigned",
+    "pillar": "Policy & Rights",
+    "summary": "MIT Technology Review has published a blueprint arguing that AI, if deliberately designed, could reinforce democratic institutions rather than undermine them. The analysis draws historical parallels to the printing press and broadcast media, arguing that information technology reshapes governance and that AI represents the next such inflection point. The authors call for intentional policy design before AI's effects on democratic systems become irreversible.",
+    "source_url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "source_name": "MIT Technology Review",
+    "companies": [
+      "MIT Technology Review"
+    ],
+    "technologies": [
+      "large language models",
+      "AI governance tools",
+      "information systems"
+    ],
+    "use_cases": [
+      "AI in civic engagement",
+      "democratic institution design",
+      "policy frameworks for AI"
+    ]
+  }
+}

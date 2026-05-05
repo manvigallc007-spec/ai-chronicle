@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-05",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=61q71JjpCc4",
+  "thumbnail_url": "https://i.ytimg.com/vi/61q71JjpCc4/maxresdefault.jpg",
+  "story": {
+    "title": "Anthropic and OpenAI both launch enterprise AI joint ventures with asset management partners",
+    "pillar": "Daily Utility",
+    "summary": "Both Anthropic and OpenAI have simultaneously announced partnerships with asset management firms to create joint ventures targeting enterprise AI service markets. The moves signal a strategic push by the two leading AI labs to embed their models directly into large corporate and financial institutions. The parallel announcements suggest escalating competition for enterprise AI dominance in the second half of 2026.",
+    "source_url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "technologies": [
+      "enterprise AI agents",
+      "large language models"
+    ],
+    "use_cases": [
+      "enterprise AI service delivery",
+      "financial sector AI deployment"
+    ]
+  }
+}

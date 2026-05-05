@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-05",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=INBunMA6A7M",
+  "thumbnail_url": "https://i.ytimg.com/vi/INBunMA6A7M/maxresdefault.jpg",
+  "story": {
+    "title": "DoorDash adds AI tools to speed merchant onboarding and edit food photos automatically",
+    "pillar": "Daily Utility",
+    "summary": "DoorDash has rolled out a suite of AI-powered tools for restaurant and merchant partners, enabling faster onboarding, AI-assisted photo editing to improve dish images, and automated website creation from existing content. The tools aim to reduce the technical barrier for small businesses joining the platform. The update directly affects hundreds of thousands of US merchants who rely on DoorDash for delivery revenue.",
+    "source_url": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "DoorDash"
+    ],
+    "technologies": [
+      "AI image editing",
+      "AI content generation",
+      "automated onboarding"
+    ],
+    "use_cases": [
+      "small business merchant tools",
+      "food delivery platform AI",
+      "automated website creation"
+    ]
+  }
+}

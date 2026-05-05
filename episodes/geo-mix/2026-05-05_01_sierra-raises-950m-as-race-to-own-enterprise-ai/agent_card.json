@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-05",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=HYtCTAblJAc",
+  "thumbnail_url": "https://i.ytimg.com/vi/HYtCTAblJAc/maxresdefault.jpg",
+  "story": {
+    "title": "Sierra raises $950M as race to own enterprise AI customer experience heats up",
+    "pillar": "Daily Utility",
+    "summary": "Sierra, an AI startup focused on enterprise customer experience, has raised $950 million, giving it over $1 billion in total capital. The company says it intends to use the funding to become the global standard for AI-powered customer interactions. The raise signals intense investor confidence in enterprise AI as a near-term revenue category, with major players competing for dominant market position.",
+    "source_url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Sierra"
+    ],
+    "technologies": [
+      "enterprise AI",
+      "AI customer experience platforms"
+    ],
+    "use_cases": [
+      "AI-powered customer service",
+      "enterprise AI deployment"
+    ]
+  }
+}

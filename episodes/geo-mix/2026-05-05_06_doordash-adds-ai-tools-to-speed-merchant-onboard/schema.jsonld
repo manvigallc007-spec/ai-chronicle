@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-05",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-05T00:00:00Z",
+      "datePublished": "2026-05-05T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=INBunMA6A7M",
+      "embedUrl": "https://www.youtube.com/embed/INBunMA6A7M",
+      "thumbnailUrl": "https://i.ytimg.com/vi/INBunMA6A7M/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-05",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "DoorDash adds AI tools to speed merchant onboarding and edit food photos automatically",
+            "articleSection": "Daily Utility",
+            "abstract": "DoorDash has rolled out a suite of AI-powered tools for restaurant and merchant partners, enabling faster onboarding, AI-assisted photo editing to improve dish images, and automated website creation from existing content. The tools aim to reduce the technical barrier for small businesses joining the platform. The update directly affects hundreds of thousands of US merchants who rely on DoorDash for delivery revenue.",
+            "url": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "DoorDash"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI image editing"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI content generation"
+              },
+              {
+                "@type": "Thing",
+                "name": "automated onboarding"
+              }
+            ],
+            "keywords": "DoorDash, AI image editing, AI content generation, automated onboarding, small business merchant tools, food delivery platform AI, automated website creation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

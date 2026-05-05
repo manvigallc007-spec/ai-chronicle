@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-05",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=u4ThzCiMA1M",
+  "thumbnail_url": "https://i.ytimg.com/vi/u4ThzCiMA1M/maxresdefault.jpg",
+  "story": {
+    "title": "NHS orders AI-related close-sourcing of hundreds of GitHub repositories over Anthropic security concerns",
+    "pillar": "Policy & Rights",
+    "summary": "The UK's National Health Service has issued a directive requiring technology leaders to wall off hundreds of its open-source GitHub repositories, citing concerns about advanced AI capabilities and specifically referencing Anthropic's Mythos. All maintainers have been given a May deadline to enact the change. The move marks one of the largest government-mandated AI-driven open-source restrictions by a public health body anywhere in the world.",
+    "source_url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/nhs_to_closesource_hundreds_of_repos/",
+    "source_name": "The Register",
+    "companies": [
+      "NHS",
+      "Anthropic",
+      "GitHub"
+    ],
+    "technologies": [
+      "Mythos AI",
+      "open-source software security",
+      "AI-assisted code exploitation"
+    ],
+    "use_cases": [
+      "public health IT security",
+      "government AI risk mitigation",
+      "open-source governance"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-05",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=iwJCxxUTtQ8",
+  "thumbnail_url": "https://i.ytimg.com/vi/iwJCxxUTtQ8/maxresdefault.jpg",
+  "story": {
+    "title": "Global cybersecurity gap widens as AI-powered attacks surge and defensive tools remain unevenly distributed",
+    "pillar": "Policy & Rights",
+    "summary": "Rest of World reports that restricted access to powerful AI-based defensive security tools — including Anthropic's Mythos platform — is leaving companies, central banks, and governments in lower-income countries significantly more exposed to AI-powered cyberattacks. As offensive AI capabilities spread faster than defensive ones, a structural cybersecurity inequality is emerging between nations. Experts warn this gap could destabilise financial systems and critical infrastructure in vulnerable economies.",
+    "source_url": "https://restofworld.org/2026/ai-cybersecurity-anthropic-mythos/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source_name": "Rest of World",
+    "companies": [
+      "Anthropic"
+    ],
+    "technologies": [
+      "Mythos AI security platform",
+      "AI-powered cyberattacks",
+      "defensive AI"
+    ],
+    "use_cases": [
+      "national cybersecurity infrastructure",
+      "central bank protection",
+      "AI-augmented threat defence"
+    ]
+  }
+}
