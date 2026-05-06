@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=OSlAEPqYHbA",
+  "thumbnail_url": "https://i.ytimg.com/vi/OSlAEPqYHbA/maxresdefault.jpg",
+  "story": {
+    "title": "AI layoffs are backfiring: replacing workers with agents isn't delivering promised savings, firms warned",
+    "pillar": "Job Evolution",
+    "summary": "A growing body of evidence and analyst warnings suggests that companies which have replaced human workers with AI agents are not achieving the cost savings or productivity gains they projected, with many discovering that AI agents are failure-prone and require significant human oversight to function reliably. Business advisors are cautioning executives that the assumption AI can simply substitute for experienced staff has proven incorrect in many deployments. The findings challenge the widespread corporate narrative that AI-driven headcount reduction is a straightforward path to efficiency.",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/05/06/ai-layoffs-backfire-as-cutting-staff-doesnt-cut-it-firms-warned/5230631",
+    "source_name": "The Register",
+    "companies": [],
+    "technologies": [
+      "AI agents",
+      "automation tools"
+    ],
+    "use_cases": [
+      "AI-driven workforce reduction",
+      "enterprise AI productivity"
+    ]
+  }
+}

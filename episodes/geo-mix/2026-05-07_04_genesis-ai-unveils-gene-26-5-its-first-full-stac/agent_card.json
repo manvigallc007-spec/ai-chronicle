@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=YcQB4ABGL7A",
+  "thumbnail_url": "https://i.ytimg.com/vi/YcQB4ABGL7A/maxresdefault.jpg",
+  "story": {
+    "title": "Genesis AI unveils GENE-26.5, its first full-stack robotics model, with dexterous hand demo",
+    "pillar": "Discovery & Research",
+    "summary": "Genesis AI, a Khosla Ventures-backed startup that raised a $105 million seed round to develop foundational AI for robotics, has publicly unveiled its first model, GENE-26.5, alongside a demo showing robotic hands performing complex dexterous tasks. The startup is positioning itself as a full-stack robotics AI company, meaning it handles both the perception and control layers of robotic intelligence. The demo represents one of the most advanced publicly shown examples of AI-driven robotic dexterity from a seed-stage company.",
+    "source_url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Genesis AI",
+      "Khosla Ventures"
+    ],
+    "technologies": [
+      "GENE-26.5",
+      "robotic dexterity AI",
+      "full-stack robotics AI"
+    ],
+    "use_cases": [
+      "robotic hand control",
+      "foundational AI for physical robots"
+    ]
+  }
+}

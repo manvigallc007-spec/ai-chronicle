@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=opoIoXbBAiY",
+  "thumbnail_url": "https://i.ytimg.com/vi/opoIoXbBAiY/maxresdefault.jpg",
+  "story": {
+    "title": "Apple agrees to pay $250M to settle class action over overpromised Siri AI features",
+    "pillar": "Policy & Rights",
+    "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit alleging the company overpromised the arrival of advanced AI features for Siri that were significantly delayed. The settlement follows years of consumer complaints that marketing claims for Siri's AI capabilities outpaced actual product delivery. The case sets a notable precedent for corporate accountability around AI feature announcements directed at consumers.",
+    "source_url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Apple"
+    ],
+    "technologies": [
+      "Siri",
+      "AI assistant features"
+    ],
+    "use_cases": [
+      "consumer AI assistant",
+      "class action accountability for AI marketing"
+    ]
+  }
+}

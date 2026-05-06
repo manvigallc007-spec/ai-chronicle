@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=0YQ1FGSyY3I",
+  "thumbnail_url": "https://i.ytimg.com/vi/0YQ1FGSyY3I/maxresdefault.jpg",
+  "story": {
+    "title": "SpaceX proposes up to $119B 'Terafab' semiconductor and AI chip factory in Texas",
+    "pillar": "Policy & Rights",
+    "summary": "SpaceX has proposed spending up to $119 billion on a project called 'Terafab' in rural Texas, described as a multi-phase, vertically integrated semiconductor manufacturing and advanced computing fabrication facility. The project would represent one of the largest private investments in US chip manufacturing in history and is framed as supporting Elon Musk's ambitions to build AI infrastructure domestically. The proposal is at an early stage and has not received regulatory approval.",
+    "source_url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "SpaceX"
+    ],
+    "technologies": [
+      "semiconductor fabrication",
+      "AI chip manufacturing",
+      "advanced computing"
+    ],
+    "use_cases": [
+      "domestic AI chip supply",
+      "vertically integrated AI infrastructure"
+    ]
+  }
+}

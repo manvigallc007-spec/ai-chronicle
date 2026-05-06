@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=kjWY9ACpkZs",
+  "thumbnail_url": "https://i.ytimg.com/vi/kjWY9ACpkZs/maxresdefault.jpg",
+  "story": {
+    "title": "Google updates AI search to surface quotes from Reddit and web forums in answers",
+    "pillar": "Daily Utility",
+    "summary": "Google has updated its AI-powered search experience to incorporate direct quotes and content from Reddit and other web discussion forums within AI-generated answers, aiming to surface more niche and community-sourced responses. The change is designed to help users find answers to specific queries that benefit from lived experience rather than formal sources. However, critics warn that pulling from unmoderated forums introduces risk of misinformation appearing alongside authoritative results.",
+    "source_url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Google",
+      "Reddit"
+    ],
+    "technologies": [
+      "AI search",
+      "large language models",
+      "web forum indexing"
+    ],
+    "use_cases": [
+      "AI-powered search answers",
+      "community knowledge surfacing"
+    ]
+  }
+}

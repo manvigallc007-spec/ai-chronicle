@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=pfnhiPH5n5w",
+  "thumbnail_url": "https://i.ytimg.com/vi/pfnhiPH5n5w/maxresdefault.jpg",
+  "story": {
+    "title": "Match Group slows hiring to fund AI tools as Tinder owner says AI 'costs a lot of money'",
+    "pillar": "Job Evolution",
+    "summary": "Match Group, the parent company of Tinder and other dating apps, announced it is deliberately slowing its hiring plans for the remainder of 2026 in order to fund its growing use of AI tools, which the company says 'cost a lot of money.' The decision signals a direct trade-off between human headcount and AI investment at a major consumer tech firm. It is one of the clearest public admissions yet from a large company that AI spending is coming at the direct expense of new jobs.",
+    "source_url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Match Group",
+      "Tinder"
+    ],
+    "technologies": [
+      "AI productivity tools"
+    ],
+    "use_cases": [
+      "AI replacing headcount growth",
+      "enterprise AI cost management"
+    ]
+  }
+}

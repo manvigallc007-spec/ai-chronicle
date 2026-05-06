@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=sRv2WPZaYVA",
+      "embedUrl": "https://www.youtube.com/embed/sRv2WPZaYVA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sRv2WPZaYVA/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Anthropic's Claude gets expanded compute capacity via SpaceX Colossus data centre deal",
+            "articleSection": "Daily Utility",
+            "abstract": "Anthropic's Claude AI has secured access to compute capacity from SpaceX's Colossus data centre facility, a move that has allowed Anthropic to relax previously tight usage limits on its models. The arrangement means Claude users will encounter fewer rate limits and capacity constraints, improving day-to-day reliability for enterprise and consumer users. The deal underscores how AI labs are increasingly turning to non-traditional infrastructure partners to meet surging compute demand.",
+            "url": "https://www.theregister.com/ai-and-ml/2026/05/06/claude-hitches-a-ride-on-spacexs-datacenter-capacity/5231252",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Anthropic"
+              },
+              {
+                "@type": "Organization",
+                "name": "SpaceX"
+              },
+              {
+                "@type": "Thing",
+                "name": "Claude"
+              },
+              {
+                "@type": "Thing",
+                "name": "Colossus data centre"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI compute infrastructure"
+              }
+            ],
+            "keywords": "Anthropic, SpaceX, Claude, Colossus data centre, AI compute infrastructure, AI model capacity scaling, enterprise AI access",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

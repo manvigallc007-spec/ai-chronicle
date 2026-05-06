@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=OSlAEPqYHbA",
+      "embedUrl": "https://www.youtube.com/embed/OSlAEPqYHbA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/OSlAEPqYHbA/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "AI layoffs are backfiring: replacing workers with agents isn't delivering promised savings, firms warned",
+            "articleSection": "Job Evolution",
+            "abstract": "A growing body of evidence and analyst warnings suggests that companies which have replaced human workers with AI agents are not achieving the cost savings or productivity gains they projected, with many discovering that AI agents are failure-prone and require significant human oversight to function reliably. Business advisors are cautioning executives that the assumption AI can simply substitute for experienced staff has proven incorrect in many deployments. The findings challenge the widespread corporate narrative that AI-driven headcount reduction is a straightforward path to efficiency.",
+            "url": "https://www.theregister.com/ai-and-ml/2026/05/06/ai-layoffs-backfire-as-cutting-staff-doesnt-cut-it-firms-warned/5230631",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "AI agents"
+              },
+              {
+                "@type": "Thing",
+                "name": "automation tools"
+              }
+            ],
+            "keywords": "AI agents, automation tools, AI-driven workforce reduction, enterprise AI productivity",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

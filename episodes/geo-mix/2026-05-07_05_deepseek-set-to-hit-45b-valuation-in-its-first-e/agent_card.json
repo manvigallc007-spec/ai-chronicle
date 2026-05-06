@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 5,
+  "video_url": "https://www.youtube.com/watch?v=IOuld_gPL1s",
+  "thumbnail_url": "https://i.ytimg.com/vi/IOuld_gPL1s/maxresdefault.jpg",
+  "story": {
+    "title": "DeepSeek set to hit $45B valuation in its first-ever external investment round",
+    "pillar": "Policy & Rights",
+    "summary": "Chinese AI lab DeepSeek, which rose to global prominence in early 2025 after releasing a powerful large language model trained at a fraction of the cost of US rivals, is reportedly seeking a valuation of approximately $45 billion in its first-ever external investment round. The move would mark a major shift for a lab that has operated without outside funding and signal growing investor confidence in China's ability to compete at the AI frontier. The valuation would place DeepSeek among the most valuable AI companies globally.",
+    "source_url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "DeepSeek"
+    ],
+    "technologies": [
+      "large language models",
+      "low-cost AI training"
+    ],
+    "use_cases": [
+      "AI frontier lab funding",
+      "US-China AI competition"
+    ]
+  }
+}

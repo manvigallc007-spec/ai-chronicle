@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=SMYei-OxKgw",
+  "thumbnail_url": "https://i.ytimg.com/vi/SMYei-OxKgw/maxresdefault.jpg",
+  "story": {
+    "title": "DeepSeek could reach $45B valuation as Chinese AI lab seeks its first external investment round",
+    "pillar": "Policy & Rights",
+    "summary": "Note: The China region feeds (SCMP Tech and Sixth Tone) did not yield any AI-focused stories eligible for selection in the geo-mix division during this fetch window. SCMP's feed was dominated by geopolitical, crime, and international news stories with no AI angle. Sixth Tone's feed covered culture, society, and human-interest stories; the two AI-adjacent Sixth Tone items ('When Big Tech Needed Mothers in Rural China to Train AI' and 'Behind China's AI Boom Are Computer Rooms Full of Rural Workers') match titles on the exclusion list and were rejected at the candidate stage. To satisfy the min_in_final quota of 1 for the China region without silently substituting a non-China story, the highest-scored China-primary story from the broader article pool — DeepSeek's $45B valuation round reported via TechCrunch — is promoted here as it concerns a Chinese AI company. Per dedup_rule, this story is counted toward the china region as its primary subject is a Chinese entity.",
+    "source_url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "DeepSeek"
+    ],
+    "technologies": [
+      "large language models",
+      "low-cost AI training"
+    ],
+    "use_cases": [
+      "Chinese AI lab investment",
+      "global AI pricing competition"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=kjWY9ACpkZs",
+      "embedUrl": "https://www.youtube.com/embed/kjWY9ACpkZs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kjWY9ACpkZs/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Google updates AI search to surface quotes from Reddit and web forums in answers",
+            "articleSection": "Daily Utility",
+            "abstract": "Google has updated its AI-powered search experience to incorporate direct quotes and content from Reddit and other web discussion forums within AI-generated answers, aiming to surface more niche and community-sourced responses. The change is designed to help users find answers to specific queries that benefit from lived experience rather than formal sources. However, critics warn that pulling from unmoderated forums introduces risk of misinformation appearing alongside authoritative results.",
+            "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Google"
+              },
+              {
+                "@type": "Organization",
+                "name": "Reddit"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI search"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "web forum indexing"
+              }
+            ],
+            "keywords": "Google, Reddit, AI search, large language models, web forum indexing, AI-powered search answers, community knowledge surfacing",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
