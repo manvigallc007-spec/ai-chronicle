@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=a3TM4kC0uB0",
+      "embedUrl": "https://www.youtube.com/embed/a3TM4kC0uB0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/a3TM4kC0uB0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Premji Invest in Talks to Join Emergent's $250M Fundraise at $1.5 Billion Valuation",
+            "articleSection": "How to Evolve",
+            "abstract": "Premji Invest is reportedly in advanced discussions to participate in AI coding platform Emergent's $250 million funding round, which would value the company at $1.5 billion. This follows Emergent's $70 million raise just three months earlier, signalling rapid investor confidence in AI-native software development tools. The potential backing from one of India's most respected institutional investors would further validate Emergent's position in the fast-growing agentic coding space.",
+            "url": "https://economictimes.indiatimes.com/tech/funding/premji-invest-in-talks-to-join-emergent-fundraise/articleshow/130837681.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Premji Invest"
+              },
+              {
+                "@type": "Organization",
+                "name": "Emergent"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI coding platform"
+              },
+              {
+                "@type": "Thing",
+                "name": "agentic AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              }
+            ],
+            "keywords": "Premji Invest, Emergent, AI coding platform, agentic AI, large language models, AI-assisted software development, autonomous coding agents, developer productivity",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

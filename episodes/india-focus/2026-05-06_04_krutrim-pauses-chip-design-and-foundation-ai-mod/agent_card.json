@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-06",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=UebUdhyoq9I",
+  "thumbnail_url": "https://i.ytimg.com/vi/UebUdhyoq9I/maxresdefault.jpg",
+  "story": {
+    "title": "Krutrim Pauses Chip Design and Foundation AI Model Work, Pivots Fully to AI Cloud Services",
+    "pillar": "Job Evolution",
+    "summary": "Krutrim, Ola founder Bhavish Aggarwal's AI company, has paused its semiconductor chip design and foundation AI model programmes, redirecting capital and staff toward AI cloud services after a business realignment in late 2025. The pivot follows earlier reporting that Krutrim posted its first net profit in FY26 on the back of 3x revenue growth from cloud services. The strategic retreat from chip and model development narrows India's ambition for a fully indigenous AI stack but reflects capital discipline amid intense global competition.",
+    "source_url": "https://www.medianama.com/2026/05/223-krutrim-ai-cloud-chip-ai-model-work/",
+    "source_name": "Medianama",
+    "companies": [
+      "Krutrim",
+      "Ola"
+    ],
+    "technologies": [
+      "AI cloud services",
+      "chip design",
+      "foundation AI models",
+      "LLMs"
+    ],
+    "use_cases": [
+      "cloud compute provisioning",
+      "AI infrastructure for Indian enterprises",
+      "sovereign AI development"
+    ]
+  }
+}

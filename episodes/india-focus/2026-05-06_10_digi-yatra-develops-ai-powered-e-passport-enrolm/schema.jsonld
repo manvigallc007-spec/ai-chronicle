@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=lDtV0b-P49A",
+      "embedUrl": "https://www.youtube.com/embed/lDtV0b-P49A",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lDtV0b-P49A/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Digi Yatra Develops AI-Powered E-Passport Enrolment and Facial Verification System for International Travel",
+            "articleSection": "Daily Utility",
+            "abstract": "Digi Yatra Foundation has shared new details of its proposed international travel system, which includes e-passport enrolment, AI-based facial verification, and token-based identity sharing to streamline border crossings for Indian travellers. The system builds on Digi Yatra's existing domestic airport face-recognition infrastructure, extending its ambition from domestic terminals to cross-border identity management. Privacy advocates are monitoring how biometric tokens will be stored, shared, and deleted across jurisdictions.",
+            "url": "https://www.medianama.com/2026/05/223-digi-yatra-e-passport-global-travel/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Digi Yatra Foundation"
+              },
+              {
+                "@type": "Thing",
+                "name": "facial verification AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "e-passport"
+              },
+              {
+                "@type": "Thing",
+                "name": "token-based identity"
+              },
+              {
+                "@type": "Thing",
+                "name": "biometric systems"
+              }
+            ],
+            "keywords": "Digi Yatra Foundation, facial verification AI, e-passport, token-based identity, biometric systems, AI-powered border control, international travel identity management, contactless airport processing",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -22,6 +22,76 @@
   ],
   "recent_episodes": [
     {
+      "title": "Digi Yatra Develops AI-Powered E-Passport Enrolment and Facial Verification System for International Travel",
+      "video_url": "https://www.youtube.com/watch?v=lDtV0b-P49A",
+      "date": "2026-05-06",
+      "division": "india-focus",
+      "pillar": "Daily Utility"
+    },
+    {
+      "title": "India Cabinet Approves Two Gujarat Semiconductor Units Worth Rs 3,936 Crore, Creating 2,230 Jobs",
+      "video_url": "https://www.youtube.com/watch?v=Xvis6LEbOKQ",
+      "date": "2026-05-06",
+      "division": "india-focus",
+      "pillar": "Job Evolution"
+    },
+    {
+      "title": "Fake Allu Arjun AI Chatbots Remain Live on CelebsGPT Despite Delhi High Court Personality Rights Order",
+      "video_url": "https://www.youtube.com/watch?v=AfgvI_0ouw8",
+      "date": "2026-05-06",
+      "division": "india-focus",
+      "pillar": "Policy & Rights"
+    },
+    {
+      "title": "Premji Invest in Talks to Join Emergent's $250M Fundraise at $1.5 Billion Valuation",
+      "video_url": "https://www.youtube.com/watch?v=a3TM4kC0uB0",
+      "date": "2026-05-06",
+      "division": "india-focus",
+      "pillar": "How to Evolve"
+    },
+    {
+      "title": "Coforge Q4 FY26 Profit More Than Doubles to Rs 612 Crore, Driven by AI Efficiencies and Deal Wins",
+      "video_url": "https://www.youtube.com/watch?v=bU0pyYu_Czg",
+      "date": "2026-05-06",
+      "division": "india-focus",
+      "pillar": "Job Evolution"
+    },
+    {
+      "title": "Anthropic Launches Claude Security Enterprise Tool — Falls Short of Mythos-Level Capabilities",
+      "video_url": "https://www.youtube.com/watch?v=Q-HjPRnLrk8",
+      "date": "2026-05-06",
+      "division": "india-focus",
+      "pillar": "Policy & Rights"
+    },
+    {
+      "title": "Krutrim Pauses Chip Design and Foundation AI Model Work, Pivots Fully to AI Cloud Services",
+      "video_url": "https://www.youtube.com/watch?v=UebUdhyoq9I",
+      "date": "2026-05-06",
+      "division": "india-focus",
+      "pillar": "Job Evolution"
+    },
+    {
+      "title": "Pixxel and Sarvam AI to Launch India's First Orbital AI Data Centre Satellite in 2026",
+      "video_url": "https://www.youtube.com/watch?v=YbPbjV5Uq2E",
+      "date": "2026-05-06",
+      "division": "india-focus",
+      "pillar": "Discovery & Research"
+    },
+    {
+      "title": "Pixxel Wins US National Reconnaissance Office Contract to Supply Hyperspectral Satellite Imagery",
+      "video_url": "https://www.youtube.com/watch?v=s61qIzfZ9WA",
+      "date": "2026-05-06",
+      "division": "india-focus",
+      "pillar": "Discovery & Research"
+    },
+    {
+      "title": "Indian Cybersecurity Firms Deploy In-House AI Agents to Cut Vulnerability Response From Days to Hours",
+      "video_url": "https://www.youtube.com/watch?v=yBZSh1LzGW8",
+      "date": "2026-05-06",
+      "division": "india-focus",
+      "pillar": "Daily Utility"
+    },
+    {
       "title": "FarMart Turns EBITDA Profitable in Q4 FY26, Hits Rs 3,600 Crore Run Rate With AI-Powered Agri Workflows",
       "video_url": "https://www.youtube.com/watch?v=GpQY6s817YI",
       "date": "2026-05-05",
@@ -88,76 +158,6 @@
       "title": "Krutrim Pivots to AI Cloud Services, Reports 3x Revenue Growth and First Net Profit in FY26",
       "video_url": "https://www.youtube.com/watch?v=VeJYv8bV1XA",
       "date": "2026-05-05",
-      "division": "india-focus",
-      "pillar": "Discovery & Research"
-    },
-    {
-      "title": "ISB DLabs I-HEAL Fourth Cohort: 15 Health Startups Building AI-Led Solutions for India's Most Overlooked Gaps",
-      "video_url": "https://www.youtube.com/watch?v=F_FETHFmWms",
-      "date": "2026-05-04",
-      "division": "india-focus",
-      "pillar": "Education & Youth"
-    },
-    {
-      "title": "MeitY's Section 69A Blocked Anti-Gambling App Gamban for Three Years Without Disclosing Reasons",
-      "video_url": "https://www.youtube.com/watch?v=bGZNgOTmLEY",
-      "date": "2026-05-04",
-      "division": "india-focus",
-      "pillar": "Policy & Rights"
-    },
-    {
-      "title": "Skyroot's Vikram-1 — India's First Private Orbital Rocket — Set for Launch From Sriharikota Within Weeks",
-      "video_url": "https://www.youtube.com/watch?v=P5-SwHvH0-s",
-      "date": "2026-05-04",
-      "division": "india-focus",
-      "pillar": "Discovery & Research"
-    },
-    {
-      "title": "Independent Media and Online Critics Face Growing Censorship Risk as India's Content Takedown Infrastructure Expands",
-      "video_url": "https://www.youtube.com/watch?v=3Rekgm78W1M",
-      "date": "2026-05-04",
-      "division": "india-focus",
-      "pillar": "Policy & Rights"
-    },
-    {
-      "title": "Apple Calls India's Competition Commission an Overreach as CCI-Apple Antitrust Dispute Intensifies",
-      "video_url": "https://www.youtube.com/watch?v=fIykjEVr8o0",
-      "date": "2026-05-04",
-      "division": "india-focus",
-      "pillar": "Policy & Rights"
-    },
-    {
-      "title": "IndiaMART Stops Reporting Traffic Metrics as AI Agent Bots Overwhelm Platform With Agentic Traffic",
-      "video_url": "https://www.youtube.com/watch?v=1nHWXpFrfEk",
-      "date": "2026-05-04",
-      "division": "india-focus",
-      "pillar": "Daily Utility"
-    },
-    {
-      "title": "Tata Electronics Targets $30 Billion Revenue With India's First Semiconductor Fab and Global Customer Wins",
-      "video_url": "https://www.youtube.com/watch?v=7MHx-8VSXGM",
-      "date": "2026-05-04",
-      "division": "india-focus",
-      "pillar": "Discovery & Research"
-    },
-    {
-      "title": "UpGrad to Acquire Unacademy for Rs 2,055 Crore — 90% Below Peak Valuation in India's Edtech Reckoning",
-      "video_url": "https://www.youtube.com/watch?v=xMZjQGdSqy0",
-      "date": "2026-05-04",
-      "division": "india-focus",
-      "pillar": "Education & Youth"
-    },
-    {
-      "title": "India's Major IT Firms Record Rising Revenue Per Employee as AI and Automation Drive Productivity Shift",
-      "video_url": "https://www.youtube.com/watch?v=Zah6RqHmvk0",
-      "date": "2026-05-04",
-      "division": "india-focus",
-      "pillar": "Job Evolution"
-    },
-    {
-      "title": "GalaxEye Launches World's First OptoSAR Satellite — India's Largest Private Space Payload Reaches Orbit",
-      "video_url": "https://www.youtube.com/watch?v=rdphpCotbuI",
-      "date": "2026-05-04",
       "division": "india-focus",
       "pillar": "Discovery & Research"
     }

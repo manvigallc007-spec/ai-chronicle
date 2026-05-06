@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-06",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=AfgvI_0ouw8",
+  "thumbnail_url": "https://i.ytimg.com/vi/AfgvI_0ouw8/maxresdefault.jpg",
+  "story": {
+    "title": "Fake Allu Arjun AI Chatbots Remain Live on CelebsGPT Despite Delhi High Court Personality Rights Order",
+    "pillar": "Policy & Rights",
+    "summary": "AI platform CelebsGPT continues to host fake chatbots mimicking actor Allu Arjun despite a Delhi High Court order granting him personality rights protection. The bots are styled as celebrity-character AI avatars and remain accessible on both the CelebsGPT site and Instagram, exposing a significant enforcement gap in India's emerging AI personality-rights jurisprudence. The case highlights the difficulty courts face in compelling removal of AI-generated impersonations from platforms with limited Indian regulatory reach.",
+    "source_url": "https://www.medianama.com/2026/05/223-fake-allu-arjun-ai-chatbots-live-delhi-hc-personality-rights/",
+    "source_name": "Medianama",
+    "companies": [
+      "CelebsGPT",
+      "Meta (Instagram)",
+      "Delhi High Court"
+    ],
+    "technologies": [
+      "AI chatbots",
+      "generative AI",
+      "AI avatars"
+    ],
+    "use_cases": [
+      "celebrity impersonation via AI",
+      "personality rights enforcement",
+      "AI content moderation"
+    ]
+  }
+}

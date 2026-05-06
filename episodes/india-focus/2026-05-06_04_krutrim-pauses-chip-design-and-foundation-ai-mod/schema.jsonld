@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=UebUdhyoq9I",
+      "embedUrl": "https://www.youtube.com/embed/UebUdhyoq9I",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UebUdhyoq9I/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Krutrim Pauses Chip Design and Foundation AI Model Work, Pivots Fully to AI Cloud Services",
+            "articleSection": "Job Evolution",
+            "abstract": "Krutrim, Ola founder Bhavish Aggarwal's AI company, has paused its semiconductor chip design and foundation AI model programmes, redirecting capital and staff toward AI cloud services after a business realignment in late 2025. The pivot follows earlier reporting that Krutrim posted its first net profit in FY26 on the back of 3x revenue growth from cloud services. The strategic retreat from chip and model development narrows India's ambition for a fully indigenous AI stack but reflects capital discipline amid intense global competition.",
+            "url": "https://www.medianama.com/2026/05/223-krutrim-ai-cloud-chip-ai-model-work/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Krutrim"
+              },
+              {
+                "@type": "Organization",
+                "name": "Ola"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI cloud services"
+              },
+              {
+                "@type": "Thing",
+                "name": "chip design"
+              },
+              {
+                "@type": "Thing",
+                "name": "foundation AI models"
+              },
+              {
+                "@type": "Thing",
+                "name": "LLMs"
+              }
+            ],
+            "keywords": "Krutrim, Ola, AI cloud services, chip design, foundation AI models, LLMs, cloud compute provisioning, AI infrastructure for Indian enterprises, sovereign AI development",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

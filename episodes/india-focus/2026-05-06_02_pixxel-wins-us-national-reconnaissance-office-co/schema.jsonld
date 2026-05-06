@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=s61qIzfZ9WA",
+      "embedUrl": "https://www.youtube.com/embed/s61qIzfZ9WA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/s61qIzfZ9WA/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Pixxel Wins US National Reconnaissance Office Contract to Supply Hyperspectral Satellite Imagery",
+            "articleSection": "Discovery & Research",
+            "abstract": "Bengaluru-based space-tech startup Pixxel has secured a contract from the US National Reconnaissance Office to provide hyperspectral satellite imagery, marking a significant commercial validation for an Indian private space firm. The award supports Washington's effort to integrate emerging commercial hyperspectral data sources into its expanding remote sensing architecture. It positions Pixxel as a credible supplier to one of the world's most demanding intelligence-grade customers.",
+            "url": "https://www.thehindu.com/news/cities/bangalore/usas-national-reconnaissance-office-awards-contract-to-bengaluru-space-startup-pixxel-to-provide-hyperspectral-imagery/article70942519.ece",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Pixxel"
+              },
+              {
+                "@type": "Organization",
+                "name": "US National Reconnaissance Office"
+              },
+              {
+                "@type": "Thing",
+                "name": "hyperspectral satellite imagery"
+              },
+              {
+                "@type": "Thing",
+                "name": "remote sensing"
+              },
+              {
+                "@type": "Thing",
+                "name": "orbital data"
+              }
+            ],
+            "keywords": "Pixxel, US National Reconnaissance Office, hyperspectral satellite imagery, remote sensing, orbital data, government intelligence imagery, commercial satellite data supply, space-based earth observation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

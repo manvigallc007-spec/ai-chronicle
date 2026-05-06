@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-06",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=bU0pyYu_Czg",
+  "thumbnail_url": "https://i.ytimg.com/vi/bU0pyYu_Czg/maxresdefault.jpg",
+  "story": {
+    "title": "Coforge Q4 FY26 Profit More Than Doubles to Rs 612 Crore, Driven by AI Efficiencies and Deal Wins",
+    "pillar": "Job Evolution",
+    "summary": "Coforge reported a 135% year-on-year surge in net profit to Rs 612 crore for Q4 FY26, surpassing street estimates, with strong revenue growth across healthcare and hi-tech verticals. The IT services firm attributed gains to AI-driven efficiencies and a robust pipeline of new deal wins. The result stands in contrast to the tepid growth reported by India's largest IT firms, suggesting mid-tier players are capturing AI-era benefits faster.",
+    "source_url": "https://economictimes.indiatimes.com/tech/information-tech/coforges-q4-profit-doubles-to-rs-612-crore-on-robust-deal-wins/articleshow/130837194.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Coforge"
+    ],
+    "technologies": [
+      "AI efficiencies",
+      "automation",
+      "IT services"
+    ],
+    "use_cases": [
+      "AI-driven IT service delivery",
+      "enterprise AI adoption",
+      "healthcare technology"
+    ]
+  }
+}

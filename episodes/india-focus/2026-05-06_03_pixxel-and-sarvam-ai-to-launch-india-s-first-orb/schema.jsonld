@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=YbPbjV5Uq2E",
+      "embedUrl": "https://www.youtube.com/embed/YbPbjV5Uq2E",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YbPbjV5Uq2E/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Pixxel and Sarvam AI to Launch India's First Orbital AI Data Centre Satellite in 2026",
+            "articleSection": "Discovery & Research",
+            "abstract": "Pixxel will design, build, launch, and operate India's first orbital data centre satellite, while Sarvam AI will run AI training and inference directly on board the spacecraft, eliminating dependence on cloud or ground infrastructure. Sarvam says the approach will reduce latency by cutting the round-trip time for data to reach the ground, enabling faster AI outputs from space-based systems. The collaboration represents a convergence of India's private space and sovereign AI ambitions in a single mission.",
+            "url": "https://www.medianama.com/2026/05/223-why-sarvam-want-its-ai-data-centers-in-space-satellites/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Pixxel"
+              },
+              {
+                "@type": "Organization",
+                "name": "Sarvam AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "orbital data centre"
+              },
+              {
+                "@type": "Thing",
+                "name": "on-orbit AI inference"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "hyperspectral satellites"
+              }
+            ],
+            "keywords": "Pixxel, Sarvam AI, orbital data centre, on-orbit AI inference, large language models, hyperspectral satellites, space-based AI training, sovereign AI infrastructure, low-latency orbital computing",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

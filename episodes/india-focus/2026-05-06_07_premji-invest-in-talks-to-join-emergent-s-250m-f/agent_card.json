@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-06",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=a3TM4kC0uB0",
+  "thumbnail_url": "https://i.ytimg.com/vi/a3TM4kC0uB0/maxresdefault.jpg",
+  "story": {
+    "title": "Premji Invest in Talks to Join Emergent's $250M Fundraise at $1.5 Billion Valuation",
+    "pillar": "How to Evolve",
+    "summary": "Premji Invest is reportedly in advanced discussions to participate in AI coding platform Emergent's $250 million funding round, which would value the company at $1.5 billion. This follows Emergent's $70 million raise just three months earlier, signalling rapid investor confidence in AI-native software development tools. The potential backing from one of India's most respected institutional investors would further validate Emergent's position in the fast-growing agentic coding space.",
+    "source_url": "https://economictimes.indiatimes.com/tech/funding/premji-invest-in-talks-to-join-emergent-fundraise/articleshow/130837681.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Premji Invest",
+      "Emergent"
+    ],
+    "technologies": [
+      "AI coding platform",
+      "agentic AI",
+      "large language models"
+    ],
+    "use_cases": [
+      "AI-assisted software development",
+      "autonomous coding agents",
+      "developer productivity"
+    ]
+  }
+}

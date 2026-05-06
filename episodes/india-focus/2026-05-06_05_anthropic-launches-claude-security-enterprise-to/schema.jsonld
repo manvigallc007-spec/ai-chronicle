@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Q-HjPRnLrk8",
+      "embedUrl": "https://www.youtube.com/embed/Q-HjPRnLrk8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Q-HjPRnLrk8/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Anthropic Launches Claude Security Enterprise Tool — Falls Short of Mythos-Level Capabilities",
+            "articleSection": "Policy & Rights",
+            "abstract": "Anthropic has launched Claude Security, an AI-powered vulnerability scanner built on its Opus 4.7 model, aimed at enterprise customers seeking automated cybersecurity tools. The product was released weeks after the Mythos zero-day threat triggered global alarm, but Anthropic has confirmed it does not carry Mythos-level offensive capabilities. Indian enterprises and CERT-In had been assessing exposure risks from Mythos, making this product launch directly relevant to India's cybersecurity posture.",
+            "url": "https://www.medianama.com/2026/05/223-anthropics-claude-security-amid-mythos-concerns/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Anthropic"
+              },
+              {
+                "@type": "Organization",
+                "name": "CERT-In"
+              },
+              {
+                "@type": "Thing",
+                "name": "Claude Security"
+              },
+              {
+                "@type": "Thing",
+                "name": "Opus 4.7"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI vulnerability scanning"
+              },
+              {
+                "@type": "Thing",
+                "name": "LLMs"
+              }
+            ],
+            "keywords": "Anthropic, CERT-In, Claude Security, Opus 4.7, AI vulnerability scanning, LLMs, enterprise cybersecurity automation, AI-powered threat detection, vulnerability remediation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

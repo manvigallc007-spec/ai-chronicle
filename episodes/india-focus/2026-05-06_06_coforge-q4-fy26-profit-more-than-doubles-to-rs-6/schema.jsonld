@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=bU0pyYu_Czg",
+      "embedUrl": "https://www.youtube.com/embed/bU0pyYu_Czg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bU0pyYu_Czg/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Coforge Q4 FY26 Profit More Than Doubles to Rs 612 Crore, Driven by AI Efficiencies and Deal Wins",
+            "articleSection": "Job Evolution",
+            "abstract": "Coforge reported a 135% year-on-year surge in net profit to Rs 612 crore for Q4 FY26, surpassing street estimates, with strong revenue growth across healthcare and hi-tech verticals. The IT services firm attributed gains to AI-driven efficiencies and a robust pipeline of new deal wins. The result stands in contrast to the tepid growth reported by India's largest IT firms, suggesting mid-tier players are capturing AI-era benefits faster.",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/coforges-q4-profit-doubles-to-rs-612-crore-on-robust-deal-wins/articleshow/130837194.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Coforge"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI efficiencies"
+              },
+              {
+                "@type": "Thing",
+                "name": "automation"
+              },
+              {
+                "@type": "Thing",
+                "name": "IT services"
+              }
+            ],
+            "keywords": "Coforge, AI efficiencies, automation, IT services, AI-driven IT service delivery, enterprise AI adoption, healthcare technology",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-06",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=YbPbjV5Uq2E",
+  "thumbnail_url": "https://i.ytimg.com/vi/YbPbjV5Uq2E/maxresdefault.jpg",
+  "story": {
+    "title": "Pixxel and Sarvam AI to Launch India's First Orbital AI Data Centre Satellite in 2026",
+    "pillar": "Discovery & Research",
+    "summary": "Pixxel will design, build, launch, and operate India's first orbital data centre satellite, while Sarvam AI will run AI training and inference directly on board the spacecraft, eliminating dependence on cloud or ground infrastructure. Sarvam says the approach will reduce latency by cutting the round-trip time for data to reach the ground, enabling faster AI outputs from space-based systems. The collaboration represents a convergence of India's private space and sovereign AI ambitions in a single mission.",
+    "source_url": "https://www.medianama.com/2026/05/223-why-sarvam-want-its-ai-data-centers-in-space-satellites/",
+    "source_name": "Medianama",
+    "companies": [
+      "Pixxel",
+      "Sarvam AI"
+    ],
+    "technologies": [
+      "orbital data centre",
+      "on-orbit AI inference",
+      "large language models",
+      "hyperspectral satellites"
+    ],
+    "use_cases": [
+      "space-based AI training",
+      "sovereign AI infrastructure",
+      "low-latency orbital computing"
+    ]
+  }
+}

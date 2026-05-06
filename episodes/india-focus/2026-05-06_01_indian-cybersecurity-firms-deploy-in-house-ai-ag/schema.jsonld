@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=yBZSh1LzGW8",
+      "embedUrl": "https://www.youtube.com/embed/yBZSh1LzGW8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yBZSh1LzGW8/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Indian Cybersecurity Firms Deploy In-House AI Agents to Cut Vulnerability Response From Days to Hours",
+            "articleSection": "Daily Utility",
+            "abstract": "Indian cybersecurity companies are building proprietary AI agents on top of large language models to detect and remediate software vulnerabilities in hours rather than days. The shift is driven by attackers operating at machine speed, leaving human-only response cycles dangerously slow. Firms say the in-house approach gives them tighter control over sensitive client data compared to third-party tools.",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-cyber-firms-deploy-ai-agents-to-fend-off-threats/articleshow/130836950.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Indian cybersecurity firms"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI agents"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "LLMs"
+              },
+              {
+                "@type": "Thing",
+                "name": "vulnerability detection"
+              }
+            ],
+            "keywords": "Indian cybersecurity firms, AI agents, large language models, LLMs, vulnerability detection, automated threat detection, software vulnerability remediation, AI-driven cybersecurity response",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

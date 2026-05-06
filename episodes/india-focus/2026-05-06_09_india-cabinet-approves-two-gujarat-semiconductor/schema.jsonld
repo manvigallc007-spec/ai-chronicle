@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Xvis6LEbOKQ",
+      "embedUrl": "https://www.youtube.com/embed/Xvis6LEbOKQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Xvis6LEbOKQ/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India Cabinet Approves Two Gujarat Semiconductor Units Worth Rs 3,936 Crore, Creating 2,230 Jobs",
+            "articleSection": "Job Evolution",
+            "abstract": "India's Union Cabinet has approved two new semiconductor manufacturing units in Gujarat with a combined investment of approximately Rs 3,936 crore, expected to generate around 2,230 skilled jobs. The approval is part of the government's ongoing push to build domestic chip manufacturing capacity as demand from AI, automotive, and consumer electronics sectors accelerates. The projects deepen India's semiconductor ecosystem beyond assembly and testing into more capital-intensive fabrication segments.",
+            "url": "https://yourstory.com/2026/05/cabinet-semicon-push-two-gujarat-units-investment-3900-crore",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Government of India"
+              },
+              {
+                "@type": "Organization",
+                "name": "Gujarat semiconductor units"
+              },
+              {
+                "@type": "Thing",
+                "name": "semiconductor manufacturing"
+              },
+              {
+                "@type": "Thing",
+                "name": "chip fabrication"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI hardware"
+              }
+            ],
+            "keywords": "Government of India, Gujarat semiconductor units, semiconductor manufacturing, chip fabrication, AI hardware, domestic chip supply, AI infrastructure component manufacturing, skilled job creation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-06",
+  "rank": 9,
+  "video_url": "https://www.youtube.com/watch?v=Xvis6LEbOKQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/Xvis6LEbOKQ/maxresdefault.jpg",
+  "story": {
+    "title": "India Cabinet Approves Two Gujarat Semiconductor Units Worth Rs 3,936 Crore, Creating 2,230 Jobs",
+    "pillar": "Job Evolution",
+    "summary": "India's Union Cabinet has approved two new semiconductor manufacturing units in Gujarat with a combined investment of approximately Rs 3,936 crore, expected to generate around 2,230 skilled jobs. The approval is part of the government's ongoing push to build domestic chip manufacturing capacity as demand from AI, automotive, and consumer electronics sectors accelerates. The projects deepen India's semiconductor ecosystem beyond assembly and testing into more capital-intensive fabrication segments.",
+    "source_url": "https://yourstory.com/2026/05/cabinet-semicon-push-two-gujarat-units-investment-3900-crore",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "Government of India",
+      "Gujarat semiconductor units"
+    ],
+    "technologies": [
+      "semiconductor manufacturing",
+      "chip fabrication",
+      "AI hardware"
+    ],
+    "use_cases": [
+      "domestic chip supply",
+      "AI infrastructure component manufacturing",
+      "skilled job creation"
+    ]
+  }
+}
