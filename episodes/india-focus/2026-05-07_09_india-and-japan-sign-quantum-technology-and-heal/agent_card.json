@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 9,
+  "video_url": "https://www.youtube.com/watch?v=an-CYM5wKHc",
+  "thumbnail_url": "https://i.ytimg.com/vi/an-CYM5wKHc/maxresdefault.jpg",
+  "story": {
+    "title": "India and Japan Sign Quantum Technology and Health Research Cooperation Agreements",
+    "pillar": "Discovery & Research",
+    "summary": "India and Japan have formalised bilateral agreements to collaborate on quantum science and medical device research, aiming to jointly advance science, technology, and innovation partnerships. The deals are intended to foster joint R&D projects and strengthen academic and industrial ties between the two nations. The quantum technology agreement is particularly significant as India races to build domestic capabilities in post-classical computing alongside its AI infrastructure push.",
+    "source_url": "https://economictimes.indiatimes.com/tech/information-tech/india-japan-sign-agreements-in-quantum-technology-health-research-cooperation/articleshow/130857777.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Government of India",
+      "Government of Japan"
+    ],
+    "technologies": [
+      "quantum computing",
+      "quantum science",
+      "medical device technology"
+    ],
+    "use_cases": [
+      "India-Japan bilateral tech cooperation",
+      "quantum research partnership",
+      "joint health technology R&D"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=QFevQwTIReU",
+      "embedUrl": "https://www.youtube.com/embed/QFevQwTIReU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QFevQwTIReU/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "SEBI Orders Immediate Cybersecurity Overhaul Across All Regulated Entities, Citing Claude Mythos Risks",
+            "articleSection": "Policy & Rights",
+            "abstract": "India's Securities and Exchange Board of India has issued a formal cybersecurity circular naming Anthropic's Claude Mythos AI system as a specific threat, ordering every regulated financial entity to urgently strengthen its cyber defences. SEBI has also formed a dedicated task force to oversee the overhaul. This is the first time SEBI has named a specific AI capability in a regulatory circular, marking a significant escalation in how Indian financial regulators treat advanced AI as a systemic risk.",
+            "url": "https://www.medianama.com/2026/05/223-sebi-claude-mythos-circular-orders-cybersecurity-overhaul/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "SEBI"
+              },
+              {
+                "@type": "Organization",
+                "name": "Anthropic"
+              },
+              {
+                "@type": "Thing",
+                "name": "Claude Mythos"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI cybersecurity"
+              },
+              {
+                "@type": "Thing",
+                "name": "financial sector threat intelligence"
+              }
+            ],
+            "keywords": "SEBI, Anthropic, Claude Mythos, AI cybersecurity, financial sector threat intelligence, regulatory cybersecurity enforcement, AI risk classification by financial regulators, cyber defence mandates for banks and brokerages",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

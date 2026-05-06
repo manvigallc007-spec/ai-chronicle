@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=tLvmBin31u0",
+      "embedUrl": "https://www.youtube.com/embed/tLvmBin31u0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tLvmBin31u0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Paytm Posts First-Ever Annual Profit of Rs 552 Crore in FY26 After Years of Losses",
+            "articleSection": "Daily Utility",
+            "abstract": "Digital payments leader Paytm has recorded its first-ever full-year net profit of Rs 552 crore in FY26, swinging from significant losses in prior years. The turnaround was driven by disciplined cost control and a 22% rise in operating revenue to Rs 8,437 crore, with financial services emerging as the primary growth engine. The milestone is significant for India's fintech sector, signalling that large-scale digital payments platforms can achieve sustainable profitability after extended investment phases.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/paytm-closes-fy26-with-net-profit-of-rs-552-crore-swinging-from-losses/articleshow/130862390.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Paytm"
+              },
+              {
+                "@type": "Organization",
+                "name": "Paytm Payments Bank"
+              },
+              {
+                "@type": "Thing",
+                "name": "digital payments"
+              },
+              {
+                "@type": "Thing",
+                "name": "fintech AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "financial services automation"
+              }
+            ],
+            "keywords": "Paytm, Paytm Payments Bank, digital payments, fintech AI, financial services automation, digital payment profitability in India, fintech cost optimisation, AI-assisted financial services growth",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

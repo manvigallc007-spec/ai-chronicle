@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=UzZnJsmxwDE",
+  "thumbnail_url": "https://i.ytimg.com/vi/UzZnJsmxwDE/maxresdefault.jpg",
+  "story": {
+    "title": "Meesho Says 70% of Its Code Is Now AI-Written as Revenue Jumps 47% to Rs 3,531 Crore in Q4",
+    "pillar": "Job Evolution",
+    "summary": "Indian e-commerce platform Meesho has disclosed that over 70% of its codebase is now generated using artificial intelligence, with more than three-quarters of its orders driven by an AI recommendation engine. The company posted a 47% revenue jump to Rs 3,531 crore in Q4 FY26, narrowing its net loss by 88% year-on-year to Rs 166 crore. CEO Vidit Aatrey framed AI not just as a productivity tool but as a core commercial engine powering Meesho's path to profitability.",
+    "source_url": "https://economictimes.indiatimes.com/tech/technology/meesho-q4-revenue-jumps-47-operating-losses-widen-on-aggressive-growth-push/articleshow/130860891.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Meesho",
+      "Meesho Payments Private Limited"
+    ],
+    "technologies": [
+      "AI code generation",
+      "AI recommendation engine",
+      "e-commerce AI personalisation"
+    ],
+    "use_cases": [
+      "AI-driven product discovery for Indian consumers",
+      "automated code generation in Indian startups",
+      "AI-powered e-commerce growth strategy"
+    ]
+  }
+}

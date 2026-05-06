@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=tLvmBin31u0",
+  "thumbnail_url": "https://i.ytimg.com/vi/tLvmBin31u0/maxresdefault.jpg",
+  "story": {
+    "title": "Paytm Posts First-Ever Annual Profit of Rs 552 Crore in FY26 After Years of Losses",
+    "pillar": "Daily Utility",
+    "summary": "Digital payments leader Paytm has recorded its first-ever full-year net profit of Rs 552 crore in FY26, swinging from significant losses in prior years. The turnaround was driven by disciplined cost control and a 22% rise in operating revenue to Rs 8,437 crore, with financial services emerging as the primary growth engine. The milestone is significant for India's fintech sector, signalling that large-scale digital payments platforms can achieve sustainable profitability after extended investment phases.",
+    "source_url": "https://economictimes.indiatimes.com/tech/technology/paytm-closes-fy26-with-net-profit-of-rs-552-crore-swinging-from-losses/articleshow/130862390.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Paytm",
+      "Paytm Payments Bank"
+    ],
+    "technologies": [
+      "digital payments",
+      "fintech AI",
+      "financial services automation"
+    ],
+    "use_cases": [
+      "digital payment profitability in India",
+      "fintech cost optimisation",
+      "AI-assisted financial services growth"
+    ]
+  }
+}

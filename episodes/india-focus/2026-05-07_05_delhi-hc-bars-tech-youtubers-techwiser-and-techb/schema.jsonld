@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=WCFLPF9YDg8",
+      "embedUrl": "https://www.youtube.com/embed/WCFLPF9YDg8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WCFLPF9YDg8/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Delhi HC Bars Tech YouTubers TechWiser and TechBar From Criticising AI+ Smartphones Without Hearing Them",
+            "articleSection": "Policy & Rights",
+            "abstract": "The Delhi High Court has issued an ex-parte order restraining technology content creators TechWiser and TechBar from making disparaging statements about a brand called AI+ Smartphones, without giving the creators an opportunity to be heard before the order was passed. The case raises urgent questions about the use of interim court orders to silence critical online speech about consumer technology products in India. Legal observers warn that such ex-parte restraints on content creators set a troubling precedent for free expression in digital product journalism.",
+            "url": "https://www.medianama.com/2026/05/223-delhi-hc-techwiser-techbar-barred-ai-plus-smartphones/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "TechWiser"
+              },
+              {
+                "@type": "Organization",
+                "name": "TechBar"
+              },
+              {
+                "@type": "Organization",
+                "name": "AI+ Smartphones"
+              },
+              {
+                "@type": "Organization",
+                "name": "Delhi High Court"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI smartphones"
+              },
+              {
+                "@type": "Thing",
+                "name": "online content platforms"
+              }
+            ],
+            "keywords": "TechWiser, TechBar, AI+ Smartphones, Delhi High Court, AI smartphones, online content platforms, free speech and product criticism online, ex-parte court orders against digital creators, AI product brand protection versus consumer journalism",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

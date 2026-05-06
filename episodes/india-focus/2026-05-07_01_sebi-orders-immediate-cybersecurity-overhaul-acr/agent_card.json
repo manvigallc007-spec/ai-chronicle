@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=QFevQwTIReU",
+  "thumbnail_url": "https://i.ytimg.com/vi/QFevQwTIReU/maxresdefault.jpg",
+  "story": {
+    "title": "SEBI Orders Immediate Cybersecurity Overhaul Across All Regulated Entities, Citing Claude Mythos Risks",
+    "pillar": "Policy & Rights",
+    "summary": "India's Securities and Exchange Board of India has issued a formal cybersecurity circular naming Anthropic's Claude Mythos AI system as a specific threat, ordering every regulated financial entity to urgently strengthen its cyber defences. SEBI has also formed a dedicated task force to oversee the overhaul. This is the first time SEBI has named a specific AI capability in a regulatory circular, marking a significant escalation in how Indian financial regulators treat advanced AI as a systemic risk.",
+    "source_url": "https://www.medianama.com/2026/05/223-sebi-claude-mythos-circular-orders-cybersecurity-overhaul/",
+    "source_name": "Medianama",
+    "companies": [
+      "SEBI",
+      "Anthropic"
+    ],
+    "technologies": [
+      "Claude Mythos",
+      "AI cybersecurity",
+      "financial sector threat intelligence"
+    ],
+    "use_cases": [
+      "regulatory cybersecurity enforcement",
+      "AI risk classification by financial regulators",
+      "cyber defence mandates for banks and brokerages"
+    ]
+  }
+}

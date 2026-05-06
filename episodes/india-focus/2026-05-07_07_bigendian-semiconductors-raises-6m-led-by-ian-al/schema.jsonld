@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=JbqPXYwhArk",
+      "embedUrl": "https://www.youtube.com/embed/JbqPXYwhArk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JbqPXYwhArk/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "BigEndian Semiconductors Raises $6M Led by IAN Alpha Fund to Commercialise Its First System-on-Chip",
+            "articleSection": "Discovery & Research",
+            "abstract": "Indian semiconductor startup BigEndian Semiconductors has secured $6 million in funding led by IAN Alpha Fund, with the capital earmarked to commercialise its first system-on-chip product, expand its product engineering team, and deepen partnerships with foundries, IP ecosystems, and OEMs. The raise is notable in the context of India's push to build a domestic semiconductor industry, as BigEndian represents a rare homegrown chip design company reaching commercial readiness. The investment also reflects growing domestic venture confidence in India's semiconductor ambitions following recent government fab approvals.",
+            "url": "https://yourstory.com/2026/05/bigendian-semiconductors-bags-6-million-led-by-ian-alpha-fund",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "BigEndian Semiconductors"
+              },
+              {
+                "@type": "Organization",
+                "name": "IAN Alpha Fund"
+              },
+              {
+                "@type": "Thing",
+                "name": "system-on-chip"
+              },
+              {
+                "@type": "Thing",
+                "name": "semiconductor design"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI chip development"
+              }
+            ],
+            "keywords": "BigEndian Semiconductors, IAN Alpha Fund, system-on-chip, semiconductor design, AI chip development, domestic chip commercialisation in India, Indian semiconductor startup funding, SoC development for Indian OEM supply chains",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

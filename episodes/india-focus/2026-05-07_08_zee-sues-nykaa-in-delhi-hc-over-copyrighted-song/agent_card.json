@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=Iku0pOOUejs",
+  "thumbnail_url": "https://i.ytimg.com/vi/Iku0pOOUejs/maxresdefault.jpg",
+  "story": {
+    "title": "Zee Sues Nykaa in Delhi HC Over Copyrighted Songs Used in Instagram Reels Ads Without Permission",
+    "pillar": "Policy & Rights",
+    "summary": "Zee Entertainment has filed a lawsuit against beauty e-commerce platform Nykaa in the Delhi High Court, alleging that Nykaa used Zee's copyrighted songs in Instagram Reels advertising campaigns without obtaining licences or paying royalties, and seeking Rs 2 crore in damages. The case could set a landmark precedent for how Indian brands are required to clear music rights before using short-form video content for commercial promotion on social media platforms. Legal experts say the outcome may reshape compliance practices across India's digital advertising industry.",
+    "source_url": "https://www.medianama.com/2026/05/223-zee-nykaa-delhi-high-court-copyrighted-songs-instagram-reels/",
+    "source_name": "Medianama",
+    "companies": [
+      "Zee Entertainment",
+      "Nykaa",
+      "Delhi High Court",
+      "Instagram"
+    ],
+    "technologies": [
+      "short-form video advertising",
+      "digital music licensing",
+      "social media marketing platforms"
+    ],
+    "use_cases": [
+      "music copyright enforcement in Indian digital advertising",
+      "Instagram Reels commercial content licensing",
+      "brand liability for unlicensed music in social media"
+    ]
+  }
+}

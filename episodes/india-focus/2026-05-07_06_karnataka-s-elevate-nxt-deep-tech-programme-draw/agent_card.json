@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=MUc4t_TKc-M",
+  "thumbnail_url": "https://i.ytimg.com/vi/MUc4t_TKc-M/maxresdefault.jpg",
+  "story": {
+    "title": "Karnataka's ELEVATE NxT Deep-Tech Programme Draws 983 Applications, Nearly 23% From Outside State",
+    "pillar": "Education & Youth",
+    "summary": "Karnataka's government-backed deep-tech startup programme ELEVATE NxT has received 983 applications, with 213 — nearly 23% — coming from startups outside the state, indicating national appetite for structured deep-tech support. The programme is designed to accelerate startups working on frontier technologies including AI, semiconductors, and advanced engineering. The strong cross-state response signals that India's deep-tech startup ecosystem is maturing beyond Bengaluru's traditional boundaries.",
+    "source_url": "https://www.thehindu.com/news/national/karnataka/karnatakas-deep-tech-programme-elevate-nxt-draws-strong-response-from-startups-across-india/article70946319.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "Karnataka Government",
+      "ELEVATE NxT"
+    ],
+    "technologies": [
+      "deep tech",
+      "AI startups",
+      "semiconductor innovation"
+    ],
+    "use_cases": [
+      "government-backed startup acceleration",
+      "national deep-tech talent development",
+      "cross-state innovation ecosystem building in India"
+    ]
+  }
+}

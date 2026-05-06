@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=UzZnJsmxwDE",
+      "embedUrl": "https://www.youtube.com/embed/UzZnJsmxwDE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UzZnJsmxwDE/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Meesho Says 70% of Its Code Is Now AI-Written as Revenue Jumps 47% to Rs 3,531 Crore in Q4",
+            "articleSection": "Job Evolution",
+            "abstract": "Indian e-commerce platform Meesho has disclosed that over 70% of its codebase is now generated using artificial intelligence, with more than three-quarters of its orders driven by an AI recommendation engine. The company posted a 47% revenue jump to Rs 3,531 crore in Q4 FY26, narrowing its net loss by 88% year-on-year to Rs 166 crore. CEO Vidit Aatrey framed AI not just as a productivity tool but as a core commercial engine powering Meesho's path to profitability.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/meesho-q4-revenue-jumps-47-operating-losses-widen-on-aggressive-growth-push/articleshow/130860891.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Meesho"
+              },
+              {
+                "@type": "Organization",
+                "name": "Meesho Payments Private Limited"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI code generation"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI recommendation engine"
+              },
+              {
+                "@type": "Thing",
+                "name": "e-commerce AI personalisation"
+              }
+            ],
+            "keywords": "Meesho, Meesho Payments Private Limited, AI code generation, AI recommendation engine, e-commerce AI personalisation, AI-driven product discovery for Indian consumers, automated code generation in Indian startups, AI-powered e-commerce growth strategy",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

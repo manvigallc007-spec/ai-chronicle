@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=AwOWCtaZKsE",
+  "thumbnail_url": "https://i.ytimg.com/vi/AwOWCtaZKsE/maxresdefault.jpg",
+  "story": {
+    "title": "Freshworks Cuts 11% of Workforce as AI Reshapes Indian-Founded Software Sector",
+    "pillar": "Job Evolution",
+    "summary": "Freshworks, the Indian-founded SaaS giant now headquartered in the US, has announced it will cut approximately 11% of its global workforce as AI tools increasingly automate tasks previously handled by human employees. The company cited the rapid adoption of AI-driven software development and support tools as a structural driver of the restructuring. The cuts signal a broader pattern in the Indian-origin tech industry where AI productivity gains are directly translating into workforce reductions.",
+    "source_url": "https://www.thehindu.com/sci-tech/technology/freshworks-to-cut-11-jobs-as-ai-reshapes-software-sector/article70946330.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "Freshworks",
+      "Anthropic"
+    ],
+    "technologies": [
+      "AI software development tools",
+      "AI-driven customer support automation"
+    ],
+    "use_cases": [
+      "workforce restructuring driven by AI",
+      "SaaS automation replacing human roles",
+      "AI productivity gains in enterprise software"
+    ]
+  }
+}

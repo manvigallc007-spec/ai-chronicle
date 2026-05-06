@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=WMS7ATWskfc",
+      "embedUrl": "https://www.youtube.com/embed/WMS7ATWskfc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WMS7ATWskfc/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Ecofy Raises $15M From Mirova to Expand Green Financing Portfolio Across India's Energy Transition",
+            "articleSection": "Daily Utility",
+            "abstract": "Indian green fintech startup Ecofy has raised $15 million from Mirova, an affiliate of Natixis Investment Managers, to expand its portfolio of financing products for India's energy transition. The investment marks Mirova's fourth deal in India under its emerging markets climate mandate, underlining growing international confidence in Indian green finance infrastructure. Ecofy targets underserved segments of India's clean energy economy, including rooftop solar and energy-efficient consumer products, with AI-assisted credit underwriting.",
+            "url": "https://yourstory.com/2026/05/ecofy-raises-15-million-from-mirova-to-expand-green-financing-portfolio",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Ecofy"
+              },
+              {
+                "@type": "Organization",
+                "name": "Mirova"
+              },
+              {
+                "@type": "Organization",
+                "name": "Natixis Investment Managers"
+              },
+              {
+                "@type": "Thing",
+                "name": "green fintech"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI credit underwriting"
+              },
+              {
+                "@type": "Thing",
+                "name": "clean energy financing"
+              }
+            ],
+            "keywords": "Ecofy, Mirova, Natixis Investment Managers, green fintech, AI credit underwriting, clean energy financing, green loan products for Indian consumers, AI-assisted underwriting for energy transition financing, international climate capital deployment in India",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
