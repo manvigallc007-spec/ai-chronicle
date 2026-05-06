@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=tf6OGW2Zes0",
+      "embedUrl": "https://www.youtube.com/embed/tf6OGW2Zes0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tf6OGW2Zes0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Rural mothers who built China's AI data-labelling industry are now being deemed unfit for its AI future",
+            "articleSection": "Job Evolution",
+            "abstract": "A new investigation by Sixth Tone reveals that China's rural data-labelling industry was built on the labour of mothers in less-developed regions who could annotate training data while simultaneously managing childcare and household responsibilities. These women provided the human layer that powered the country's AI boom, yet as automation and more sophisticated labelling tools reduce demand for their work, many are being told their skills no longer fit the direction AI development is taking. The report documents a stark irony: the people who made China's AI possible are among the first to be left behind by it.",
+            "url": "https://www.sixthtone.com/news/1018460/When Big Tech Needed Mothers in Rural China to Train AI",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "unnamed Chinese tech firms"
+              },
+              {
+                "@type": "Thing",
+                "name": "data labelling"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI training data"
+              },
+              {
+                "@type": "Thing",
+                "name": "machine learning pipelines"
+              }
+            ],
+            "keywords": "unnamed Chinese tech firms, data labelling, AI training data, machine learning pipelines, AI workforce displacement, rural labour and AI, data annotation economy",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

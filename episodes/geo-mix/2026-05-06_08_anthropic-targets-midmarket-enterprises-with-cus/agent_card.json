@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-06",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=TbxRB5hzDMA",
+  "thumbnail_url": "https://i.ytimg.com/vi/TbxRB5hzDMA/maxresdefault.jpg",
+  "story": {
+    "title": "Anthropic targets midmarket enterprises with custom Claude AI systems backed by PE and banking partners",
+    "pillar": "Daily Utility",
+    "summary": "Anthropic is moving to capture midmarket enterprise IT budgets by offering custom AI systems built on its Claude models, with backing from private equity and major banking institutions through its Claude Partner Network. The initiative targets business bottlenecks that off-the-shelf software has failed to solve, positioning Anthropic as a direct competitor to legacy enterprise software vendors. The push represents a significant expansion of Anthropic's commercial footprint beyond frontier AI research.",
+    "source_url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/anthropic_midmarket_software_spend/",
+    "source_name": "The Register",
+    "companies": [
+      "Anthropic"
+    ],
+    "technologies": [
+      "Claude AI",
+      "AI agents",
+      "enterprise AI platform"
+    ],
+    "use_cases": [
+      "midmarket enterprise AI",
+      "business process automation",
+      "custom AI system deployment"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=0fkFIgha-K0",
+      "embedUrl": "https://www.youtube.com/embed/0fkFIgha-K0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0fkFIgha-K0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "SAP pays $1.16B for 18-month-old German AI lab Prior Labs and restricts agent access to select partners",
+            "articleSection": "Daily Utility",
+            "abstract": "SAP has announced plans to acquire German AI startup Prior Labs in a deal valued at approximately $1.16 billion, making it one of the largest acquisitions of an AI lab less than two years old. Alongside the deal, SAP is restricting which AI agents customers can connect to its enterprise systems, approving only a select group including Nvidia's NemoClaw. The move signals SAP's intent to control the AI agent ecosystem around its widely-used enterprise software, which runs operations for tens of thousands of businesses globally.",
+            "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "SAP"
+              },
+              {
+                "@type": "Organization",
+                "name": "Prior Labs"
+              },
+              {
+                "@type": "Organization",
+                "name": "Nvidia"
+              },
+              {
+                "@type": "Thing",
+                "name": "enterprise AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI agents"
+              },
+              {
+                "@type": "Thing",
+                "name": "NemoClaw"
+              }
+            ],
+            "keywords": "SAP, Prior Labs, Nvidia, enterprise AI, AI agents, NemoClaw, enterprise software AI integration, AI agent governance, business process automation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

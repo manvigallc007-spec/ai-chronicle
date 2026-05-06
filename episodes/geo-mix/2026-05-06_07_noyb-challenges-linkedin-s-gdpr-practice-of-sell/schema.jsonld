@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=ZIV4yHlQHBI",
+      "embedUrl": "https://www.youtube.com/embed/ZIV4yHlQHBI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZIV4yHlQHBI/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Noyb challenges LinkedIn's GDPR practice of selling profile visitor data back to users as a premium feature",
+            "articleSection": "Policy & Rights",
+            "abstract": "European privacy advocacy group Noyb has filed a complaint arguing that LinkedIn violates GDPR Article 15 by processing users' profile visitor data and then charging them a premium subscription fee to access their own information. The complaint contends that under GDPR, individuals have a right to access data about themselves free of charge, making LinkedIn's monetisation model for this feature legally questionable. If upheld, the ruling could set a significant precedent affecting how any EU-regulated platform handles processed user data.",
+            "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/linkedin_gdpr_article_15_premium_noyb/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "LinkedIn"
+              },
+              {
+                "@type": "Organization",
+                "name": "Noyb"
+              },
+              {
+                "@type": "Organization",
+                "name": "Microsoft"
+              },
+              {
+                "@type": "Thing",
+                "name": "data processing"
+              },
+              {
+                "@type": "Thing",
+                "name": "algorithmic profiling"
+              }
+            ],
+            "keywords": "LinkedIn, Noyb, Microsoft, data processing, algorithmic profiling, GDPR compliance, user data rights, platform regulation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

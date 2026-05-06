@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=aAL8bBMtAWI",
+      "embedUrl": "https://www.youtube.com/embed/aAL8bBMtAWI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/aAL8bBMtAWI/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "OpenAI releases GPT-5.5 Instant as new default ChatGPT model, targeting law, medicine, and finance",
+            "articleSection": "Daily Utility",
+            "abstract": "OpenAI has released GPT-5.5 Instant as the new default model for ChatGPT, replacing its predecessor across the platform. The company says the model reduces hallucinations in high-stakes domains including law, medicine, and finance while preserving the low-latency speed users expect. The update affects all ChatGPT users by default, making it one of the most broadly impactful model rollouts OpenAI has executed.",
+            "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Thing",
+                "name": "GPT-5.5 Instant"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language model"
+              },
+              {
+                "@type": "Thing",
+                "name": "ChatGPT"
+              }
+            ],
+            "keywords": "OpenAI, GPT-5.5 Instant, large language model, ChatGPT, legal research, medical information, financial guidance, general-purpose AI assistant",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

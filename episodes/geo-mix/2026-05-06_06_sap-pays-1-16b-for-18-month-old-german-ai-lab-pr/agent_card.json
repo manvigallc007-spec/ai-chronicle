@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-06",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=0fkFIgha-K0",
+  "thumbnail_url": "https://i.ytimg.com/vi/0fkFIgha-K0/maxresdefault.jpg",
+  "story": {
+    "title": "SAP pays $1.16B for 18-month-old German AI lab Prior Labs and restricts agent access to select partners",
+    "pillar": "Daily Utility",
+    "summary": "SAP has announced plans to acquire German AI startup Prior Labs in a deal valued at approximately $1.16 billion, making it one of the largest acquisitions of an AI lab less than two years old. Alongside the deal, SAP is restricting which AI agents customers can connect to its enterprise systems, approving only a select group including Nvidia's NemoClaw. The move signals SAP's intent to control the AI agent ecosystem around its widely-used enterprise software, which runs operations for tens of thousands of businesses globally.",
+    "source_url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "SAP",
+      "Prior Labs",
+      "Nvidia"
+    ],
+    "technologies": [
+      "enterprise AI",
+      "AI agents",
+      "NemoClaw"
+    ],
+    "use_cases": [
+      "enterprise software AI integration",
+      "AI agent governance",
+      "business process automation"
+    ]
+  }
+}

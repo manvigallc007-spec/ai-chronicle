@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-06",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=8PtNbUiFj24",
+  "thumbnail_url": "https://i.ytimg.com/vi/8PtNbUiFj24/maxresdefault.jpg",
+  "story": {
+    "title": "Meta deploys AI system to detect underage users by analysing height and bone structure in photos",
+    "pillar": "Policy & Rights",
+    "summary": "Meta has begun using a computer-vision AI system that analyses physical cues including height and bone structure in images to identify users who may be underage, with the goal of applying stricter content protections automatically. The system is currently operating in select countries, with a broader global rollout planned. The move comes amid intensifying regulatory pressure on social media platforms to protect minors, but raises significant questions about biometric surveillance of users who have not consented to physical analysis.",
+    "source_url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Meta"
+    ],
+    "technologies": [
+      "computer vision",
+      "biometric AI",
+      "age detection model"
+    ],
+    "use_cases": [
+      "child safety enforcement",
+      "underage user identification",
+      "content restriction"
+    ]
+  }
+}

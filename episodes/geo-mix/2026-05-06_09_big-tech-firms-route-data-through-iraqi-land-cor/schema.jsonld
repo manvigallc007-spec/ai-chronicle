@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=4gbYQKvn7NM",
+      "embedUrl": "https://www.youtube.com/embed/4gbYQKvn7NM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4gbYQKvn7NM/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Big Tech firms route data through Iraqi land corridors via oil-pipeline dark fibre to bypass Gulf undersea cables",
+            "articleSection": "Policy & Rights",
+            "abstract": "US hyperscalers including major cloud providers have secured dark-fibre capacity along Iraqi land routes that follow historic oil-pipeline corridors, creating an overland data path between Gulf data centres and global networks. The move is driven by the need to reduce latency and provide a resilient backup to undersea cables that are increasingly vulnerable to conflict and sabotage in the region. The arrangement raises questions about data sovereignty and the geopolitical entanglements of critical digital infrastructure.",
+            "url": "https://restofworld.org/2026/iraq-big-tech-gulf-war-data/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "unnamed US hyperscalers"
+              },
+              {
+                "@type": "Thing",
+                "name": "dark fibre"
+              },
+              {
+                "@type": "Thing",
+                "name": "subsea cable alternatives"
+              },
+              {
+                "@type": "Thing",
+                "name": "data centre networking"
+              }
+            ],
+            "keywords": "unnamed US hyperscalers, dark fibre, subsea cable alternatives, data centre networking, cloud infrastructure resilience, latency reduction, geopolitical data routing",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

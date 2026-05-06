@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-06",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=6b6jpUs-uUs",
+  "thumbnail_url": "https://i.ytimg.com/vi/6b6jpUs-uUs/maxresdefault.jpg",
+  "story": {
+    "title": "Apple's iOS 27 to let users choose their own AI model for Siri tasks, opening system to third parties",
+    "pillar": "Daily Utility",
+    "summary": "Apple is reportedly planning to redesign iOS 27 so that users can select from a range of third-party AI models to power tasks across the operating system, moving away from a single default model approach. The change would allow consumers to pick models from competing providers for functions like writing assistance, summarisation, and smart replies. This would represent a fundamental shift in how Apple controls the AI layer of its devices and could reshape competition among AI model providers.",
+    "source_url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Apple"
+    ],
+    "technologies": [
+      "iOS 27",
+      "on-device AI",
+      "large language model",
+      "Siri"
+    ],
+    "use_cases": [
+      "mobile AI assistant",
+      "third-party model integration",
+      "consumer AI personalisation"
+    ]
+  }
+}

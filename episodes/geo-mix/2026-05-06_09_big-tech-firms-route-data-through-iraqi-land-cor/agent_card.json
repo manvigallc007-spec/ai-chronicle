@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-06",
+  "rank": 9,
+  "video_url": "https://www.youtube.com/watch?v=4gbYQKvn7NM",
+  "thumbnail_url": "https://i.ytimg.com/vi/4gbYQKvn7NM/maxresdefault.jpg",
+  "story": {
+    "title": "Big Tech firms route data through Iraqi land corridors via oil-pipeline dark fibre to bypass Gulf undersea cables",
+    "pillar": "Policy & Rights",
+    "summary": "US hyperscalers including major cloud providers have secured dark-fibre capacity along Iraqi land routes that follow historic oil-pipeline corridors, creating an overland data path between Gulf data centres and global networks. The move is driven by the need to reduce latency and provide a resilient backup to undersea cables that are increasingly vulnerable to conflict and sabotage in the region. The arrangement raises questions about data sovereignty and the geopolitical entanglements of critical digital infrastructure.",
+    "source_url": "https://restofworld.org/2026/iraq-big-tech-gulf-war-data/",
+    "source_name": "Rest of World",
+    "companies": [
+      "unnamed US hyperscalers"
+    ],
+    "technologies": [
+      "dark fibre",
+      "subsea cable alternatives",
+      "data centre networking"
+    ],
+    "use_cases": [
+      "cloud infrastructure resilience",
+      "latency reduction",
+      "geopolitical data routing"
+    ]
+  }
+}

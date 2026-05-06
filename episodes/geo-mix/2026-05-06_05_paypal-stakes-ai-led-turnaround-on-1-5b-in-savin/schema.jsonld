@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-06",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-06T00:00:00Z",
+      "datePublished": "2026-05-06T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=g3kdLUfGKSI",
+      "embedUrl": "https://www.youtube.com/embed/g3kdLUfGKSI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/g3kdLUfGKSI/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-06",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "PayPal stakes AI-led turnaround on $1.5B in savings as it cuts jobs and rebuilds tech stack",
+            "articleSection": "Job Evolution",
+            "abstract": "PayPal has publicly committed to an AI-driven transformation strategy, tying automation initiatives to $1.5 billion in projected savings while simultaneously cutting workers and modernising its underlying technology infrastructure. CEO Alex Chriss described the shift as the company \"becoming a technology company again,\" framing AI as the engine of a broader reinvention. The announcement highlights a growing pattern among legacy fintech firms using AI efficiency narratives to justify headcount reductions.",
+            "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "PayPal"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI automation"
+              },
+              {
+                "@type": "Thing",
+                "name": "fintech AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "enterprise AI"
+              }
+            ],
+            "keywords": "PayPal, AI automation, fintech AI, enterprise AI, financial operations automation, customer service AI, workforce restructuring",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

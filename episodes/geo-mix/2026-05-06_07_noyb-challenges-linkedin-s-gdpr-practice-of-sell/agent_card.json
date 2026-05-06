@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-06",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=ZIV4yHlQHBI",
+  "thumbnail_url": "https://i.ytimg.com/vi/ZIV4yHlQHBI/maxresdefault.jpg",
+  "story": {
+    "title": "Noyb challenges LinkedIn's GDPR practice of selling profile visitor data back to users as a premium feature",
+    "pillar": "Policy & Rights",
+    "summary": "European privacy advocacy group Noyb has filed a complaint arguing that LinkedIn violates GDPR Article 15 by processing users' profile visitor data and then charging them a premium subscription fee to access their own information. The complaint contends that under GDPR, individuals have a right to access data about themselves free of charge, making LinkedIn's monetisation model for this feature legally questionable. If upheld, the ruling could set a significant precedent affecting how any EU-regulated platform handles processed user data.",
+    "source_url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/linkedin_gdpr_article_15_premium_noyb/",
+    "source_name": "The Register",
+    "companies": [
+      "LinkedIn",
+      "Noyb",
+      "Microsoft"
+    ],
+    "technologies": [
+      "data processing",
+      "algorithmic profiling"
+    ],
+    "use_cases": [
+      "GDPR compliance",
+      "user data rights",
+      "platform regulation"
+    ]
+  }
+}
