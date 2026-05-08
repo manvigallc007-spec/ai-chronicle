@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=Zgy8fMJLMaE",
+  "thumbnail_url": "https://i.ytimg.com/vi/Zgy8fMJLMaE/maxresdefault.jpg",
+  "story": {
+    "title": "OpenAI launches new voice intelligence API features targeting customer service, education, and creators",
+    "pillar": "Daily Utility",
+    "summary": "OpenAI has released a set of new voice intelligence capabilities through its developer API, enabling developers to build applications that can understand and respond to spoken language with greater nuance and accuracy. The company says use cases span customer service automation, educational tools, and creator platforms. The release expands the addressable market for voice-first AI products built on OpenAI's infrastructure.",
+    "source_url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "OpenAI"
+    ],
+    "technologies": [
+      "voice AI",
+      "natural language understanding",
+      "OpenAI API"
+    ],
+    "use_cases": [
+      "customer service automation",
+      "AI tutoring",
+      "creator tools"
+    ]
+  }
+}

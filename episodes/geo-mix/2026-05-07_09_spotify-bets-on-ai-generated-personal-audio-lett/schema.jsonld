@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=4xM8mLSFUNc",
+      "embedUrl": "https://www.youtube.com/embed/4xM8mLSFUNc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4xM8mLSFUNc/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Spotify bets on AI-generated personal audio, letting users import Claude and Codex podcasts to its platform",
+            "articleSection": "Daily Utility",
+            "abstract": "Spotify has announced plans to become a central distribution platform for AI-generated personal audio, allowing users to create custom podcasts using tools like Anthropic's Claude Code or OpenAI's Codex and import them directly to Spotify. The move extends Spotify's existing AI DJ feature and represents a significant strategic bet on user-generated AI audio content as a new category. It also raises questions about the future of human-produced podcasting as AI-generated content scales.",
+            "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Spotify"
+              },
+              {
+                "@type": "Organization",
+                "name": "Anthropic"
+              },
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Thing",
+                "name": "Claude Code"
+              },
+              {
+                "@type": "Thing",
+                "name": "Codex"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI audio generation"
+              },
+              {
+                "@type": "Thing",
+                "name": "podcast distribution"
+              }
+            ],
+            "keywords": "Spotify, Anthropic, OpenAI, Claude Code, Codex, AI audio generation, podcast distribution, personalised audio content, AI podcast creation, creator platform integration",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

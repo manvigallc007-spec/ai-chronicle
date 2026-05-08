@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=173onAzfIdQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/173onAzfIdQ/maxresdefault.jpg",
+  "story": {
+    "title": "OpenAI adds 'Trusted Contact' safeguard to ChatGPT for users showing signs of self-harm",
+    "pillar": "Policy & Rights",
+    "summary": "OpenAI has introduced a new safety feature called 'Trusted Contact' for ChatGPT that activates when a conversation shows signs of a user potentially engaging in self-harm. The feature allows users to pre-designate a trusted person who can be notified in high-risk situations, extending OpenAI's existing crisis-intervention protocols. The rollout represents a significant expansion of platform-level duty-of-care obligations for consumer AI products.",
+    "source_url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "OpenAI"
+    ],
+    "technologies": [
+      "ChatGPT",
+      "AI safety guardrails",
+      "crisis detection"
+    ],
+    "use_cases": [
+      "mental health safeguarding",
+      "user safety notifications",
+      "trusted contact alerts"
+    ]
+  }
+}

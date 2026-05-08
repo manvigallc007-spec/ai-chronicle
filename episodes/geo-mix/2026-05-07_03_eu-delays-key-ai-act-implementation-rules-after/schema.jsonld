@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=w1s_jg5tdx0",
+      "embedUrl": "https://www.youtube.com/embed/w1s_jg5tdx0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/w1s_jg5tdx0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "EU delays key AI Act implementation rules after sustained industry backlash",
+            "articleSection": "Policy & Rights",
+            "abstract": "The European Commission has postponed the enforcement of several provisions under the EU AI Act following intense lobbying from technology companies who argued the compliance burden was too heavy and the timeline too short. Brussels has framed the delay as a 'simplification' measure, though critics argue it represents a substantive weakening of the world's most comprehensive AI regulatory framework. The postponement affects rules that were due to come into force in the coming months, creating uncertainty for businesses and civil society groups that had been preparing for the new obligations.",
+            "url": "https://www.theregister.com/ai-and-ml/2026/05/07/eu-hits-snooze-on-ai-act-rules-after-industry-backlash/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "European Commission"
+              },
+              {
+                "@type": "Thing",
+                "name": "EU AI Act compliance frameworks"
+              }
+            ],
+            "keywords": "European Commission, EU AI Act compliance frameworks, AI governance, regulatory compliance, tech industry lobbying",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

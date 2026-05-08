@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=sSFlxXDl2sg",
+  "thumbnail_url": "https://i.ytimg.com/vi/sSFlxXDl2sg/maxresdefault.jpg",
+  "story": {
+    "title": "China's Moonshot AI raises $2B at $20B valuation as open-source AI demand drives $200M annual revenue",
+    "pillar": "Discovery & Research",
+    "summary": "Chinese AI lab Moonshot AI has closed a $2 billion funding round at a $20 billion valuation, reflecting surging global demand for open-source AI alternatives to US-based models. The company's annualised recurring revenue crossed $200 million in April 2026, driven by rapid growth in both paid consumer subscriptions and developer API usage. The raise positions Moonshot as one of China's highest-valued independent AI labs and underscores the commercial viability of open-weight model strategies.",
+    "source_url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Moonshot AI"
+    ],
+    "technologies": [
+      "open-source AI",
+      "large language models",
+      "API infrastructure"
+    ],
+    "use_cases": [
+      "developer AI tools",
+      "consumer AI subscriptions",
+      "open-weight model deployment"
+    ]
+  }
+}

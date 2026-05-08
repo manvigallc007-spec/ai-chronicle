@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=peWNR5qTxeY",
+  "thumbnail_url": "https://i.ytimg.com/vi/peWNR5qTxeY/maxresdefault.jpg",
+  "story": {
+    "title": "Five times AI hallucinations embarrassed governments — from South Africa's policy withdrawal to White House 'formatting errors'",
+    "pillar": "Policy & Rights",
+    "summary": "Rest of World has documented five verified cases in which AI-generated hallucinations infiltrated official government documents and policies, including South Africa's withdrawal of its national AI policy after a chatbot invented fake citations throughout the draft. Other cases include the Trump administration attributing errors in official communications to AI 'formatting problems.' The report highlights a growing global pattern of governments deploying AI tools in policymaking without adequate verification processes.",
+    "source_url": "https://restofworld.org/2026/government-ai-hallucinations-south-africa-deloitte/",
+    "source_name": "Rest of World",
+    "companies": [
+      "Deloitte"
+    ],
+    "technologies": [
+      "large language models",
+      "AI document generation",
+      "hallucination detection"
+    ],
+    "use_cases": [
+      "government policymaking",
+      "official document drafting",
+      "AI accountability"
+    ]
+  }
+}

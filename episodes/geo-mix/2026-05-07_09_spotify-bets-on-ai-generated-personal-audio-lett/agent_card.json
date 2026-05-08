@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 9,
+  "video_url": "https://www.youtube.com/watch?v=4xM8mLSFUNc",
+  "thumbnail_url": "https://i.ytimg.com/vi/4xM8mLSFUNc/maxresdefault.jpg",
+  "story": {
+    "title": "Spotify bets on AI-generated personal audio, letting users import Claude and Codex podcasts to its platform",
+    "pillar": "Daily Utility",
+    "summary": "Spotify has announced plans to become a central distribution platform for AI-generated personal audio, allowing users to create custom podcasts using tools like Anthropic's Claude Code or OpenAI's Codex and import them directly to Spotify. The move extends Spotify's existing AI DJ feature and represents a significant strategic bet on user-generated AI audio content as a new category. It also raises questions about the future of human-produced podcasting as AI-generated content scales.",
+    "source_url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Spotify",
+      "Anthropic",
+      "OpenAI"
+    ],
+    "technologies": [
+      "Claude Code",
+      "Codex",
+      "AI audio generation",
+      "podcast distribution"
+    ],
+    "use_cases": [
+      "personalised audio content",
+      "AI podcast creation",
+      "creator platform integration"
+    ]
+  }
+}

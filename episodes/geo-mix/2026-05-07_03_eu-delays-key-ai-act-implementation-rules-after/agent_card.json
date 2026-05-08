@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=w1s_jg5tdx0",
+  "thumbnail_url": "https://i.ytimg.com/vi/w1s_jg5tdx0/maxresdefault.jpg",
+  "story": {
+    "title": "EU delays key AI Act implementation rules after sustained industry backlash",
+    "pillar": "Policy & Rights",
+    "summary": "The European Commission has postponed the enforcement of several provisions under the EU AI Act following intense lobbying from technology companies who argued the compliance burden was too heavy and the timeline too short. Brussels has framed the delay as a 'simplification' measure, though critics argue it represents a substantive weakening of the world's most comprehensive AI regulatory framework. The postponement affects rules that were due to come into force in the coming months, creating uncertainty for businesses and civil society groups that had been preparing for the new obligations.",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/05/07/eu-hits-snooze-on-ai-act-rules-after-industry-backlash/",
+    "source_name": "The Register",
+    "companies": [
+      "European Commission"
+    ],
+    "technologies": [
+      "EU AI Act compliance frameworks"
+    ],
+    "use_cases": [
+      "AI governance",
+      "regulatory compliance",
+      "tech industry lobbying"
+    ]
+  }
+}

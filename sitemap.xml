@@ -1276,6 +1276,34 @@
     </video:video>
   </url>
   <url>
+    <loc>https://www.youtube.com/watch?v=7a_18qqPCaI</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>AMD launches slottable MI350P GPU for enterprise AI, packing 144 GB of HBM3e into a dual-slot card</video:title>
+      <video:description>AMD has released the Instinct MI350P, a PCIe-based GPU designed for enterprises looking to run AI workloads without requiring specialised server infrastructure. The card delivers 144 GB of HBM3e memory and up to 4.6 petaFLOPS of FP4 compute in a standard dual-slot form factor, making it compatible with existing server racks. The launch is aimed squarely at organisations that want to deploy AI inference and training at scale without the cost of purpose-built AI supercomputer clusters.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=7a_18qqPCaI</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/7a_18qqPCaI/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=4xM8mLSFUNc</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Spotify bets on AI-generated personal audio, letting users import Claude and Codex podcasts to its p</video:title>
+      <video:description>Spotify has announced plans to become a central distribution platform for AI-generated personal audio, allowing users to create custom podcasts using tools like Anthropic's Claude Code or OpenAI's Codex and import them directly to Spotify. The move extends Spotify's existing AI DJ feature and represents a significant strategic bet on user-generated AI audio content as a new category. It also raises questions about the future of human-produced podcasting as AI-generated content scales.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=4xM8mLSFUNc</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/4xM8mLSFUNc/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
     <loc>https://www.youtube.com/watch?v=9-aY3_OwYDI</loc>
     <lastmod>2026-05-07T00:00:00Z</lastmod>
     <changefreq>daily</changefreq>
@@ -1290,6 +1318,20 @@
     </video:video>
   </url>
   <url>
+    <loc>https://www.youtube.com/watch?v=sSFlxXDl2sg</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>China's Moonshot AI raises $2B at $20B valuation as open-source AI demand drives $200M annual revenu</video:title>
+      <video:description>Chinese AI lab Moonshot AI has closed a $2 billion funding round at a $20 billion valuation, reflecting surging global demand for open-source AI alternatives to US-based models. The company's annualised recurring revenue crossed $200 million in April 2026, driven by rapid growth in both paid consumer subscriptions and developer API usage. The raise positions Moonshot as one of China's highest-valued independent AI labs and underscores the commercial viability of open-weight model strategies.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=sSFlxXDl2sg</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/sSFlxXDl2sg/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
     <loc>https://www.youtube.com/watch?v=sRv2WPZaYVA</loc>
     <lastmod>2026-05-07T00:00:00Z</lastmod>
     <changefreq>daily</changefreq>
@@ -1299,6 +1341,20 @@
       <video:description>Anthropic's Claude AI has secured access to compute capacity from SpaceX's Colossus data centre facility, a move that has allowed Anthropic to relax previously tight usage limits on its models. The arrangement means Claude users will encounter fewer rate limits and capacity constraints, improving day-to-day reliability for enterprise and consumer users. The deal underscores how AI labs are increasingly turning to non-traditional infrastructure partners to meet surging compute demand.</video:description>
       <video:content_loc>https://www.youtube.com/watch?v=sRv2WPZaYVA</video:content_loc>
       <video:thumbnail_loc>https://i.ytimg.com/vi/sRv2WPZaYVA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=peWNR5qTxeY</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Five times AI hallucinations embarrassed governments — from South Africa's policy withdrawal to Whit</video:title>
+      <video:description>Rest of World has documented five verified cases in which AI-generated hallucinations infiltrated official government documents and policies, including South Africa's withdrawal of its national AI policy after a chatbot invented fake citations throughout the draft. Other cases include the Trump administration attributing errors in official communications to AI 'formatting problems.' The report highlights a growing global pattern of governments deploying AI tools in policymaking without adequate verification processes.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=peWNR5qTxeY</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/peWNR5qTxeY/maxresdefault.jpg</video:thumbnail_loc>
       <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
@@ -1332,6 +1388,34 @@
     </video:video>
   </url>
   <url>
+    <loc>https://www.youtube.com/watch?v=qbiYdpJ4tRU</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Elon Musk's lawsuit puts OpenAI's safety record on trial as for-profit conversion faces scrutiny</video:title>
+      <video:description>As the Musk v. Altman trial progresses, legal proceedings are surfacing detailed examination of OpenAI's internal safety decisions and whether its shift to a for-profit structure compromises its founding public-benefit mission. Musk's legal team is arguing that OpenAI's commercial priorities have increasingly overridden its stated commitment to ensuring AI benefits humanity broadly. The trial is producing a rare public record of how one of the world's most influential AI labs weighs safety against commercial incentives.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=qbiYdpJ4tRU</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/qbiYdpJ4tRU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=YSKgyvw-dWE</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Perplexity's AI agent app 'Personal Computer' opens to all Mac users</video:title>
+      <video:description>Perplexity has made its Personal Computer application available to all Mac users, bringing AI agent capabilities directly to the desktop operating system. The app allows users to delegate tasks to AI agents that can operate across system functions and applications. The general availability launch marks Perplexity's most direct move yet into the on-device AI assistant space, competing with Apple's own AI efforts.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=YSKgyvw-dWE</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/YSKgyvw-dWE/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
     <loc>https://www.youtube.com/watch?v=IOuld_gPL1s</loc>
     <lastmod>2026-05-07T00:00:00Z</lastmod>
     <changefreq>daily</changefreq>
@@ -1341,6 +1425,20 @@
       <video:description>Chinese AI lab DeepSeek, which rose to global prominence in early 2025 after releasing a powerful large language model trained at a fraction of the cost of US rivals, is reportedly seeking a valuation of approximately $45 billion in its first-ever external investment round. The move would mark a major shift for a lab that has operated without outside funding and signal growing investor confidence in China's ability to compete at the AI frontier. The valuation would place DeepSeek among the most valuable AI companies globally.</video:description>
       <video:content_loc>https://www.youtube.com/watch?v=IOuld_gPL1s</video:content_loc>
       <video:thumbnail_loc>https://i.ytimg.com/vi/IOuld_gPL1s/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=Zgy8fMJLMaE</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>OpenAI launches new voice intelligence API features targeting customer service, education, and creat</video:title>
+      <video:description>OpenAI has released a set of new voice intelligence capabilities through its developer API, enabling developers to build applications that can understand and respond to spoken language with greater nuance and accuracy. The company says use cases span customer service automation, educational tools, and creator platforms. The release expands the addressable market for voice-first AI products built on OpenAI's infrastructure.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=Zgy8fMJLMaE</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Zgy8fMJLMaE/maxresdefault.jpg</video:thumbnail_loc>
       <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
@@ -1374,6 +1472,20 @@
     </video:video>
   </url>
   <url>
+    <loc>https://www.youtube.com/watch?v=w1s_jg5tdx0</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>EU delays key AI Act implementation rules after sustained industry backlash</video:title>
+      <video:description>The European Commission has postponed the enforcement of several provisions under the EU AI Act following intense lobbying from technology companies who argued the compliance burden was too heavy and the timeline too short. Brussels has framed the delay as a 'simplification' measure, though critics argue it represents a substantive weakening of the world's most comprehensive AI regulatory framework. The postponement affects rules that were due to come into force in the coming months, creating uncertainty for businesses and civil society groups that had been preparing for the new obligations.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=w1s_jg5tdx0</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/w1s_jg5tdx0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
     <loc>https://www.youtube.com/watch?v=pfnhiPH5n5w</loc>
     <lastmod>2026-05-07T00:00:00Z</lastmod>
     <changefreq>daily</changefreq>
@@ -1383,6 +1495,34 @@
       <video:description>Match Group, the parent company of Tinder and other dating apps, announced it is deliberately slowing its hiring plans for the remainder of 2026 in order to fund its growing use of AI tools, which the company says 'cost a lot of money.' The decision signals a direct trade-off between human headcount and AI investment at a major consumer tech firm. It is one of the clearest public admissions yet from a large company that AI spending is coming at the direct expense of new jobs.</video:description>
       <video:content_loc>https://www.youtube.com/watch?v=pfnhiPH5n5w</video:content_loc>
       <video:thumbnail_loc>https://i.ytimg.com/vi/pfnhiPH5n5w/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=z2OJyYGZ68Q</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Anthropic's Mythos AI finds hundreds of high-severity security bugs in Firefox, reshaping Mozilla's </video:title>
+      <video:description>Mozilla security researchers report that Anthropic's Mythos AI model has uncovered a large number of high-severity vulnerabilities in the Firefox browser codebase, significantly outpacing traditional manual and automated auditing methods. The discovery has prompted Mozilla to restructure its internal security workflow around AI-assisted bug detection. The development signals a broader shift in how open-source projects may use frontier AI models to harden widely-used software.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=z2OJyYGZ68Q</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/z2OJyYGZ68Q/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=173onAzfIdQ</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>OpenAI adds 'Trusted Contact' safeguard to ChatGPT for users showing signs of self-harm</video:title>
+      <video:description>OpenAI has introduced a new safety feature called 'Trusted Contact' for ChatGPT that activates when a conversation shows signs of a user potentially engaging in self-harm. The feature allows users to pre-designate a trusted person who can be notified in high-risk situations, extending OpenAI's existing crisis-intervention protocols. The rollout represents a significant expansion of platform-level duty-of-care obligations for consumer AI products.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=173onAzfIdQ</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/173onAzfIdQ/maxresdefault.jpg</video:thumbnail_loc>
       <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>

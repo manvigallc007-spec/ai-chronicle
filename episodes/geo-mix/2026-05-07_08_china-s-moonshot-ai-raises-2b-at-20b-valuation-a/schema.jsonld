@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=sSFlxXDl2sg",
+      "embedUrl": "https://www.youtube.com/embed/sSFlxXDl2sg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sSFlxXDl2sg/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "China's Moonshot AI raises $2B at $20B valuation as open-source AI demand drives $200M annual revenue",
+            "articleSection": "Discovery & Research",
+            "abstract": "Chinese AI lab Moonshot AI has closed a $2 billion funding round at a $20 billion valuation, reflecting surging global demand for open-source AI alternatives to US-based models. The company's annualised recurring revenue crossed $200 million in April 2026, driven by rapid growth in both paid consumer subscriptions and developer API usage. The raise positions Moonshot as one of China's highest-valued independent AI labs and underscores the commercial viability of open-weight model strategies.",
+            "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Moonshot AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "open-source AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "API infrastructure"
+              }
+            ],
+            "keywords": "Moonshot AI, open-source AI, large language models, API infrastructure, developer AI tools, consumer AI subscriptions, open-weight model deployment",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=qbiYdpJ4tRU",
+  "thumbnail_url": "https://i.ytimg.com/vi/qbiYdpJ4tRU/maxresdefault.jpg",
+  "story": {
+    "title": "Elon Musk's lawsuit puts OpenAI's safety record on trial as for-profit conversion faces scrutiny",
+    "pillar": "Policy & Rights",
+    "summary": "As the Musk v. Altman trial progresses, legal proceedings are surfacing detailed examination of OpenAI's internal safety decisions and whether its shift to a for-profit structure compromises its founding public-benefit mission. Musk's legal team is arguing that OpenAI's commercial priorities have increasingly overridden its stated commitment to ensuring AI benefits humanity broadly. The trial is producing a rare public record of how one of the world's most influential AI labs weighs safety against commercial incentives.",
+    "source_url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "OpenAI",
+      "xAI"
+    ],
+    "technologies": [
+      "AGI safety frameworks",
+      "for-profit AI governance"
+    ],
+    "use_cases": [
+      "AI governance accountability",
+      "corporate structure scrutiny",
+      "legal oversight of AI labs"
+    ]
+  }
+}

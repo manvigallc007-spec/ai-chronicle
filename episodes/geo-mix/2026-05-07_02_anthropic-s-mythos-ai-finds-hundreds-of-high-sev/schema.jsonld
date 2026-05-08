@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=z2OJyYGZ68Q",
+      "embedUrl": "https://www.youtube.com/embed/z2OJyYGZ68Q",
+      "thumbnailUrl": "https://i.ytimg.com/vi/z2OJyYGZ68Q/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Anthropic's Mythos AI finds hundreds of high-severity security bugs in Firefox, reshaping Mozilla's cybersecurity approach",
+            "articleSection": "Daily Utility",
+            "abstract": "Mozilla security researchers report that Anthropic's Mythos AI model has uncovered a large number of high-severity vulnerabilities in the Firefox browser codebase, significantly outpacing traditional manual and automated auditing methods. The discovery has prompted Mozilla to restructure its internal security workflow around AI-assisted bug detection. The development signals a broader shift in how open-source projects may use frontier AI models to harden widely-used software.",
+            "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Anthropic"
+              },
+              {
+                "@type": "Organization",
+                "name": "Mozilla"
+              },
+              {
+                "@type": "Thing",
+                "name": "Mythos"
+              },
+              {
+                "@type": "Thing",
+                "name": "Firefox"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-assisted vulnerability detection"
+              }
+            ],
+            "keywords": "Anthropic, Mozilla, Mythos, Firefox, AI-assisted vulnerability detection, automated bug hunting, software security auditing, open-source hardening",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

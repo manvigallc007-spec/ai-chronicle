@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 5,
+  "video_url": "https://www.youtube.com/watch?v=YSKgyvw-dWE",
+  "thumbnail_url": "https://i.ytimg.com/vi/YSKgyvw-dWE/maxresdefault.jpg",
+  "story": {
+    "title": "Perplexity's AI agent app 'Personal Computer' opens to all Mac users",
+    "pillar": "Daily Utility",
+    "summary": "Perplexity has made its Personal Computer application available to all Mac users, bringing AI agent capabilities directly to the desktop operating system. The app allows users to delegate tasks to AI agents that can operate across system functions and applications. The general availability launch marks Perplexity's most direct move yet into the on-device AI assistant space, competing with Apple's own AI efforts.",
+    "source_url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Perplexity",
+      "Apple"
+    ],
+    "technologies": [
+      "AI agents",
+      "desktop AI assistant",
+      "on-device AI"
+    ],
+    "use_cases": [
+      "task automation",
+      "desktop productivity",
+      "AI-powered computing"
+    ]
+  }
+}

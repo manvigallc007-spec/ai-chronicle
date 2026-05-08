@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=173onAzfIdQ",
+      "embedUrl": "https://www.youtube.com/embed/173onAzfIdQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/173onAzfIdQ/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "OpenAI adds 'Trusted Contact' safeguard to ChatGPT for users showing signs of self-harm",
+            "articleSection": "Policy & Rights",
+            "abstract": "OpenAI has introduced a new safety feature called 'Trusted Contact' for ChatGPT that activates when a conversation shows signs of a user potentially engaging in self-harm. The feature allows users to pre-designate a trusted person who can be notified in high-risk situations, extending OpenAI's existing crisis-intervention protocols. The rollout represents a significant expansion of platform-level duty-of-care obligations for consumer AI products.",
+            "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Thing",
+                "name": "ChatGPT"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI safety guardrails"
+              },
+              {
+                "@type": "Thing",
+                "name": "crisis detection"
+              }
+            ],
+            "keywords": "OpenAI, ChatGPT, AI safety guardrails, crisis detection, mental health safeguarding, user safety notifications, trusted contact alerts",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

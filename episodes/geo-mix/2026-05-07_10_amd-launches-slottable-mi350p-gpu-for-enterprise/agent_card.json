@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=7a_18qqPCaI",
+  "thumbnail_url": "https://i.ytimg.com/vi/7a_18qqPCaI/maxresdefault.jpg",
+  "story": {
+    "title": "AMD launches slottable MI350P GPU for enterprise AI, packing 144 GB of HBM3e into a dual-slot card",
+    "pillar": "Discovery & Research",
+    "summary": "AMD has released the Instinct MI350P, a PCIe-based GPU designed for enterprises looking to run AI workloads without requiring specialised server infrastructure. The card delivers 144 GB of HBM3e memory and up to 4.6 petaFLOPS of FP4 compute in a standard dual-slot form factor, making it compatible with existing server racks. The launch is aimed squarely at organisations that want to deploy AI inference and training at scale without the cost of purpose-built AI supercomputer clusters.",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/05/07/amd-takes-aim-at-enterprise-ai-with-pcie-based-instinct-gpus/5231481",
+    "source_name": "The Register",
+    "companies": [
+      "AMD",
+      "Nvidia"
+    ],
+    "technologies": [
+      "MI350P",
+      "HBM3e",
+      "FP4 compute",
+      "PCIe GPU",
+      "AI accelerator"
+    ],
+    "use_cases": [
+      "enterprise AI inference",
+      "on-premises AI deployment",
+      "AI hardware accessibility"
+    ]
+  }
+}
