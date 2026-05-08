@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=vPP9TUvLi04",
+  "thumbnail_url": "https://i.ytimg.com/vi/vPP9TUvLi04/maxresdefault.jpg",
+  "story": {
+    "title": "Supreme Court Asks Bar Council to Form AI Expert Panel After Trial Court Cites Fake Judgments",
+    "pillar": "Policy & Rights",
+    "summary": "India's Supreme Court has intervened after fake AI-generated judgments were cited in a lower court case, directing the Bar Council of India to constitute an expert panel on AI use in the judiciary. The development marks a landmark moment for how AI tools are regulated within India's legal system. The outcome of this panel could set binding guidelines for lawyers and judges across the country on the permissible use of AI research tools.",
+    "source_url": "https://www.medianama.com/2026/05/223-supreme-court-seeks-ai-panel-over-fake-judgments/",
+    "source_name": "Medianama",
+    "companies": [],
+    "technologies": [
+      "generative AI",
+      "AI legal research tools",
+      "large language models"
+    ],
+    "use_cases": [
+      "AI-generated legal judgments",
+      "judicial AI regulation",
+      "AI hallucination in courts"
+    ]
+  }
+}

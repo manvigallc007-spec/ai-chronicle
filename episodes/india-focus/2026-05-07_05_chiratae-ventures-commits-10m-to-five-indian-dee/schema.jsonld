@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=eBEnOx27Opw",
+      "embedUrl": "https://www.youtube.com/embed/eBEnOx27Opw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/eBEnOx27Opw/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Chiratae Ventures Commits $10M to Five Indian Deeptech Startups in Single Deployment",
+            "articleSection": "Discovery & Research",
+            "abstract": "Chiratae Ventures has committed $10 million across five deeptech startups in India as part of a targeted bet on the country's untapped advanced technology potential. The fund sees deeptech — spanning areas like AI, semiconductors, and frontier science — as an emerging breakout category in India's startup ecosystem. The names of the five startups have not yet been disclosed publicly.",
+            "url": "https://yourstory.com/2026/05/chiratae-ventures-commits-10-million-5-deeptech-startups",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Chiratae Ventures"
+              },
+              {
+                "@type": "Thing",
+                "name": "deeptech"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "semiconductors"
+              }
+            ],
+            "keywords": "Chiratae Ventures, deeptech, AI, semiconductors, deeptech startup funding, venture capital in India, advanced technology commercialisation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

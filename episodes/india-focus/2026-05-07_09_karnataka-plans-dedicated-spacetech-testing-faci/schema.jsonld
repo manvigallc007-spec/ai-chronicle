@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=nJ_AhX-DhfI",
+      "embedUrl": "https://www.youtube.com/embed/nJ_AhX-DhfI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nJ_AhX-DhfI/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Karnataka Plans Dedicated SpaceTech Testing Facilities and Manufacturing Parks Under DeepTech Decade Vision",
+            "articleSection": "Policy & Rights",
+            "abstract": "Karnataka has announced plans to expand its role in India's commercial space economy through a DeepTech Decade vision that includes common testing facilities and dedicated manufacturing parks for space startups and MSMEs. The initiative targets reducing the infrastructure barrier that prevents smaller players from accessing space-grade testing environments. Bengaluru, already home to ISRO and dozens of spacetech startups, is positioned as the state's anchor hub for this push.",
+            "url": "https://economictimes.indiatimes.com/tech/startups/karnataka-eyes-larger-role-in-commercial-space-economy-plans-common-testing-facility/articleshow/130919722.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "spacetech"
+              },
+              {
+                "@type": "Thing",
+                "name": "satellite manufacturing"
+              },
+              {
+                "@type": "Thing",
+                "name": "deep-tech infrastructure"
+              }
+            ],
+            "keywords": "spacetech, satellite manufacturing, deep-tech infrastructure, commercial space testing, MSME space manufacturing, startup space access",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

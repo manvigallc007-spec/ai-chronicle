@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=Uj2xYVdM2wI",
+  "thumbnail_url": "https://i.ytimg.com/vi/Uj2xYVdM2wI/maxresdefault.jpg",
+  "story": {
+    "title": "Hexaware Q1 CY26 Net Profit Rises 7.5% to Rs 352 Crore as European and Banking Segments Drive Growth",
+    "pillar": "Job Evolution",
+    "summary": "Hexaware Technologies posted a 7.5% year-on-year rise in net profit to Rs 351.6 crore in Q1 CY26, beating analyst expectations, with revenue growing 12.6% to Rs 3,613 crore. Growth was led by strong performance in Europe and the banking and financial services vertical. The company maintained its full-year revenue growth guidance of 7.6%, suggesting steady demand for its AI-augmented IT services.",
+    "source_url": "https://economictimes.indiatimes.com/tech/information-tech/hexawares-q1-pat-up-7-5-to-rs-352-crore-revenue-rises-12-6/articleshow/130916145.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Hexaware Technologies"
+    ],
+    "technologies": [
+      "AI-augmented IT services",
+      "enterprise technology"
+    ],
+    "use_cases": [
+      "IT services growth",
+      "banking technology",
+      "AI-driven productivity"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=gitjnuzfIsA",
+  "thumbnail_url": "https://i.ytimg.com/vi/gitjnuzfIsA/maxresdefault.jpg",
+  "story": {
+    "title": "Freo Acquires Credit Marketplace IndiaLends to Serve Over 50 Million Users via Combined Platform",
+    "pillar": "Daily Utility",
+    "summary": "Bengaluru-based digital banking platform Freo has acquired IndiaLends, a credit marketplace, in a move that will give the combined entity access to more than 50 million users. IndiaLends will continue to operate as a separate brand while leveraging Freo's digital banking infrastructure. The acquisition consolidates two platforms targeting overlapping segments of India's underserved credit market.",
+    "source_url": "https://economictimes.indiatimes.com/tech/startups/digital-banking-platform-freo-acquires-credit-marketplace-indialends/articleshow/130906454.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Freo",
+      "IndiaLends"
+    ],
+    "technologies": [
+      "digital banking",
+      "credit marketplace",
+      "fintech platform"
+    ],
+    "use_cases": [
+      "consumer credit access",
+      "digital lending",
+      "fintech consolidation"
+    ]
+  }
+}

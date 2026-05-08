@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=5_eo_xkWTW0",
+  "thumbnail_url": "https://i.ytimg.com/vi/5_eo_xkWTW0/maxresdefault.jpg",
+  "story": {
+    "title": "Proshort AI Sales Coaching Platform Crosses $1M ARR Within a Year of Launch",
+    "pillar": "How to Evolve",
+    "summary": "Indian AI startup Proshort, founded by Gaurav Mishra, has reached $1 million in annual recurring revenue within its first year by offering real-time AI sales coaching that delivers live insights to sales professionals during customer interactions. The platform targets India's large and growing sales workforce, providing on-the-job AI assistance without requiring formal training programmes. Crossing $1M ARR in year one positions Proshort among the faster-growing B2B AI SaaS companies to emerge from India in 2025–26.",
+    "source_url": "https://yourstory.com/2026/05/lisa-ray-menopause-womens-health-proshort-ai-sales-coach",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "Proshort"
+    ],
+    "technologies": [
+      "AI sales coaching",
+      "real-time AI insights",
+      "B2B SaaS"
+    ],
+    "use_cases": [
+      "sales productivity",
+      "AI-assisted selling",
+      "workforce upskilling"
+    ]
+  }
+}

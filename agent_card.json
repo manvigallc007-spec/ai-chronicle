@@ -22,11 +22,25 @@
   ],
   "recent_episodes": [
     {
+      "title": "Proshort AI Sales Coaching Platform Crosses $1M ARR Within a Year of Launch",
+      "video_url": "https://www.youtube.com/watch?v=5_eo_xkWTW0",
+      "date": "2026-05-07",
+      "division": "india-focus",
+      "pillar": "How to Evolve"
+    },
+    {
       "title": "Ecofy Raises $15M From Mirova to Expand Green Financing Portfolio Across India's Energy Transition",
       "video_url": "https://www.youtube.com/watch?v=WMS7ATWskfc",
       "date": "2026-05-07",
       "division": "india-focus",
       "pillar": "Daily Utility"
+    },
+    {
+      "title": "Karnataka Plans Dedicated SpaceTech Testing Facilities and Manufacturing Parks Under DeepTech Decade Vision",
+      "video_url": "https://www.youtube.com/watch?v=nJ_AhX-DhfI",
+      "date": "2026-05-07",
+      "division": "india-focus",
+      "pillar": "Policy & Rights"
     },
     {
       "title": "India and Japan Sign Quantum Technology and Health Research Cooperation Agreements",
@@ -43,6 +57,20 @@
       "pillar": "Policy & Rights"
     },
     {
+      "title": "India's PoS Terminal Shortage Deepens as China Import Disruptions Push Device Prices Up 15–20%",
+      "video_url": "https://www.youtube.com/watch?v=3nD_piqkFCo",
+      "date": "2026-05-07",
+      "division": "india-focus",
+      "pillar": "Daily Utility"
+    },
+    {
+      "title": "Hexaware Q1 CY26 Net Profit Rises 7.5% to Rs 352 Crore as European and Banking Segments Drive Growth",
+      "video_url": "https://www.youtube.com/watch?v=Uj2xYVdM2wI",
+      "date": "2026-05-07",
+      "division": "india-focus",
+      "pillar": "Job Evolution"
+    },
+    {
       "title": "BigEndian Semiconductors Raises $6M Led by IAN Alpha Fund to Commercialise Its First System-on-Chip",
       "video_url": "https://www.youtube.com/watch?v=JbqPXYwhArk",
       "date": "2026-05-07",
@@ -57,11 +85,25 @@
       "pillar": "Education & Youth"
     },
     {
+      "title": "Freo Acquires Credit Marketplace IndiaLends to Serve Over 50 Million Users via Combined Platform",
+      "video_url": "https://www.youtube.com/watch?v=gitjnuzfIsA",
+      "date": "2026-05-07",
+      "division": "india-focus",
+      "pillar": "Daily Utility"
+    },
+    {
       "title": "Delhi HC Bars Tech YouTubers TechWiser and TechBar From Criticising AI+ Smartphones Without Hearing Them",
       "video_url": "https://www.youtube.com/watch?v=WCFLPF9YDg8",
       "date": "2026-05-07",
       "division": "india-focus",
       "pillar": "Policy & Rights"
+    },
+    {
+      "title": "Chiratae Ventures Commits $10M to Five Indian Deeptech Startups in Single Deployment",
+      "video_url": "https://www.youtube.com/watch?v=eBEnOx27Opw",
+      "date": "2026-05-07",
+      "division": "india-focus",
+      "pillar": "Discovery & Research"
     },
     {
       "title": "Paytm Posts First-Ever Annual Profit of Rs 552 Crore in FY26 After Years of Losses",
@@ -71,11 +113,32 @@
       "pillar": "Daily Utility"
     },
     {
+      "title": "Coforge CEO: AI Is Changing Tech Services Demand, Not Killing It — Firms That Lead Outcomes Will Win",
+      "video_url": "https://www.youtube.com/watch?v=rV5w_Inn00Y",
+      "date": "2026-05-07",
+      "division": "india-focus",
+      "pillar": "Job Evolution"
+    },
+    {
       "title": "Meesho Says 70% of Its Code Is Now AI-Written as Revenue Jumps 47% to Rs 3,531 Crore in Q4",
       "video_url": "https://www.youtube.com/watch?v=UzZnJsmxwDE",
       "date": "2026-05-07",
       "division": "india-focus",
       "pillar": "Job Evolution"
+    },
+    {
+      "title": "Bajaj Finance Cuts FY27 Autonomous AI Agent Target From 800 to 600 After Sales Scope Reduction",
+      "video_url": "https://www.youtube.com/watch?v=3Vd9NOXLse4",
+      "date": "2026-05-07",
+      "division": "india-focus",
+      "pillar": "Job Evolution"
+    },
+    {
+      "title": "Skyroot Aerospace Raises $60M, Becomes India's First Spacetech Unicorn Ahead of Vikram-1 Launch",
+      "video_url": "https://www.youtube.com/watch?v=Y3_5uB8obe0",
+      "date": "2026-05-07",
+      "division": "india-focus",
+      "pillar": "Discovery & Research"
     },
     {
       "title": "Freshworks Cuts 11% of Workforce as AI Reshapes Indian-Founded Software Sector",
@@ -85,81 +148,18 @@
       "pillar": "Job Evolution"
     },
     {
-      "title": "SEBI Orders Immediate Cybersecurity Overhaul Across All Regulated Entities, Citing Claude Mythos Risks",
-      "video_url": "https://www.youtube.com/watch?v=QFevQwTIReU",
+      "title": "Supreme Court Asks Bar Council to Form AI Expert Panel After Trial Court Cites Fake Judgments",
+      "video_url": "https://www.youtube.com/watch?v=vPP9TUvLi04",
       "date": "2026-05-07",
       "division": "india-focus",
       "pillar": "Policy & Rights"
     },
     {
-      "title": "Digi Yatra Develops AI-Powered E-Passport Enrolment and Facial Verification System for International Travel",
-      "video_url": "https://www.youtube.com/watch?v=lDtV0b-P49A",
-      "date": "2026-05-06",
-      "division": "india-focus",
-      "pillar": "Daily Utility"
-    },
-    {
-      "title": "India Cabinet Approves Two Gujarat Semiconductor Units Worth Rs 3,936 Crore, Creating 2,230 Jobs",
-      "video_url": "https://www.youtube.com/watch?v=Xvis6LEbOKQ",
-      "date": "2026-05-06",
-      "division": "india-focus",
-      "pillar": "Job Evolution"
-    },
-    {
-      "title": "Fake Allu Arjun AI Chatbots Remain Live on CelebsGPT Despite Delhi High Court Personality Rights Order",
-      "video_url": "https://www.youtube.com/watch?v=AfgvI_0ouw8",
-      "date": "2026-05-06",
+      "title": "SEBI Orders Immediate Cybersecurity Overhaul Across All Regulated Entities, Citing Claude Mythos Risks",
+      "video_url": "https://www.youtube.com/watch?v=QFevQwTIReU",
+      "date": "2026-05-07",
       "division": "india-focus",
       "pillar": "Policy & Rights"
-    },
-    {
-      "title": "Premji Invest in Talks to Join Emergent's $250M Fundraise at $1.5 Billion Valuation",
-      "video_url": "https://www.youtube.com/watch?v=a3TM4kC0uB0",
-      "date": "2026-05-06",
-      "division": "india-focus",
-      "pillar": "How to Evolve"
-    },
-    {
-      "title": "Coforge Q4 FY26 Profit More Than Doubles to Rs 612 Crore, Driven by AI Efficiencies and Deal Wins",
-      "video_url": "https://www.youtube.com/watch?v=bU0pyYu_Czg",
-      "date": "2026-05-06",
-      "division": "india-focus",
-      "pillar": "Job Evolution"
-    },
-    {
-      "title": "Anthropic Launches Claude Security Enterprise Tool — Falls Short of Mythos-Level Capabilities",
-      "video_url": "https://www.youtube.com/watch?v=Q-HjPRnLrk8",
-      "date": "2026-05-06",
-      "division": "india-focus",
-      "pillar": "Policy & Rights"
-    },
-    {
-      "title": "Krutrim Pauses Chip Design and Foundation AI Model Work, Pivots Fully to AI Cloud Services",
-      "video_url": "https://www.youtube.com/watch?v=UebUdhyoq9I",
-      "date": "2026-05-06",
-      "division": "india-focus",
-      "pillar": "Job Evolution"
-    },
-    {
-      "title": "Pixxel and Sarvam AI to Launch India's First Orbital AI Data Centre Satellite in 2026",
-      "video_url": "https://www.youtube.com/watch?v=YbPbjV5Uq2E",
-      "date": "2026-05-06",
-      "division": "india-focus",
-      "pillar": "Discovery & Research"
-    },
-    {
-      "title": "Pixxel Wins US National Reconnaissance Office Contract to Supply Hyperspectral Satellite Imagery",
-      "video_url": "https://www.youtube.com/watch?v=s61qIzfZ9WA",
-      "date": "2026-05-06",
-      "division": "india-focus",
-      "pillar": "Discovery & Research"
-    },
-    {
-      "title": "Indian Cybersecurity Firms Deploy In-House AI Agents to Cut Vulnerability Response From Days to Hours",
-      "video_url": "https://www.youtube.com/watch?v=yBZSh1LzGW8",
-      "date": "2026-05-06",
-      "division": "india-focus",
-      "pillar": "Daily Utility"
     }
   ]
 }

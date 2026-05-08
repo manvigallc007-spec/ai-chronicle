@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=Y3_5uB8obe0",
+  "thumbnail_url": "https://i.ytimg.com/vi/Y3_5uB8obe0/maxresdefault.jpg",
+  "story": {
+    "title": "Skyroot Aerospace Raises $60M, Becomes India's First Spacetech Unicorn Ahead of Vikram-1 Launch",
+    "pillar": "Discovery & Research",
+    "summary": "Hyderabad-based Skyroot Aerospace has raised $60 million in fresh funding, becoming India's first spacetech unicorn at a valuation crossing $1 billion. The capital will be used to support commercial launch operations of the Vikram-1 rocket, which is preparing for its inaugural orbital flight from Sriharikota. The milestone signals a maturing private space sector in India backed by policy reform and investor confidence.",
+    "source_url": "https://yourstory.com/2026/05/skyroot-aerospace-60m-first-spacetech-unicorn-from-india",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "Skyroot Aerospace"
+    ],
+    "technologies": [
+      "Vikram-1 rocket",
+      "orbital launch vehicle",
+      "private space launch"
+    ],
+    "use_cases": [
+      "commercial satellite launches",
+      "private space access",
+      "spacetech investment"
+    ]
+  }
+}

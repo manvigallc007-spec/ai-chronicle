@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=3nD_piqkFCo",
+      "embedUrl": "https://www.youtube.com/embed/3nD_piqkFCo",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3nD_piqkFCo/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India's PoS Terminal Shortage Deepens as China Import Disruptions Push Device Prices Up 15–20%",
+            "articleSection": "Daily Utility",
+            "abstract": "India's digital payments industry is grappling with a shortage of new point-of-sale terminals caused by disruptions to imports from China and the West Asia conflict, pushing device prices up by 15–20%. Payments companies are being forced to extend the lifecycles of existing terminals and manage their installed base more carefully. The squeeze threatens the expansion of card and UPI acceptance infrastructure at India's retail merchants.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/new-point-of-sale-terminal-shortage-pinches-indias-payment-industry/articleshow/130915314.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "point-of-sale terminals"
+              },
+              {
+                "@type": "Thing",
+                "name": "UPI"
+              },
+              {
+                "@type": "Thing",
+                "name": "digital payments infrastructure"
+              }
+            ],
+            "keywords": "point-of-sale terminals, UPI, digital payments infrastructure, retail payments, merchant payment acceptance, digital payments expansion",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

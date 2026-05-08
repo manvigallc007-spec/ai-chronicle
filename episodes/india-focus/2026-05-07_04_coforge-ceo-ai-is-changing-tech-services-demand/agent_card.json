@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=rV5w_Inn00Y",
+  "thumbnail_url": "https://i.ytimg.com/vi/rV5w_Inn00Y/maxresdefault.jpg",
+  "story": {
+    "title": "Coforge CEO: AI Is Changing Tech Services Demand, Not Killing It — Firms That Lead Outcomes Will Win",
+    "pillar": "Job Evolution",
+    "summary": "Coforge CEO Sudhir Singh has publicly pushed back against narratives of AI-led demand collapse in IT services, arguing that the market is evolving into new value pools centred on AI-led modernisation and governance. He dismissed fears of AI firms displacing traditional IT services companies, framing them as specialists within a broader, growing market. The statement carries weight given Coforge's Q4 FY26 profit more than doubled to Rs 612 crore, suggesting its own AI-driven approach is yielding results.",
+    "source_url": "https://economictimes.indiatimes.com/tech/information-tech/tech-services-demand-is-changing-not-weakening-coforge-ceo/articleshow/130915873.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Coforge"
+    ],
+    "technologies": [
+      "AI-led modernisation",
+      "AI governance",
+      "enterprise AI"
+    ],
+    "use_cases": [
+      "IT services transformation",
+      "AI-driven business outcomes",
+      "tech industry restructuring"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=rV5w_Inn00Y",
+      "embedUrl": "https://www.youtube.com/embed/rV5w_Inn00Y",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rV5w_Inn00Y/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Coforge CEO: AI Is Changing Tech Services Demand, Not Killing It — Firms That Lead Outcomes Will Win",
+            "articleSection": "Job Evolution",
+            "abstract": "Coforge CEO Sudhir Singh has publicly pushed back against narratives of AI-led demand collapse in IT services, arguing that the market is evolving into new value pools centred on AI-led modernisation and governance. He dismissed fears of AI firms displacing traditional IT services companies, framing them as specialists within a broader, growing market. The statement carries weight given Coforge's Q4 FY26 profit more than doubled to Rs 612 crore, suggesting its own AI-driven approach is yielding results.",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/tech-services-demand-is-changing-not-weakening-coforge-ceo/articleshow/130915873.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Coforge"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-led modernisation"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI governance"
+              },
+              {
+                "@type": "Thing",
+                "name": "enterprise AI"
+              }
+            ],
+            "keywords": "Coforge, AI-led modernisation, AI governance, enterprise AI, IT services transformation, AI-driven business outcomes, tech industry restructuring",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

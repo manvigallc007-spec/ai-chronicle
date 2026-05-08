@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=3Vd9NOXLse4",
+      "embedUrl": "https://www.youtube.com/embed/3Vd9NOXLse4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/3Vd9NOXLse4/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Bajaj Finance Cuts FY27 Autonomous AI Agent Target From 800 to 600 After Sales Scope Reduction",
+            "articleSection": "Job Evolution",
+            "abstract": "Bajaj Finance has revised its ambitious autonomous AI agent deployment target for FY27 downward from 800-plus to 600, after dropping the sales-related scope of the programme. As of Q4 FY26, only 27 agents are live with 118 more in planning, indicating deployment is running significantly behind the original schedule. The revision highlights the gap between enterprise AI ambitions and the operational realities of deploying autonomous agents at scale in India's financial services sector.",
+            "url": "https://www.medianama.com/2026/05/223-q4fy26-bajaj-finance-autonomous-agent-target-800-600-fy27/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Bajaj Finance"
+              },
+              {
+                "@type": "Thing",
+                "name": "autonomous AI agents"
+              },
+              {
+                "@type": "Thing",
+                "name": "agentic AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "enterprise AI deployment"
+              }
+            ],
+            "keywords": "Bajaj Finance, autonomous AI agents, agentic AI, enterprise AI deployment, financial services automation, AI sales agents, enterprise agent deployment",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
