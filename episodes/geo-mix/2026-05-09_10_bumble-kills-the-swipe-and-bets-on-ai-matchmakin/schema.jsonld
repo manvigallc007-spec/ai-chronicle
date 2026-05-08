@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-09",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-09T00:00:00Z",
+      "datePublished": "2026-05-09T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=keXqw1_EC-k",
+      "embedUrl": "https://www.youtube.com/embed/keXqw1_EC-k",
+      "thumbnailUrl": "https://i.ytimg.com/vi/keXqw1_EC-k/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-09",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Bumble kills the swipe and bets on AI matchmaking assistant 'Bee' to reinvent online dating",
+            "articleSection": "Daily Utility",
+            "abstract": "Bumble CEO Whitney Wolfe Herd announced the dating app is eliminating its signature swipe mechanic and pivoting toward AI-driven matchmaking, including a new AI dating assistant called Bee. The company is positioning AI as a 'supercharger to love and relationships', signalling a fundamental redesign of how hundreds of millions of users interact with the platform. The move marks one of the most high-profile consumer AI pivots in the social app space, with implications for how AI agents may mediate personal relationships at scale.",
+            "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Bumble"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI matchmaking"
+              },
+              {
+                "@type": "Thing",
+                "name": "conversational AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "recommendation systems"
+              }
+            ],
+            "keywords": "Bumble, AI matchmaking, conversational AI, recommendation systems, AI-assisted dating, relationship app redesign, consumer AI agents",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-09",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-09T00:00:00Z",
+      "datePublished": "2026-05-09T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=U9lI3epTo7k",
+      "embedUrl": "https://www.youtube.com/embed/U9lI3epTo7k",
+      "thumbnailUrl": "https://i.ytimg.com/vi/U9lI3epTo7k/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-09",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Trump shifts from hands-off to strict AI regulation, leaving industry and observers baffled",
+            "articleSection": "Policy & Rights",
+            "abstract": "The Trump administration has abruptly reversed its previously permissive AI policy stance, signalling a move toward stricter federal regulation of artificial intelligence in what analysts are calling an unexpected and unexplained pivot. The shift follows months in which the administration had positioned itself as opposed to regulatory burdens on the AI industry, making the reversal difficult to interpret for companies that had calibrated compliance strategies accordingly. The Register notes the change appears sudden and lacks detailed policy documentation to explain the rationale.",
+            "url": "https://www.theregister.com/ai-and-ml/2026/05/08/trump-jumps-from-anything-goes-to-strict-regulation-ai-policy/5234687",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "AI regulation"
+              },
+              {
+                "@type": "Thing",
+                "name": "federal AI policy"
+              }
+            ],
+            "keywords": "AI regulation, federal AI policy, government AI oversight, enterprise AI compliance",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

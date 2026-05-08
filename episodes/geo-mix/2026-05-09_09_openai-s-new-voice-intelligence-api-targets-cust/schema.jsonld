@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-09",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-09T00:00:00Z",
+      "datePublished": "2026-05-09T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=VoyBvl40k5I",
+      "embedUrl": "https://www.youtube.com/embed/VoyBvl40k5I",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VoyBvl40k5I/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-09",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "OpenAI's new voice intelligence API targets customer service, education, and creator platforms",
+            "articleSection": "Daily Utility",
+            "abstract": "OpenAI has released new voice intelligence features for its API, enabling developers to build applications with advanced spoken-language understanding and generation capabilities across customer service, educational tools, and content creation platforms. The update lowers the barrier for businesses to deploy voice-first AI interfaces without building their own speech models. OpenAI says the features are designed for real-time, conversational use cases that go beyond simple transcription.",
+            "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Thing",
+                "name": "voice AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "speech recognition"
+              },
+              {
+                "@type": "Thing",
+                "name": "text-to-speech"
+              },
+              {
+                "@type": "Thing",
+                "name": "API"
+              }
+            ],
+            "keywords": "OpenAI, voice AI, speech recognition, text-to-speech, API, customer service automation, AI-powered education tools, creator platform voice features",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

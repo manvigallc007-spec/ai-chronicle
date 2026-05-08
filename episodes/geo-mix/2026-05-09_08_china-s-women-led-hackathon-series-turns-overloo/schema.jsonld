@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-09",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-09T00:00:00Z",
+      "datePublished": "2026-05-09T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=hBazlb6yMIk",
+      "embedUrl": "https://www.youtube.com/embed/hBazlb6yMIk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hBazlb6yMIk/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-09",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "China's women-led hackathon series turns overlooked problems — menopause to workplace bias — into tech products",
+            "articleSection": "Education & Youth",
+            "abstract": "A series of women-led hackathon events across China is giving female participants hands-on coding experience and a platform to build products addressing problems frequently ignored by mainstream tech, including menopause management tools and apps tackling workplace sexism. The events are expanding access to technology careers for women who have historically been underrepresented in China's tech industry. Sixth Tone reports that participants are not only learning skills but shipping early-stage products that reflect lived experiences absent from most commercial AI and app development pipelines.",
+            "url": "https://www.sixthtone.com/news/1018498/In China, a Women's Hackathon Series Opens the Door to Tech",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "app development"
+              },
+              {
+                "@type": "Thing",
+                "name": "hackathon platforms"
+              },
+              {
+                "@type": "Thing",
+                "name": "coding education"
+              }
+            ],
+            "keywords": "app development, hackathon platforms, coding education, women in tech education, product development for underserved needs, gender diversity in coding",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

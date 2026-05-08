@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-09",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-09T00:00:00Z",
+      "datePublished": "2026-05-09T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=HoAXKWONKb4",
+      "embedUrl": "https://www.youtube.com/embed/HoAXKWONKb4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HoAXKWONKb4/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-09",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Iran war drives datacenter construction costs up 20% as supply chains fracture globally",
+            "articleSection": "Policy & Rights",
+            "abstract": "The ongoing Iran war is disrupting global datacenter construction supply chains, with the British Computer Society reporting that builders are facing material cost increases of up to 20% alongside patchy delivery schedules for critical components. The disruption threatens to delay AI infrastructure buildout at a time when hyperscalers are racing to commission new compute capacity. The supply chain strain has global implications, affecting projects from the Gulf region to Europe and beyond.",
+            "url": "https://www.theregister.com/on-prem/2026/05/08/iran-war-disrupts-datacenter-construction-supply-chains-raises-material-costs/5235852",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "datacenter construction"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI infrastructure"
+              },
+              {
+                "@type": "Thing",
+                "name": "supply chain logistics"
+              }
+            ],
+            "keywords": "datacenter construction, AI infrastructure, supply chain logistics, AI compute capacity buildout, datacenter infrastructure planning",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
