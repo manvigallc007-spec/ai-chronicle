@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-09",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-09T00:00:00Z",
+      "datePublished": "2026-05-09T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=_c5HMlMlau0",
+      "embedUrl": "https://www.youtube.com/embed/_c5HMlMlau0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_c5HMlMlau0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-09",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Swiggy Q4 Revenue Surges 45% to Rs 6,383 Crore as Net Loss Narrows to Rs 800 Crore",
+            "articleSection": "Daily Utility",
+            "abstract": "Swiggy reported a 45% year-on-year revenue surge to Rs 6,383 crore in Q4 FY26, with its net loss narrowing significantly to Rs 800 crore as both its food delivery and Instamart quick commerce arms gained traction. The company is targeting a Rs 1 lakh crore net order value for Instamart, indicating aggressive long-term ambitions in the quick commerce segment. CEO Sriharsha Majety cautioned that strategic clarity — not unchecked spending — will determine which platforms survive the current quick commerce boom.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/swiggy-q4-revenue-surges-45-net-loss-narrows-to-rs-800-crore/articleshow/130963150.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Swiggy"
+              },
+              {
+                "@type": "Organization",
+                "name": "Instamart"
+              },
+              {
+                "@type": "Thing",
+                "name": "quick commerce platform"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-driven logistics"
+              }
+            ],
+            "keywords": "Swiggy, Instamart, quick commerce platform, AI-driven logistics, food delivery, quick commerce grocery delivery, urban last-mile logistics",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

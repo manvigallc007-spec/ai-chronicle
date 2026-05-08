@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-09",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=6h7RuJreJUU",
+  "thumbnail_url": "https://i.ytimg.com/vi/6h7RuJreJUU/maxresdefault.jpg",
+  "story": {
+    "title": "Fi Money Shuts Consumer Banking, Pivots to AI and Enterprise Tech After Co-Founder Gwalani Exits",
+    "pillar": "Job Evolution",
+    "summary": "Fi Money co-founder Sumit Gwalani has stepped down after six years, following the March 2026 shutdown of the neobank's consumer banking service and a broader strategic pivot toward AI and enterprise technology. The departure underscores the mounting pressures facing India's neobanking sector, where regulatory constraints on banking partnerships have made pure-play consumer neobanking increasingly difficult to sustain. The company's shift toward enterprise AI signals a growing trend of Indian fintech startups repositioning away from consumer finance toward B2B AI services.",
+    "source_url": "https://economictimes.indiatimes.com/tech/startups/neobank-fi-moneys-cofounder-sumit-gwalani-steps-down-after-six-years/articleshow/130963885.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Fi Money"
+    ],
+    "technologies": [
+      "AI enterprise software",
+      "neobanking platform",
+      "generative AI"
+    ],
+    "use_cases": [
+      "B2B AI services pivot",
+      "enterprise technology development",
+      "fintech restructuring"
+    ]
+  }
+}

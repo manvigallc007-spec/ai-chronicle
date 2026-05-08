@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-09",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=al2xpzPtt9w",
+  "thumbnail_url": "https://i.ytimg.com/vi/al2xpzPtt9w/maxresdefault.jpg",
+  "story": {
+    "title": "Adobe Opens New Noida Office With AI Innovation Focus as India Deepens Its Role in Global R&D",
+    "pillar": "Job Evolution",
+    "summary": "Adobe has expanded its India footprint with a new office in Noida, explicitly positioned as a centre for advancing AI-driven innovation and marking what the company calls an important milestone in driving global product development from India. The opening reflects a broader trend of multinational technology firms deepening their India R&D and AI engineering presence as Indian talent pools grow. Adobe has significant India operations and the new facility is expected to support work on AI-powered creative and document tools.",
+    "source_url": "https://www.thehindu.com/sci-tech/technology/adobe-expands-india-footprint-with-new-office-in-noida/article70954378.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "Adobe"
+    ],
+    "technologies": [
+      "AI creative tools",
+      "AI document intelligence",
+      "generative AI"
+    ],
+    "use_cases": [
+      "AI-driven product development in India",
+      "global R&D from Indian offices",
+      "creative AI engineering"
+    ]
+  }
+}

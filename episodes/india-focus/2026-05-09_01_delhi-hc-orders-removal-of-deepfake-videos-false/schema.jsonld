@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-09",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-09T00:00:00Z",
+      "datePublished": "2026-05-09T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=04Q0rcCIzk0",
+      "embedUrl": "https://www.youtube.com/embed/04Q0rcCIzk0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/04Q0rcCIzk0/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-09",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Delhi HC Orders Removal of Deepfake Videos Falsely Showing MP Shashi Tharoor Praising Pakistan",
+            "articleSection": "Policy & Rights",
+            "abstract": "The Delhi High Court announced it would issue blocking orders against AI-generated deepfake videos falsely depicting Congress MP Shashi Tharoor praising Pakistan, after he filed a petition over the misuse of his identity. The case marks one of the most prominent Indian legal interventions involving political deepfakes during an active security-sensitive period. The ruling signals growing judicial willingness to act swiftly against AI-generated political disinformation in India.",
+            "url": "https://www.medianama.com/2026/05/223-delhi-hc-pass-blocking-orders-shashi-tharoor-deepfakes-praising-pakistan/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Delhi High Court"
+              },
+              {
+                "@type": "Thing",
+                "name": "deepfake AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-generated video"
+              },
+              {
+                "@type": "Thing",
+                "name": "identity synthesis"
+              }
+            ],
+            "keywords": "Delhi High Court, deepfake AI, AI-generated video, identity synthesis, political disinformation via AI, personality rights protection, court-ordered content blocking",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

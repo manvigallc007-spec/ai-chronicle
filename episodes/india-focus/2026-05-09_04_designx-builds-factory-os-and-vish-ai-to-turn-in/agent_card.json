@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-09",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=F1m-mrSmNeo",
+  "thumbnail_url": "https://i.ytimg.com/vi/F1m-mrSmNeo/maxresdefault.jpg",
+  "story": {
+    "title": "DesignX Builds Factory OS and Vish.ai to Turn Industrial Data Into Real-Time Decisions for 30+ Enterprises",
+    "pillar": "How to Evolve",
+    "summary": "Indian startup DesignX has developed Df-OS, a factory operating system, and Vish.ai, an AI decision layer, that convert raw factory data into actionable operational decisions in real time. The platform is already deployed across more than 30 enterprises including Unilever, Hero, and ITC, positioning DesignX as a meaningful player in India's industrial AI space. The solution targets manufacturing efficiency bottlenecks by replacing manual data interpretation with autonomous AI-driven recommendations.",
+    "source_url": "https://yourstory.com/2026/05/designx-factory-os-vish-ai",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "DesignX",
+      "Unilever",
+      "Hero",
+      "ITC"
+    ],
+    "technologies": [
+      "factory OS",
+      "industrial AI",
+      "Vish.ai",
+      "Df-OS",
+      "real-time data analytics"
+    ],
+    "use_cases": [
+      "manufacturing decision automation",
+      "industrial operations intelligence",
+      "factory data interpretation"
+    ]
+  }
+}
