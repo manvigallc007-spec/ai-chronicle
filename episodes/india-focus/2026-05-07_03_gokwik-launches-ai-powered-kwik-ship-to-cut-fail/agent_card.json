@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=AdWwukBukAQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/AdWwukBukAQ/maxresdefault.jpg",
+  "story": {
+    "title": "GoKwik Launches AI-Powered Kwik Ship to Cut Failed E-Commerce Deliveries by 20% Across India",
+    "pillar": "Daily Utility",
+    "summary": "GoKwik has launched Kwik Ship, an AI-powered logistics platform designed to reduce failed deliveries by up to 20% for Indian e-commerce brands. The system uses AI-powered calls and automated WhatsApp notifications to keep customers informed and provides more accurate delivery time estimates at checkout. The platform directly addresses one of Indian e-commerce's most persistent pain points — high return-to-origin rates caused by failed deliveries.",
+    "source_url": "https://economictimes.indiatimes.com/tech/startups/gokwik-launches-ai-powered-kwik-ship-for-faster-ecommerce-deliveries-in-india/articleshow/130961375.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "GoKwik"
+    ],
+    "technologies": [
+      "AI logistics",
+      "WhatsApp automation",
+      "AI-powered calling",
+      "delivery prediction AI"
+    ],
+    "use_cases": [
+      "reducing failed e-commerce deliveries",
+      "real-time delivery tracking",
+      "checkout accuracy improvement"
+    ]
+  }
+}

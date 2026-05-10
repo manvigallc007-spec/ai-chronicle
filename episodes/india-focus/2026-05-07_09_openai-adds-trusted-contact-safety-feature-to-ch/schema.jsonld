@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=x6QT-0LpebU",
+      "embedUrl": "https://www.youtube.com/embed/x6QT-0LpebU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/x6QT-0LpebU/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "OpenAI Adds Trusted Contact Safety Feature to ChatGPT to Flag Self-Harm Conversations in Real Time",
+            "articleSection": "Policy & Rights",
+            "abstract": "OpenAI has rolled out a Trusted Contact feature in ChatGPT that allows users to designate a contact person who will be notified by email or SMS if the AI detects self-harm conversations, with the contact informed of their role at the point of being added. The feature is directly relevant to India where ChatGPT usage is growing rapidly and mental health support infrastructure remains uneven. It represents one of the most concrete AI safety guardrails yet built into a major consumer AI platform for vulnerable users.",
+            "url": "https://www.medianama.com/2026/05/223-openai-trusted-contact-chatgpt-self-harm-risks/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Thing",
+                "name": "ChatGPT"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI safety detection"
+              },
+              {
+                "@type": "Thing",
+                "name": "real-time conversation monitoring"
+              }
+            ],
+            "keywords": "OpenAI, ChatGPT, AI safety detection, real-time conversation monitoring, mental health safety in AI platforms, self-harm risk alerting, AI-powered crisis intervention support",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

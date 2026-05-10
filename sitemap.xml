@@ -156,6 +156,20 @@
     </video:video>
   </url>
   <url>
+    <loc>https://www.youtube.com/watch?v=dFljGUTGhk0</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Fi Money Shuts Consumer Banking, Pivots to AI and Enterprise Tech After Co-Founder Gwalani Exits</video:title>
+      <video:description>Fi Money co-founder Sumit Gwalani has stepped down after six years, following the March 2026 shutdown of the neobank's consumer banking service and a broader strategic pivot toward AI and enterprise technology. The departure underscores the mounting pressures facing India's neobanking sector, where regulatory constraints on banking partnerships have made pure-play consumer neobanking increasingly difficult to sustain. The company's shift toward enterprise AI signals a growing trend of Indian fintech startups repositioning away from consumer finance toward B2B AI services.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=dFljGUTGhk0</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/dFljGUTGhk0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
     <loc>https://www.youtube.com/watch?v=WMS7ATWskfc</loc>
     <lastmod>2026-05-07T00:00:00Z</lastmod>
     <changefreq>daily</changefreq>
@@ -165,6 +179,20 @@
       <video:description>Indian green fintech startup Ecofy has raised $15 million from Mirova, an affiliate of Natixis Investment Managers, to expand its portfolio of financing products for India's energy transition. The investment marks Mirova's fourth deal in India under its emerging markets climate mandate, underlining growing international confidence in Indian green finance infrastructure. Ecofy targets underserved segments of India's clean energy economy, including rooftop solar and energy-efficient consumer products, with AI-assisted credit underwriting.</video:description>
       <video:content_loc>https://www.youtube.com/watch?v=WMS7ATWskfc</video:content_loc>
       <video:thumbnail_loc>https://i.ytimg.com/vi/WMS7ATWskfc/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=x6QT-0LpebU</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>OpenAI Adds Trusted Contact Safety Feature to ChatGPT to Flag Self-Harm Conversations in Real Time</video:title>
+      <video:description>OpenAI has rolled out a Trusted Contact feature in ChatGPT that allows users to designate a contact person who will be notified by email or SMS if the AI detects self-harm conversations, with the contact informed of their role at the point of being added. The feature is directly relevant to India where ChatGPT usage is growing rapidly and mental health support infrastructure remains uneven. It represents one of the most concrete AI safety guardrails yet built into a major consumer AI platform for vulnerable users.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=x6QT-0LpebU</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/x6QT-0LpebU/maxresdefault.jpg</video:thumbnail_loc>
       <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
@@ -226,6 +254,34 @@
     </video:video>
   </url>
   <url>
+    <loc>https://www.youtube.com/watch?v=SGlNV3l2zO0</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Adobe Opens New Noida Office With AI Innovation Focus as India Deepens Its Role in Global R&amp;D</video:title>
+      <video:description>Adobe has expanded its India footprint with a new office in Noida, explicitly positioned as a centre for advancing AI-driven innovation and marking what the company calls an important milestone in driving global product development from India. The opening reflects a broader trend of multinational technology firms deepening their India R&amp;D and AI engineering presence as Indian talent pools grow. Adobe has significant India operations and the new facility is expected to support work on AI-powered creative and document tools.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=SGlNV3l2zO0</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/SGlNV3l2zO0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=Gd5PQz00Cjg</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>IIT Madras Opens First US Centre in Silicon Valley to Bridge Indian Deeptech Research and Global Mar</video:title>
+      <video:description>IIT Madras has established its first overseas centre in Silicon Valley, aimed at serving as a launchpad for Indian deeptech startups through research commercialisation and connections with the US tech ecosystem. The centre is intended to help Indian founders and researchers translate laboratory innovations into globally competitive products. This move comes as India accelerates efforts to build a deeptech pipeline that can compete internationally in AI, semiconductors, and advanced engineering.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=Gd5PQz00Cjg</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Gd5PQz00Cjg/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
     <loc>https://www.youtube.com/watch?v=Uj2xYVdM2wI</loc>
     <lastmod>2026-05-07T00:00:00Z</lastmod>
     <changefreq>daily</changefreq>
@@ -254,6 +310,20 @@
     </video:video>
   </url>
   <url>
+    <loc>https://www.youtube.com/watch?v=QDjbaqPC9Q4</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Zepto Receives SEBI Approval for $1 Billion IPO, Clearing Path to Public Markets</video:title>
+      <video:description>Quick commerce startup Zepto has received SEBI's observations on its draft red herring prospectus, effectively securing regulatory clearance to proceed with its $1 billion initial public offering. SEBI issued the observations between May 4 and 8 as part of a batch covering six companies, marking a significant milestone for one of India's fastest-growing consumer tech startups. The IPO will be among the largest in India's new-age tech sector and reflects growing investor confidence in quick commerce as a durable business model.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=QDjbaqPC9Q4</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/QDjbaqPC9Q4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
     <loc>https://www.youtube.com/watch?v=MUc4t_TKc-M</loc>
     <lastmod>2026-05-07T00:00:00Z</lastmod>
     <changefreq>daily</changefreq>
@@ -277,6 +347,20 @@
       <video:description>Bengaluru-based digital banking platform Freo has acquired IndiaLends, a credit marketplace, in a move that will give the combined entity access to more than 50 million users. IndiaLends will continue to operate as a separate brand while leveraging Freo's digital banking infrastructure. The acquisition consolidates two platforms targeting overlapping segments of India's underserved credit market.</video:description>
       <video:content_loc>https://www.youtube.com/watch?v=gitjnuzfIsA</video:content_loc>
       <video:thumbnail_loc>https://i.ytimg.com/vi/gitjnuzfIsA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=f4MgYSiqFzQ</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Swiggy Q4 Revenue Surges 45% to Rs 6,383 Crore as Net Loss Narrows to Rs 800 Crore</video:title>
+      <video:description>Swiggy reported a 45% year-on-year revenue surge to Rs 6,383 crore in Q4 FY26, with its net loss narrowing significantly to Rs 800 crore as both its food delivery and Instamart quick commerce arms gained traction. The company is targeting a Rs 1 lakh crore net order value for Instamart, indicating aggressive long-term ambitions in the quick commerce segment. CEO Sriharsha Majety cautioned that strategic clarity — not unchecked spending — will determine which platforms survive the current quick commerce boom.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=f4MgYSiqFzQ</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/f4MgYSiqFzQ/maxresdefault.jpg</video:thumbnail_loc>
       <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
@@ -324,6 +408,20 @@
     </video:video>
   </url>
   <url>
+    <loc>https://www.youtube.com/watch?v=yfaADrNS3fM</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>DesignX Builds Factory OS and Vish.ai to Turn Industrial Data Into Real-Time Decisions for 30+ Enter</video:title>
+      <video:description>Indian startup DesignX has developed Df-OS, a factory operating system, and Vish.ai, an AI decision layer, that convert raw factory data into actionable operational decisions in real time. The platform is already deployed across more than 30 enterprises including Unilever, Hero, and ITC, positioning DesignX as a meaningful player in India's industrial AI space. The solution targets manufacturing efficiency bottlenecks by replacing manual data interpretation with autonomous AI-driven recommendations.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=yfaADrNS3fM</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/yfaADrNS3fM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
     <loc>https://www.youtube.com/watch?v=rV5w_Inn00Y</loc>
     <lastmod>2026-05-07T00:00:00Z</lastmod>
     <changefreq>daily</changefreq>
@@ -352,6 +450,20 @@
     </video:video>
   </url>
   <url>
+    <loc>https://www.youtube.com/watch?v=AdWwukBukAQ</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>GoKwik Launches AI-Powered Kwik Ship to Cut Failed E-Commerce Deliveries by 20% Across India</video:title>
+      <video:description>GoKwik has launched Kwik Ship, an AI-powered logistics platform designed to reduce failed deliveries by up to 20% for Indian e-commerce brands. The system uses AI-powered calls and automated WhatsApp notifications to keep customers informed and provides more accurate delivery time estimates at checkout. The platform directly addresses one of Indian e-commerce's most persistent pain points — high return-to-origin rates caused by failed deliveries.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=AdWwukBukAQ</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/AdWwukBukAQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
     <loc>https://www.youtube.com/watch?v=3Vd9NOXLse4</loc>
     <lastmod>2026-05-07T00:00:00Z</lastmod>
     <changefreq>daily</changefreq>
@@ -375,6 +487,20 @@
       <video:description>Hyderabad-based Skyroot Aerospace has raised $60 million in fresh funding, becoming India's first spacetech unicorn at a valuation crossing $1 billion. The capital will be used to support commercial launch operations of the Vikram-1 rocket, which is preparing for its inaugural orbital flight from Sriharikota. The milestone signals a maturing private space sector in India backed by policy reform and investor confidence.</video:description>
       <video:content_loc>https://www.youtube.com/watch?v=Y3_5uB8obe0</video:content_loc>
       <video:thumbnail_loc>https://i.ytimg.com/vi/Y3_5uB8obe0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=0O7U_wK2Oe4</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Paytm Bets on Agentic AI and Wealthtech as Core Growth Pillars After RBI Payments Bank Shutdown</video:title>
+      <video:description>In its Q4 FY26 earnings call, Paytm revealed a strategic pivot toward agentic AI and wealthtech services as the primary drivers of its next growth phase, following the RBI-mandated shutdown of its payments bank arm. The company has ruled out applying for an NBFC licence, instead focusing on AI-powered financial tools and investment products for its existing user base. The shift represents a significant repositioning of one of India's largest fintech platforms toward autonomous AI-driven financial services.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=0O7U_wK2Oe4</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/0O7U_wK2Oe4/maxresdefault.jpg</video:thumbnail_loc>
       <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
@@ -417,6 +543,20 @@
       <video:description>India's Securities and Exchange Board of India has issued a formal cybersecurity circular naming Anthropic's Claude Mythos AI system as a specific threat, ordering every regulated financial entity to urgently strengthen its cyber defences. SEBI has also formed a dedicated task force to oversee the overhaul. This is the first time SEBI has named a specific AI capability in a regulatory circular, marking a significant escalation in how Indian financial regulators treat advanced AI as a systemic risk.</video:description>
       <video:content_loc>https://www.youtube.com/watch?v=QFevQwTIReU</video:content_loc>
       <video:thumbnail_loc>https://i.ytimg.com/vi/QFevQwTIReU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=QeUqVVqBlGs</loc>
+    <lastmod>2026-05-07T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Delhi HC Orders Removal of Deepfake Videos Falsely Showing MP Shashi Tharoor Praising Pakistan</video:title>
+      <video:description>The Delhi High Court announced it would issue blocking orders against AI-generated deepfake videos falsely depicting Congress MP Shashi Tharoor praising Pakistan, after he filed a petition over the misuse of his identity. The case marks one of the most prominent Indian legal interventions involving political deepfakes during an active security-sensitive period. The ruling signals growing judicial willingness to act swiftly against AI-generated political disinformation in India.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=QeUqVVqBlGs</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/QeUqVVqBlGs/maxresdefault.jpg</video:thumbnail_loc>
       <video:publication_date>2026-05-07T00:00:00Z</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
@@ -2657,34 +2797,6 @@
       <video:description>Chinese AI firm DeepSeek has released a preview of V4, its new flagship large language model, featuring significantly extended context windows enabled by a new architectural design for handling large amounts of text efficiently. Like its predecessors, V4 is open source and freely available, and it adds expanded support for Huawei's Ascend AI accelerator chips, reducing dependence on Nvidia hardware. MIT Technology Review identified three key reasons the model matters: its performance targets top proprietary models, its inference costs are a fraction of comparable systems, and its open-weights availability could shift global AI development dynamics. The model's preview status means full benchmarks have not yet been independently validated.</video:description>
       <video:content_loc>https://www.youtube.com/watch?v=5SeB9iPAS2M</video:content_loc>
       <video:thumbnail_loc>https://i.ytimg.com/vi/5SeB9iPAS2M/maxresdefault.jpg</video:thumbnail_loc>
-      <video:publication_date>2026-04-26T00:00:00Z</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://www.youtube.com/watch?v=fBCYxAV-seI</loc>
-    <lastmod>2026-04-26T00:00:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:title>Anthropic runs agent-on-agent commerce experiment where AI buys and sells real goods</video:title>
-      <video:description>Anthropic designed a classified-ad marketplace in which AI agents acted as both buyers and sellers, negotiating and completing transactions for real goods with real money. The experiment is among the first documented cases of fully autonomous agent-to-agent commerce at a reputable AI lab. The findings could inform how future AI systems handle procurement, supply chains, and consumer purchasing on behalf of humans. Anthropic has not yet disclosed the full scope of goods exchanged or the total monetary value of transactions.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=fBCYxAV-seI</video:content_loc>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/fBCYxAV-seI/maxresdefault.jpg</video:thumbnail_loc>
-      <video:publication_date>2026-04-26T00:00:00Z</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://www.youtube.com/watch?v=F2JhKfaCOHo</loc>
-    <lastmod>2026-04-26T00:00:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:title>Google commits up to $40B investment in Anthropic for cash and compute capacity</video:title>
-      <video:description>Google has announced plans to invest up to $40 billion in AI safety company Anthropic, combining cash and compute resources in what would be one of the largest AI sector deals on record. The investment follows Anthropic's limited release of Mythos, a powerful model focused on cybersecurity applications. The deal signals that leading tech firms are racing to lock in massive infrastructure advantages as competition in frontier AI intensifies. This level of compute backing could directly shape which AI tools reach consumers and enterprises over the next several years.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=F2JhKfaCOHo</video:content_loc>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/F2JhKfaCOHo/maxresdefault.jpg</video:thumbnail_loc>
       <video:publication_date>2026-04-26T00:00:00Z</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>

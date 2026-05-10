@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=QDjbaqPC9Q4",
+      "embedUrl": "https://www.youtube.com/embed/QDjbaqPC9Q4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/QDjbaqPC9Q4/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Zepto Receives SEBI Approval for $1 Billion IPO, Clearing Path to Public Markets",
+            "articleSection": "Daily Utility",
+            "abstract": "Quick commerce startup Zepto has received SEBI's observations on its draft red herring prospectus, effectively securing regulatory clearance to proceed with its $1 billion initial public offering. SEBI issued the observations between May 4 and 8 as part of a batch covering six companies, marking a significant milestone for one of India's fastest-growing consumer tech startups. The IPO will be among the largest in India's new-age tech sector and reflects growing investor confidence in quick commerce as a durable business model.",
+            "url": "https://yourstory.com/2026/05/zepto-receives-approval-for-its-1-bn-ipo",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Zepto"
+              },
+              {
+                "@type": "Organization",
+                "name": "SEBI"
+              },
+              {
+                "@type": "Thing",
+                "name": "quick commerce platform"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-driven dark store logistics"
+              }
+            ],
+            "keywords": "Zepto, SEBI, quick commerce platform, AI-driven dark store logistics, retail investor access to new-age tech, IPO regulatory compliance, quick commerce scaling",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

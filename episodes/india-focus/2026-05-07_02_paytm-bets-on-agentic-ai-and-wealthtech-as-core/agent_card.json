@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-07",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=0O7U_wK2Oe4",
+  "thumbnail_url": "https://i.ytimg.com/vi/0O7U_wK2Oe4/maxresdefault.jpg",
+  "story": {
+    "title": "Paytm Bets on Agentic AI and Wealthtech as Core Growth Pillars After RBI Payments Bank Shutdown",
+    "pillar": "Daily Utility",
+    "summary": "In its Q4 FY26 earnings call, Paytm revealed a strategic pivot toward agentic AI and wealthtech services as the primary drivers of its next growth phase, following the RBI-mandated shutdown of its payments bank arm. The company has ruled out applying for an NBFC licence, instead focusing on AI-powered financial tools and investment products for its existing user base. The shift represents a significant repositioning of one of India's largest fintech platforms toward autonomous AI-driven financial services.",
+    "source_url": "https://www.medianama.com/2026/05/223-paytm-agentic-ai-wealthtech-growth-q4-fy26/",
+    "source_name": "Medianama",
+    "companies": [
+      "Paytm",
+      "RBI"
+    ],
+    "technologies": [
+      "agentic AI",
+      "wealthtech",
+      "generative AI"
+    ],
+    "use_cases": [
+      "AI-powered financial advisory",
+      "autonomous fintech services",
+      "wealth management for retail users"
+    ]
+  }
+}

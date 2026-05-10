@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-07",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-07T00:00:00Z",
+      "datePublished": "2026-05-07T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Gd5PQz00Cjg",
+      "embedUrl": "https://www.youtube.com/embed/Gd5PQz00Cjg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Gd5PQz00Cjg/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-07",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "IIT Madras Opens First US Centre in Silicon Valley to Bridge Indian Deeptech Research and Global Markets",
+            "articleSection": "Education & Youth",
+            "abstract": "IIT Madras has established its first overseas centre in Silicon Valley, aimed at serving as a launchpad for Indian deeptech startups through research commercialisation and connections with the US tech ecosystem. The centre is intended to help Indian founders and researchers translate laboratory innovations into globally competitive products. This move comes as India accelerates efforts to build a deeptech pipeline that can compete internationally in AI, semiconductors, and advanced engineering.",
+            "url": "https://yourstory.com/2026/05/iit-madras-sets-up-first-us-centre-in-silicon-valley",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "IIT Madras"
+              },
+              {
+                "@type": "Thing",
+                "name": "deeptech research"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI commercialisation"
+              },
+              {
+                "@type": "Thing",
+                "name": "semiconductor research"
+              }
+            ],
+            "keywords": "IIT Madras, deeptech research, AI commercialisation, semiconductor research, startup launchpad for Indian researchers, India-US deeptech collaboration, academic to industry technology transfer",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
