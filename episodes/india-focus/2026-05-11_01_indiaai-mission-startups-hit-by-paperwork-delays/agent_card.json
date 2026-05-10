@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-11",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=1uqFuviVtMM",
+  "thumbnail_url": "https://i.ytimg.com/vi/1uqFuviVtMM/maxresdefault.jpg",
+  "story": {
+    "title": "IndiaAI Mission Startups Hit by Paperwork Delays — Funding and IP Concerns Stall Momentum",
+    "pillar": "Policy & Rights",
+    "summary": "Startups selected under India's IndiaAI Mission are facing delays in formal agreement signings, with pending MoUs holding up non-compute support and raising intellectual property ownership concerns among founders. While compute access has been provisioned, operational hurdles are pushing timelines and dampening the program's early momentum. The government is reportedly exploring advance payment mechanisms to address cash-flow pressures on participating startups.",
+    "source_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/paperwork-causing-ai-mission-lag-as-startups-flag-funding-ip-concerns/articleshow/130981221.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "IndiaAI Mission"
+    ],
+    "technologies": [
+      "AI compute",
+      "GPU access",
+      "MoU frameworks"
+    ],
+    "use_cases": [
+      "AI startup funding",
+      "IP protection for AI developers",
+      "government innovation programs"
+    ]
+  }
+}

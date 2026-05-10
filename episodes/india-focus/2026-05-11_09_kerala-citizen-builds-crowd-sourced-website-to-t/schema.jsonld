@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-11",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-11T00:00:00Z",
+      "datePublished": "2026-05-11T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=jlTNkMZZBKs",
+      "embedUrl": "https://www.youtube.com/embed/jlTNkMZZBKs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jlTNkMZZBKs/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-11",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Kerala Citizen Builds Crowd-Sourced Website to Track Power Cuts Across All 14 Districts in Real Time",
+            "articleSection": "Daily Utility",
+            "abstract": "Alkesh Das, frustrated by frequent and unannounced power cuts, built a crowd-sourced platform that now allows thousands of Kerala residents to report and track electricity outages across all 14 districts of the state in real time. The tool aggregates citizen-submitted data to create a live map of power disruptions, giving households and small businesses advance notice and helping them plan around blackouts. The platform has grown organically with no institutional backing, driven entirely by community participation.",
+            "url": "https://www.thehindu.com/society/this-website-tracks-power-cuts-across-kerala-using-crowd-data/article70941877.ece",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "crowd-sourced data platforms"
+              },
+              {
+                "@type": "Thing",
+                "name": "real-time outage tracking"
+              },
+              {
+                "@type": "Thing",
+                "name": "civic tech"
+              }
+            ],
+            "keywords": "crowd-sourced data platforms, real-time outage tracking, civic tech, power cut tracking for households, community-driven utility transparency, citizen tech for daily resilience",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

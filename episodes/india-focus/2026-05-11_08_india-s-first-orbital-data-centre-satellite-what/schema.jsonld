@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-11",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-11T00:00:00Z",
+      "datePublished": "2026-05-11T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=oGJlHlLX9tM",
+      "embedUrl": "https://www.youtube.com/embed/oGJlHlLX9tM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oGJlHlLX9tM/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-11",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India's First Orbital Data Centre Satellite: What the Pixxel-Sarvam AI Partnership Actually Involves",
+            "articleSection": "Discovery & Research",
+            "abstract": "The Hindu has published an explainer on India's first orbital data centre satellite, a planned mission by Pixxel and Sarvam AI that would place AI compute infrastructure in low-earth orbit, enabling satellite-based AI data processing far from terrestrial energy and cooling constraints. The piece outlines what an orbital data centre is, why global firms are racing to develop the concept, and what the specific Pixxel-Sarvam collaboration entails for India's space and AI ambitions. The mission is scheduled for 2026 and represents a convergence of India's private space sector and its generative AI ecosystem.",
+            "url": "https://www.thehindu.com/sci-tech/science/what-is-indias-first-orbital-data-centre-satellite/article70958948.ece",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Pixxel"
+              },
+              {
+                "@type": "Organization",
+                "name": "Sarvam AI"
+              },
+              {
+                "@type": "Organization",
+                "name": "ISRO"
+              },
+              {
+                "@type": "Thing",
+                "name": "orbital data centres"
+              },
+              {
+                "@type": "Thing",
+                "name": "low-earth orbit AI compute"
+              },
+              {
+                "@type": "Thing",
+                "name": "hyperspectral satellites"
+              }
+            ],
+            "keywords": "Pixxel, Sarvam AI, ISRO, orbital data centres, low-earth orbit AI compute, hyperspectral satellites, space-based AI processing, energy-efficient AI infrastructure, India's private space sector commercialisation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

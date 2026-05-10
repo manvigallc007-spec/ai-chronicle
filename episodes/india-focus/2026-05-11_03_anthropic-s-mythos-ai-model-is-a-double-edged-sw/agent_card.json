@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-11",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=Hw3cWuSy8PU",
+  "thumbnail_url": "https://i.ytimg.com/vi/Hw3cWuSy8PU/maxresdefault.jpg",
+  "story": {
+    "title": "Anthropic's Mythos AI Model Is a Double-Edged Sword — It Finds and Can Exploit Cyber Vulnerabilities",
+    "pillar": "Policy & Rights",
+    "summary": "The Hindu's analysis of Anthropic's Mythos AI model highlights its dual-use nature: it can identify cybersecurity vulnerabilities that human analysts miss, but it can equally generate working exploits — potentially placing advanced cyberattack capabilities in the hands of non-experts. This capability is particularly alarming for India's critical infrastructure sectors, including banking, telecommunications, and government systems, which have historically operated with slower patch cycles. The piece contextualises Mythos within India's ongoing negotiations with Anthropic and CERT-In's preparedness assessments.",
+    "source_url": "https://www.thehindu.com/news/national/mythos-double-edged-sword/article70960067.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "Anthropic",
+      "CERT-In"
+    ],
+    "technologies": [
+      "Mythos AI",
+      "vulnerability detection",
+      "AI-generated exploits"
+    ],
+    "use_cases": [
+      "cybersecurity threat assessment",
+      "critical infrastructure protection",
+      "AI-assisted penetration testing"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-11",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-11T00:00:00Z",
+      "datePublished": "2026-05-11T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=1uqFuviVtMM",
+      "embedUrl": "https://www.youtube.com/embed/1uqFuviVtMM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1uqFuviVtMM/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-11",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "IndiaAI Mission Startups Hit by Paperwork Delays — Funding and IP Concerns Stall Momentum",
+            "articleSection": "Policy & Rights",
+            "abstract": "Startups selected under India's IndiaAI Mission are facing delays in formal agreement signings, with pending MoUs holding up non-compute support and raising intellectual property ownership concerns among founders. While compute access has been provisioned, operational hurdles are pushing timelines and dampening the program's early momentum. The government is reportedly exploring advance payment mechanisms to address cash-flow pressures on participating startups.",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/paperwork-causing-ai-mission-lag-as-startups-flag-funding-ip-concerns/articleshow/130981221.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "IndiaAI Mission"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI compute"
+              },
+              {
+                "@type": "Thing",
+                "name": "GPU access"
+              },
+              {
+                "@type": "Thing",
+                "name": "MoU frameworks"
+              }
+            ],
+            "keywords": "IndiaAI Mission, AI compute, GPU access, MoU frameworks, AI startup funding, IP protection for AI developers, government innovation programs",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

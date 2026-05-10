@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-11",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-11T00:00:00Z",
+      "datePublished": "2026-05-11T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=uSipN0tIgqw",
+      "embedUrl": "https://www.youtube.com/embed/uSipN0tIgqw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/uSipN0tIgqw/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-11",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Kissht Fintech Makes Strong Stock Market Debut With Shares Up 22% After Rs 926 Crore IPO",
+            "articleSection": "Daily Utility",
+            "abstract": "Digital lending platform Kissht made a strong debut on Indian stock markets with its shares rising 22% on listing day, following a Rs 926 crore IPO comprising both a fresh issue of shares and an offer for sale. The listing reflects continued investor confidence in India's digital lending sector despite regulatory scrutiny around consumer credit practices. Kissht primarily targets underserved borrowers seeking small-ticket consumer loans, operating in a segment that remains largely untouched by traditional banks.",
+            "url": "https://yourstory.com/2026/05/kissht-makes-strong-debut-on-stock-markets-shares-up-22",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Kissht"
+              },
+              {
+                "@type": "Thing",
+                "name": "digital lending platform"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-based credit scoring"
+              }
+            ],
+            "keywords": "Kissht, digital lending platform, AI-based credit scoring, consumer lending for underserved borrowers, fintech IPO market signalling, small-ticket credit access",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-11",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-11T00:00:00Z",
+      "datePublished": "2026-05-11T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Vq8pEvpXk2U",
+      "embedUrl": "https://www.youtube.com/embed/Vq8pEvpXk2U",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Vq8pEvpXk2U/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-11",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Meesho Posts Rs 166 Crore Loss in Q4 FY26 Despite 47% Revenue Jump and 264 Million Active Users",
+            "articleSection": "Daily Utility",
+            "abstract": "Meesho reported a 47% year-on-year revenue increase in Q4 FY26, supported by 264 million annual transacting users and a 45% rise in order volumes, even as average order values dipped slightly. Despite strong top-line growth, the company remained loss-making with a Rs 166 crore deficit for the quarter, reflecting continued investment in logistics and platform expansion. Meesho's scale makes it one of the largest e-commerce platforms serving price-sensitive consumers in Tier 2 and Tier 3 Indian cities.",
+            "url": "https://www.medianama.com/2026/05/223-meesho-posts-rs-166-crore-loss-q4-fy26-revenue-jumps-47/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Meesho"
+              },
+              {
+                "@type": "Thing",
+                "name": "e-commerce platform"
+              },
+              {
+                "@type": "Thing",
+                "name": "logistics algorithms"
+              }
+            ],
+            "keywords": "Meesho, e-commerce platform, logistics algorithms, Tier 2 and Tier 3 e-commerce access, social commerce for price-sensitive buyers, small seller digital storefronts",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

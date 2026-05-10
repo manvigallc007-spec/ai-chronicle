@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-11",
+  "rank": 5,
+  "video_url": "https://www.youtube.com/watch?v=gJve5tEEZrI",
+  "thumbnail_url": "https://i.ytimg.com/vi/gJve5tEEZrI/maxresdefault.jpg",
+  "story": {
+    "title": "Swiggy and Magicpin Report Improving Delivery Times as Gig Workers Return to Indian Cities After Elections",
+    "pillar": "Daily Utility",
+    "summary": "Food delivery platforms Swiggy and Magicpin have reported improving delivery times as gig workers return to urban centres following state elections and the peak harvest season, both of which had drawn large numbers of delivery partners back to rural areas. The temporary workforce contraction had stretched delivery windows and reduced platform reliability for urban consumers. Both companies expect full normalisation of delivery operations within days as rider availability recovers.",
+    "source_url": "https://economictimes.indiatimes.com/tech/technology/swiggy-magicpin-say-delivery-times-improving-as-gig-workers-return-to-cities/articleshow/130989559.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Swiggy",
+      "Magicpin"
+    ],
+    "technologies": [
+      "delivery logistics platforms",
+      "rider dispatch algorithms"
+    ],
+    "use_cases": [
+      "last-mile food delivery optimisation",
+      "gig workforce management",
+      "urban delivery time recovery"
+    ]
+  }
+}

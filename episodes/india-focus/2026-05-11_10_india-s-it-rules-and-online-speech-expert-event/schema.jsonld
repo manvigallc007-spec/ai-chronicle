@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-11",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-11T00:00:00Z",
+      "datePublished": "2026-05-11T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=b5c3HBmhB-E",
+      "embedUrl": "https://www.youtube.com/embed/b5c3HBmhB-E",
+      "thumbnailUrl": "https://i.ytimg.com/vi/b5c3HBmhB-E/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-11",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India's IT Rules and Online Speech: Expert Event Report Flags Censorship and Platform Compliance Risks",
+            "articleSection": "Policy & Rights",
+            "abstract": "Medianama has published an event report from its April 2026 roundtable on India's amended IT Rules, where legal experts, civil society representatives, and platform compliance teams raised concerns about the scope of content takedown powers, free speech implications, and the burden placed on intermediaries. The report documents specific provisions in the March 2026 IT Rules amendments that experts argue could enable executive overreach in regulating online speech without adequate judicial oversight. The discussion included perspectives on how platform compliance frameworks may structurally disadvantage smaller Indian publishers and independent journalists.",
+            "url": "https://www.medianama.com/2026/05/223-event-report-it-rules-future-of-online-speech-in-india/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "MeitY"
+              },
+              {
+                "@type": "Thing",
+                "name": "content moderation systems"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-generated content detection"
+              },
+              {
+                "@type": "Thing",
+                "name": "platform compliance infrastructure"
+              }
+            ],
+            "keywords": "MeitY, content moderation systems, AI-generated content detection, platform compliance infrastructure, online speech regulation, intermediary liability frameworks, digital rights protection in India",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

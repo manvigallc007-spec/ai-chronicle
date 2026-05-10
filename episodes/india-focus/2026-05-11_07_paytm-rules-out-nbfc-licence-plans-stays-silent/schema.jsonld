@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-11",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-11T00:00:00Z",
+      "datePublished": "2026-05-11T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Z4xoprLg_X8",
+      "embedUrl": "https://www.youtube.com/embed/Z4xoprLg_X8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Z4xoprLg_X8/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-11",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Paytm Rules Out NBFC Licence Plans, Stays Silent on Wallet Revival as It Pivots to Agentic AI Strategy",
+            "articleSection": "Daily Utility",
+            "abstract": "Paytm has publicly ruled out applying for a Non-Banking Financial Company licence, distancing itself from rivals pushing deeper into lending, while remaining silent on whether it will seek revival of its payments wallet licence following the RBI's crackdown on its payments bank arm. The company's Q4 FY26 earnings call instead indicated a strategic pivot toward agentic AI capabilities and wealthtech services as its primary growth engines. This positions Paytm as an AI-first fintech platform rather than a traditional financial services provider.",
+            "url": "https://www.medianama.com/2026/05/223-paytm-not-applying-for-nbfc-licence-rbi-crackdown/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Paytm"
+              },
+              {
+                "@type": "Organization",
+                "name": "RBI"
+              },
+              {
+                "@type": "Thing",
+                "name": "agentic AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "wealthtech platforms"
+              },
+              {
+                "@type": "Thing",
+                "name": "digital payments"
+              }
+            ],
+            "keywords": "Paytm, RBI, agentic AI, wealthtech platforms, digital payments, AI-driven personal finance management, fintech regulatory compliance strategy, payments platform evolution",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

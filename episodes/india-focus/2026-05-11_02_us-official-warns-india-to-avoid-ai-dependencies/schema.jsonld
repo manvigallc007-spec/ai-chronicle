@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-11",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-11T00:00:00Z",
+      "datePublished": "2026-05-11T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=d7EFb9Wn768",
+      "embedUrl": "https://www.youtube.com/embed/d7EFb9Wn768",
+      "thumbnailUrl": "https://i.ytimg.com/vi/d7EFb9Wn768/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-11",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "US Official Warns India to Avoid AI Dependencies on Adversarial Nations as US-India Tech Partnership Deepens",
+            "articleSection": "Policy & Rights",
+            "abstract": "A senior US official has urged India to avoid building strategic dependencies on adversarial nations in AI development, framing openness and trusted partnerships as essential to unlocking AI's economic potential. The statement signals a deepening US-India alignment on AI supply chain security, with both governments emphasising regional access to world-class technology. The remarks come amid India's rapid GPU capacity expansion and growing scrutiny of Chinese AI hardware and software inputs.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/must-avoid-dependencies-on-adversarial-nations-in-ai-us-official/articleshow/130996121.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "AI infrastructure"
+              },
+              {
+                "@type": "Thing",
+                "name": "GPU supply chains"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI safety frameworks"
+              }
+            ],
+            "keywords": "AI infrastructure, GPU supply chains, AI safety frameworks, AI supply chain security, US-India technology diplomacy, critical infrastructure protection",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

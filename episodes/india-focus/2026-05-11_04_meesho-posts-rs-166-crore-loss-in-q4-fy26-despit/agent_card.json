@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-11",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=Vq8pEvpXk2U",
+  "thumbnail_url": "https://i.ytimg.com/vi/Vq8pEvpXk2U/maxresdefault.jpg",
+  "story": {
+    "title": "Meesho Posts Rs 166 Crore Loss in Q4 FY26 Despite 47% Revenue Jump and 264 Million Active Users",
+    "pillar": "Daily Utility",
+    "summary": "Meesho reported a 47% year-on-year revenue increase in Q4 FY26, supported by 264 million annual transacting users and a 45% rise in order volumes, even as average order values dipped slightly. Despite strong top-line growth, the company remained loss-making with a Rs 166 crore deficit for the quarter, reflecting continued investment in logistics and platform expansion. Meesho's scale makes it one of the largest e-commerce platforms serving price-sensitive consumers in Tier 2 and Tier 3 Indian cities.",
+    "source_url": "https://www.medianama.com/2026/05/223-meesho-posts-rs-166-crore-loss-q4-fy26-revenue-jumps-47/",
+    "source_name": "Medianama",
+    "companies": [
+      "Meesho"
+    ],
+    "technologies": [
+      "e-commerce platform",
+      "logistics algorithms"
+    ],
+    "use_cases": [
+      "Tier 2 and Tier 3 e-commerce access",
+      "social commerce for price-sensitive buyers",
+      "small seller digital storefronts"
+    ]
+  }
+}

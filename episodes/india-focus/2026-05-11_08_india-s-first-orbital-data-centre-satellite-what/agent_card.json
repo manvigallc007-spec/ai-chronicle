@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-11",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=oGJlHlLX9tM",
+  "thumbnail_url": "https://i.ytimg.com/vi/oGJlHlLX9tM/maxresdefault.jpg",
+  "story": {
+    "title": "India's First Orbital Data Centre Satellite: What the Pixxel-Sarvam AI Partnership Actually Involves",
+    "pillar": "Discovery & Research",
+    "summary": "The Hindu has published an explainer on India's first orbital data centre satellite, a planned mission by Pixxel and Sarvam AI that would place AI compute infrastructure in low-earth orbit, enabling satellite-based AI data processing far from terrestrial energy and cooling constraints. The piece outlines what an orbital data centre is, why global firms are racing to develop the concept, and what the specific Pixxel-Sarvam collaboration entails for India's space and AI ambitions. The mission is scheduled for 2026 and represents a convergence of India's private space sector and its generative AI ecosystem.",
+    "source_url": "https://www.thehindu.com/sci-tech/science/what-is-indias-first-orbital-data-centre-satellite/article70958948.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "Pixxel",
+      "Sarvam AI",
+      "ISRO"
+    ],
+    "technologies": [
+      "orbital data centres",
+      "low-earth orbit AI compute",
+      "hyperspectral satellites"
+    ],
+    "use_cases": [
+      "space-based AI processing",
+      "energy-efficient AI infrastructure",
+      "India's private space sector commercialisation"
+    ]
+  }
+}
