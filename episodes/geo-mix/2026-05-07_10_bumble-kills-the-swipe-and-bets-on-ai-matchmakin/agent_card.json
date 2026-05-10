@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=ItXMkPjGJPQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/ItXMkPjGJPQ/maxresdefault.jpg",
+  "story": {
+    "title": "Bumble kills the swipe and bets on AI matchmaking assistant 'Bee' to reinvent online dating",
+    "pillar": "Daily Utility",
+    "summary": "Bumble CEO Whitney Wolfe Herd announced the dating app is eliminating its signature swipe mechanic and pivoting toward AI-driven matchmaking, including a new AI dating assistant called Bee. The company is positioning AI as a 'supercharger to love and relationships', signalling a fundamental redesign of how hundreds of millions of users interact with the platform. The move marks one of the most high-profile consumer AI pivots in the social app space, with implications for how AI agents may mediate personal relationships at scale.",
+    "source_url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Bumble"
+    ],
+    "technologies": [
+      "AI matchmaking",
+      "conversational AI",
+      "recommendation systems"
+    ],
+    "use_cases": [
+      "AI-assisted dating",
+      "relationship app redesign",
+      "consumer AI agents"
+    ]
+  }
+}

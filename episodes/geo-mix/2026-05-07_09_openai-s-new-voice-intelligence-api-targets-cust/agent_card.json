@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 9,
+  "video_url": "https://www.youtube.com/watch?v=oPI4ZCviShg",
+  "thumbnail_url": "https://i.ytimg.com/vi/oPI4ZCviShg/maxresdefault.jpg",
+  "story": {
+    "title": "OpenAI's new voice intelligence API targets customer service, education, and creator platforms",
+    "pillar": "Daily Utility",
+    "summary": "OpenAI has released new voice intelligence features for its API, enabling developers to build applications with advanced spoken-language understanding and generation capabilities across customer service, educational tools, and content creation platforms. The update lowers the barrier for businesses to deploy voice-first AI interfaces without building their own speech models. OpenAI says the features are designed for real-time, conversational use cases that go beyond simple transcription.",
+    "source_url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "OpenAI"
+    ],
+    "technologies": [
+      "voice AI",
+      "speech recognition",
+      "text-to-speech",
+      "API"
+    ],
+    "use_cases": [
+      "customer service automation",
+      "AI-powered education tools",
+      "creator platform voice features"
+    ]
+  }
+}

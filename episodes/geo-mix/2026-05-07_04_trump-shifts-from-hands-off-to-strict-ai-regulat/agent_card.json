@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=mI5wtLe_nRY",
+  "thumbnail_url": "https://i.ytimg.com/vi/mI5wtLe_nRY/maxresdefault.jpg",
+  "story": {
+    "title": "Trump shifts from hands-off to strict AI regulation, leaving industry and observers baffled",
+    "pillar": "Policy & Rights",
+    "summary": "The Trump administration has abruptly reversed its previously permissive AI policy stance, signalling a move toward stricter federal regulation of artificial intelligence in what analysts are calling an unexpected and unexplained pivot. The shift follows months in which the administration had positioned itself as opposed to regulatory burdens on the AI industry, making the reversal difficult to interpret for companies that had calibrated compliance strategies accordingly. The Register notes the change appears sudden and lacks detailed policy documentation to explain the rationale.",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/05/08/trump-jumps-from-anything-goes-to-strict-regulation-ai-policy/5234687",
+    "source_name": "The Register",
+    "companies": [],
+    "technologies": [
+      "AI regulation",
+      "federal AI policy"
+    ],
+    "use_cases": [
+      "government AI oversight",
+      "enterprise AI compliance"
+    ]
+  }
+}

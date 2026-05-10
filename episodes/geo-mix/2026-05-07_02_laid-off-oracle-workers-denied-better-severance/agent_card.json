@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=94lOccfhYWg",
+  "thumbnail_url": "https://i.ytimg.com/vi/94lOccfhYWg/maxresdefault.jpg",
+  "story": {
+    "title": "Laid-off Oracle workers denied better severance as remote classification strips WARN Act rights",
+    "pillar": "Job Evolution",
+    "summary": "Laid-off Oracle employees who attempted to negotiate improved severance packages were rebuffed by the company, which also classified many of them as remote workers — a designation that can disqualify them from WARN Act protections requiring 60 days' advance notice of mass layoffs. The situation highlights a legal grey area that tech companies may increasingly exploit as AI-driven restructuring accelerates. Workers' advocates say the remote-classification tactic effectively strips a meaningful safety net from employees at one of the world's largest enterprise software firms.",
+    "source_url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Oracle"
+    ],
+    "technologies": [
+      "enterprise software",
+      "remote work classification systems"
+    ],
+    "use_cases": [
+      "workforce restructuring",
+      "severance negotiation",
+      "WARN Act compliance"
+    ]
+  }
+}

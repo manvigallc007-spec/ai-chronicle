@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=T27VXcxN4OY",
+  "thumbnail_url": "https://i.ytimg.com/vi/T27VXcxN4OY/maxresdefault.jpg",
+  "story": {
+    "title": "China's women-led hackathon series turns overlooked problems — menopause to workplace bias — into tech products",
+    "pillar": "Education & Youth",
+    "summary": "A series of women-led hackathon events across China is giving female participants hands-on coding experience and a platform to build products addressing problems frequently ignored by mainstream tech, including menopause management tools and apps tackling workplace sexism. The events are expanding access to technology careers for women who have historically been underrepresented in China's tech industry. Sixth Tone reports that participants are not only learning skills but shipping early-stage products that reflect lived experiences absent from most commercial AI and app development pipelines.",
+    "source_url": "https://www.sixthtone.com/news/1018498/In China, a Women's Hackathon Series Opens the Door to Tech",
+    "source_name": "Sixth Tone",
+    "companies": [],
+    "technologies": [
+      "app development",
+      "hackathon platforms",
+      "coding education"
+    ],
+    "use_cases": [
+      "women in tech education",
+      "product development for underserved needs",
+      "gender diversity in coding"
+    ]
+  }
+}

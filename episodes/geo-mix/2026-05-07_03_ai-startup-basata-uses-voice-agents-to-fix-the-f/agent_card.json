@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=UDRC53JFrZE",
+  "thumbnail_url": "https://i.ytimg.com/vi/UDRC53JFrZE/maxresdefault.jpg",
+  "story": {
+    "title": "AI startup Basata uses voice agents to fix the fax-machine bottleneck choking US healthcare referrals",
+    "pillar": "Daily Utility",
+    "summary": "US healthcare startup Basata is deploying AI voice agents to automate the administrative back-office work — including fax-based referral processing — that causes specialist appointment delays for millions of patients. The founders report that administrative staff at partner clinics are currently more worried about drowning in paperwork than about being displaced by AI. The company will eventually face harder questions about augmentation versus displacement, but near-term the focus is on relieving overworked teams rather than replacing them.",
+    "source_url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Basata"
+    ],
+    "technologies": [
+      "AI voice agents",
+      "healthcare automation",
+      "fax integration"
+    ],
+    "use_cases": [
+      "specialist referral processing",
+      "healthcare back-office automation",
+      "administrative workload reduction"
+    ]
+  }
+}

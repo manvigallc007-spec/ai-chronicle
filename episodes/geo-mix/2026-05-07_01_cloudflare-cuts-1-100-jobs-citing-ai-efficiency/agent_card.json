@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-07",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=Xj1IqDUGHi8",
+  "thumbnail_url": "https://i.ytimg.com/vi/Xj1IqDUGHi8/maxresdefault.jpg",
+  "story": {
+    "title": "Cloudflare cuts 1,100 jobs citing AI efficiency gains even as revenue hits record high",
+    "pillar": "Job Evolution",
+    "summary": "Cloudflare announced its first large-scale layoff, eliminating approximately 1,100 positions predominantly in support roles, with CEO Matthew Prince attributing the cuts directly to AI-driven efficiency improvements. The company simultaneously reported record-high revenue, making it one of the clearest corporate admissions yet that AI is displacing workers even in financially healthy firms. The announcement underscores a growing pattern where AI productivity gains decouple job retention from business growth.",
+    "source_url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Cloudflare"
+    ],
+    "technologies": [
+      "AI automation",
+      "support automation"
+    ],
+    "use_cases": [
+      "customer support automation",
+      "workforce reduction via AI efficiency"
+    ]
+  }
+}
