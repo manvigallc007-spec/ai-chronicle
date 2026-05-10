@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-11",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=2zBuWj7LAY8",
+  "thumbnail_url": "https://i.ytimg.com/vi/2zBuWj7LAY8/maxresdefault.jpg",
+  "story": {
+    "title": "Nvidia has already committed $40B to equity AI deals in 2026, cementing its role as AI kingmaker",
+    "pillar": "Discovery & Research",
+    "summary": "Nvidia has invested $40 billion in equity deals across the AI ecosystem in the first months of 2026, signalling that the chipmaker is rapidly evolving from hardware supplier into a strategic power broker across the industry. The investments span AI infrastructure, frontier model labs, and application-layer startups. Analysts note that Nvidia's capital deployment pace has accelerated sharply compared to prior years.",
+    "source_url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Nvidia"
+    ],
+    "technologies": [
+      "AI chips",
+      "GPU infrastructure",
+      "equity investment"
+    ],
+    "use_cases": [
+      "AI infrastructure funding",
+      "AI ecosystem expansion",
+      "strategic venture investment"
+    ]
+  }
+}

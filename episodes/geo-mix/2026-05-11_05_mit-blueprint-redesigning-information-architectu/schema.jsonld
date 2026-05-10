@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-11",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-11T00:00:00Z",
+      "datePublished": "2026-05-11T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=po9nh57w50k",
+      "embedUrl": "https://www.youtube.com/embed/po9nh57w50k",
+      "thumbnailUrl": "https://i.ytimg.com/vi/po9nh57w50k/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-11",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "MIT blueprint: redesigning information architecture could let AI strengthen democracy",
+            "articleSection": "Education & Youth",
+            "abstract": "A new MIT-affiliated research blueprint argues that AI could reinforce democratic participation if information systems are deliberately redesigned rather than left to market forces. The authors draw historical parallels to the printing press and telegraph, which reshaped governance in their eras, and call for policy intervention to guide AI's role in civic life. The paper proposes specific architectural changes to platforms and public information infrastructure to prioritise verified, deliberative discourse.",
+            "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "MIT"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI governance"
+              },
+              {
+                "@type": "Thing",
+                "name": "information architecture"
+              },
+              {
+                "@type": "Thing",
+                "name": "deliberative AI"
+              }
+            ],
+            "keywords": "MIT, AI governance, information architecture, deliberative AI, democratic participation, civic information systems, public policy design",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

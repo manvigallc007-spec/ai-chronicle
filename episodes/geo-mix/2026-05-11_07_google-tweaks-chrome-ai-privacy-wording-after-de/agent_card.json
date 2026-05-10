@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-11",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=73uGPSEE7Xo",
+  "thumbnail_url": "https://i.ytimg.com/vi/73uGPSEE7Xo/maxresdefault.jpg",
+  "story": {
+    "title": "Google tweaks Chrome AI privacy wording after deletion of on-device processing assurance sparks concern",
+    "pillar": "Policy & Rights",
+    "summary": "Google quietly removed a longstanding privacy assurance from Chrome's AI documentation stating that AI processing stays on-device, triggering concern among privacy researchers and EU regulators. After the change was surfaced publicly, Google updated its wording again and stated processing remains local, but declined to explain why the original assurance was deleted. The incident raises questions about transparency obligations under the EU AI Act and GDPR.",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/05/09/google-tweaks-chrome-ai-privacy-wording-insists-processing-stays-on-device/",
+    "source_name": "The Register",
+    "companies": [
+      "Google"
+    ],
+    "technologies": [
+      "Chrome AI",
+      "on-device AI processing",
+      "privacy-preserving AI"
+    ],
+    "use_cases": [
+      "browser AI privacy",
+      "regulatory compliance",
+      "AI documentation transparency"
+    ]
+  }
+}

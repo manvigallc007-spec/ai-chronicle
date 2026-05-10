@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-11",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=kxgpzbOaZtk",
+  "thumbnail_url": "https://i.ytimg.com/vi/kxgpzbOaZtk/maxresdefault.jpg",
+  "story": {
+    "title": "Musk v. Altman week 2: OpenAI fires back as Shivon Zilis reveals Musk tried to poach Sam Altman",
+    "pillar": "Policy & Rights",
+    "summary": "In the second week of the high-profile Musk v. Altman trial, OpenAI mounted a counterattack challenging Elon Musk's claimed motivations for suing the company. Key testimony came from Shivon Zilis, who revealed that Musk had himself attempted to recruit Sam Altman away from OpenAI, undermining Musk's narrative that he was deceived. The trial centres on whether OpenAI's shift to a for-profit structure violated its founding charitable mission.",
+    "source_url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+    "source_name": "MIT Technology Review",
+    "companies": [
+      "OpenAI",
+      "xAI"
+    ],
+    "technologies": [
+      "AI governance",
+      "large language models"
+    ],
+    "use_cases": [
+      "AI corporate accountability",
+      "AI nonprofit-to-profit conversion litigation"
+    ]
+  }
+}

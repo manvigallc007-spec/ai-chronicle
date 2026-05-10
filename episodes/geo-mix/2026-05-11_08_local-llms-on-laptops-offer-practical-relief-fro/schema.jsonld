@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-11",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-11T00:00:00Z",
+      "datePublished": "2026-05-11T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=0jDIeLPD-is",
+      "embedUrl": "https://www.youtube.com/embed/0jDIeLPD-is",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0jDIeLPD-is/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-11",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Local LLMs on laptops offer practical relief from AI compute strain as cloud costs spiral",
+            "articleSection": "Daily Utility",
+            "abstract": "A Register analysis argues that locally run large language models, including Claude Code running on consumer laptops, are now capable enough to handle a meaningful share of enterprise AI workloads without relying on cloud compute. The piece benchmarks several local models against cloud counterparts on coding and summarisation tasks, finding performance gaps have narrowed significantly in 2026. The analysis positions local LLMs as a practical cost-reduction strategy for organisations facing rising API bills.",
+            "url": "https://www.theregister.com/ai-and-ml/2026/05/11/yes-local-llms-are-ready-to-ease-the-compute-strain/5237451",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Anthropic"
+              },
+              {
+                "@type": "Thing",
+                "name": "local LLMs"
+              },
+              {
+                "@type": "Thing",
+                "name": "Claude Code"
+              },
+              {
+                "@type": "Thing",
+                "name": "on-device inference"
+              }
+            ],
+            "keywords": "Anthropic, local LLMs, Claude Code, on-device inference, enterprise cost reduction, offline AI coding assistance, AI compute optimisation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

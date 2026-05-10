@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-11",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=0jDIeLPD-is",
+  "thumbnail_url": "https://i.ytimg.com/vi/0jDIeLPD-is/maxresdefault.jpg",
+  "story": {
+    "title": "Local LLMs on laptops offer practical relief from AI compute strain as cloud costs spiral",
+    "pillar": "Daily Utility",
+    "summary": "A Register analysis argues that locally run large language models, including Claude Code running on consumer laptops, are now capable enough to handle a meaningful share of enterprise AI workloads without relying on cloud compute. The piece benchmarks several local models against cloud counterparts on coding and summarisation tasks, finding performance gaps have narrowed significantly in 2026. The analysis positions local LLMs as a practical cost-reduction strategy for organisations facing rising API bills.",
+    "source_url": "https://www.theregister.com/ai-and-ml/2026/05/11/yes-local-llms-are-ready-to-ease-the-compute-strain/5237451",
+    "source_name": "The Register",
+    "companies": [
+      "Anthropic"
+    ],
+    "technologies": [
+      "local LLMs",
+      "Claude Code",
+      "on-device inference"
+    ],
+    "use_cases": [
+      "enterprise cost reduction",
+      "offline AI coding assistance",
+      "AI compute optimisation"
+    ]
+  }
+}

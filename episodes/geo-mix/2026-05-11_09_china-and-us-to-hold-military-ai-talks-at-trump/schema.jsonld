@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-11",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-11T00:00:00Z",
+      "datePublished": "2026-05-11T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=4VjwZoeu8Og",
+      "embedUrl": "https://www.youtube.com/embed/4VjwZoeu8Og",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4VjwZoeu8Og/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-11",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "China and US to hold military AI talks at Trump-Xi summit amid calls for safe-use framework",
+            "articleSection": "Policy & Rights",
+            "abstract": "As US President Donald Trump prepares for a landmark state visit to Beijing on May 14–15, analysts and officials from both sides are pushing for military AI governance to be placed on the summit agenda. The US and China face growing international pressure to establish guardrails on autonomous weapons systems and AI-assisted targeting, particularly as the US-Iran conflict has demonstrated AI's expanding role in live combat environments. Formal bilateral talks on military AI would be the first of their kind between the two powers.",
+            "url": "https://www.scmp.com/news/china/military/article/3353035/could-military-ai-use-be-agenda-when-chinese-and-us-leaders-meet?utm_source=rss_feed",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "military AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "autonomous weapons"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI governance frameworks"
+              }
+            ],
+            "keywords": "military AI, autonomous weapons, AI governance frameworks, AI in defence policy, bilateral AI diplomacy, military AI risk reduction",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

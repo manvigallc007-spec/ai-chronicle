@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-11",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=bJiOf_PGwik",
+  "thumbnail_url": "https://i.ytimg.com/vi/bJiOf_PGwik/maxresdefault.jpg",
+  "story": {
+    "title": "The whisper-filled office: how voice-to-AI workflows are redesigning the physical workplace",
+    "pillar": "Job Evolution",
+    "summary": "A TechCrunch feature explores how the growing habit of speaking to AI assistants throughout the workday is reshaping office norms, acoustics, and etiquette. As workers increasingly dictate to AI coding tools, summarisation agents, and scheduling assistants, open-plan offices are adapting with acoustic booths, ambient sound management, and new social conventions around voice use. Workplace designers and HR professionals quoted in the piece say employers are only beginning to reckon with the physical and cultural implications.",
+    "source_url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+    "source_name": "TechCrunch AI",
+    "companies": [],
+    "technologies": [
+      "voice AI",
+      "AI assistants",
+      "ambient computing"
+    ],
+    "use_cases": [
+      "workplace AI adoption",
+      "office design for AI",
+      "voice-first productivity tools"
+    ]
+  }
+}

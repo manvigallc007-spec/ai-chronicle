@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-11",
+  "rank": 9,
+  "video_url": "https://www.youtube.com/watch?v=4VjwZoeu8Og",
+  "thumbnail_url": "https://i.ytimg.com/vi/4VjwZoeu8Og/maxresdefault.jpg",
+  "story": {
+    "title": "China and US to hold military AI talks at Trump-Xi summit amid calls for safe-use framework",
+    "pillar": "Policy & Rights",
+    "summary": "As US President Donald Trump prepares for a landmark state visit to Beijing on May 14–15, analysts and officials from both sides are pushing for military AI governance to be placed on the summit agenda. The US and China face growing international pressure to establish guardrails on autonomous weapons systems and AI-assisted targeting, particularly as the US-Iran conflict has demonstrated AI's expanding role in live combat environments. Formal bilateral talks on military AI would be the first of their kind between the two powers.",
+    "source_url": "https://www.scmp.com/news/china/military/article/3353035/could-military-ai-use-be-agenda-when-chinese-and-us-leaders-meet?utm_source=rss_feed",
+    "source_name": "SCMP Tech",
+    "companies": [],
+    "technologies": [
+      "military AI",
+      "autonomous weapons",
+      "AI governance frameworks"
+    ],
+    "use_cases": [
+      "AI in defence policy",
+      "bilateral AI diplomacy",
+      "military AI risk reduction"
+    ]
+  }
+}
