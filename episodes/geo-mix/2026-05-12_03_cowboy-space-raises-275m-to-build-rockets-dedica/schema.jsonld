@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=t9E6orXepC8",
+      "embedUrl": "https://www.youtube.com/embed/t9E6orXepC8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/t9E6orXepC8/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Cowboy Space raises $275M to build rockets dedicated to putting AI data centres in orbit",
+            "articleSection": "Discovery & Research",
+            "abstract": "Startup Cowboy Space has raised $275 million to develop launch vehicles specifically designed to place AI data centres in low Earth orbit, addressing a bottleneck created by the AI compute boom. The company argues that existing rockets are too scarce and too expensive to support the scale of orbital infrastructure that AI demand will eventually require. The raise signals investor conviction that AI's appetite for compute will eventually outgrow terrestrial data centre capacity.",
+            "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Cowboy Space"
+              },
+              {
+                "@type": "Thing",
+                "name": "orbital data centres"
+              },
+              {
+                "@type": "Thing",
+                "name": "launch vehicles"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI compute infrastructure"
+              }
+            ],
+            "keywords": "Cowboy Space, orbital data centres, launch vehicles, AI compute infrastructure, space-based AI compute, AI infrastructure scaling, rocket manufacturing",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

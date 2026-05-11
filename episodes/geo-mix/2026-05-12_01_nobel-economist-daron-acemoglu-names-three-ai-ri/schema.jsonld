@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=VwHBjgRnm2M",
+      "embedUrl": "https://www.youtube.com/embed/VwHBjgRnm2M",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VwHBjgRnm2M/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Nobel economist Daron Acemoglu names three AI risks Wall Street is ignoring",
+            "articleSection": "Policy & Rights",
+            "abstract": "Nobel Prize-winning economist Daron Acemoglu, whose 2024 paper challenged Big Tech's AI optimism, has outlined three areas of AI development he believes pose serious overlooked risks for workers and economies. Acemoglu has consistently argued that AI's productivity gains are overstated and that automation poses structural threats to labour markets that markets alone will not correct. His warnings carry unusual weight given his Nobel credentials and track record of questioning Silicon Valley consensus.",
+            "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI automation"
+              }
+            ],
+            "keywords": "large language models, AI automation, labour market analysis, AI policy forecasting",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

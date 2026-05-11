@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-12",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=sCOKv54TJLc",
+  "thumbnail_url": "https://i.ytimg.com/vi/sCOKv54TJLc/maxresdefault.jpg",
+  "story": {
+    "title": "Security researchers find fake Claude Code installers stealing developer credentials via cookie theft",
+    "pillar": "Policy & Rights",
+    "summary": "Attackers have been distributing fraudulent installers impersonating Anthropic's Claude Code developer tool to steal session cookies and developer credentials from software engineers. The malicious packages exploited a Windows COM interface to elevate privileges and exfiltrate authentication tokens, giving attackers persistent access to victims' development environments and potentially their employers' codebases. Security researchers warn the campaign targets developers specifically because their compromised accounts can provide access to source code, cloud infrastructure, and CI/CD pipelines.",
+    "source_url": "https://www.theregister.com/security/2026/05/11/cookie-thieves-caught-stealing-dev-secrets/5238248",
+    "source_name": "The Register",
+    "companies": [
+      "Anthropic"
+    ],
+    "technologies": [
+      "Claude Code",
+      "session cookie theft",
+      "COM interface exploitation",
+      "malicious installers"
+    ],
+    "use_cases": [
+      "developer credential theft",
+      "supply chain attacks",
+      "CI/CD pipeline compromise"
+    ]
+  }
+}

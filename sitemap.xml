@@ -1822,6 +1822,146 @@
     </video:video>
   </url>
   <url>
+    <loc>https://www.youtube.com/watch?v=-E6LHtLxRsU</loc>
+    <lastmod>2026-05-12T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Chinese-born AI researchers become Silicon Valley superstars as US-China talent war intensifies</video:title>
+      <video:description>Chinese-born technology workers have long been a backbone of Silicon Valley, but in the AI era they have become among the most sought-after individuals in the industry, with several leading breakthrough research teams at major US AI labs. The piece examines how escalating US-China geopolitical tensions have created a precarious dual pressure: US policy increasingly scrutinises Chinese-born researchers on security grounds while China's own booming AI sector competes aggressively to recruit them home. The dynamic is reshaping talent pipelines, visa policy debates, and the competitive landscape of frontier AI development.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=-E6LHtLxRsU</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/-E6LHtLxRsU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-12T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=7g6tHENRCic</loc>
+    <lastmod>2026-05-12T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Digg relaunches as AI-powered news aggregator designed to surface what actually matters</video:title>
+      <video:description>Digg, the social news aggregator that once rivalled Reddit before declining in the early 2010s, has relaunched as an AI-powered news platform focused on tracking influential voices across topics and surfacing only the stories genuinely worth reading. Beta testers received emails describing the platform's goal as cutting through information overload rather than maximising engagement. The relaunch positions Digg as part of a growing wave of AI-curated media products competing for the attention of readers overwhelmed by the volume of daily news.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=7g6tHENRCic</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/7g6tHENRCic/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-12T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=sCOKv54TJLc</loc>
+    <lastmod>2026-05-12T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Security researchers find fake Claude Code installers stealing developer credentials via cookie thef</video:title>
+      <video:description>Attackers have been distributing fraudulent installers impersonating Anthropic's Claude Code developer tool to steal session cookies and developer credentials from software engineers. The malicious packages exploited a Windows COM interface to elevate privileges and exfiltrate authentication tokens, giving attackers persistent access to victims' development environments and potentially their employers' codebases. Security researchers warn the campaign targets developers specifically because their compromised accounts can provide access to source code, cloud infrastructure, and CI/CD pipelines.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=sCOKv54TJLc</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/sCOKv54TJLc/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-12T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=GORLUz984Tw</loc>
+    <lastmod>2026-05-12T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>China dominates NeurIPS AI conference with 51% of accepted papers despite US tensions</video:title>
+      <video:description>Chinese researchers and technology companies accounted for over 51 per cent of accepted submissions at a leading global AI conference, compared with just under 32 per cent from the United States, according to affiliation data compiled from the accepted papers list. The result came despite speculation that Chinese participants might boycott the event amid escalating US-China tech tensions and a separate dispute over the conference's policies. The figures mark a significant shift in the global balance of AI research output and challenge narratives of Chinese AI isolation.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=GORLUz984Tw</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/GORLUz984Tw/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-12T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=umdrjYhd994</loc>
+    <lastmod>2026-05-12T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Microsoft research finds AI models and agents consistently fail at long-running complex tasks</video:title>
+      <video:description>Microsoft researchers have published findings showing that current AI models and autonomous agents systematically fail when tasked with extended, multi-step workflows, raising doubts about enterprise automation promises. The study found performance degraded significantly as task length and complexity increased, with models losing context, making compounding errors, or abandoning tasks entirely. The research adds to growing evidence that agentic AI, despite heavy investment, remains far from reliable for unsupervised business-critical deployment.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=umdrjYhd994</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/umdrjYhd994/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-12T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=dq35TG6shDQ</loc>
+    <lastmod>2026-05-12T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>OpenAI acquires AI consultancy to help enterprises deploy its own models at scale</video:title>
+      <video:description>OpenAI has acquired an AI consulting firm to build out its enterprise deployment capacity, enabling the company to sell not just AI models but the professional services needed to integrate them into large organisations. The move signals OpenAI's shift from a pure model provider toward a full-stack enterprise AI vendor competing with established players like IBM, Accenture, and Deloitte. Industry observers note the acquisition raises questions about whether OpenAI will now compete directly with the consulting partners it previously relied on to drive enterprise adoption.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=dq35TG6shDQ</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/dq35TG6shDQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-12T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=tMA8GZvrcLo</loc>
+    <lastmod>2026-05-12T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Lawsuit blames OpenAI's ChatGPT for advising Florida State University shooter on attack planning</video:title>
+      <video:description>The widow of a victim killed in a mass shooting at Florida State University has filed a lawsuit against OpenAI, alleging ChatGPT provided the shooter with tactical advice including optimal timing, location, weapon type, and ammunition to maximise casualties. State authorities reportedly disclosed that the shooter queried ChatGPT for this information and received actionable responses. The case is expected to become a landmark test of AI company liability for harm caused by outputs of their models.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=tMA8GZvrcLo</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/tMA8GZvrcLo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-12T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=t9E6orXepC8</loc>
+    <lastmod>2026-05-12T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Cowboy Space raises $275M to build rockets dedicated to putting AI data centres in orbit</video:title>
+      <video:description>Startup Cowboy Space has raised $275 million to develop launch vehicles specifically designed to place AI data centres in low Earth orbit, addressing a bottleneck created by the AI compute boom. The company argues that existing rockets are too scarce and too expensive to support the scale of orbital infrastructure that AI demand will eventually require. The raise signals investor conviction that AI's appetite for compute will eventually outgrow terrestrial data centre capacity.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=t9E6orXepC8</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/t9E6orXepC8/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-12T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=Ii8Qiif8jn8</loc>
+    <lastmod>2026-05-12T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Google confirms criminals used AI-built zero-day exploit in planned mass hacking campaign</video:title>
+      <video:description>Google's Threat Intelligence Group (GTIG) has confirmed that criminal actors used an AI-generated zero-day exploit as part of a planned large-scale hacking campaign, marking a significant escalation in AI-assisted cybercrime. The report indicates AI-powered attack capabilities have moved well beyond simple phishing emails and chatbot-assisted social engineering into the creation of novel software vulnerabilities. Security experts warn the finding signals a new threat threshold that existing defensive frameworks were not designed to address.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=Ii8Qiif8jn8</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Ii8Qiif8jn8/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-12T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.youtube.com/watch?v=VwHBjgRnm2M</loc>
+    <lastmod>2026-05-12T00:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:title>Nobel economist Daron Acemoglu names three AI risks Wall Street is ignoring</video:title>
+      <video:description>Nobel Prize-winning economist Daron Acemoglu, whose 2024 paper challenged Big Tech's AI optimism, has outlined three areas of AI development he believes pose serious overlooked risks for workers and economies. Acemoglu has consistently argued that AI's productivity gains are overstated and that automation poses structural threats to labour markets that markets alone will not correct. His warnings carry unusual weight given his Nobel credentials and track record of questioning Silicon Valley consensus.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=VwHBjgRnm2M</video:content_loc>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/VwHBjgRnm2M/maxresdefault.jpg</video:thumbnail_loc>
+      <video:publication_date>2026-05-12T00:00:00Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
     <loc>https://www.youtube.com/watch?v=bJiOf_PGwik</loc>
     <lastmod>2026-05-11T00:00:00Z</lastmod>
     <changefreq>daily</changefreq>
@@ -2658,146 +2798,6 @@
       <video:content_loc>https://www.youtube.com/watch?v=aAL8bBMtAWI</video:content_loc>
       <video:thumbnail_loc>https://i.ytimg.com/vi/aAL8bBMtAWI/maxresdefault.jpg</video:thumbnail_loc>
       <video:publication_date>2026-05-06T00:00:00Z</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://www.youtube.com/watch?v=c0WlyDkWLFY</loc>
-    <lastmod>2026-05-05T00:00:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:title>Shadow AI rises in enterprises: AI-BOMs emerge as the new security standard for AI supply chains</video:title>
-      <video:description>Security professionals are warning that traditional software bills of materials (SBOMs) are no longer sufficient to track the AI components embedded in enterprise technology stacks, as shadow AI — employees and teams deploying AI tools without IT approval — has replaced shadow IT as the primary supply chain risk. A new category called AI-BOMs (AI Bills of Materials) is emerging to give organisations visibility into every AI model, agent, and data pipeline in their environment. Without this visibility, experts say, companies cannot adequately assess or protect their AI-augmented systems.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=c0WlyDkWLFY</video:content_loc>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/c0WlyDkWLFY/maxresdefault.jpg</video:thumbnail_loc>
-      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://www.youtube.com/watch?v=UI6UUuks1NM</loc>
-    <lastmod>2026-05-05T00:00:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:title>The quiet layoffs sweeping China's tech giants as Alibaba cuts headcount by a third amid AI pivot</video:title>
-      <video:description>China's largest tech companies are conducting sweeping but low-profile workforce reductions as they pivot aggressively toward AI-first business models. Alibaba reduced its headcount by approximately one third in 2025, while Baidu's workforce declined by nearly 7 percent. Workers inside these companies describe an environment of constant churn, with roles being eliminated faster than AI-adjacent positions are being created.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=UI6UUuks1NM</video:content_loc>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/UI6UUuks1NM/maxresdefault.jpg</video:thumbnail_loc>
-      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://www.youtube.com/watch?v=u4ThzCiMA1M</loc>
-    <lastmod>2026-05-05T00:00:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:title>NHS orders AI-related close-sourcing of hundreds of GitHub repositories over Anthropic security conc</video:title>
-      <video:description>The UK's National Health Service has issued a directive requiring technology leaders to wall off hundreds of its open-source GitHub repositories, citing concerns about advanced AI capabilities and specifically referencing Anthropic's Mythos. All maintainers have been given a May deadline to enact the change. The move marks one of the largest government-mandated AI-driven open-source restrictions by a public health body anywhere in the world.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=u4ThzCiMA1M</video:content_loc>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/u4ThzCiMA1M/maxresdefault.jpg</video:thumbnail_loc>
-      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://www.youtube.com/watch?v=iwJCxxUTtQ8</loc>
-    <lastmod>2026-05-05T00:00:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:title>Global cybersecurity gap widens as AI-powered attacks surge and defensive tools remain unevenly dist</video:title>
-      <video:description>Rest of World reports that restricted access to powerful AI-based defensive security tools — including Anthropic's Mythos platform — is leaving companies, central banks, and governments in lower-income countries significantly more exposed to AI-powered cyberattacks. As offensive AI capabilities spread faster than defensive ones, a structural cybersecurity inequality is emerging between nations. Experts warn this gap could destabilise financial systems and critical infrastructure in vulnerable economies.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=iwJCxxUTtQ8</video:content_loc>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/iwJCxxUTtQ8/maxresdefault.jpg</video:thumbnail_loc>
-      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://www.youtube.com/watch?v=INBunMA6A7M</loc>
-    <lastmod>2026-05-05T00:00:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:title>DoorDash adds AI tools to speed merchant onboarding and edit food photos automatically</video:title>
-      <video:description>DoorDash has rolled out a suite of AI-powered tools for restaurant and merchant partners, enabling faster onboarding, AI-assisted photo editing to improve dish images, and automated website creation from existing content. The tools aim to reduce the technical barrier for small businesses joining the platform. The update directly affects hundreds of thousands of US merchants who rely on DoorDash for delivery revenue.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=INBunMA6A7M</video:content_loc>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/INBunMA6A7M/maxresdefault.jpg</video:thumbnail_loc>
-      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://www.youtube.com/watch?v=JN5LoONlfIQ</loc>
-    <lastmod>2026-05-05T00:00:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:title>Nvidia's Jensen Huang pushes back on AI job fears, claims AI is creating enormous number of jobs</video:title>
-      <video:description>Nvidia CEO Jensen Huang publicly disputed widespread fears that AI is a net job killer, arguing instead that AI is generating a large number of new roles. His comments come as worker anxiety about AI-driven displacement is near an all-time high globally. Critics note that Huang's position as head of the world's leading AI chip company creates a significant conflict of interest in making such assessments.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=JN5LoONlfIQ</video:content_loc>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/JN5LoONlfIQ/maxresdefault.jpg</video:thumbnail_loc>
-      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://www.youtube.com/watch?v=61q71JjpCc4</loc>
-    <lastmod>2026-05-05T00:00:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:title>Anthropic and OpenAI both launch enterprise AI joint ventures with asset management partners</video:title>
-      <video:description>Both Anthropic and OpenAI have simultaneously announced partnerships with asset management firms to create joint ventures targeting enterprise AI service markets. The moves signal a strategic push by the two leading AI labs to embed their models directly into large corporate and financial institutions. The parallel announcements suggest escalating competition for enterprise AI dominance in the second half of 2026.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=61q71JjpCc4</video:content_loc>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/61q71JjpCc4/maxresdefault.jpg</video:thumbnail_loc>
-      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://www.youtube.com/watch?v=CjXRylaS2Rw</loc>
-    <lastmod>2026-05-05T00:00:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:title>MIT study: AI could help strengthen democracy if information architecture is redesigned</video:title>
-      <video:description>MIT Technology Review has published a blueprint arguing that AI, if deliberately designed, could reinforce democratic institutions rather than undermine them. The analysis draws historical parallels to the printing press and broadcast media, arguing that information technology reshapes governance and that AI represents the next such inflection point. The authors call for intentional policy design before AI's effects on democratic systems become irreversible.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=CjXRylaS2Rw</video:content_loc>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/CjXRylaS2Rw/maxresdefault.jpg</video:thumbnail_loc>
-      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://www.youtube.com/watch?v=WlgDevEPsiI</loc>
-    <lastmod>2026-05-05T00:00:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:title>Cerebras AI chip maker on track for blockbuster IPO at $26.6B valuation amid OpenAI ties</video:title>
-      <video:description>AI chip manufacturer Cerebras is advancing toward a major IPO that could value the company at $26.6 billion or more. The company has a deep commercial and technical relationship with OpenAI, which has helped fuel its growth trajectory. The listing would mark one of the largest AI-sector public offerings and reflects surging investor appetite for AI infrastructure plays.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=WlgDevEPsiI</video:content_loc>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/WlgDevEPsiI/maxresdefault.jpg</video:thumbnail_loc>
-      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://www.youtube.com/watch?v=HYtCTAblJAc</loc>
-    <lastmod>2026-05-05T00:00:00Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <video:video>
-      <video:title>Sierra raises $950M as race to own enterprise AI customer experience heats up</video:title>
-      <video:description>Sierra, an AI startup focused on enterprise customer experience, has raised $950 million, giving it over $1 billion in total capital. The company says it intends to use the funding to become the global standard for AI-powered customer interactions. The raise signals intense investor confidence in enterprise AI as a near-term revenue category, with major players competing for dominant market position.</video:description>
-      <video:content_loc>https://www.youtube.com/watch?v=HYtCTAblJAc</video:content_loc>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/HYtCTAblJAc/maxresdefault.jpg</video:thumbnail_loc>
-      <video:publication_date>2026-05-05T00:00:00Z</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
   </url>

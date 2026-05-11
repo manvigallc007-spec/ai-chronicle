@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-12",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=VwHBjgRnm2M",
+  "thumbnail_url": "https://i.ytimg.com/vi/VwHBjgRnm2M/maxresdefault.jpg",
+  "story": {
+    "title": "Nobel economist Daron Acemoglu names three AI risks Wall Street is ignoring",
+    "pillar": "Policy & Rights",
+    "summary": "Nobel Prize-winning economist Daron Acemoglu, whose 2024 paper challenged Big Tech's AI optimism, has outlined three areas of AI development he believes pose serious overlooked risks for workers and economies. Acemoglu has consistently argued that AI's productivity gains are overstated and that automation poses structural threats to labour markets that markets alone will not correct. His warnings carry unusual weight given his Nobel credentials and track record of questioning Silicon Valley consensus.",
+    "source_url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "source_name": "MIT Technology Review",
+    "companies": [],
+    "technologies": [
+      "large language models",
+      "AI automation"
+    ],
+    "use_cases": [
+      "labour market analysis",
+      "AI policy forecasting"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=sCOKv54TJLc",
+      "embedUrl": "https://www.youtube.com/embed/sCOKv54TJLc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sCOKv54TJLc/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Security researchers find fake Claude Code installers stealing developer credentials via cookie theft",
+            "articleSection": "Policy & Rights",
+            "abstract": "Attackers have been distributing fraudulent installers impersonating Anthropic's Claude Code developer tool to steal session cookies and developer credentials from software engineers. The malicious packages exploited a Windows COM interface to elevate privileges and exfiltrate authentication tokens, giving attackers persistent access to victims' development environments and potentially their employers' codebases. Security researchers warn the campaign targets developers specifically because their compromised accounts can provide access to source code, cloud infrastructure, and CI/CD pipelines.",
+            "url": "https://www.theregister.com/security/2026/05/11/cookie-thieves-caught-stealing-dev-secrets/5238248",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Anthropic"
+              },
+              {
+                "@type": "Thing",
+                "name": "Claude Code"
+              },
+              {
+                "@type": "Thing",
+                "name": "session cookie theft"
+              },
+              {
+                "@type": "Thing",
+                "name": "COM interface exploitation"
+              },
+              {
+                "@type": "Thing",
+                "name": "malicious installers"
+              }
+            ],
+            "keywords": "Anthropic, Claude Code, session cookie theft, COM interface exploitation, malicious installers, developer credential theft, supply chain attacks, CI/CD pipeline compromise",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

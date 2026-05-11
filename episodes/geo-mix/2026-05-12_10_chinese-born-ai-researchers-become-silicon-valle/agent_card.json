@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-12",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=-E6LHtLxRsU",
+  "thumbnail_url": "https://i.ytimg.com/vi/-E6LHtLxRsU/maxresdefault.jpg",
+  "story": {
+    "title": "Chinese-born AI researchers become Silicon Valley superstars as US-China talent war intensifies",
+    "pillar": "Job Evolution",
+    "summary": "Chinese-born technology workers have long been a backbone of Silicon Valley, but in the AI era they have become among the most sought-after individuals in the industry, with several leading breakthrough research teams at major US AI labs. The piece examines how escalating US-China geopolitical tensions have created a precarious dual pressure: US policy increasingly scrutinises Chinese-born researchers on security grounds while China's own booming AI sector competes aggressively to recruit them home. The dynamic is reshaping talent pipelines, visa policy debates, and the competitive landscape of frontier AI development.",
+    "source_url": "https://restofworld.org/2026/chinese-ai-researchers-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source_name": "Rest of World",
+    "companies": [],
+    "technologies": [
+      "frontier AI research",
+      "large language models"
+    ],
+    "use_cases": [
+      "AI talent recruitment",
+      "research team composition",
+      "international science policy"
+    ]
+  }
+}

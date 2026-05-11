@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=umdrjYhd994",
+      "embedUrl": "https://www.youtube.com/embed/umdrjYhd994",
+      "thumbnailUrl": "https://i.ytimg.com/vi/umdrjYhd994/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Microsoft research finds AI models and agents consistently fail at long-running complex tasks",
+            "articleSection": "Discovery & Research",
+            "abstract": "Microsoft researchers have published findings showing that current AI models and autonomous agents systematically fail when tasked with extended, multi-step workflows, raising doubts about enterprise automation promises. The study found performance degraded significantly as task length and complexity increased, with models losing context, making compounding errors, or abandoning tasks entirely. The research adds to growing evidence that agentic AI, despite heavy investment, remains far from reliable for unsupervised business-critical deployment.",
+            "url": "https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Microsoft"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI agents"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "agentic AI"
+              }
+            ],
+            "keywords": "Microsoft, AI agents, large language models, agentic AI, enterprise automation, long-running task execution, AI reliability benchmarking",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

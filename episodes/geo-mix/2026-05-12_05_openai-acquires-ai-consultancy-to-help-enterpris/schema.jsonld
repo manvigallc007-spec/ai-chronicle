@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=dq35TG6shDQ",
+      "embedUrl": "https://www.youtube.com/embed/dq35TG6shDQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dq35TG6shDQ/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "OpenAI acquires AI consultancy to help enterprises deploy its own models at scale",
+            "articleSection": "Job Evolution",
+            "abstract": "OpenAI has acquired an AI consulting firm to build out its enterprise deployment capacity, enabling the company to sell not just AI models but the professional services needed to integrate them into large organisations. The move signals OpenAI's shift from a pure model provider toward a full-stack enterprise AI vendor competing with established players like IBM, Accenture, and Deloitte. Industry observers note the acquisition raises questions about whether OpenAI will now compete directly with the consulting partners it previously relied on to drive enterprise adoption.",
+            "url": "https://www.theregister.com/ai-ml/2026/05/11/openai-buys-ai-consultancy-to-sell-enterprises-on-its-models/5238213",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Thing",
+                "name": "enterprise AI deployment"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              }
+            ],
+            "keywords": "OpenAI, enterprise AI deployment, large language models, enterprise AI consulting, model integration, professional services",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

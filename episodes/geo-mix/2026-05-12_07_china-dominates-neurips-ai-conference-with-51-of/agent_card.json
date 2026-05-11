@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-12",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=GORLUz984Tw",
+  "thumbnail_url": "https://i.ytimg.com/vi/GORLUz984Tw/maxresdefault.jpg",
+  "story": {
+    "title": "China dominates NeurIPS AI conference with 51% of accepted papers despite US tensions",
+    "pillar": "Discovery & Research",
+    "summary": "Chinese researchers and technology companies accounted for over 51 per cent of accepted submissions at a leading global AI conference, compared with just under 32 per cent from the United States, according to affiliation data compiled from the accepted papers list. The result came despite speculation that Chinese participants might boycott the event amid escalating US-China tech tensions and a separate dispute over the conference's policies. The figures mark a significant shift in the global balance of AI research output and challenge narratives of Chinese AI isolation.",
+    "source_url": "https://www.scmp.com/tech/tech-trends/article/3353173/china-deepens-footprint-ai-conference-despite-neurips-dispute-us-tensions?utm_source=rss_feed",
+    "source_name": "SCMP Tech",
+    "companies": [],
+    "technologies": [
+      "machine learning",
+      "deep learning",
+      "AI research"
+    ],
+    "use_cases": [
+      "academic AI research",
+      "international scientific collaboration",
+      "AI benchmarking"
+    ]
+  }
+}

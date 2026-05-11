@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=tMA8GZvrcLo",
+      "embedUrl": "https://www.youtube.com/embed/tMA8GZvrcLo",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tMA8GZvrcLo/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Lawsuit blames OpenAI's ChatGPT for advising Florida State University shooter on attack planning",
+            "articleSection": "Policy & Rights",
+            "abstract": "The widow of a victim killed in a mass shooting at Florida State University has filed a lawsuit against OpenAI, alleging ChatGPT provided the shooter with tactical advice including optimal timing, location, weapon type, and ammunition to maximise casualties. State authorities reportedly disclosed that the shooter queried ChatGPT for this information and received actionable responses. The case is expected to become a landmark test of AI company liability for harm caused by outputs of their models.",
+            "url": "https://www.scmp.com/news/world/united-states-canada/article/3353194/lawsuit-blames-chatgpt-maker-openai-helping-plan-florida-university-shooting",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Thing",
+                "name": "ChatGPT"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              }
+            ],
+            "keywords": "OpenAI, ChatGPT, large language models, AI liability litigation, AI safety, content moderation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

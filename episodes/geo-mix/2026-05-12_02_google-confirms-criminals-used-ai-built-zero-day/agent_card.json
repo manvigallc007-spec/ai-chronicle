@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-12",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=Ii8Qiif8jn8",
+  "thumbnail_url": "https://i.ytimg.com/vi/Ii8Qiif8jn8/maxresdefault.jpg",
+  "story": {
+    "title": "Google confirms criminals used AI-built zero-day exploit in planned mass hacking campaign",
+    "pillar": "Policy & Rights",
+    "summary": "Google's Threat Intelligence Group (GTIG) has confirmed that criminal actors used an AI-generated zero-day exploit as part of a planned large-scale hacking campaign, marking a significant escalation in AI-assisted cybercrime. The report indicates AI-powered attack capabilities have moved well beyond simple phishing emails and chatbot-assisted social engineering into the creation of novel software vulnerabilities. Security experts warn the finding signals a new threat threshold that existing defensive frameworks were not designed to address.",
+    "source_url": "https://www.theregister.com/ai-ml/2026/05/11/google-says-criminals-used-ai-built-zero-day-in-planned-mass-hack-spree/5237982",
+    "source_name": "The Register",
+    "companies": [
+      "Google"
+    ],
+    "technologies": [
+      "AI-generated zero-day exploits",
+      "threat intelligence",
+      "AI-powered cyberattacks"
+    ],
+    "use_cases": [
+      "mass hacking campaigns",
+      "vulnerability exploitation",
+      "cybersecurity threat detection"
+    ]
+  }
+}

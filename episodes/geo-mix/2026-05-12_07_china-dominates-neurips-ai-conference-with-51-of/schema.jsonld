@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=GORLUz984Tw",
+      "embedUrl": "https://www.youtube.com/embed/GORLUz984Tw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GORLUz984Tw/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "China dominates NeurIPS AI conference with 51% of accepted papers despite US tensions",
+            "articleSection": "Discovery & Research",
+            "abstract": "Chinese researchers and technology companies accounted for over 51 per cent of accepted submissions at a leading global AI conference, compared with just under 32 per cent from the United States, according to affiliation data compiled from the accepted papers list. The result came despite speculation that Chinese participants might boycott the event amid escalating US-China tech tensions and a separate dispute over the conference's policies. The figures mark a significant shift in the global balance of AI research output and challenge narratives of Chinese AI isolation.",
+            "url": "https://www.scmp.com/tech/tech-trends/article/3353173/china-deepens-footprint-ai-conference-despite-neurips-dispute-us-tensions?utm_source=rss_feed",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "machine learning"
+              },
+              {
+                "@type": "Thing",
+                "name": "deep learning"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI research"
+              }
+            ],
+            "keywords": "machine learning, deep learning, AI research, academic AI research, international scientific collaboration, AI benchmarking",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

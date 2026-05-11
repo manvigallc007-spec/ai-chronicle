@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=-E6LHtLxRsU",
+      "embedUrl": "https://www.youtube.com/embed/-E6LHtLxRsU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-E6LHtLxRsU/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Chinese-born AI researchers become Silicon Valley superstars as US-China talent war intensifies",
+            "articleSection": "Job Evolution",
+            "abstract": "Chinese-born technology workers have long been a backbone of Silicon Valley, but in the AI era they have become among the most sought-after individuals in the industry, with several leading breakthrough research teams at major US AI labs. The piece examines how escalating US-China geopolitical tensions have created a precarious dual pressure: US policy increasingly scrutinises Chinese-born researchers on security grounds while China's own booming AI sector competes aggressively to recruit them home. The dynamic is reshaping talent pipelines, visa policy debates, and the competitive landscape of frontier AI development.",
+            "url": "https://restofworld.org/2026/chinese-ai-researchers-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "frontier AI research"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              }
+            ],
+            "keywords": "frontier AI research, large language models, AI talent recruitment, research team composition, international science policy",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

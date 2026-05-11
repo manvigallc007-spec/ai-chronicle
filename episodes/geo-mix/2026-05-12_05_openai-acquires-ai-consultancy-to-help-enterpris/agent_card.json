@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-12",
+  "rank": 5,
+  "video_url": "https://www.youtube.com/watch?v=dq35TG6shDQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/dq35TG6shDQ/maxresdefault.jpg",
+  "story": {
+    "title": "OpenAI acquires AI consultancy to help enterprises deploy its own models at scale",
+    "pillar": "Job Evolution",
+    "summary": "OpenAI has acquired an AI consulting firm to build out its enterprise deployment capacity, enabling the company to sell not just AI models but the professional services needed to integrate them into large organisations. The move signals OpenAI's shift from a pure model provider toward a full-stack enterprise AI vendor competing with established players like IBM, Accenture, and Deloitte. Industry observers note the acquisition raises questions about whether OpenAI will now compete directly with the consulting partners it previously relied on to drive enterprise adoption.",
+    "source_url": "https://www.theregister.com/ai-ml/2026/05/11/openai-buys-ai-consultancy-to-sell-enterprises-on-its-models/5238213",
+    "source_name": "The Register",
+    "companies": [
+      "OpenAI"
+    ],
+    "technologies": [
+      "enterprise AI deployment",
+      "large language models"
+    ],
+    "use_cases": [
+      "enterprise AI consulting",
+      "model integration",
+      "professional services"
+    ]
+  }
+}

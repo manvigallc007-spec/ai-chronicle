@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Ii8Qiif8jn8",
+      "embedUrl": "https://www.youtube.com/embed/Ii8Qiif8jn8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ii8Qiif8jn8/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Google confirms criminals used AI-built zero-day exploit in planned mass hacking campaign",
+            "articleSection": "Policy & Rights",
+            "abstract": "Google's Threat Intelligence Group (GTIG) has confirmed that criminal actors used an AI-generated zero-day exploit as part of a planned large-scale hacking campaign, marking a significant escalation in AI-assisted cybercrime. The report indicates AI-powered attack capabilities have moved well beyond simple phishing emails and chatbot-assisted social engineering into the creation of novel software vulnerabilities. Security experts warn the finding signals a new threat threshold that existing defensive frameworks were not designed to address.",
+            "url": "https://www.theregister.com/ai-ml/2026/05/11/google-says-criminals-used-ai-built-zero-day-in-planned-mass-hack-spree/5237982",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Google"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-generated zero-day exploits"
+              },
+              {
+                "@type": "Thing",
+                "name": "threat intelligence"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-powered cyberattacks"
+              }
+            ],
+            "keywords": "Google, AI-generated zero-day exploits, threat intelligence, AI-powered cyberattacks, mass hacking campaigns, vulnerability exploitation, cybersecurity threat detection",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

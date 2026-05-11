@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-12",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=umdrjYhd994",
+  "thumbnail_url": "https://i.ytimg.com/vi/umdrjYhd994/maxresdefault.jpg",
+  "story": {
+    "title": "Microsoft research finds AI models and agents consistently fail at long-running complex tasks",
+    "pillar": "Discovery & Research",
+    "summary": "Microsoft researchers have published findings showing that current AI models and autonomous agents systematically fail when tasked with extended, multi-step workflows, raising doubts about enterprise automation promises. The study found performance degraded significantly as task length and complexity increased, with models losing context, making compounding errors, or abandoning tasks entirely. The research adds to growing evidence that agentic AI, despite heavy investment, remains far from reliable for unsupervised business-critical deployment.",
+    "source_url": "https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263",
+    "source_name": "The Register",
+    "companies": [
+      "Microsoft"
+    ],
+    "technologies": [
+      "AI agents",
+      "large language models",
+      "agentic AI"
+    ],
+    "use_cases": [
+      "enterprise automation",
+      "long-running task execution",
+      "AI reliability benchmarking"
+    ]
+  }
+}

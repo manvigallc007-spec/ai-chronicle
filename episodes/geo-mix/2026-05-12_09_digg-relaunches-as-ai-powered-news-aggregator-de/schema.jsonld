@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=7g6tHENRCic",
+      "embedUrl": "https://www.youtube.com/embed/7g6tHENRCic",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7g6tHENRCic/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Digg relaunches as AI-powered news aggregator designed to surface what actually matters",
+            "articleSection": "Daily Utility",
+            "abstract": "Digg, the social news aggregator that once rivalled Reddit before declining in the early 2010s, has relaunched as an AI-powered news platform focused on tracking influential voices across topics and surfacing only the stories genuinely worth reading. Beta testers received emails describing the platform's goal as cutting through information overload rather than maximising engagement. The relaunch positions Digg as part of a growing wave of AI-curated media products competing for the attention of readers overwhelmed by the volume of daily news.",
+            "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Digg"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI news aggregation"
+              },
+              {
+                "@type": "Thing",
+                "name": "content curation algorithms"
+              }
+            ],
+            "keywords": "Digg, AI news aggregation, content curation algorithms, personalised news curation, information overload reduction, media discovery",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

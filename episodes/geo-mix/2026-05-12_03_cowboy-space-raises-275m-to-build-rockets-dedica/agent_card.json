@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-12",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=t9E6orXepC8",
+  "thumbnail_url": "https://i.ytimg.com/vi/t9E6orXepC8/maxresdefault.jpg",
+  "story": {
+    "title": "Cowboy Space raises $275M to build rockets dedicated to putting AI data centres in orbit",
+    "pillar": "Discovery & Research",
+    "summary": "Startup Cowboy Space has raised $275 million to develop launch vehicles specifically designed to place AI data centres in low Earth orbit, addressing a bottleneck created by the AI compute boom. The company argues that existing rockets are too scarce and too expensive to support the scale of orbital infrastructure that AI demand will eventually require. The raise signals investor conviction that AI's appetite for compute will eventually outgrow terrestrial data centre capacity.",
+    "source_url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Cowboy Space"
+    ],
+    "technologies": [
+      "orbital data centres",
+      "launch vehicles",
+      "AI compute infrastructure"
+    ],
+    "use_cases": [
+      "space-based AI compute",
+      "AI infrastructure scaling",
+      "rocket manufacturing"
+    ]
+  }
+}

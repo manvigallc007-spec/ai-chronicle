@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-12",
+  "rank": 9,
+  "video_url": "https://www.youtube.com/watch?v=7g6tHENRCic",
+  "thumbnail_url": "https://i.ytimg.com/vi/7g6tHENRCic/maxresdefault.jpg",
+  "story": {
+    "title": "Digg relaunches as AI-powered news aggregator designed to surface what actually matters",
+    "pillar": "Daily Utility",
+    "summary": "Digg, the social news aggregator that once rivalled Reddit before declining in the early 2010s, has relaunched as an AI-powered news platform focused on tracking influential voices across topics and surfacing only the stories genuinely worth reading. Beta testers received emails describing the platform's goal as cutting through information overload rather than maximising engagement. The relaunch positions Digg as part of a growing wave of AI-curated media products competing for the attention of readers overwhelmed by the volume of daily news.",
+    "source_url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Digg"
+    ],
+    "technologies": [
+      "AI news aggregation",
+      "content curation algorithms"
+    ],
+    "use_cases": [
+      "personalised news curation",
+      "information overload reduction",
+      "media discovery"
+    ]
+  }
+}
