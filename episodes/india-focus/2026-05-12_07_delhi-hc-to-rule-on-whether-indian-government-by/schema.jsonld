@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Bx2OzuywM-g",
+      "embedUrl": "https://www.youtube.com/embed/Bx2OzuywM-g",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Bx2OzuywM-g/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Delhi HC to Rule on Whether Indian Government Bypassed Tender Process for National Emergency Alert System",
+            "articleSection": "Policy & Rights",
+            "abstract": "The Delhi High Court is set to rule on whether the Indian government bypassed a competitive tender process when awarding the contract for India's national emergency alert system to state-run CDOT, following a petition filed by Germany-based Utimaco. The case raises fundamental questions about procurement transparency and whether a monopoly arrangement for critical public safety infrastructure is legally defensible. An urgent hearing has been triggered, indicating the court views the matter as time-sensitive given the system's role in national emergency communications.",
+            "url": "https://www.medianama.com/2026/05/223-delhi-hc-govt-bypassed-tender-process-india-emergency-alert-system/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "CDOT"
+              },
+              {
+                "@type": "Organization",
+                "name": "Utimaco"
+              },
+              {
+                "@type": "Organization",
+                "name": "Delhi High Court"
+              },
+              {
+                "@type": "Thing",
+                "name": "Emergency Alert Systems"
+              },
+              {
+                "@type": "Thing",
+                "name": "Telecommunications infrastructure"
+              }
+            ],
+            "keywords": "CDOT, Utimaco, Delhi High Court, Emergency Alert Systems, Telecommunications infrastructure, Public safety communications, Government procurement transparency, Critical infrastructure tendering",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=E_TOQUcKzvs",
+      "embedUrl": "https://www.youtube.com/embed/E_TOQUcKzvs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/E_TOQUcKzvs/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "IT Body NITES Urges India's Labour Ministry to Mandate Work From Home for IT Workers Amid Oil Price Surge",
+            "articleSection": "Job Evolution",
+            "abstract": "The Nascent Information Technology Employees Senate (NITES) has formally urged India's Ministry of Labour and Employment to issue an advisory mandating work-from-home arrangements for IT workers wherever operationally feasible, citing rising fuel costs and the broader economic burden on tech employees commuting to offices. The request comes as oil prices surge amid regional geopolitical tensions, placing renewed pressure on Indian IT workers' disposable income. NITES argues that India's IT sector has already demonstrated its ability to operate effectively remotely and that a formal advisory would provide legal backing for employees to request flexible arrangements.",
+            "url": "https://www.thehindu.com/sci-tech/technology/it-industry-body-nites-seeks-official-advisory-for-work-from-home-measures-amid-rising-oil-prices/article70965213.ece",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "NITES"
+              },
+              {
+                "@type": "Organization",
+                "name": "Ministry of Labour and Employment"
+              },
+              {
+                "@type": "Thing",
+                "name": "Remote work infrastructure"
+              },
+              {
+                "@type": "Thing",
+                "name": "Digital collaboration tools"
+              }
+            ],
+            "keywords": "NITES, Ministry of Labour and Employment, Remote work infrastructure, Digital collaboration tools, IT workforce welfare, Work from home policy, Employee cost relief",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

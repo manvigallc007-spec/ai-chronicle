@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-12",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=bUc0K1FRCVY",
+  "thumbnail_url": "https://i.ytimg.com/vi/bUc0K1FRCVY/maxresdefault.jpg",
+  "story": {
+    "title": "Can Orbital Data Centres Solve AI's Soaring Energy Demand? ISRO and Google's Suncatcher Explore Space-Based Solutions",
+    "pillar": "Discovery & Research",
+    "summary": "As AI models consume ever-greater quantities of energy, Google's Project Suncatcher is experimenting with placing data centres in low-earth orbit to harness continuous solar energy, bypassing the land and grid constraints that limit ground-based facilities. ISRO is also reportedly studying the feasibility of space-based data centre technology as part of India's expanding space economy ambitions. The concept, while still experimental, is gaining traction globally as the energy cost of training and running large AI models becomes a critical bottleneck for the industry.",
+    "source_url": "https://www.thehindu.com/sci-tech/science/can-datacentres-in-orbit-solve-for-ai-models-soaring-energy-demand/article70509022.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "Google",
+      "ISRO",
+      "Pixxel",
+      "Sarvam AI"
+    ],
+    "technologies": [
+      "Orbital Data Centres",
+      "Low-Earth Orbit computing",
+      "Solar-powered AI infrastructure",
+      "Project Suncatcher"
+    ],
+    "use_cases": [
+      "AI energy efficiency",
+      "Space-based computing",
+      "Sustainable AI infrastructure"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=U5bomxDCf-A",
+      "embedUrl": "https://www.youtube.com/embed/U5bomxDCf-A",
+      "thumbnailUrl": "https://i.ytimg.com/vi/U5bomxDCf-A/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "HP Launches First Tablet and New AI PC Range in India, Including AMD-Powered EliteBoard G1a",
+            "articleSection": "Daily Utility",
+            "abstract": "HP has launched its first tablet in India alongside a new range of AI-enabled PCs, including the HP EliteBoard G1a AI keyboard PC powered by AMD processors delivering up to 50 TOPS of neural processing unit performance. The AI PC range is designed to handle on-device AI tasks such as real-time transcription, image generation, and intelligent search without requiring cloud connectivity. The launch marks HP's entry into India's tablet market and signals the commercial arrival of dedicated AI computing hardware for mainstream Indian consumers and enterprises.",
+            "url": "https://www.thehindu.com/sci-tech/technology/gadgets/hp-launches-its-first-tablet-brings-new-range-of-ai-pcs-and-solutions-in-india/article70965107.ece",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "HP"
+              },
+              {
+                "@type": "Organization",
+                "name": "AMD"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI PCs"
+              },
+              {
+                "@type": "Thing",
+                "name": "Neural Processing Unit (NPU)"
+              },
+              {
+                "@type": "Thing",
+                "name": "On-device AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AMD processors"
+              }
+            ],
+            "keywords": "HP, AMD, AI PCs, Neural Processing Unit (NPU), On-device AI, AMD processors, AI-powered productivity, On-device machine learning, Enterprise computing",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

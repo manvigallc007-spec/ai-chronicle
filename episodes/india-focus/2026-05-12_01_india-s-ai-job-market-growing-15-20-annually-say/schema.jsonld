@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=51oHdE4J6ho",
+      "embedUrl": "https://www.youtube.com/embed/51oHdE4J6ho",
+      "thumbnailUrl": "https://i.ytimg.com/vi/51oHdE4J6ho/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India's AI Job Market Growing 15–20% Annually, Says Union Minister Ashwini Vaishnaw",
+            "articleSection": "Job Evolution",
+            "abstract": "Union Minister Ashwini Vaishnaw confirmed that AI-related job openings in India's IT sector are growing at 15–20% annually, making it one of the fastest-expanding employment categories in the country. The minister attributed the growth partly to significant data centre investments driven by favourable tax incentives and expanding digital infrastructure including new subsea cable projects. The statement was made in the context of India's broader push to position itself as a global AI hub.",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-jobs-growing-almost-by-15-20-ashwini-vaishnaw/articleshow/131018685.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "Artificial Intelligence"
+              },
+              {
+                "@type": "Thing",
+                "name": "Data Centres"
+              },
+              {
+                "@type": "Thing",
+                "name": "Subsea Cable Infrastructure"
+              }
+            ],
+            "keywords": "Artificial Intelligence, Data Centres, Subsea Cable Infrastructure, AI job creation, Digital infrastructure expansion, Tech workforce growth",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

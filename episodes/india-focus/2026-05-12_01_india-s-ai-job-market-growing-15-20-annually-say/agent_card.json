@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-12",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=51oHdE4J6ho",
+  "thumbnail_url": "https://i.ytimg.com/vi/51oHdE4J6ho/maxresdefault.jpg",
+  "story": {
+    "title": "India's AI Job Market Growing 15–20% Annually, Says Union Minister Ashwini Vaishnaw",
+    "pillar": "Job Evolution",
+    "summary": "Union Minister Ashwini Vaishnaw confirmed that AI-related job openings in India's IT sector are growing at 15–20% annually, making it one of the fastest-expanding employment categories in the country. The minister attributed the growth partly to significant data centre investments driven by favourable tax incentives and expanding digital infrastructure including new subsea cable projects. The statement was made in the context of India's broader push to position itself as a global AI hub.",
+    "source_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-jobs-growing-almost-by-15-20-ashwini-vaishnaw/articleshow/131018685.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [],
+    "technologies": [
+      "Artificial Intelligence",
+      "Data Centres",
+      "Subsea Cable Infrastructure"
+    ],
+    "use_cases": [
+      "AI job creation",
+      "Digital infrastructure expansion",
+      "Tech workforce growth"
+    ]
+  }
+}

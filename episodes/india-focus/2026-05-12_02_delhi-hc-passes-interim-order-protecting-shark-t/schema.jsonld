@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Wp7ie-uzK6A",
+      "embedUrl": "https://www.youtube.com/embed/Wp7ie-uzK6A",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Wp7ie-uzK6A/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Delhi HC Passes Interim Order Protecting Shark Tank's Aman Gupta's Personality Rights Against Deepfakes",
+            "articleSection": "Policy & Rights",
+            "abstract": "The Delhi High Court issued an interim order protecting the personality rights of entrepreneur and Shark Tank India judge Aman Gupta after AI-generated deepfake content misrepresenting him was found circulating online. The order goes beyond merely targeting fake AI videos and could establish broader legal precedent for how personality rights are enforced against AI misuse in India. Legal observers note this ruling may reshape platform liability and enforcement obligations for AI-generated impersonation content nationally.",
+            "url": "https://www.medianama.com/2026/05/223-delhi-high-court-deepfake-order-aman-gupta/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "boAt"
+              },
+              {
+                "@type": "Organization",
+                "name": "Shark Tank India"
+              },
+              {
+                "@type": "Thing",
+                "name": "Deepfake AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "Generative AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "Facial synthesis"
+              }
+            ],
+            "keywords": "boAt, Shark Tank India, Deepfake AI, Generative AI, Facial synthesis, Personality rights enforcement, Deepfake litigation, AI content misuse regulation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

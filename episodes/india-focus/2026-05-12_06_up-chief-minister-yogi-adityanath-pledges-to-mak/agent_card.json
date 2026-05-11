@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-12",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=mojfbsGOAUQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/mojfbsGOAUQ/maxresdefault.jpg",
+  "story": {
+    "title": "UP Chief Minister Yogi Adityanath Pledges to Make Uttar Pradesh India's Deep Tech Capital",
+    "pillar": "Job Evolution",
+    "summary": "On National Technology Day, Uttar Pradesh Chief Minister Yogi Adityanath committed to transforming UP into India's Deep Tech Capital, citing the state's rapid emergence as a hub for IT parks, manufacturing, and startups. The announcement reflects a concerted state-level push to attract AI and semiconductor investment to India's most populous state, which is already home to the HCL-Foxconn semiconductor joint venture in Jewar. The declaration adds political weight to UP's ambition to rival Bengaluru and Hyderabad as a technology destination.",
+    "source_url": "https://www.thehindu.com/sci-tech/technology/national-technology-day-committed-to-making-up-indias-deep-tech-capital-says-yogi-adityanath/article70964440.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "Government of Uttar Pradesh"
+    ],
+    "technologies": [
+      "Deep Tech",
+      "AI Infrastructure",
+      "Semiconductor Manufacturing"
+    ],
+    "use_cases": [
+      "State-level tech investment",
+      "IT park development",
+      "Startup ecosystem building"
+    ]
+  }
+}

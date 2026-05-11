@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=R2zfgfXnX34",
+      "embedUrl": "https://www.youtube.com/embed/R2zfgfXnX34",
+      "thumbnailUrl": "https://i.ytimg.com/vi/R2zfgfXnX34/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India Pushes for Sovereign Control Over Advanced AI Cybersecurity Systems Amid Anthropic Concerns",
+            "articleSection": "Policy & Rights",
+            "abstract": "India is actively seeking sovereign control over advanced AI systems used in cybersecurity after concerns emerged regarding Anthropic's Claude Mythos model and its capacity to detect and potentially exploit software vulnerabilities in critical national infrastructure sectors. The push reflects growing government anxiety that dependence on foreign AI models for security functions poses an unacceptable national risk. MeitY is reported to be in direct discussions to secure guaranteed access and oversight terms before such models are deployed in sensitive Indian systems.",
+            "url": "https://www.medianama.com/2026/05/223-india-pushes-sovereign-control-ai-cybersecurity-systems-report/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Anthropic"
+              },
+              {
+                "@type": "Organization",
+                "name": "MeitY"
+              },
+              {
+                "@type": "Organization",
+                "name": "CERT-In"
+              },
+              {
+                "@type": "Thing",
+                "name": "Claude Mythos"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI Cybersecurity"
+              },
+              {
+                "@type": "Thing",
+                "name": "Zero-day vulnerability detection"
+              }
+            ],
+            "keywords": "Anthropic, MeitY, CERT-In, Claude Mythos, AI Cybersecurity, Zero-day vulnerability detection, Critical infrastructure protection, AI sovereignty, National cybersecurity governance",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

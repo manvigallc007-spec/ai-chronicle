@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-12",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=NYRGiAErRnQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/NYRGiAErRnQ/maxresdefault.jpg",
+  "story": {
+    "title": "AI-Enabled Oversight Layer Proposed for Continuous Electoral Roll Monitoring in India",
+    "pillar": "Policy & Rights",
+    "summary": "Following structural weaknesses exposed during the Special Intensive Revision 2.0 process, experts have proposed integrating an AI-enabled oversight layer with the Election Commission's ECINet platform to continuously monitor electoral roll accuracy in real time. The system would detect anomalies, flag discriminatory voter deletion patterns, and strengthen transparency and accountability in India's electoral infrastructure. The proposal represents a significant shift from periodic manual audits to AI-driven continuous surveillance of one of democracy's most critical databases.",
+    "source_url": "https://www.thehindu.com/sci-tech/technology/ai-enabled-oversight-layer-for-continuous-electoral-roll-monitoring/article70962482.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "Election Commission of India"
+    ],
+    "technologies": [
+      "AI anomaly detection",
+      "ECINet",
+      "Real-time monitoring systems"
+    ],
+    "use_cases": [
+      "Electoral roll monitoring",
+      "Voter rights protection",
+      "Democratic accountability"
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=bUc0K1FRCVY",
+      "embedUrl": "https://www.youtube.com/embed/bUc0K1FRCVY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bUc0K1FRCVY/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Can Orbital Data Centres Solve AI's Soaring Energy Demand? ISRO and Google's Suncatcher Explore Space-Based Solutions",
+            "articleSection": "Discovery & Research",
+            "abstract": "As AI models consume ever-greater quantities of energy, Google's Project Suncatcher is experimenting with placing data centres in low-earth orbit to harness continuous solar energy, bypassing the land and grid constraints that limit ground-based facilities. ISRO is also reportedly studying the feasibility of space-based data centre technology as part of India's expanding space economy ambitions. The concept, while still experimental, is gaining traction globally as the energy cost of training and running large AI models becomes a critical bottleneck for the industry.",
+            "url": "https://www.thehindu.com/sci-tech/science/can-datacentres-in-orbit-solve-for-ai-models-soaring-energy-demand/article70509022.ece",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Google"
+              },
+              {
+                "@type": "Organization",
+                "name": "ISRO"
+              },
+              {
+                "@type": "Organization",
+                "name": "Pixxel"
+              },
+              {
+                "@type": "Organization",
+                "name": "Sarvam AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "Orbital Data Centres"
+              },
+              {
+                "@type": "Thing",
+                "name": "Low-Earth Orbit computing"
+              },
+              {
+                "@type": "Thing",
+                "name": "Solar-powered AI infrastructure"
+              },
+              {
+                "@type": "Thing",
+                "name": "Project Suncatcher"
+              }
+            ],
+            "keywords": "Google, ISRO, Pixxel, Sarvam AI, Orbital Data Centres, Low-Earth Orbit computing, Solar-powered AI infrastructure, Project Suncatcher, AI energy efficiency, Space-based computing, Sustainable AI infrastructure",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

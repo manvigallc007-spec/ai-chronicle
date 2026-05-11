@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-12",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=R2zfgfXnX34",
+  "thumbnail_url": "https://i.ytimg.com/vi/R2zfgfXnX34/maxresdefault.jpg",
+  "story": {
+    "title": "India Pushes for Sovereign Control Over Advanced AI Cybersecurity Systems Amid Anthropic Concerns",
+    "pillar": "Policy & Rights",
+    "summary": "India is actively seeking sovereign control over advanced AI systems used in cybersecurity after concerns emerged regarding Anthropic's Claude Mythos model and its capacity to detect and potentially exploit software vulnerabilities in critical national infrastructure sectors. The push reflects growing government anxiety that dependence on foreign AI models for security functions poses an unacceptable national risk. MeitY is reported to be in direct discussions to secure guaranteed access and oversight terms before such models are deployed in sensitive Indian systems.",
+    "source_url": "https://www.medianama.com/2026/05/223-india-pushes-sovereign-control-ai-cybersecurity-systems-report/",
+    "source_name": "Medianama",
+    "companies": [
+      "Anthropic",
+      "MeitY",
+      "CERT-In"
+    ],
+    "technologies": [
+      "Claude Mythos",
+      "AI Cybersecurity",
+      "Zero-day vulnerability detection"
+    ],
+    "use_cases": [
+      "Critical infrastructure protection",
+      "AI sovereignty",
+      "National cybersecurity governance"
+    ]
+  }
+}

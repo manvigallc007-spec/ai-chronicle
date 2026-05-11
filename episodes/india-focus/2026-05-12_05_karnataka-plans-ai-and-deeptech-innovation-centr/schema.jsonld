@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-12",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-12T00:00:00Z",
+      "datePublished": "2026-05-12T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=1V5fO2jSgKI",
+      "embedUrl": "https://www.youtube.com/embed/1V5fO2jSgKI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1V5fO2jSgKI/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-12",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Karnataka Plans AI and Deeptech Innovation Centres in Tier-II and Tier-III Cities Beyond Bengaluru",
+            "articleSection": "Job Evolution",
+            "abstract": "Karnataka's State Planning and Policy Commission has proposed a roadmap to decentralise the state's technology ecosystem by establishing Karnataka Innovation Orchestration Centers in tier-II and tier-III cities, moving beyond Bengaluru's dominant tech corridor. The plan targets deeptech incubation, applied AI research, and R&D activity in smaller urban centres as part of a strategy to make Karnataka a global model for technology-driven inclusive development. The initiative follows growing concern that Bengaluru's saturation is limiting India's broader tech expansion.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/state-planning-commission-pitches-tech-ecosystem-push-beyond-bengaluru-to-tier-ii-iii-cities/articleshow/131017782.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Karnataka State Planning and Policy Commission"
+              },
+              {
+                "@type": "Thing",
+                "name": "Deeptech"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI R&D"
+              },
+              {
+                "@type": "Thing",
+                "name": "Innovation Orchestration Centres"
+              }
+            ],
+            "keywords": "Karnataka State Planning and Policy Commission, Deeptech, AI R&D, Innovation Orchestration Centres, Tech ecosystem decentralisation, Tier-II city job creation, Deeptech incubation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

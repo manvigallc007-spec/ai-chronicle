@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-12",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=U5bomxDCf-A",
+  "thumbnail_url": "https://i.ytimg.com/vi/U5bomxDCf-A/maxresdefault.jpg",
+  "story": {
+    "title": "HP Launches First Tablet and New AI PC Range in India, Including AMD-Powered EliteBoard G1a",
+    "pillar": "Daily Utility",
+    "summary": "HP has launched its first tablet in India alongside a new range of AI-enabled PCs, including the HP EliteBoard G1a AI keyboard PC powered by AMD processors delivering up to 50 TOPS of neural processing unit performance. The AI PC range is designed to handle on-device AI tasks such as real-time transcription, image generation, and intelligent search without requiring cloud connectivity. The launch marks HP's entry into India's tablet market and signals the commercial arrival of dedicated AI computing hardware for mainstream Indian consumers and enterprises.",
+    "source_url": "https://www.thehindu.com/sci-tech/technology/gadgets/hp-launches-its-first-tablet-brings-new-range-of-ai-pcs-and-solutions-in-india/article70965107.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "HP",
+      "AMD"
+    ],
+    "technologies": [
+      "AI PCs",
+      "Neural Processing Unit (NPU)",
+      "On-device AI",
+      "AMD processors"
+    ],
+    "use_cases": [
+      "AI-powered productivity",
+      "On-device machine learning",
+      "Enterprise computing"
+    ]
+  }
+}
