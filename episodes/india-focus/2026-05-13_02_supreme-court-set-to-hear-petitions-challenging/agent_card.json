@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-13",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=K0S3_QUtalQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/K0S3_QUtalQ/maxresdefault.jpg",
+  "story": {
+    "title": "Supreme Court Set to Hear Petitions Challenging India's First Digital Privacy Law This Month",
+    "pillar": "Policy & Rights",
+    "summary": "India's Supreme Court is expected to hear petitions this month challenging key sections of the Digital Personal Data Protection Act, the country's first dedicated privacy law. Petitioners including the Reporters' Collective, the Editors Guild of India, and transparency activist Venkatesh Nayak argue that provisions amending the Right to Information Act could enable blanket denial of information requests involving personal data. The outcome could fundamentally reshape how AI systems and digital platforms handle Indian citizens' data and respond to public accountability requests.",
+    "source_url": "https://economictimes.indiatimes.com/tech/technology/sc-likely-to-hear-petitions-challenging-sections-of-indias-first-privacy-law-this-month/articleshow/131047848.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Reporters' Collective",
+      "Editors Guild of India"
+    ],
+    "technologies": [
+      "Digital Personal Data Protection Act",
+      "AI data systems"
+    ],
+    "use_cases": [
+      "data privacy enforcement",
+      "RTI amendment challenge",
+      "judicial review of digital law"
+    ]
+  }
+}

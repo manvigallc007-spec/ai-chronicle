@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-13",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-13T00:00:00Z",
+      "datePublished": "2026-05-13T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=K0S3_QUtalQ",
+      "embedUrl": "https://www.youtube.com/embed/K0S3_QUtalQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/K0S3_QUtalQ/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-13",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Supreme Court Set to Hear Petitions Challenging India's First Digital Privacy Law This Month",
+            "articleSection": "Policy & Rights",
+            "abstract": "India's Supreme Court is expected to hear petitions this month challenging key sections of the Digital Personal Data Protection Act, the country's first dedicated privacy law. Petitioners including the Reporters' Collective, the Editors Guild of India, and transparency activist Venkatesh Nayak argue that provisions amending the Right to Information Act could enable blanket denial of information requests involving personal data. The outcome could fundamentally reshape how AI systems and digital platforms handle Indian citizens' data and respond to public accountability requests.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/sc-likely-to-hear-petitions-challenging-sections-of-indias-first-privacy-law-this-month/articleshow/131047848.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Reporters' Collective"
+              },
+              {
+                "@type": "Organization",
+                "name": "Editors Guild of India"
+              },
+              {
+                "@type": "Thing",
+                "name": "Digital Personal Data Protection Act"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI data systems"
+              }
+            ],
+            "keywords": "Reporters' Collective, Editors Guild of India, Digital Personal Data Protection Act, AI data systems, data privacy enforcement, RTI amendment challenge, judicial review of digital law",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-13",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=_qLhO0We4Mo",
+  "thumbnail_url": "https://i.ytimg.com/vi/_qLhO0We4Mo/maxresdefault.jpg",
+  "story": {
+    "title": "Delhi HC Restores Blocked YouTube Channel 4PM, Orders Transparency in Government Blocking Process",
+    "pillar": "Policy & Rights",
+    "summary": "The Delhi High Court has ordered the temporary restoration of the YouTube channel 4PM, which was blocked by the Union government citing national security concerns, while simultaneously directing a fresh hearing before the Inter-Departmental Committee and demanding greater transparency in the blocking process. The court's order signals judicial discomfort with opaque executive use of content blocking powers under India's IT Rules, especially as AI-generated content and algorithmic flagging make the volume of takedown requests harder to contest. The ruling has direct implications for how digital platforms and independent media creators in India navigate government-initiated content removal.",
+    "source_url": "https://www.medianama.com/2026/05/223-delhi-high-court-restores-4pm-youtube-channel-orders-temporary-block-objectionable-videos/",
+    "source_name": "Medianama",
+    "companies": [
+      "YouTube",
+      "4PM channel"
+    ],
+    "technologies": [
+      "content moderation systems",
+      "IT Rules blocking infrastructure"
+    ],
+    "use_cases": [
+      "judicial oversight of government content blocking",
+      "digital media freedom enforcement",
+      "IDC transparency mandate"
+    ]
+  }
+}

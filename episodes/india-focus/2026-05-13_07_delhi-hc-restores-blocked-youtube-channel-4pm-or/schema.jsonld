@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-13",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-13T00:00:00Z",
+      "datePublished": "2026-05-13T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=_qLhO0We4Mo",
+      "embedUrl": "https://www.youtube.com/embed/_qLhO0We4Mo",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_qLhO0We4Mo/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-13",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Delhi HC Restores Blocked YouTube Channel 4PM, Orders Transparency in Government Blocking Process",
+            "articleSection": "Policy & Rights",
+            "abstract": "The Delhi High Court has ordered the temporary restoration of the YouTube channel 4PM, which was blocked by the Union government citing national security concerns, while simultaneously directing a fresh hearing before the Inter-Departmental Committee and demanding greater transparency in the blocking process. The court's order signals judicial discomfort with opaque executive use of content blocking powers under India's IT Rules, especially as AI-generated content and algorithmic flagging make the volume of takedown requests harder to contest. The ruling has direct implications for how digital platforms and independent media creators in India navigate government-initiated content removal.",
+            "url": "https://www.medianama.com/2026/05/223-delhi-high-court-restores-4pm-youtube-channel-orders-temporary-block-objectionable-videos/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "YouTube"
+              },
+              {
+                "@type": "Organization",
+                "name": "4PM channel"
+              },
+              {
+                "@type": "Thing",
+                "name": "content moderation systems"
+              },
+              {
+                "@type": "Thing",
+                "name": "IT Rules blocking infrastructure"
+              }
+            ],
+            "keywords": "YouTube, 4PM channel, content moderation systems, IT Rules blocking infrastructure, judicial oversight of government content blocking, digital media freedom enforcement, IDC transparency mandate",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

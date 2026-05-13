@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-13",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-13T00:00:00Z",
+      "datePublished": "2026-05-13T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=ADVYYkU4ock",
+      "embedUrl": "https://www.youtube.com/embed/ADVYYkU4ock",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ADVYYkU4ock/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-13",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Tamil Nadu Police Used IT Rules to Ask X to Block 18 URLs Belonging to Ruling Party's Critics",
+            "articleSection": "Policy & Rights",
+            "abstract": "Tamil Nadu Police invoked Section 79(3)(b) of India's IT Act to request that X (formerly Twitter) block 18 URLs, which allegedly belong to DMK supporters who shared commentary criticising the Tamil Viduthalai Kazhagam party and the Chief Minister's office. The requests represent a pattern of state-level police agencies using federal IT law powers to suppress political speech online, bypassing judicial oversight. The incident adds to a growing record of India's content takedown infrastructure being used against domestic political dissent rather than solely for national security or harm-prevention purposes.",
+            "url": "https://www.medianama.com/2026/05/223-tamil-nadu-police-x-block-18-urls-it-rules/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "X (formerly Twitter)"
+              },
+              {
+                "@type": "Organization",
+                "name": "Tamil Nadu Police"
+              },
+              {
+                "@type": "Thing",
+                "name": "IT Act Section 79(3)(b) notice system"
+              },
+              {
+                "@type": "Thing",
+                "name": "social media content moderation"
+              }
+            ],
+            "keywords": "X (formerly Twitter), Tamil Nadu Police, IT Act Section 79(3)(b) notice system, social media content moderation, government-directed URL blocking, political speech suppression, platform compliance with state police requests",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

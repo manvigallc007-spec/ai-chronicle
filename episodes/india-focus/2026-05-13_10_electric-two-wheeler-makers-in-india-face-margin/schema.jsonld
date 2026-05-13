@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-13",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-13T00:00:00Z",
+      "datePublished": "2026-05-13T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=rQ8oUi47OWQ",
+      "embedUrl": "https://www.youtube.com/embed/rQ8oUi47OWQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rQ8oUi47OWQ/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-13",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Electric Two-Wheeler Makers in India Face Margin Squeeze as AI Infrastructure Boom Drives Up Chip Costs",
+            "articleSection": "Daily Utility",
+            "abstract": "India's electric two-wheeler manufacturers are facing significant margin pressure and potential retail price increases as raw material costs surge and global AI infrastructure demand intensifies competition for lithium-ion cells and memory chips. The AI data centre boom is creating upstream supply chain pressure that is now directly affecting the cost of affordable EVs for Indian commuters. Manufacturers warn that price hikes may be unavoidable unless government intervention stabilises input costs, with implications for India's EV adoption targets and the tens of millions of households considering a switch from petrol bikes.",
+            "url": "https://economictimes.indiatimes.com/tech/startups/electric-two-wheeler-makers-brace-for-raw-material-price-hikes-ai-infra-pressure/articleshow/131048140.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "unnamed Indian EV manufacturers"
+              },
+              {
+                "@type": "Thing",
+                "name": "lithium-ion battery cells"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI infrastructure chips"
+              },
+              {
+                "@type": "Thing",
+                "name": "memory semiconductors"
+              }
+            ],
+            "keywords": "unnamed Indian EV manufacturers, lithium-ion battery cells, AI infrastructure chips, memory semiconductors, electric two-wheeler manufacturing cost management, EV supply chain diversification, AI-driven component demand forecasting",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

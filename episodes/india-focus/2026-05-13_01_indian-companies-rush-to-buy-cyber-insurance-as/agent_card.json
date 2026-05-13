@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-13",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=6WEtDjZ-0fk",
+  "thumbnail_url": "https://i.ytimg.com/vi/6WEtDjZ-0fk/maxresdefault.jpg",
+  "story": {
+    "title": "Indian Companies Rush to Buy Cyber Insurance as AI Agent Risks and Rogue Chatbots Create New Liabilities",
+    "pillar": "Daily Utility",
+    "summary": "Indian companies are increasingly purchasing cyber insurance policies to protect against AI-specific risks, including AI agents acting autonomously in harmful ways and chatbots providing incorrect or dangerous information. Insurers are redesigning their underwriting models to assess AI exposure, marking a significant shift in how corporate India manages technological liability. The global AI insurance market is projected for substantial growth, and India's uptake signals that boardrooms are treating AI risk as a mainstream financial concern rather than a fringe scenario.",
+    "source_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/increasing-ai-risks-boost-demand-for-cyber-insurance/articleshow/131047379.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Indian corporates",
+      "unnamed insurers"
+    ],
+    "technologies": [
+      "AI agents",
+      "generative AI",
+      "cyber insurance underwriting models"
+    ],
+    "use_cases": [
+      "corporate AI liability coverage",
+      "chatbot error indemnification",
+      "AI risk assessment"
+    ]
+  }
+}

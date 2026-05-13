@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-13",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-13T00:00:00Z",
+      "datePublished": "2026-05-13T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=GZe7xxZmvi8",
+      "embedUrl": "https://www.youtube.com/embed/GZe7xxZmvi8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GZe7xxZmvi8/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-13",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India Notifies Social Security Rules 2026: Swiggy, Zomato and Ola Must Register Gig Workers in Real Time",
+            "articleSection": "Policy & Rights",
+            "abstract": "India has formally notified the Social Security (Central) Rules 2026, requiring gig economy platforms including Swiggy, Zomato and Ola to register gig workers with the government in real time and meet ongoing compliance obligations. The rules mandate that platforms report worker data continuously rather than periodically, marking a significant expansion of the state's oversight of algorithmically managed workforces. This is the first time India's gig economy has faced live, platform-level statutory reporting requirements, with direct implications for how AI-driven dispatch and rating systems interact with labour law.",
+            "url": "https://www.medianama.com/2026/05/223-social-security-central-rules-2026-gig-workers-90-days-work/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Swiggy"
+              },
+              {
+                "@type": "Organization",
+                "name": "Zomato"
+              },
+              {
+                "@type": "Organization",
+                "name": "Ola"
+              },
+              {
+                "@type": "Thing",
+                "name": "algorithmic workforce management"
+              },
+              {
+                "@type": "Thing",
+                "name": "real-time compliance reporting systems"
+              }
+            ],
+            "keywords": "Swiggy, Zomato, Ola, algorithmic workforce management, real-time compliance reporting systems, gig worker social security registration, platform labour compliance, real-time government data reporting",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

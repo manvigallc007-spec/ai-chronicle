@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-13",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=rQ8oUi47OWQ",
+  "thumbnail_url": "https://i.ytimg.com/vi/rQ8oUi47OWQ/maxresdefault.jpg",
+  "story": {
+    "title": "Electric Two-Wheeler Makers in India Face Margin Squeeze as AI Infrastructure Boom Drives Up Chip Costs",
+    "pillar": "Daily Utility",
+    "summary": "India's electric two-wheeler manufacturers are facing significant margin pressure and potential retail price increases as raw material costs surge and global AI infrastructure demand intensifies competition for lithium-ion cells and memory chips. The AI data centre boom is creating upstream supply chain pressure that is now directly affecting the cost of affordable EVs for Indian commuters. Manufacturers warn that price hikes may be unavoidable unless government intervention stabilises input costs, with implications for India's EV adoption targets and the tens of millions of households considering a switch from petrol bikes.",
+    "source_url": "https://economictimes.indiatimes.com/tech/startups/electric-two-wheeler-makers-brace-for-raw-material-price-hikes-ai-infra-pressure/articleshow/131048140.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "unnamed Indian EV manufacturers"
+    ],
+    "technologies": [
+      "lithium-ion battery cells",
+      "AI infrastructure chips",
+      "memory semiconductors"
+    ],
+    "use_cases": [
+      "electric two-wheeler manufacturing cost management",
+      "EV supply chain diversification",
+      "AI-driven component demand forecasting"
+    ]
+  }
+}

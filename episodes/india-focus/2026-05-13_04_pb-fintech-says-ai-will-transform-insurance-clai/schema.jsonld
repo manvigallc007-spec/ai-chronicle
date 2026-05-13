@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-13",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-13T00:00:00Z",
+      "datePublished": "2026-05-13T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=pcyk6Djss-s",
+      "embedUrl": "https://www.youtube.com/embed/pcyk6Djss-s",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pcyk6Djss-s/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-13",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "PB Fintech Says AI Will Transform Insurance Claims Processing as Paisabazaar Enters Debt Broking",
+            "articleSection": "Daily Utility",
+            "abstract": "PB Fintech, the parent company of Policybazaar and Paisabazaar, announced in its Q4 FY26 results that artificial intelligence will fundamentally transform how insurance claims are processed for Indian consumers, while also revealing that Paisabazaar has entered the debt broking segment. The company launched expanded insurance coverage categories including gym memberships, OPD consultations and maternity, areas where AI-driven assessment could streamline previously manual approval processes. The dual announcement signals PB Fintech's strategy to use AI not only for customer acquisition but for the full claims lifecycle, which directly affects how quickly and accurately Indian policyholders receive payouts.",
+            "url": "https://www.medianama.com/2026/05/223-ai-insurance-claims-paisabazaar-debt-broking-pb-fintech/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "PB Fintech"
+              },
+              {
+                "@type": "Organization",
+                "name": "Policybazaar"
+              },
+              {
+                "@type": "Organization",
+                "name": "Paisabazaar"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI claims processing"
+              },
+              {
+                "@type": "Thing",
+                "name": "generative AI for insurance"
+              },
+              {
+                "@type": "Thing",
+                "name": "debt broking platforms"
+              }
+            ],
+            "keywords": "PB Fintech, Policybazaar, Paisabazaar, AI claims processing, generative AI for insurance, debt broking platforms, automated insurance claims assessment, OPD and maternity cover processing, AI-assisted financial product distribution",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

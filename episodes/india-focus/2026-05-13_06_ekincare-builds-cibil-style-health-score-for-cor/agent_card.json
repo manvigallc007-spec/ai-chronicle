@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-13",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=U_bep3kbKFI",
+  "thumbnail_url": "https://i.ytimg.com/vi/U_bep3kbKFI/maxresdefault.jpg",
+  "story": {
+    "title": "ekincare Builds CIBIL-Style Health Score for Corporate India After a Decade of Structured Health Data",
+    "pillar": "Daily Utility",
+    "summary": "Hyderabad-based healthtech startup ekincare has spent ten years aggregating structured employee health data and is now positioning that dataset as the foundation for a CIBIL-equivalent health score for corporate India. The platform is already embedded in corporate healthcare programmes and uses longitudinal data to predict health risks, guide interventions and inform insurance decisions. The model goes beyond employee wellness apps by creating a persistent, AI-readable health profile that could influence how Indian employers and insurers assess individual risk over time.",
+    "source_url": "https://yourstory.com/2026/05/health-cibil-score-this-hyderabad-startup-ekincare-been-building-decade",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "ekincare"
+    ],
+    "technologies": [
+      "AI health scoring",
+      "structured health data analytics",
+      "predictive risk modelling"
+    ],
+    "use_cases": [
+      "corporate employee health profiling",
+      "AI-driven insurance underwriting",
+      "preventive healthcare intervention"
+    ]
+  }
+}

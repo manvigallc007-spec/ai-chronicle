@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-13",
+  "rank": 9,
+  "video_url": "https://www.youtube.com/watch?v=FR9HDx992_s",
+  "thumbnail_url": "https://i.ytimg.com/vi/FR9HDx992_s/maxresdefault.jpg",
+  "story": {
+    "title": "HrdWyr Raises $13M Series A From Ideaspring Capital to Develop Fabless Semiconductor Chips in India",
+    "pillar": "Discovery & Research",
+    "summary": "Bengaluru-based fabless semiconductor startup HrdWyr has raised $13 million in a Series A round led by Ideaspring Capital to fund product development and market expansion. The company designs chips without owning its own manufacturing facilities, a model that allows Indian startups to compete in semiconductor design while the country builds out its fabrication ecosystem. The funding comes as India pushes to build domestic chip design capacity alongside its semiconductor manufacturing ambitions, with HrdWyr representing an emerging cohort of deep-tech startups that could reduce India's dependence on foreign chip architectures.",
+    "source_url": "https://yourstory.com/2026/05/hrdwyr-raises-13-million-in-series-a-led-by-ideaspring-capital",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "HrdWyr",
+      "Ideaspring Capital"
+    ],
+    "technologies": [
+      "fabless semiconductor design",
+      "chip architecture",
+      "AI chip development"
+    ],
+    "use_cases": [
+      "domestic chip design for Indian hardware",
+      "semiconductor R&D funding",
+      "deep-tech startup scaling"
+    ]
+  }
+}

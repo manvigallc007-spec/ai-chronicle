@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-13",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=ADVYYkU4ock",
+  "thumbnail_url": "https://i.ytimg.com/vi/ADVYYkU4ock/maxresdefault.jpg",
+  "story": {
+    "title": "Tamil Nadu Police Used IT Rules to Ask X to Block 18 URLs Belonging to Ruling Party's Critics",
+    "pillar": "Policy & Rights",
+    "summary": "Tamil Nadu Police invoked Section 79(3)(b) of India's IT Act to request that X (formerly Twitter) block 18 URLs, which allegedly belong to DMK supporters who shared commentary criticising the Tamil Viduthalai Kazhagam party and the Chief Minister's office. The requests represent a pattern of state-level police agencies using federal IT law powers to suppress political speech online, bypassing judicial oversight. The incident adds to a growing record of India's content takedown infrastructure being used against domestic political dissent rather than solely for national security or harm-prevention purposes.",
+    "source_url": "https://www.medianama.com/2026/05/223-tamil-nadu-police-x-block-18-urls-it-rules/",
+    "source_name": "Medianama",
+    "companies": [
+      "X (formerly Twitter)",
+      "Tamil Nadu Police"
+    ],
+    "technologies": [
+      "IT Act Section 79(3)(b) notice system",
+      "social media content moderation"
+    ],
+    "use_cases": [
+      "government-directed URL blocking",
+      "political speech suppression",
+      "platform compliance with state police requests"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-13",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-13T00:00:00Z",
+      "datePublished": "2026-05-13T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=P-5BdcAAqcM",
+      "embedUrl": "https://www.youtube.com/embed/P-5BdcAAqcM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/P-5BdcAAqcM/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-13",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Agentic AI Moves From Lab to Real-World Deployment Across Indian Startups, Edtech and Healthcare",
+            "articleSection": "How to Evolve",
+            "abstract": "A new analysis finds that agentic AI — systems capable of taking multi-step actions autonomously without human prompting — is now moving from experimentation into active deployment across Indian startups, edtech platforms and healthcare providers. Organisations pulling ahead are those that have invested in the underlying AI architecture, not just model selection, suggesting that implementation quality is becoming a competitive differentiator. For Indian businesses in education and health sectors that serve hundreds of millions of users, the shift to agentic AI represents a meaningful change in how services are delivered, personalised and scaled.",
+            "url": "https://yourstory.com/2026/05/agentic-ai-next-big-shift-startups-education-healthcare",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "unnamed Indian startups"
+              },
+              {
+                "@type": "Thing",
+                "name": "agentic AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI agents"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              }
+            ],
+            "keywords": "unnamed Indian startups, agentic AI, AI agents, large language models, autonomous task execution in healthcare, personalised edtech delivery, startup workflow automation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
