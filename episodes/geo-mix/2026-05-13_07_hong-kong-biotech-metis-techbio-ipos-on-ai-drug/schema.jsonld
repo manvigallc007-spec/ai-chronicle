@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-13",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-13T00:00:00Z",
+      "datePublished": "2026-05-13T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=d8--ImnsvTM",
+      "embedUrl": "https://www.youtube.com/embed/d8--ImnsvTM",
+      "thumbnailUrl": "https://i.ytimg.com/vi/d8--ImnsvTM/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-13",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Hong Kong biotech METiS TechBio IPOs on AI drug design platform that cuts development from years to 18 months",
+            "articleSection": "Discovery & Research",
+            "abstract": "Hong Kong-listed biotech startup METiS TechBio debuted on the Hong Kong Stock Exchange amid strong investor demand, with its CEO claiming AI has compressed the drug development timeline from several years down to 18 months. The company uses AI-driven design to engineer nano-scale drug delivery vehicles it calls nano-rockets, targeting life-saving therapeutics. The IPO reflects surging appetite for AI-integrated biotech in Hong Kong's capital markets.",
+            "url": "https://www.scmp.com/business/banking-finance/article/3353341/hong-kong-biotech-firm-uses-ai-produce-nano-rockets-deliver-life-saving-drugs?utm_source=rss_feed",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "METiS TechBio"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI drug design"
+              },
+              {
+                "@type": "Thing",
+                "name": "nano-drug delivery"
+              },
+              {
+                "@type": "Thing",
+                "name": "biotech AI"
+              }
+            ],
+            "keywords": "METiS TechBio, AI drug design, nano-drug delivery, biotech AI, AI-accelerated drug development, nano-scale drug delivery, biotech IPO",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

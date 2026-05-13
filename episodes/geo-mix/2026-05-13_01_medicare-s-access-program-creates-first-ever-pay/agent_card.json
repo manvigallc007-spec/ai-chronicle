@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-13",
+  "rank": 1,
+  "video_url": "https://www.youtube.com/watch?v=A-S3veU1nzk",
+  "thumbnail_url": "https://i.ytimg.com/vi/A-S3veU1nzk/maxresdefault.jpg",
+  "story": {
+    "title": "Medicare's ACCESS program creates first-ever payment mechanism for AI patient monitoring agents",
+    "pillar": "Daily Utility",
+    "summary": "Medicare's new ACCESS payment model creates the first governmental mechanism to reimburse AI agents that monitor patients between clinic visits, coordinate housing referrals, and follow up on medication adherence. Previously, no federal payment structure existed for these between-visit AI tasks, leaving a major gap in how AI could be deployed in US healthcare. The model is seen as a foundational policy shift that could unlock large-scale AI deployment across American healthcare systems.",
+    "source_url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Medicare",
+      "CMS"
+    ],
+    "technologies": [
+      "AI patient monitoring agents",
+      "healthcare AI",
+      "agentic AI"
+    ],
+    "use_cases": [
+      "between-visit patient monitoring",
+      "medication adherence follow-up",
+      "housing referral coordination"
+    ]
+  }
+}

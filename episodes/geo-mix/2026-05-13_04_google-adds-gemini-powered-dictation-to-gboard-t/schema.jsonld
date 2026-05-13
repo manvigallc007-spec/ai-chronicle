@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-13",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-13T00:00:00Z",
+      "datePublished": "2026-05-13T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=gClYlGVARS8",
+      "embedUrl": "https://www.youtube.com/embed/gClYlGVARS8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gClYlGVARS8/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-13",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Google adds Gemini-powered dictation to Gboard, threatening dedicated dictation app startups",
+            "articleSection": "Daily Utility",
+            "abstract": "Google is integrating Gemini-powered AI dictation directly into Gboard, its keyboard app used by hundreds of millions of Android users, with an initial launch on Samsung Galaxy and Google Pixel devices. The feature represents a significant upgrade to on-device voice-to-text capabilities and is expected to directly challenge standalone dictation app startups. By embedding the capability at the OS keyboard level, Google is commoditising a service that numerous companies have built businesses around.",
+            "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Google"
+              },
+              {
+                "@type": "Organization",
+                "name": "Samsung"
+              },
+              {
+                "@type": "Thing",
+                "name": "Gemini"
+              },
+              {
+                "@type": "Thing",
+                "name": "Gboard"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI dictation"
+              },
+              {
+                "@type": "Thing",
+                "name": "voice-to-text"
+              }
+            ],
+            "keywords": "Google, Samsung, Gemini, Gboard, AI dictation, voice-to-text, mobile dictation, voice input accessibility, keyboard AI integration",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

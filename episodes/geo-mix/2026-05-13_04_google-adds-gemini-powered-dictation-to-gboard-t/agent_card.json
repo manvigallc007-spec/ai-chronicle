@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-13",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=gClYlGVARS8",
+  "thumbnail_url": "https://i.ytimg.com/vi/gClYlGVARS8/maxresdefault.jpg",
+  "story": {
+    "title": "Google adds Gemini-powered dictation to Gboard, threatening dedicated dictation app startups",
+    "pillar": "Daily Utility",
+    "summary": "Google is integrating Gemini-powered AI dictation directly into Gboard, its keyboard app used by hundreds of millions of Android users, with an initial launch on Samsung Galaxy and Google Pixel devices. The feature represents a significant upgrade to on-device voice-to-text capabilities and is expected to directly challenge standalone dictation app startups. By embedding the capability at the OS keyboard level, Google is commoditising a service that numerous companies have built businesses around.",
+    "source_url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Google",
+      "Samsung"
+    ],
+    "technologies": [
+      "Gemini",
+      "Gboard",
+      "AI dictation",
+      "voice-to-text"
+    ],
+    "use_cases": [
+      "mobile dictation",
+      "voice input accessibility",
+      "keyboard AI integration"
+    ]
+  }
+}

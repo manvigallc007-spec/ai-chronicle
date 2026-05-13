@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-13",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-13T00:00:00Z",
+      "datePublished": "2026-05-13T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=A-S3veU1nzk",
+      "embedUrl": "https://www.youtube.com/embed/A-S3veU1nzk",
+      "thumbnailUrl": "https://i.ytimg.com/vi/A-S3veU1nzk/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-13",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Medicare's ACCESS program creates first-ever payment mechanism for AI patient monitoring agents",
+            "articleSection": "Daily Utility",
+            "abstract": "Medicare's new ACCESS payment model creates the first governmental mechanism to reimburse AI agents that monitor patients between clinic visits, coordinate housing referrals, and follow up on medication adherence. Previously, no federal payment structure existed for these between-visit AI tasks, leaving a major gap in how AI could be deployed in US healthcare. The model is seen as a foundational policy shift that could unlock large-scale AI deployment across American healthcare systems.",
+            "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Medicare"
+              },
+              {
+                "@type": "Organization",
+                "name": "CMS"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI patient monitoring agents"
+              },
+              {
+                "@type": "Thing",
+                "name": "healthcare AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "agentic AI"
+              }
+            ],
+            "keywords": "Medicare, CMS, AI patient monitoring agents, healthcare AI, agentic AI, between-visit patient monitoring, medication adherence follow-up, housing referral coordination",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-13",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-13T00:00:00Z",
+      "datePublished": "2026-05-13T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=dcnKCVYaMFU",
+      "embedUrl": "https://www.youtube.com/embed/dcnKCVYaMFU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dcnKCVYaMFU/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-13",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "NHS England confirms Palantir staff can access identifiable patient data under admin role",
+            "articleSection": "Policy & Rights",
+            "abstract": "NHS England has confirmed that staff employed by US data analytics firm Palantir can be granted an administrator role that provides access to identifiable patient data held within the National Data Integration Tenant. The disclosure raises significant privacy concerns given the sensitivity of health records and the fact that a private US company's employees can view them. The confirmation is likely to intensify political and public scrutiny of the NHS-Palantir data contract in the UK.",
+            "url": "https://www.theregister.com/databases/2026/05/12/nhs-england-confirms-palantir-staff-can-access-patient-data/5238712",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "NHS England"
+              },
+              {
+                "@type": "Organization",
+                "name": "Palantir"
+              },
+              {
+                "@type": "Thing",
+                "name": "National Data Integration Tenant"
+              },
+              {
+                "@type": "Thing",
+                "name": "health data analytics"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI health platforms"
+              }
+            ],
+            "keywords": "NHS England, Palantir, National Data Integration Tenant, health data analytics, AI health platforms, NHS data integration, patient data access governance, health analytics",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

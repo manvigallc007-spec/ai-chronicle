@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-13",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=etOyA0qNzDM",
+  "thumbnail_url": "https://i.ytimg.com/vi/etOyA0qNzDM/maxresdefault.jpg",
+  "story": {
+    "title": "Anthropic enters AI legal services race with tools for document review, case law, and deposition prep",
+    "pillar": "Daily Utility",
+    "summary": "Anthropic has launched AI tools targeting law firms, automating clerical legal functions including document search and review, case law research, deposition preparation, and document drafting. The move puts Anthropic in direct competition with a rapidly expanding field of legal AI startups. As the AI legal services sector heats up, Anthropic's entry signals that frontier AI labs are moving beyond general-purpose models into high-stakes professional verticals.",
+    "source_url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "Anthropic"
+    ],
+    "technologies": [
+      "Claude",
+      "legal AI",
+      "document review AI",
+      "natural language processing"
+    ],
+    "use_cases": [
+      "legal document drafting",
+      "case law research",
+      "deposition preparation",
+      "document review automation"
+    ]
+  }
+}

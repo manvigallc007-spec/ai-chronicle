@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-13",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=d8--ImnsvTM",
+  "thumbnail_url": "https://i.ytimg.com/vi/d8--ImnsvTM/maxresdefault.jpg",
+  "story": {
+    "title": "Hong Kong biotech METiS TechBio IPOs on AI drug design platform that cuts development from years to 18 months",
+    "pillar": "Discovery & Research",
+    "summary": "Hong Kong-listed biotech startup METiS TechBio debuted on the Hong Kong Stock Exchange amid strong investor demand, with its CEO claiming AI has compressed the drug development timeline from several years down to 18 months. The company uses AI-driven design to engineer nano-scale drug delivery vehicles it calls nano-rockets, targeting life-saving therapeutics. The IPO reflects surging appetite for AI-integrated biotech in Hong Kong's capital markets.",
+    "source_url": "https://www.scmp.com/business/banking-finance/article/3353341/hong-kong-biotech-firm-uses-ai-produce-nano-rockets-deliver-life-saving-drugs?utm_source=rss_feed",
+    "source_name": "SCMP Tech",
+    "companies": [
+      "METiS TechBio"
+    ],
+    "technologies": [
+      "AI drug design",
+      "nano-drug delivery",
+      "biotech AI"
+    ],
+    "use_cases": [
+      "AI-accelerated drug development",
+      "nano-scale drug delivery",
+      "biotech IPO"
+    ]
+  }
+}

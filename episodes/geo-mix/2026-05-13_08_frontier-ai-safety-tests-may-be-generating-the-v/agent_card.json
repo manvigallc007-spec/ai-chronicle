@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-13",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=acaP5BIO9Pc",
+  "thumbnail_url": "https://i.ytimg.com/vi/acaP5BIO9Pc/maxresdefault.jpg",
+  "story": {
+    "title": "Frontier AI safety tests may be generating the very risks they are designed to prevent, think tank warns",
+    "pillar": "Policy & Rights",
+    "summary": "A think tank has warned that the safety evaluation processes used by frontier AI labs may be inadvertently creating the dangerous capabilities they are meant to detect, because access controls governing who can test powerful models are inconsistent and poorly enforced. The report highlights that outsider access to frontier models during red-teaming and safety evaluations is governed by patchy rules and relies heavily on the assumption that no bad actor gains access. The finding poses a direct challenge to the credibility of current AI safety frameworks used by labs and governments globally.",
+    "source_url": "https://www.theregister.com/ai-ml/2026/05/12/frontier-ai-safety-tests-may-be-creating-the-very-risks-theyre-meant-to-stop/5238734",
+    "source_name": "The Register",
+    "companies": [],
+    "technologies": [
+      "frontier AI models",
+      "AI safety evaluation",
+      "red-teaming"
+    ],
+    "use_cases": [
+      "AI safety testing",
+      "AI risk governance",
+      "model access control"
+    ]
+  }
+}

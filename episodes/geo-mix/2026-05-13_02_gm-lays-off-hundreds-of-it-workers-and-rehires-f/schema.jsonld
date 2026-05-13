@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-13",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-13T00:00:00Z",
+      "datePublished": "2026-05-13T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=chDoPEeAuSE",
+      "embedUrl": "https://www.youtube.com/embed/chDoPEeAuSE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/chDoPEeAuSE/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-13",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "GM lays off hundreds of IT workers and rehires for AI-native roles in major workforce pivot",
+            "articleSection": "Job Evolution",
+            "abstract": "General Motors has laid off hundreds of IT employees and is actively replacing them with workers skilled in AI-native development, data engineering, cloud-based engineering, agent and model development, and prompt engineering. The move signals that one of America's largest manufacturers is treating AI competency as a core job requirement rather than a specialist add-on. This is one of the most concrete examples yet of a major non-tech corporation restructuring its entire IT workforce around AI skills.",
+            "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "General Motors"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-native development"
+              },
+              {
+                "@type": "Thing",
+                "name": "data engineering"
+              },
+              {
+                "@type": "Thing",
+                "name": "prompt engineering"
+              },
+              {
+                "@type": "Thing",
+                "name": "agentic AI"
+              }
+            ],
+            "keywords": "General Motors, AI-native development, data engineering, prompt engineering, agentic AI, IT workforce restructuring, AI skills hiring, enterprise AI transformation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

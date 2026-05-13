@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-13",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-13T00:00:00Z",
+      "datePublished": "2026-05-13T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=acaP5BIO9Pc",
+      "embedUrl": "https://www.youtube.com/embed/acaP5BIO9Pc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/acaP5BIO9Pc/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-13",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Frontier AI safety tests may be generating the very risks they are designed to prevent, think tank warns",
+            "articleSection": "Policy & Rights",
+            "abstract": "A think tank has warned that the safety evaluation processes used by frontier AI labs may be inadvertently creating the dangerous capabilities they are meant to detect, because access controls governing who can test powerful models are inconsistent and poorly enforced. The report highlights that outsider access to frontier models during red-teaming and safety evaluations is governed by patchy rules and relies heavily on the assumption that no bad actor gains access. The finding poses a direct challenge to the credibility of current AI safety frameworks used by labs and governments globally.",
+            "url": "https://www.theregister.com/ai-ml/2026/05/12/frontier-ai-safety-tests-may-be-creating-the-very-risks-theyre-meant-to-stop/5238734",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "frontier AI models"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI safety evaluation"
+              },
+              {
+                "@type": "Thing",
+                "name": "red-teaming"
+              }
+            ],
+            "keywords": "frontier AI models, AI safety evaluation, red-teaming, AI safety testing, AI risk governance, model access control",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-13",
+  "rank": 9,
+  "video_url": "https://www.youtube.com/watch?v=dcnKCVYaMFU",
+  "thumbnail_url": "https://i.ytimg.com/vi/dcnKCVYaMFU/maxresdefault.jpg",
+  "story": {
+    "title": "NHS England confirms Palantir staff can access identifiable patient data under admin role",
+    "pillar": "Policy & Rights",
+    "summary": "NHS England has confirmed that staff employed by US data analytics firm Palantir can be granted an administrator role that provides access to identifiable patient data held within the National Data Integration Tenant. The disclosure raises significant privacy concerns given the sensitivity of health records and the fact that a private US company's employees can view them. The confirmation is likely to intensify political and public scrutiny of the NHS-Palantir data contract in the UK.",
+    "source_url": "https://www.theregister.com/databases/2026/05/12/nhs-england-confirms-palantir-staff-can-access-patient-data/5238712",
+    "source_name": "The Register",
+    "companies": [
+      "NHS England",
+      "Palantir"
+    ],
+    "technologies": [
+      "National Data Integration Tenant",
+      "health data analytics",
+      "AI health platforms"
+    ],
+    "use_cases": [
+      "NHS data integration",
+      "patient data access governance",
+      "health analytics"
+    ]
+  }
+}

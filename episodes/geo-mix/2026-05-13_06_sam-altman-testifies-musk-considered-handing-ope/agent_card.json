@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-13",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=xumx9kRTKL0",
+  "thumbnail_url": "https://i.ytimg.com/vi/xumx9kRTKL0/maxresdefault.jpg",
+  "story": {
+    "title": "Sam Altman testifies Musk considered handing OpenAI to his children during early control dispute",
+    "pillar": "Policy & Rights",
+    "summary": "In the ongoing Musk v. Altman trial, OpenAI CEO Sam Altman testified that Elon Musk at one point considered transferring control of OpenAI to his children, a prospect that alarmed Altman given OpenAI's stated mission to keep advanced AI out of any single person's hands. Altman also drew on his Y Combinator experience to argue that founders who gain control rarely relinquish it. The testimony adds new detail to the dispute over who controls the organisation developing some of the world's most powerful AI systems.",
+    "source_url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "OpenAI",
+      "Y Combinator",
+      "xAI"
+    ],
+    "technologies": [
+      "large language models",
+      "AI governance"
+    ],
+    "use_cases": [
+      "AI governance",
+      "corporate control of AI labs",
+      "AI non-profit oversight"
+    ]
+  }
+}

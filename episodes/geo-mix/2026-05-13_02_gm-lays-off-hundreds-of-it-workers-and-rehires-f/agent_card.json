@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-13",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=chDoPEeAuSE",
+  "thumbnail_url": "https://i.ytimg.com/vi/chDoPEeAuSE/maxresdefault.jpg",
+  "story": {
+    "title": "GM lays off hundreds of IT workers and rehires for AI-native roles in major workforce pivot",
+    "pillar": "Job Evolution",
+    "summary": "General Motors has laid off hundreds of IT employees and is actively replacing them with workers skilled in AI-native development, data engineering, cloud-based engineering, agent and model development, and prompt engineering. The move signals that one of America's largest manufacturers is treating AI competency as a core job requirement rather than a specialist add-on. This is one of the most concrete examples yet of a major non-tech corporation restructuring its entire IT workforce around AI skills.",
+    "source_url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "General Motors"
+    ],
+    "technologies": [
+      "AI-native development",
+      "data engineering",
+      "prompt engineering",
+      "agentic AI"
+    ],
+    "use_cases": [
+      "IT workforce restructuring",
+      "AI skills hiring",
+      "enterprise AI transformation"
+    ]
+  }
+}

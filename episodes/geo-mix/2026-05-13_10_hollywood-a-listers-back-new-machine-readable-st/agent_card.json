@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-13",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=XrpoZx-JiX4",
+  "thumbnail_url": "https://i.ytimg.com/vi/XrpoZx-JiX4/maxresdefault.jpg",
+  "story": {
+    "title": "Hollywood A-listers back new machine-readable standard that would pay them when AI uses their likeness",
+    "pillar": "Policy & Rights",
+    "summary": "A group of prominent Hollywood actors has backed a proposed industry standard from RSL Media that would embed machine-readable licensing rules into content metadata, ensuring that AI systems using an actor's likeness or creative work would trigger an automatic payment obligation. The standard is designed to work across AI training pipelines and generative media platforms, giving creators a technical and legal mechanism to track and monetise AI use of their identity. The move comes as AI-generated likeness technology accelerates and existing copyright frameworks struggle to keep pace.",
+    "source_url": "https://www.theregister.com/ai-ml/2026/05/12/actors-new-spec-aims-to-defeat-attack-of-the-ai-clones/5239115",
+    "source_name": "The Register",
+    "companies": [
+      "RSL Media"
+    ],
+    "technologies": [
+      "machine-readable licensing",
+      "AI likeness generation",
+      "generative AI",
+      "content metadata"
+    ],
+    "use_cases": [
+      "AI likeness licensing",
+      "creator rights protection",
+      "AI training data compensation"
+    ]
+  }
+}
