@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-15",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-15T00:00:00Z",
+      "datePublished": "2026-05-15T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=ofSdAtG0J6Q",
+      "embedUrl": "https://www.youtube.com/embed/ofSdAtG0J6Q",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ofSdAtG0J6Q/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-15",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "AI Startup Margins Under Pressure: Kalaari Capital Says Indian AI Founders Must Prove Unit Economics, Not Just Growth",
+            "articleSection": "Job Evolution",
+            "abstract": "Kalaari Capital investor Harshit Kumar has publicly warned that AI-native startups in India cannot rely on the high gross margins that defined the SaaS era, as rising inference costs and the need for human review layers are structurally compressing profitability. Kumar advised founders to build measurable customer outcomes and defensible moats rather than competing on feature breadth. The commentary reflects a broader investor recalibration in India's AI startup ecosystem as the initial hype cycle gives way to scrutiny of sustainable business models.",
+            "url": "https://economictimes.indiatimes.com/tech/startups/ai-startups-dont-enjoy-saas-era-margins-heres-what-kalaari-capitals-harshit-kumar-says-founders-should-do-instead/articleshow/131120241.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Kalaari Capital"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI inference"
+              },
+              {
+                "@type": "Thing",
+                "name": "SaaS platforms"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-native applications"
+              }
+            ],
+            "keywords": "Kalaari Capital, AI inference, SaaS platforms, AI-native applications, AI startup business model design, venture capital investment strategy, AI cost optimisation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

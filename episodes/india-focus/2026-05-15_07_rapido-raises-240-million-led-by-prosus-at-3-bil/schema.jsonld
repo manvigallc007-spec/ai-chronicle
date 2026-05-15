@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-15",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-15T00:00:00Z",
+      "datePublished": "2026-05-15T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=nJjBifXKTxE",
+      "embedUrl": "https://www.youtube.com/embed/nJjBifXKTxE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/nJjBifXKTxE/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-15",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Rapido Raises $240 Million Led by Prosus at $3 Billion Valuation as Indian Ride-Hailing Competition Intensifies",
+            "articleSection": "Daily Utility",
+            "abstract": "Bengaluru-based ride-hailing platform Rapido has raised $240 million in primary funding led by Prosus, valuing the company at $3 billion and making it one of India's most valuable mobility startups. The company plans to use the capital to strengthen its technology platform, expand its driver and rider network, and deepen its market presence against rivals Ola and Uber. The raise comes as Maharashtra's transport minister separately called for a shutdown of bike taxi services operated by Rapido, Ola, and Uber, creating a regulatory overhang.",
+            "url": "https://yourstory.com/2026/05/rapido-raises-240m-in-primary-funding-led-by-prosus-at-3b-valuation",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Rapido"
+              },
+              {
+                "@type": "Organization",
+                "name": "Prosus"
+              },
+              {
+                "@type": "Thing",
+                "name": "ride-hailing platform"
+              },
+              {
+                "@type": "Thing",
+                "name": "mobility tech"
+              },
+              {
+                "@type": "Thing",
+                "name": "bike taxi technology"
+              }
+            ],
+            "keywords": "Rapido, Prosus, ride-hailing platform, mobility tech, bike taxi technology, urban last-mile mobility, gig economy platform scaling, ride-hailing market expansion",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

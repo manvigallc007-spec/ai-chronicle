@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-15",
+  "rank": 8,
+  "video_url": "https://www.youtube.com/watch?v=ZQ_mJIupnWM",
+  "thumbnail_url": "https://i.ytimg.com/vi/ZQ_mJIupnWM/maxresdefault.jpg",
+  "story": {
+    "title": "Karnataka Fast-Tracks Drone Testing Facility Near Bengaluru to Lead India's Drone Economy",
+    "pillar": "Discovery & Research",
+    "summary": "The Karnataka government is accelerating development of a dedicated drone testing facility near Bengaluru as part of its strategy to become the anchor state in India's rapidly growing drone economy. The facility is intended to provide a certified environment for drone manufacturers, startups, and defence-adjacent companies to test unmanned aerial systems without navigating the complexities of airspace permissions. Karnataka already hosts a significant concentration of drone and aerospace startups and is competing with states like Uttar Pradesh and Telangana for leadership in the sector.",
+    "source_url": "https://yourstory.com/2026/05/karnataka-drone-testing-facility-bengaluru-drone-economy",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "Karnataka State Government"
+    ],
+    "technologies": [
+      "drone technology",
+      "unmanned aerial systems",
+      "drone testing infrastructure"
+    ],
+    "use_cases": [
+      "drone manufacturing certification",
+      "aerospace startup support",
+      "defence-adjacent drone testing"
+    ]
+  }
+}

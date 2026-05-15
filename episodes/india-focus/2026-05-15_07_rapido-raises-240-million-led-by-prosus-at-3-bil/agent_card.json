@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-15",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=nJjBifXKTxE",
+  "thumbnail_url": "https://i.ytimg.com/vi/nJjBifXKTxE/maxresdefault.jpg",
+  "story": {
+    "title": "Rapido Raises $240 Million Led by Prosus at $3 Billion Valuation as Indian Ride-Hailing Competition Intensifies",
+    "pillar": "Daily Utility",
+    "summary": "Bengaluru-based ride-hailing platform Rapido has raised $240 million in primary funding led by Prosus, valuing the company at $3 billion and making it one of India's most valuable mobility startups. The company plans to use the capital to strengthen its technology platform, expand its driver and rider network, and deepen its market presence against rivals Ola and Uber. The raise comes as Maharashtra's transport minister separately called for a shutdown of bike taxi services operated by Rapido, Ola, and Uber, creating a regulatory overhang.",
+    "source_url": "https://yourstory.com/2026/05/rapido-raises-240m-in-primary-funding-led-by-prosus-at-3b-valuation",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "Rapido",
+      "Prosus"
+    ],
+    "technologies": [
+      "ride-hailing platform",
+      "mobility tech",
+      "bike taxi technology"
+    ],
+    "use_cases": [
+      "urban last-mile mobility",
+      "gig economy platform scaling",
+      "ride-hailing market expansion"
+    ]
+  }
+}

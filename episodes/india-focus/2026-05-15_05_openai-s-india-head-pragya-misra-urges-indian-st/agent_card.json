@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-15",
+  "rank": 5,
+  "video_url": "https://www.youtube.com/watch?v=lzJNW2LUvBo",
+  "thumbnail_url": "https://i.ytimg.com/vi/lzJNW2LUvBo/maxresdefault.jpg",
+  "story": {
+    "title": "OpenAI's India Head Pragya Misra Urges Indian Startups to Build for Future AI Problems, Not Just Today's",
+    "pillar": "How to Evolve",
+    "summary": "OpenAI's India policy and partnerships head Pragya Misra has cautioned Indian startups against 'recency bias' — building products that solve only today's AI limitations rather than anticipating capabilities that will exist within two to three years. She described India as one of OpenAI's most important testing grounds globally, given the country's scale and linguistic diversity. Misra also stressed that technical depth remains non-negotiable for founders even as AI tools lower the barrier to product creation.",
+    "source_url": "https://economictimes.indiatimes.com/tech/startups/indian-startups-must-avoid-recency-bias-while-building-for-an-ai-first-world-openais-pragya-misra/articleshow/131111908.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "OpenAI"
+    ],
+    "technologies": [
+      "generative AI",
+      "AI product development",
+      "large language models"
+    ],
+    "use_cases": [
+      "AI startup strategy",
+      "Indian market AI adoption",
+      "founder capability building"
+    ]
+  }
+}

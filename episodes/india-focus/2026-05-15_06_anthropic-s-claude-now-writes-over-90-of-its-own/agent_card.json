@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-15",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=BD1u3wKwuyg",
+  "thumbnail_url": "https://i.ytimg.com/vi/BD1u3wKwuyg/maxresdefault.jpg",
+  "story": {
+    "title": "Anthropic's Claude Now Writes Over 90% of Its Own Code, CFO Krishna Rao Reveals",
+    "pillar": "Job Evolution",
+    "summary": "Anthropic CFO Krishna Rao has disclosed that Claude, the company's flagship AI model, now generates more than 90% of Anthropic's internal codebase, a striking indicator of how AI is reshaping even the most AI-native workplaces. Despite this automation, Anthropic is continuing to hire, positioning AI as an amplifier of human talent rather than a replacement. The disclosure has immediate relevance for Indian software engineers and IT professionals who face growing pressure to justify their roles as AI coding tools mature.",
+    "source_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-claude-writes-90-of-code-cfo-krishna-rao-reveals-productivity-gains/articleshow/131121594.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Anthropic"
+    ],
+    "technologies": [
+      "Claude",
+      "AI code generation",
+      "Claude Code"
+    ],
+    "use_cases": [
+      "AI-assisted software engineering",
+      "enterprise productivity automation",
+      "developer workflow transformation"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-15",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-15T00:00:00Z",
+      "datePublished": "2026-05-15T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Qe5uFnMAfko",
+      "embedUrl": "https://www.youtube.com/embed/Qe5uFnMAfko",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Qe5uFnMAfko/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-15",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "ED Freezes Rs 526 Crore of Gameskraft Assets, Alleges AI Bots Manipulated Online Rummy Games",
+            "articleSection": "Policy & Rights",
+            "abstract": "India's Enforcement Directorate has frozen Rs 526.49 crore in assets belonging to online gaming platform Gameskraft as part of a money laundering investigation, with authorities alleging the company deployed bots to manipulate outcomes in real-money rummy games. The ED further alleges Gameskraft operated in Indian states where real-money gaming is legally prohibited. The case marks one of the most significant regulatory enforcement actions against an Indian online gaming platform and raises questions about the use of automated agents in consumer-facing games.",
+            "url": "https://www.medianama.com/2026/05/223-ed-freezes-rs-526-crore-gameskraft-probe-alleges-bots-online-rummy-games/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Gameskraft"
+              },
+              {
+                "@type": "Organization",
+                "name": "Enforcement Directorate"
+              },
+              {
+                "@type": "Thing",
+                "name": "gaming bots"
+              },
+              {
+                "@type": "Thing",
+                "name": "automated agents"
+              },
+              {
+                "@type": "Thing",
+                "name": "real-money gaming platforms"
+              }
+            ],
+            "keywords": "Gameskraft, Enforcement Directorate, gaming bots, automated agents, real-money gaming platforms, online gaming fraud detection, regulatory enforcement in gaming, AI bot manipulation in consumer platforms",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

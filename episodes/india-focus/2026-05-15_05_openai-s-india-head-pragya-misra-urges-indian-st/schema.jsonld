@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-15",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-15T00:00:00Z",
+      "datePublished": "2026-05-15T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=lzJNW2LUvBo",
+      "embedUrl": "https://www.youtube.com/embed/lzJNW2LUvBo",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lzJNW2LUvBo/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-15",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "OpenAI's India Head Pragya Misra Urges Indian Startups to Build for Future AI Problems, Not Just Today's",
+            "articleSection": "How to Evolve",
+            "abstract": "OpenAI's India policy and partnerships head Pragya Misra has cautioned Indian startups against 'recency bias' — building products that solve only today's AI limitations rather than anticipating capabilities that will exist within two to three years. She described India as one of OpenAI's most important testing grounds globally, given the country's scale and linguistic diversity. Misra also stressed that technical depth remains non-negotiable for founders even as AI tools lower the barrier to product creation.",
+            "url": "https://economictimes.indiatimes.com/tech/startups/indian-startups-must-avoid-recency-bias-while-building-for-an-ai-first-world-openais-pragya-misra/articleshow/131111908.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Thing",
+                "name": "generative AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI product development"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              }
+            ],
+            "keywords": "OpenAI, generative AI, AI product development, large language models, AI startup strategy, Indian market AI adoption, founder capability building",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

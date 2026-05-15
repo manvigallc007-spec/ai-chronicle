@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-15",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-15T00:00:00Z",
+      "datePublished": "2026-05-15T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=WZbcB4yjGJ4",
+      "embedUrl": "https://www.youtube.com/embed/WZbcB4yjGJ4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WZbcB4yjGJ4/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-15",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Dainik Bhaskar and Indian Publishers File CCI Complaint Against Google Over AI Search Revenue Sharing",
+            "articleSection": "Policy & Rights",
+            "abstract": "Dainik Bhaskar, one of India's largest Hindi-language media groups, has joined other publishers in filing a complaint with the Competition Commission of India against Google, citing concerns over unfair revenue sharing as AI-driven search reduces traffic to news websites. The publishers allege that Google's AI-powered search summaries are displaying their content without adequate compensation. This filing marks a significant escalation in the global publisher-versus-platform dispute, now formally entering India's competition regulatory arena.",
+            "url": "https://www.medianama.com/2026/05/223-dainik-bhaskar-publishers-file-cci-case-google-revenue-sharing/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Dainik Bhaskar"
+              },
+              {
+                "@type": "Organization",
+                "name": "Google"
+              },
+              {
+                "@type": "Organization",
+                "name": "Competition Commission of India"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-powered search"
+              },
+              {
+                "@type": "Thing",
+                "name": "generative AI summaries"
+              },
+              {
+                "@type": "Thing",
+                "name": "news aggregation"
+              }
+            ],
+            "keywords": "Dainik Bhaskar, Google, Competition Commission of India, AI-powered search, generative AI summaries, news aggregation, AI content monetisation disputes, antitrust regulation of AI platforms, publisher revenue protection",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

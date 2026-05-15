@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-15",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-15T00:00:00Z",
+      "datePublished": "2026-05-15T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=TCEbKtNShaE",
+      "embedUrl": "https://www.youtube.com/embed/TCEbKtNShaE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/TCEbKtNShaE/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-15",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Sarvam AI's Vivek Raghavan: 'Data in Motion' From Real Users Is the Most Valuable AI Asset for Indian Startups",
+            "articleSection": "How to Evolve",
+            "abstract": "Sarvam AI cofounder Vivek Raghavan has publicly argued that real-time user interaction data — what he calls 'data in motion' — is the single most valuable competitive asset for AI companies, surpassing static training datasets. Raghavan's perspective is particularly relevant for Indian startups building AI products for India's diverse, multilingual user base, where live usage patterns are difficult to replicate. Sarvam AI, which recently reached a $1.5 billion valuation, has built its own 105-billion-parameter model tailored to Indian languages.",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/why-sarvams-vivek-raghavan-calls-data-in-motion-the-most-valuable-asset-for-ai-startups/articleshow/131121438.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Sarvam AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "data flywheel"
+              },
+              {
+                "@type": "Thing",
+                "name": "multilingual AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "real-time user data"
+              }
+            ],
+            "keywords": "Sarvam AI, large language models, data flywheel, multilingual AI, real-time user data, AI startup strategy, Indian language AI development, competitive data moats",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

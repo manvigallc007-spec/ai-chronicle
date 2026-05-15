@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-15",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-15T00:00:00Z",
+      "datePublished": "2026-05-15T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=dmhwSdiH_8Q",
+      "embedUrl": "https://www.youtube.com/embed/dmhwSdiH_8Q",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dmhwSdiH_8Q/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-15",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Over 12 Lakh Indian Chemists Plan May 20 Shutdown Over Fake AI-Generated Prescriptions",
+            "articleSection": "Daily Utility",
+            "abstract": "More than 1.2 million chemists across India are planning a nationwide shop shutdown on May 20 in protest against e-pharmacies allegedly accepting AI-generated fake prescriptions. The strike signals a deepening conflict between traditional pharmacy networks and online medicine platforms over patient safety and regulatory compliance. The dispute exposes a critical gap in India's health regulatory framework as AI tools become capable of producing convincing medical documentation.",
+            "url": "https://www.medianama.com/2026/05/223-chemist-strike-against-e-pharmacies-may-20-ai-generated-prescriptions/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "All India Organisation of Chemists and Druggists"
+              },
+              {
+                "@type": "Thing",
+                "name": "generative AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-generated prescriptions"
+              },
+              {
+                "@type": "Thing",
+                "name": "e-pharmacy platforms"
+              }
+            ],
+            "keywords": "All India Organisation of Chemists and Druggists, generative AI, AI-generated prescriptions, e-pharmacy platforms, AI document generation, online medicine dispensing, prescription fraud detection",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

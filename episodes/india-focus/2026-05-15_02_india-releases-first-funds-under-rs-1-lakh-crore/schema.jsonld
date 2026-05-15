@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-15",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-15T00:00:00Z",
+      "datePublished": "2026-05-15T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=9ryeQGbpXxA",
+      "embedUrl": "https://www.youtube.com/embed/9ryeQGbpXxA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9ryeQGbpXxA/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-15",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "India Releases First Funds Under Rs 1 Lakh Crore RDI Scheme, Backing Five Deep Tech Startups",
+            "articleSection": "Discovery & Research",
+            "abstract": "The Indian government has disbursed the first cheques under its Rs 1 lakh crore Research, Development and Innovation Fund, selecting five deep tech startups working across space, robotics, batteries, drones, and advanced healthcare. This marks a significant milestone in India's push to translate state capital into frontier technology development. The RDI Scheme is one of the largest government-backed innovation funding mechanisms in India's history.",
+            "url": "https://yourstory.com/2026/05/india-rdi-fund-first-deep-tech-startups-funding",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Government of India"
+              },
+              {
+                "@type": "Organization",
+                "name": "Ministry of Science and Technology"
+              },
+              {
+                "@type": "Thing",
+                "name": "space technology"
+              },
+              {
+                "@type": "Thing",
+                "name": "robotics"
+              },
+              {
+                "@type": "Thing",
+                "name": "battery technology"
+              },
+              {
+                "@type": "Thing",
+                "name": "drone technology"
+              },
+              {
+                "@type": "Thing",
+                "name": "advanced healthcare tech"
+              }
+            ],
+            "keywords": "Government of India, Ministry of Science and Technology, space technology, robotics, battery technology, drone technology, advanced healthcare tech, deep tech startup funding, government innovation grants, R&D commercialisation",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

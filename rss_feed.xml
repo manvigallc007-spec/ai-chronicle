@@ -4,7 +4,77 @@
     <title>The AI Chronicle</title>
     <link>https://manvigallc007-spec.github.io/ai-chronicle/</link>
     <description>Daily AI news — India focus and global mix</description>
-    <lastBuildDate>Wed, 13 May 2026 01:58:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 17:54:53 +0000</lastBuildDate>
+    <item>
+      <title>AI Startup Margins Under Pressure: Kalaari Capital Says Indian AI Founders Must Prove Unit Economics, Not Just Growth</title>
+      <link>https://www.youtube.com/watch?v=ofSdAtG0J6Q</link>
+      <description>Kalaari Capital investor Harshit Kumar has publicly warned that AI-native startups in India cannot rely on the high gross margins that defined the SaaS era, as rising inference costs and the need for human review layers are structurally compressing profitability. Kumar advised founders to build measurable customer outcomes and defensible moats rather than competing on feature breadth. The commentary reflects a broader investor recalibration in India&apos;s AI startup ecosystem as the initial hype cycle gives way to scrutiny of sustainable business models.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ofSdAtG0J6Q</guid>
+    </item>
+    <item>
+      <title>ED Freezes Rs 526 Crore of Gameskraft Assets, Alleges AI Bots Manipulated Online Rummy Games</title>
+      <link>https://www.youtube.com/watch?v=Qe5uFnMAfko</link>
+      <description>India&apos;s Enforcement Directorate has frozen Rs 526.49 crore in assets belonging to online gaming platform Gameskraft as part of a money laundering investigation, with authorities alleging the company deployed bots to manipulate outcomes in real-money rummy games. The ED further alleges Gameskraft operated in Indian states where real-money gaming is legally prohibited. The case marks one of the most significant regulatory enforcement actions against an Indian online gaming platform and raises questions about the use of automated agents in consumer-facing games.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Qe5uFnMAfko</guid>
+    </item>
+    <item>
+      <title>Karnataka Fast-Tracks Drone Testing Facility Near Bengaluru to Lead India&apos;s Drone Economy</title>
+      <link>https://www.youtube.com/watch?v=ZQ_mJIupnWM</link>
+      <description>The Karnataka government is accelerating development of a dedicated drone testing facility near Bengaluru as part of its strategy to become the anchor state in India&apos;s rapidly growing drone economy. The facility is intended to provide a certified environment for drone manufacturers, startups, and defence-adjacent companies to test unmanned aerial systems without navigating the complexities of airspace permissions. Karnataka already hosts a significant concentration of drone and aerospace startups and is competing with states like Uttar Pradesh and Telangana for leadership in the sector.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ZQ_mJIupnWM</guid>
+    </item>
+    <item>
+      <title>Rapido Raises $240 Million Led by Prosus at $3 Billion Valuation as Indian Ride-Hailing Competition Intensifies</title>
+      <link>https://www.youtube.com/watch?v=nJjBifXKTxE</link>
+      <description>Bengaluru-based ride-hailing platform Rapido has raised $240 million in primary funding led by Prosus, valuing the company at $3 billion and making it one of India&apos;s most valuable mobility startups. The company plans to use the capital to strengthen its technology platform, expand its driver and rider network, and deepen its market presence against rivals Ola and Uber. The raise comes as Maharashtra&apos;s transport minister separately called for a shutdown of bike taxi services operated by Rapido, Ola, and Uber, creating a regulatory overhang.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=nJjBifXKTxE</guid>
+    </item>
+    <item>
+      <title>Anthropic&apos;s Claude Now Writes Over 90% of Its Own Code, CFO Krishna Rao Reveals</title>
+      <link>https://www.youtube.com/watch?v=BD1u3wKwuyg</link>
+      <description>Anthropic CFO Krishna Rao has disclosed that Claude, the company&apos;s flagship AI model, now generates more than 90% of Anthropic&apos;s internal codebase, a striking indicator of how AI is reshaping even the most AI-native workplaces. Despite this automation, Anthropic is continuing to hire, positioning AI as an amplifier of human talent rather than a replacement. The disclosure has immediate relevance for Indian software engineers and IT professionals who face growing pressure to justify their roles as AI coding tools mature.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=BD1u3wKwuyg</guid>
+    </item>
+    <item>
+      <title>OpenAI&apos;s India Head Pragya Misra Urges Indian Startups to Build for Future AI Problems, Not Just Today&apos;s</title>
+      <link>https://www.youtube.com/watch?v=lzJNW2LUvBo</link>
+      <description>OpenAI&apos;s India policy and partnerships head Pragya Misra has cautioned Indian startups against &apos;recency bias&apos; — building products that solve only today&apos;s AI limitations rather than anticipating capabilities that will exist within two to three years. She described India as one of OpenAI&apos;s most important testing grounds globally, given the country&apos;s scale and linguistic diversity. Misra also stressed that technical depth remains non-negotiable for founders even as AI tools lower the barrier to product creation.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=lzJNW2LUvBo</guid>
+    </item>
+    <item>
+      <title>Sarvam AI&apos;s Vivek Raghavan: &apos;Data in Motion&apos; From Real Users Is the Most Valuable AI Asset for Indian Startups</title>
+      <link>https://www.youtube.com/watch?v=TCEbKtNShaE</link>
+      <description>Sarvam AI cofounder Vivek Raghavan has publicly argued that real-time user interaction data — what he calls &apos;data in motion&apos; — is the single most valuable competitive asset for AI companies, surpassing static training datasets. Raghavan&apos;s perspective is particularly relevant for Indian startups building AI products for India&apos;s diverse, multilingual user base, where live usage patterns are difficult to replicate. Sarvam AI, which recently reached a $1.5 billion valuation, has built its own 105-billion-parameter model tailored to Indian languages.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=TCEbKtNShaE</guid>
+    </item>
+    <item>
+      <title>Dainik Bhaskar and Indian Publishers File CCI Complaint Against Google Over AI Search Revenue Sharing</title>
+      <link>https://www.youtube.com/watch?v=WZbcB4yjGJ4</link>
+      <description>Dainik Bhaskar, one of India&apos;s largest Hindi-language media groups, has joined other publishers in filing a complaint with the Competition Commission of India against Google, citing concerns over unfair revenue sharing as AI-driven search reduces traffic to news websites. The publishers allege that Google&apos;s AI-powered search summaries are displaying their content without adequate compensation. This filing marks a significant escalation in the global publisher-versus-platform dispute, now formally entering India&apos;s competition regulatory arena.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=WZbcB4yjGJ4</guid>
+    </item>
+    <item>
+      <title>India Releases First Funds Under Rs 1 Lakh Crore RDI Scheme, Backing Five Deep Tech Startups</title>
+      <link>https://www.youtube.com/watch?v=9ryeQGbpXxA</link>
+      <description>The Indian government has disbursed the first cheques under its Rs 1 lakh crore Research, Development and Innovation Fund, selecting five deep tech startups working across space, robotics, batteries, drones, and advanced healthcare. This marks a significant milestone in India&apos;s push to translate state capital into frontier technology development. The RDI Scheme is one of the largest government-backed innovation funding mechanisms in India&apos;s history.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=9ryeQGbpXxA</guid>
+    </item>
+    <item>
+      <title>Over 12 Lakh Indian Chemists Plan May 20 Shutdown Over Fake AI-Generated Prescriptions</title>
+      <link>https://www.youtube.com/watch?v=dmhwSdiH_8Q</link>
+      <description>More than 1.2 million chemists across India are planning a nationwide shop shutdown on May 20 in protest against e-pharmacies allegedly accepting AI-generated fake prescriptions. The strike signals a deepening conflict between traditional pharmacy networks and online medicine platforms over patient safety and regulatory compliance. The dispute exposes a critical gap in India&apos;s health regulatory framework as AI tools become capable of producing convincing medical documentation.</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=dmhwSdiH_8Q</guid>
+    </item>
     <item>
       <title>Electric Two-Wheeler Makers in India Face Margin Squeeze as AI Infrastructure Boom Drives Up Chip Costs</title>
       <link>https://www.youtube.com/watch?v=rQ8oUi47OWQ</link>
@@ -284,76 +354,6 @@
       <description>The Delhi High Court announced it would issue blocking orders against AI-generated deepfake videos falsely depicting Congress MP Shashi Tharoor praising Pakistan, after he filed a petition over the misuse of his identity. The case marks one of the most prominent Indian legal interventions involving political deepfakes during an active security-sensitive period. The ruling signals growing judicial willingness to act swiftly against AI-generated political disinformation in India.</description>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=04Q0rcCIzk0</guid>
-    </item>
-    <item>
-      <title>Proshort AI Sales Coaching Platform Crosses $1M ARR Within a Year of Launch</title>
-      <link>https://www.youtube.com/watch?v=5_eo_xkWTW0</link>
-      <description>Indian AI startup Proshort, founded by Gaurav Mishra, has reached $1 million in annual recurring revenue within its first year by offering real-time AI sales coaching that delivers live insights to sales professionals during customer interactions. The platform targets India&apos;s large and growing sales workforce, providing on-the-job AI assistance without requiring formal training programmes. Crossing $1M ARR in year one positions Proshort among the faster-growing B2B AI SaaS companies to emerge from India in 2025–26.</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=5_eo_xkWTW0</guid>
-    </item>
-    <item>
-      <title>Fi Money Shuts Consumer Banking, Pivots to AI and Enterprise Tech After Co-Founder Gwalani Exits</title>
-      <link>https://www.youtube.com/watch?v=dFljGUTGhk0</link>
-      <description>Fi Money co-founder Sumit Gwalani has stepped down after six years, following the March 2026 shutdown of the neobank&apos;s consumer banking service and a broader strategic pivot toward AI and enterprise technology. The departure underscores the mounting pressures facing India&apos;s neobanking sector, where regulatory constraints on banking partnerships have made pure-play consumer neobanking increasingly difficult to sustain. The company&apos;s shift toward enterprise AI signals a growing trend of Indian fintech startups repositioning away from consumer finance toward B2B AI services.</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=dFljGUTGhk0</guid>
-    </item>
-    <item>
-      <title>Ecofy Raises $15M From Mirova to Expand Green Financing Portfolio Across India&apos;s Energy Transition</title>
-      <link>https://www.youtube.com/watch?v=WMS7ATWskfc</link>
-      <description>Indian green fintech startup Ecofy has raised $15 million from Mirova, an affiliate of Natixis Investment Managers, to expand its portfolio of financing products for India&apos;s energy transition. The investment marks Mirova&apos;s fourth deal in India under its emerging markets climate mandate, underlining growing international confidence in Indian green finance infrastructure. Ecofy targets underserved segments of India&apos;s clean energy economy, including rooftop solar and energy-efficient consumer products, with AI-assisted credit underwriting.</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=WMS7ATWskfc</guid>
-    </item>
-    <item>
-      <title>OpenAI Adds Trusted Contact Safety Feature to ChatGPT to Flag Self-Harm Conversations in Real Time</title>
-      <link>https://www.youtube.com/watch?v=x6QT-0LpebU</link>
-      <description>OpenAI has rolled out a Trusted Contact feature in ChatGPT that allows users to designate a contact person who will be notified by email or SMS if the AI detects self-harm conversations, with the contact informed of their role at the point of being added. The feature is directly relevant to India where ChatGPT usage is growing rapidly and mental health support infrastructure remains uneven. It represents one of the most concrete AI safety guardrails yet built into a major consumer AI platform for vulnerable users.</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=x6QT-0LpebU</guid>
-    </item>
-    <item>
-      <title>Karnataka Plans Dedicated SpaceTech Testing Facilities and Manufacturing Parks Under DeepTech Decade Vision</title>
-      <link>https://www.youtube.com/watch?v=nJ_AhX-DhfI</link>
-      <description>Karnataka has announced plans to expand its role in India&apos;s commercial space economy through a DeepTech Decade vision that includes common testing facilities and dedicated manufacturing parks for space startups and MSMEs. The initiative targets reducing the infrastructure barrier that prevents smaller players from accessing space-grade testing environments. Bengaluru, already home to ISRO and dozens of spacetech startups, is positioned as the state&apos;s anchor hub for this push.</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=nJ_AhX-DhfI</guid>
-    </item>
-    <item>
-      <title>India and Japan Sign Quantum Technology and Health Research Cooperation Agreements</title>
-      <link>https://www.youtube.com/watch?v=an-CYM5wKHc</link>
-      <description>India and Japan have formalised bilateral agreements to collaborate on quantum science and medical device research, aiming to jointly advance science, technology, and innovation partnerships. The deals are intended to foster joint R&amp;D projects and strengthen academic and industrial ties between the two nations. The quantum technology agreement is particularly significant as India races to build domestic capabilities in post-classical computing alongside its AI infrastructure push.</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=an-CYM5wKHc</guid>
-    </item>
-    <item>
-      <title>Zee Sues Nykaa in Delhi HC Over Copyrighted Songs Used in Instagram Reels Ads Without Permission</title>
-      <link>https://www.youtube.com/watch?v=Iku0pOOUejs</link>
-      <description>Zee Entertainment has filed a lawsuit against beauty e-commerce platform Nykaa in the Delhi High Court, alleging that Nykaa used Zee&apos;s copyrighted songs in Instagram Reels advertising campaigns without obtaining licences or paying royalties, and seeking Rs 2 crore in damages. The case could set a landmark precedent for how Indian brands are required to clear music rights before using short-form video content for commercial promotion on social media platforms. Legal experts say the outcome may reshape compliance practices across India&apos;s digital advertising industry.</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Iku0pOOUejs</guid>
-    </item>
-    <item>
-      <title>India&apos;s PoS Terminal Shortage Deepens as China Import Disruptions Push Device Prices Up 15–20%</title>
-      <link>https://www.youtube.com/watch?v=3nD_piqkFCo</link>
-      <description>India&apos;s digital payments industry is grappling with a shortage of new point-of-sale terminals caused by disruptions to imports from China and the West Asia conflict, pushing device prices up by 15–20%. Payments companies are being forced to extend the lifecycles of existing terminals and manage their installed base more carefully. The squeeze threatens the expansion of card and UPI acceptance infrastructure at India&apos;s retail merchants.</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=3nD_piqkFCo</guid>
-    </item>
-    <item>
-      <title>Adobe Opens New Noida Office With AI Innovation Focus as India Deepens Its Role in Global R&amp;D</title>
-      <link>https://www.youtube.com/watch?v=SGlNV3l2zO0</link>
-      <description>Adobe has expanded its India footprint with a new office in Noida, explicitly positioned as a centre for advancing AI-driven innovation and marking what the company calls an important milestone in driving global product development from India. The opening reflects a broader trend of multinational technology firms deepening their India R&amp;D and AI engineering presence as Indian talent pools grow. Adobe has significant India operations and the new facility is expected to support work on AI-powered creative and document tools.</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=SGlNV3l2zO0</guid>
-    </item>
-    <item>
-      <title>IIT Madras Opens First US Centre in Silicon Valley to Bridge Indian Deeptech Research and Global Markets</title>
-      <link>https://www.youtube.com/watch?v=Gd5PQz00Cjg</link>
-      <description>IIT Madras has established its first overseas centre in Silicon Valley, aimed at serving as a launchpad for Indian deeptech startups through research commercialisation and connections with the US tech ecosystem. The centre is intended to help Indian founders and researchers translate laboratory innovations into globally competitive products. This move comes as India accelerates efforts to build a deeptech pipeline that can compete internationally in AI, semiconductors, and advanced engineering.</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Gd5PQz00Cjg</guid>
     </item>
   </channel>
 </rss>

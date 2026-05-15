@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-15",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=9ryeQGbpXxA",
+  "thumbnail_url": "https://i.ytimg.com/vi/9ryeQGbpXxA/maxresdefault.jpg",
+  "story": {
+    "title": "India Releases First Funds Under Rs 1 Lakh Crore RDI Scheme, Backing Five Deep Tech Startups",
+    "pillar": "Discovery & Research",
+    "summary": "The Indian government has disbursed the first cheques under its Rs 1 lakh crore Research, Development and Innovation Fund, selecting five deep tech startups working across space, robotics, batteries, drones, and advanced healthcare. This marks a significant milestone in India's push to translate state capital into frontier technology development. The RDI Scheme is one of the largest government-backed innovation funding mechanisms in India's history.",
+    "source_url": "https://yourstory.com/2026/05/india-rdi-fund-first-deep-tech-startups-funding",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "Government of India",
+      "Ministry of Science and Technology"
+    ],
+    "technologies": [
+      "space technology",
+      "robotics",
+      "battery technology",
+      "drone technology",
+      "advanced healthcare tech"
+    ],
+    "use_cases": [
+      "deep tech startup funding",
+      "government innovation grants",
+      "R&D commercialisation"
+    ]
+  }
+}
