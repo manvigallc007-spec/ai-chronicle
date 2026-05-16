@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-16",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=J-JYKUvOAq0",
+  "thumbnail_url": "https://i.ytimg.com/vi/J-JYKUvOAq0/maxresdefault.jpg",
+  "story": {
+    "title": "OpenAI's TanStack npm Supply Chain Attack Compromised Two Employee Devices",
+    "pillar": "Policy & Rights",
+    "summary": "OpenAI has confirmed that two employee devices were compromised after malware hidden in poisoned npm packages associated with the TanStack JavaScript ecosystem reached company machines, resulting in the theft of a limited amount of internal credential material. The incident is the latest in a string of software supply chain attacks targeting AI companies and highlights how attackers are using trusted open-source ecosystems as entry points into high-value AI organisations. OpenAI says it has contained the breach and is working with the npm security team.",
+    "source_url": "https://www.theregister.com/security/2026/05/15/openai-caught-in-tanstack-npm-supply-chain-chaos-after-employee-devices-compromised/5241019",
+    "source_name": "The Register",
+    "companies": [
+      "OpenAI",
+      "npm",
+      "GitHub"
+    ],
+    "technologies": [
+      "npm supply chain",
+      "malware",
+      "AI security"
+    ],
+    "use_cases": [
+      "AI company cybersecurity",
+      "software supply chain attack",
+      "credential theft"
+    ]
+  }
+}

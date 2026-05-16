@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-16",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-16T00:00:00Z",
+      "datePublished": "2026-05-16T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=LTXOy-C2LiU",
+      "embedUrl": "https://www.youtube.com/embed/LTXOy-C2LiU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LTXOy-C2LiU/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-16",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Data Centers Drove a 75% Surge in Power Prices Across the US's Largest Energy Market",
+            "articleSection": "Daily Utility",
+            "abstract": "AI-driven data centre expansion has contributed to a 75% jump in electricity prices across the PJM interconnection, the largest wholesale power market in the United States, which serves over 65 million people across 13 states. Energy watchdogs say the surge is being driven by unprecedented demand from AI bit barns, and are recommending that new data centres source their own power rather than draw from shared grids. The price spike has direct knock-on effects for household and business electricity bills across a broad swathe of the country.",
+            "url": "https://www.theregister.com/on-prem/2026/05/15/datacenters-slurping-juice-help-drive-75-jump-in-pjm-power-prices/5241491",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "PJM Interconnection"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI data centres"
+              },
+              {
+                "@type": "Thing",
+                "name": "power grid management"
+              }
+            ],
+            "keywords": "PJM Interconnection, AI data centres, power grid management, AI infrastructure energy demand, electricity pricing, grid stability",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

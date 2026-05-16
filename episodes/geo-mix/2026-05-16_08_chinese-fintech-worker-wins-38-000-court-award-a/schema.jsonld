@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-16",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-16T00:00:00Z",
+      "datePublished": "2026-05-16T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=xc9Py_UuRKY",
+      "embedUrl": "https://www.youtube.com/embed/xc9Py_UuRKY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xc9Py_UuRKY/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-16",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Chinese Fintech Worker Wins $38,000 Court Award After AI Rollout Led to His Demotion",
+            "articleSection": "Job Evolution",
+            "abstract": "A fintech employee in China has won a landmark court case after his employer used an AI deployment as justification for cutting his pay and demoting him, with a Chinese court awarding him approximately $38,000 in compensation. The ruling builds on an earlier Chinese court precedent that AI cost-cutting alone is not legal grounds for firing workers, extending those protections to demotion and pay reduction scenarios. Legal experts say the decision signals Chinese courts are taking worker protections seriously in the age of AI-driven workforce restructuring.",
+            "url": "https://www.sixthtone.com/news/1018530/AI Took His Job. A Chinese Court Awarded Him $38,000.",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "AI automation"
+              },
+              {
+                "@type": "Thing",
+                "name": "fintech AI"
+              }
+            ],
+            "keywords": "AI automation, fintech AI, AI-driven workforce restructuring, worker rights litigation, employment law",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

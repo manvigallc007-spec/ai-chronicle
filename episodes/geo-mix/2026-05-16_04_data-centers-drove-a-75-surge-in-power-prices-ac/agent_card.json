@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-16",
+  "rank": 4,
+  "video_url": "https://www.youtube.com/watch?v=LTXOy-C2LiU",
+  "thumbnail_url": "https://i.ytimg.com/vi/LTXOy-C2LiU/maxresdefault.jpg",
+  "story": {
+    "title": "Data Centers Drove a 75% Surge in Power Prices Across the US's Largest Energy Market",
+    "pillar": "Daily Utility",
+    "summary": "AI-driven data centre expansion has contributed to a 75% jump in electricity prices across the PJM interconnection, the largest wholesale power market in the United States, which serves over 65 million people across 13 states. Energy watchdogs say the surge is being driven by unprecedented demand from AI bit barns, and are recommending that new data centres source their own power rather than draw from shared grids. The price spike has direct knock-on effects for household and business electricity bills across a broad swathe of the country.",
+    "source_url": "https://www.theregister.com/on-prem/2026/05/15/datacenters-slurping-juice-help-drive-75-jump-in-pjm-power-prices/5241491",
+    "source_name": "The Register",
+    "companies": [
+      "PJM Interconnection"
+    ],
+    "technologies": [
+      "AI data centres",
+      "power grid management"
+    ],
+    "use_cases": [
+      "AI infrastructure energy demand",
+      "electricity pricing",
+      "grid stability"
+    ]
+  }
+}

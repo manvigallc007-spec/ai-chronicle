@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-16",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-16T00:00:00Z",
+      "datePublished": "2026-05-16T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=krlXoZ3R2ho",
+      "embedUrl": "https://www.youtube.com/embed/krlXoZ3R2ho",
+      "thumbnailUrl": "https://i.ytimg.com/vi/krlXoZ3R2ho/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-16",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Git Is Breaking Under the Weight of AI Coding Agents Flooding GitHub With Commits",
+            "articleSection": "Job Evolution",
+            "abstract": "The explosion of AI coding agents autonomously generating, committing, and merging code is pushing GitHub and the underlying Git version-control system to its architectural limits, with engineers warning the infrastructure was never designed for the volume or pace of machine-generated changes now hitting it. Developers report degraded performance, merge conflicts at unprecedented scale, and review queues that human engineers cannot keep up with. Industry observers say Git's decade-old design assumptions must be fundamentally rethought for an agentic coding world.",
+            "url": "https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "GitHub"
+              },
+              {
+                "@type": "Organization",
+                "name": "Microsoft"
+              },
+              {
+                "@type": "Thing",
+                "name": "Git"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI coding agents"
+              },
+              {
+                "@type": "Thing",
+                "name": "version control"
+              }
+            ],
+            "keywords": "GitHub, Microsoft, Git, AI coding agents, version control, AI-generated code management, developer workflow automation, software infrastructure scaling",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

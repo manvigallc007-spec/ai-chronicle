@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-16",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-16T00:00:00Z",
+      "datePublished": "2026-05-16T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=hNHbOLz4aes",
+      "embedUrl": "https://www.youtube.com/embed/hNHbOLz4aes",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hNHbOLz4aes/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-16",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Musk v. Altman Trial Ends With Jury to Decide Who Was Really Running OpenAI",
+            "articleSection": "Policy & Rights",
+            "abstract": "The final week of the Musk v. Altman trial saw both sides attack each other's credibility, with Altman accused of lying and self-dealing while he countered that Musk sought personal control over AI development. The jury must now decide whether Musk was misled into funding OpenAI under false pretences about its nonprofit mission. The verdict could reshape governance norms and legal accountability for the entire AI industry.",
+            "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "OpenAI"
+              },
+              {
+                "@type": "Organization",
+                "name": "xAI"
+              },
+              {
+                "@type": "Organization",
+                "name": "SpaceX"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI governance"
+              }
+            ],
+            "keywords": "OpenAI, xAI, SpaceX, large language models, AI governance, AI nonprofit accountability, for-profit AI conversion",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

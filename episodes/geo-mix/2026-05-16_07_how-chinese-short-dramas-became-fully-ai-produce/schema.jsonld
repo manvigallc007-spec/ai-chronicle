@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-16",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-16T00:00:00Z",
+      "datePublished": "2026-05-16T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=_P-iu2e1nJU",
+      "embedUrl": "https://www.youtube.com/embed/_P-iu2e1nJU",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_P-iu2e1nJU/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-16",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "How Chinese Short Dramas Became Fully AI-Produced Content Machines",
+            "articleSection": "Education & Youth",
+            "abstract": "China's booming short-drama industry, built on melodramatic smartphone-sized videos consumed by hundreds of millions of viewers, is now producing entire episodes using AI-generated visuals, scripts, and voice acting, slashing production costs and turnaround times to hours. The genre's bite-sized format makes it uniquely suited to AI production pipelines, and studios are racing to export the model globally, including to Western markets via dedicated streaming apps. Critics warn the industrialisation of AI content at this scale risks flooding platforms with synthetic, low-quality media that overwhelms human-made storytelling.",
+            "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "ByteDance"
+              },
+              {
+                "@type": "Organization",
+                "name": "Kuaishou"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI video generation"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI scriptwriting"
+              },
+              {
+                "@type": "Thing",
+                "name": "synthetic media"
+              }
+            ],
+            "keywords": "ByteDance, Kuaishou, AI video generation, AI scriptwriting, synthetic media, AI content production, short-form video automation, global media export",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-16",
+  "rank": 9,
+  "video_url": "https://www.youtube.com/watch?v=BLe6l6Gfjyk",
+  "thumbnail_url": "https://i.ytimg.com/vi/BLe6l6Gfjyk/maxresdefault.jpg",
+  "story": {
+    "title": "ZTE Showcases AI-Integrated Networks at GSMA LATAM 2026, Targeting Telco Business Model Shift",
+    "pillar": "Daily Utility",
+    "summary": "Chinese telecoms equipment maker ZTE presented its AI-integrated network architecture at the GSMA M360 LATAM 2026 conference, demonstrating how AI embedded directly into 5G network infrastructure can cut operating costs, improve efficiency, and help Latin American telcos move beyond selling basic connectivity into higher-margin digital services. The showcase highlighted two-way AI-network integration where the network both runs AI applications and is itself optimised by AI in real time. Latin America's telco sector, which serves hundreds of millions of mobile subscribers, is seen as a key growth market for this approach.",
+    "source_url": "https://www.theregister.com/networks/2026/05/15/zte-showcases-at-gsma-m360-latam-2026-driving-future-business-model-restructuring-ai-network-two-way-integration/5240254",
+    "source_name": "The Register",
+    "companies": [
+      "ZTE",
+      "GSMA"
+    ],
+    "technologies": [
+      "AI-integrated networks",
+      "5G",
+      "network optimisation AI"
+    ],
+    "use_cases": [
+      "telco business model transformation",
+      "AI-powered 5G networks",
+      "Latin America digital infrastructure"
+    ]
+  }
+}

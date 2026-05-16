@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-16",
+  "rank": 5,
+  "video_url": "https://www.youtube.com/watch?v=krlXoZ3R2ho",
+  "thumbnail_url": "https://i.ytimg.com/vi/krlXoZ3R2ho/maxresdefault.jpg",
+  "story": {
+    "title": "Git Is Breaking Under the Weight of AI Coding Agents Flooding GitHub With Commits",
+    "pillar": "Job Evolution",
+    "summary": "The explosion of AI coding agents autonomously generating, committing, and merging code is pushing GitHub and the underlying Git version-control system to its architectural limits, with engineers warning the infrastructure was never designed for the volume or pace of machine-generated changes now hitting it. Developers report degraded performance, merge conflicts at unprecedented scale, and review queues that human engineers cannot keep up with. Industry observers say Git's decade-old design assumptions must be fundamentally rethought for an agentic coding world.",
+    "source_url": "https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480",
+    "source_name": "The Register",
+    "companies": [
+      "GitHub",
+      "Microsoft"
+    ],
+    "technologies": [
+      "Git",
+      "AI coding agents",
+      "version control"
+    ],
+    "use_cases": [
+      "AI-generated code management",
+      "developer workflow automation",
+      "software infrastructure scaling"
+    ]
+  }
+}

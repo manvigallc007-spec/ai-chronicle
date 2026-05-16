@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle International — 2026-05-16",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. Geo Mix edition.",
+      "uploadDate": "2026-05-16T00:00:00Z",
+      "datePublished": "2026-05-16T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=7SN9u4D0-n8",
+      "embedUrl": "https://www.youtube.com/embed/7SN9u4D0-n8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7SN9u4D0-n8/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-16",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Indonesia's XLSmart and ZTE Complete 7,000-Site 5G Rollout in Eight Months for 73M Subscribers",
+            "articleSection": "Daily Utility",
+            "abstract": "Indonesian operator XLSmart, in partnership with ZTE, has deployed 7,000 new 5G sites in just eight months to build what it describes as Indonesia's first blanket nationwide 5G network, now serving 73 million subscribers. The rapid build-out positions Indonesia, Southeast Asia's largest economy, as a significant emerging market for AI-connected devices and services that require high-bandwidth, low-latency mobile infrastructure. The partnership demonstrates how AI-assisted network planning and deployment tools are compressing the timelines for large-scale telecoms infrastructure projects in the developing world.",
+            "url": "https://www.theregister.com/networks/2026/05/15/fusion-for-the-future-xlsmart-and-zte-partnering-for-a-boundless-digital-indonesia/5240898",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "XLSmart"
+              },
+              {
+                "@type": "Organization",
+                "name": "ZTE"
+              },
+              {
+                "@type": "Thing",
+                "name": "5G"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI-assisted network deployment"
+              }
+            ],
+            "keywords": "XLSmart, ZTE, 5G, AI-assisted network deployment, nationwide 5G rollout, digital infrastructure for emerging markets, AI-connected mobile services",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

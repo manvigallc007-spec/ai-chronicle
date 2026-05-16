@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "geo-mix",
+  "date": "2026-05-16",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=RORY4QLuVOI",
+  "thumbnail_url": "https://i.ytimg.com/vi/RORY4QLuVOI/maxresdefault.jpg",
+  "story": {
+    "title": "SpaceXAI Has Lost Over 50 Staff Since Its February Merger, Raising Retention Concerns",
+    "pillar": "Job Evolution",
+    "summary": "More than 50 employees have reportedly departed Elon Musk's newly merged SpaceXAI entity since its February formation, with sources pointing to burnout, leadership instability, talent poaching by rivals, and reduced retention incentives following liquidity events. The exodus raises questions about whether merging a rocket company's culture with an AI lab can work, and whether Musk can maintain competitive AI talent as rivals like Anthropic and OpenAI aggressively recruit. The departures come at a critical moment as SpaceXAI pursues a major IPO.",
+    "source_url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "source_name": "TechCrunch AI",
+    "companies": [
+      "SpaceXAI",
+      "xAI",
+      "SpaceX",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "technologies": [
+      "large language models",
+      "AI research"
+    ],
+    "use_cases": [
+      "AI talent retention",
+      "corporate merger integration"
+    ]
+  }
+}
