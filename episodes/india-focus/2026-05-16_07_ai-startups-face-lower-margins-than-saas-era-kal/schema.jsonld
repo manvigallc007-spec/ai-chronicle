@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-16",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-16T00:00:00Z",
+      "datePublished": "2026-05-16T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Ff6Vbhi0Jzs",
+      "embedUrl": "https://www.youtube.com/embed/Ff6Vbhi0Jzs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ff6Vbhi0Jzs/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-16",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "AI Startups Face Lower Margins Than SaaS Era, Kalaari Capital Urges Founders to Prove Unit Economics",
+            "articleSection": "How to Evolve",
+            "abstract": "Kalaari Capital's Harshit Kumar has warned that AI-native startups in India face structurally lower gross margins than traditional SaaS companies due to rising inference costs and the expense of human review processes. He argues that Indian AI founders must prioritise building defensible moats and demonstrating measurable customer ROI rather than relying on growth metrics alone. The advice signals a maturing in investor expectations as the AI startup funding cycle moves from enthusiasm to scrutiny.",
+            "url": "https://economictimes.indiatimes.com/tech/startups/ai-startups-dont-enjoy-saas-era-margins-heres-what-kalaari-capitals-harshit-kumar-says-founders-should-do-instead/articleshow/131120241.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Kalaari Capital"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI inference"
+              },
+              {
+                "@type": "Thing",
+                "name": "large language models"
+              },
+              {
+                "@type": "Thing",
+                "name": "SaaS vs AI cost structures"
+              }
+            ],
+            "keywords": "Kalaari Capital, AI inference, large language models, SaaS vs AI cost structures, AI startup unit economics, investor due diligence, defensible AI product design",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-16",
+  "rank": 6,
+  "video_url": "https://www.youtube.com/watch?v=j0Fki8mxYXw",
+  "thumbnail_url": "https://i.ytimg.com/vi/j0Fki8mxYXw/maxresdefault.jpg",
+  "story": {
+    "title": "Dhruva Space Receives Rs 105 Crore From Government to Develop Flat-Pack Satellite Platform",
+    "pillar": "Discovery & Research",
+    "summary": "Hyderabad-based space startup Dhruva Space has secured Rs 105 crore in government funding to develop a flat-pack satellite platform designed for efficient launch stacking, faster system integration, and large-scale constellation deployments. The flat-pack architecture is intended to reduce the cost and time required to build and launch multiple satellites, supporting India's growing ambitions in commercial space. The grant comes under India's broader push to build a self-reliant private space ecosystem.",
+    "source_url": "https://yourstory.com/2026/05/dhruva-space-gets-rs-105-cr-from-centre-for-developing-satellite-platform",
+    "source_name": "YourStory Tech",
+    "companies": [
+      "Dhruva Space",
+      "Government of India"
+    ],
+    "technologies": [
+      "flat-pack satellite architecture",
+      "launch stacking",
+      "satellite integration systems"
+    ],
+    "use_cases": [
+      "large-scale satellite constellation deployment",
+      "cost-reduction in space manufacturing",
+      "India private space ecosystem"
+    ]
+  }
+}

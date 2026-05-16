@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-16",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-16T00:00:00Z",
+      "datePublished": "2026-05-16T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=j0Fki8mxYXw",
+      "embedUrl": "https://www.youtube.com/embed/j0Fki8mxYXw",
+      "thumbnailUrl": "https://i.ytimg.com/vi/j0Fki8mxYXw/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-16",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Dhruva Space Receives Rs 105 Crore From Government to Develop Flat-Pack Satellite Platform",
+            "articleSection": "Discovery & Research",
+            "abstract": "Hyderabad-based space startup Dhruva Space has secured Rs 105 crore in government funding to develop a flat-pack satellite platform designed for efficient launch stacking, faster system integration, and large-scale constellation deployments. The flat-pack architecture is intended to reduce the cost and time required to build and launch multiple satellites, supporting India's growing ambitions in commercial space. The grant comes under India's broader push to build a self-reliant private space ecosystem.",
+            "url": "https://yourstory.com/2026/05/dhruva-space-gets-rs-105-cr-from-centre-for-developing-satellite-platform",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Dhruva Space"
+              },
+              {
+                "@type": "Organization",
+                "name": "Government of India"
+              },
+              {
+                "@type": "Thing",
+                "name": "flat-pack satellite architecture"
+              },
+              {
+                "@type": "Thing",
+                "name": "launch stacking"
+              },
+              {
+                "@type": "Thing",
+                "name": "satellite integration systems"
+              }
+            ],
+            "keywords": "Dhruva Space, Government of India, flat-pack satellite architecture, launch stacking, satellite integration systems, large-scale satellite constellation deployment, cost-reduction in space manufacturing, India private space ecosystem",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

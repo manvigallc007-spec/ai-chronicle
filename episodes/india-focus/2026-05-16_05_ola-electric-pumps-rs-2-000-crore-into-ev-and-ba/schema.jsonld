@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-16",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-16T00:00:00Z",
+      "datePublished": "2026-05-16T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=WOBO3vN6JaY",
+      "embedUrl": "https://www.youtube.com/embed/WOBO3vN6JaY",
+      "thumbnailUrl": "https://i.ytimg.com/vi/WOBO3vN6JaY/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-16",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Ola Electric Pumps Rs 2,000 Crore Into EV and Battery Manufacturing to Boost Localisation",
+            "articleSection": "Daily Utility",
+            "abstract": "Ola Electric Mobility has approved a Rs 2,000 crore capital infusion into its EV and battery cell manufacturing subsidiaries as part of a push to deepen localisation and vertical integration across its supply chain. The investment is aimed at strengthening the company's core two-wheeler EV business and scaling battery production at a time of intensifying competition from legacy players and new entrants. The move comes as Ola Electric faces profitability pressure and scrutiny over after-sales service quality.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/ola-electric-infuses-rs-2000-crore-in-ev-and-cell-manufacturing/articleshow/131114494.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Ola Electric Mobility"
+              },
+              {
+                "@type": "Thing",
+                "name": "EV manufacturing"
+              },
+              {
+                "@type": "Thing",
+                "name": "battery cell production"
+              },
+              {
+                "@type": "Thing",
+                "name": "vertical integration"
+              }
+            ],
+            "keywords": "Ola Electric Mobility, EV manufacturing, battery cell production, vertical integration, domestic EV supply chain, battery localisation, two-wheeler electrification",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

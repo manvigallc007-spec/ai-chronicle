@@ -1,0 +1,96 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-16",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-16T00:00:00Z",
+      "datePublished": "2026-05-16T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=rC2sGGaKWUc",
+      "embedUrl": "https://www.youtube.com/embed/rC2sGGaKWUc",
+      "thumbnailUrl": "https://i.ytimg.com/vi/rC2sGGaKWUc/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-16",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Numero AI Acquires Royu in Cash-and-Stock Deal to Build Agentic Finance Platform for Enterprises",
+            "articleSection": "Job Evolution",
+            "abstract": "Indian AI startup Numero AI has acquired Royu in a cash-and-stock transaction to accelerate the development of an agentic AI platform targeting the finance and controller functions of large enterprises. The combined entity aims to automate tasks currently performed manually by finance teams, including reconciliation, reporting and compliance workflows. The deal reflects growing investor and founder interest in deploying AI agents to replace repetitive back-office roles in Indian corporates.",
+            "url": "https://yourstory.com/2026/05/numero-ai-acquires-royu-in-cash-cum-stock-deal",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Numero AI"
+              },
+              {
+                "@type": "Organization",
+                "name": "Royu"
+              },
+              {
+                "@type": "Thing",
+                "name": "agentic AI"
+              },
+              {
+                "@type": "Thing",
+                "name": "workflow automation"
+              },
+              {
+                "@type": "Thing",
+                "name": "finance AI agents"
+              }
+            ],
+            "keywords": "Numero AI, Royu, agentic AI, workflow automation, finance AI agents, enterprise finance automation, controller function AI, back-office task replacement",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

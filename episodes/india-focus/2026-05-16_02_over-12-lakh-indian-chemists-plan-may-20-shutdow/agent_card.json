@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-16",
+  "rank": 2,
+  "video_url": "https://www.youtube.com/watch?v=dMQnLfbxnpI",
+  "thumbnail_url": "https://i.ytimg.com/vi/dMQnLfbxnpI/maxresdefault.jpg",
+  "story": {
+    "title": "Over 12 Lakh Indian Chemists Plan May 20 Shutdown Over Fake AI-Generated Prescriptions",
+    "pillar": "Policy & Rights",
+    "summary": "More than 1.2 million chemists across India are planning a nationwide shop shutdown on May 20 in protest against e-pharmacies that are allegedly enabling the use of AI-generated fake prescriptions to fulfil medicine orders. The chemists argue that AI tools are being used to fabricate prescription documents, bypassing regulatory safeguards and endangering patient safety. The protest marks a flashpoint in the broader conflict between traditional pharmacy networks and digital medicine platforms.",
+    "source_url": "https://www.medianama.com/2026/05/223-chemist-strike-against-e-pharmacies-may-20-ai-generated-prescriptions/",
+    "source_name": "Medianama",
+    "companies": [
+      "e-pharmacy platforms",
+      "All India Organisation of Chemists and Druggists"
+    ],
+    "technologies": [
+      "generative AI",
+      "AI-generated documents",
+      "e-prescription systems"
+    ],
+    "use_cases": [
+      "fake prescription generation",
+      "online medicine dispensing",
+      "pharmacy regulation enforcement"
+    ]
+  }
+}

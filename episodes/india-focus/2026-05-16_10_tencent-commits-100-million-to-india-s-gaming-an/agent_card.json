@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-16",
+  "rank": 10,
+  "video_url": "https://www.youtube.com/watch?v=d-TSmzkJJ9A",
+  "thumbnail_url": "https://i.ytimg.com/vi/d-TSmzkJJ9A/maxresdefault.jpg",
+  "story": {
+    "title": "Tencent Commits $100 Million to India's Gaming and Animation Sector Through SEPC and GDAI Partnerships",
+    "pillar": "Education & Youth",
+    "summary": "Chinese tech giant Tencent has announced a $100 million investment in India's gaming and animation industry through strategic partnerships with the Software Export Promotion Council and the Game Developers Association of India. The investment aims to nurture local developer talent, fund studios and help Indian gaming content reach global audiences. The commitment aligns with India's ambitions to grow its Animation, Visual Effects, Gaming and Comics sector into a significant export industry.",
+    "source_url": "https://www.thehindu.com/sci-tech/technology/tencent-to-invest-100-million-on-indias-gaming-and-animation-industry/article70982814.ece",
+    "source_name": "The Hindu Tech",
+    "companies": [
+      "Tencent",
+      "Software Export Promotion Council",
+      "Game Developers Association of India"
+    ],
+    "technologies": [
+      "game development platforms",
+      "animation tools",
+      "global publishing infrastructure"
+    ],
+    "use_cases": [
+      "Indian gaming industry development",
+      "AVGC export growth",
+      "local developer talent nurturing"
+    ]
+  }
+}

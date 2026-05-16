@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-16",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-16T00:00:00Z",
+      "datePublished": "2026-05-16T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=m02xUDH-kEQ",
+      "embedUrl": "https://www.youtube.com/embed/m02xUDH-kEQ",
+      "thumbnailUrl": "https://i.ytimg.com/vi/m02xUDH-kEQ/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-16",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Shadowfax Plans 100 New Dark Stores in FY27 as It Bets on Quick Commerce for Next Growth Phase",
+            "articleSection": "Daily Utility",
+            "abstract": "Logistics startup Shadowfax has announced plans to open 100 dark stores across India in FY27 as it pivots quick commerce into its primary growth engine. The expansion signals that third-party logistics players are moving up the value chain by owning fulfilment infrastructure rather than just providing delivery services. The push puts Shadowfax in more direct competition with Blinkit, Zepto, and Swiggy Instamart as the quick commerce market consolidates.",
+            "url": "https://www.medianama.com/2026/05/223-shadowfax-quick-commerce-dark-store-expansion-fy27/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Shadowfax"
+              },
+              {
+                "@type": "Organization",
+                "name": "Blinkit"
+              },
+              {
+                "@type": "Organization",
+                "name": "Zepto"
+              },
+              {
+                "@type": "Organization",
+                "name": "Swiggy Instamart"
+              },
+              {
+                "@type": "Thing",
+                "name": "dark store infrastructure"
+              },
+              {
+                "@type": "Thing",
+                "name": "quick commerce logistics"
+              },
+              {
+                "@type": "Thing",
+                "name": "last-mile delivery systems"
+              }
+            ],
+            "keywords": "Shadowfax, Blinkit, Zepto, Swiggy Instamart, dark store infrastructure, quick commerce logistics, last-mile delivery systems, rapid grocery delivery, third-party logistics value chain expansion, urban fulfilment network",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

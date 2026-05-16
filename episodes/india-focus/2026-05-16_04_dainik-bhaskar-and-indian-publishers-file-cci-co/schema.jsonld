@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-16",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-16T00:00:00Z",
+      "datePublished": "2026-05-16T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=FmzdC05ZQls",
+      "embedUrl": "https://www.youtube.com/embed/FmzdC05ZQls",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FmzdC05ZQls/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-16",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Dainik Bhaskar and Indian Publishers File CCI Complaint Against Google Over AI Search Revenue Sharing",
+            "articleSection": "Policy & Rights",
+            "abstract": "Dainik Bhaskar and a coalition of Indian media publishers have jointly filed a complaint with the Competition Commission of India against Google, alleging that AI-driven changes to search results are reducing traffic to news sites and cutting publisher advertising revenues without fair compensation. The publishers argue that Google's AI Overviews and related features extract news content to generate direct answers, diverting users away from publishers' websites. The CCI complaint follows similar actions by publishers in Europe and Australia and could set a precedent for how AI-generated search interacts with Indian media rights.",
+            "url": "https://www.medianama.com/2026/05/223-dainik-bhaskar-publishers-file-cci-case-google-revenue-sharing/",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Dainik Bhaskar"
+              },
+              {
+                "@type": "Organization",
+                "name": "Google"
+              },
+              {
+                "@type": "Organization",
+                "name": "Competition Commission of India"
+              },
+              {
+                "@type": "Thing",
+                "name": "AI Overviews"
+              },
+              {
+                "@type": "Thing",
+                "name": "generative AI search"
+              },
+              {
+                "@type": "Thing",
+                "name": "digital advertising systems"
+              }
+            ],
+            "keywords": "Dainik Bhaskar, Google, Competition Commission of India, AI Overviews, generative AI search, digital advertising systems, AI search revenue sharing, news publisher compensation, antitrust enforcement in AI",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-16",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-16T00:00:00Z",
+      "datePublished": "2026-05-16T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=d-TSmzkJJ9A",
+      "embedUrl": "https://www.youtube.com/embed/d-TSmzkJJ9A",
+      "thumbnailUrl": "https://i.ytimg.com/vi/d-TSmzkJJ9A/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-16",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Tencent Commits $100 Million to India's Gaming and Animation Sector Through SEPC and GDAI Partnerships",
+            "articleSection": "Education & Youth",
+            "abstract": "Chinese tech giant Tencent has announced a $100 million investment in India's gaming and animation industry through strategic partnerships with the Software Export Promotion Council and the Game Developers Association of India. The investment aims to nurture local developer talent, fund studios and help Indian gaming content reach global audiences. The commitment aligns with India's ambitions to grow its Animation, Visual Effects, Gaming and Comics sector into a significant export industry.",
+            "url": "https://www.thehindu.com/sci-tech/technology/tencent-to-invest-100-million-on-indias-gaming-and-animation-industry/article70982814.ece",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Tencent"
+              },
+              {
+                "@type": "Organization",
+                "name": "Software Export Promotion Council"
+              },
+              {
+                "@type": "Organization",
+                "name": "Game Developers Association of India"
+              },
+              {
+                "@type": "Thing",
+                "name": "game development platforms"
+              },
+              {
+                "@type": "Thing",
+                "name": "animation tools"
+              },
+              {
+                "@type": "Thing",
+                "name": "global publishing infrastructure"
+              }
+            ],
+            "keywords": "Tencent, Software Export Promotion Council, Game Developers Association of India, game development platforms, animation tools, global publishing infrastructure, Indian gaming industry development, AVGC export growth, local developer talent nurturing",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}

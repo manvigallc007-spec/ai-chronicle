@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-16",
+  "rank": 7,
+  "video_url": "https://www.youtube.com/watch?v=Ff6Vbhi0Jzs",
+  "thumbnail_url": "https://i.ytimg.com/vi/Ff6Vbhi0Jzs/maxresdefault.jpg",
+  "story": {
+    "title": "AI Startups Face Lower Margins Than SaaS Era, Kalaari Capital Urges Founders to Prove Unit Economics",
+    "pillar": "How to Evolve",
+    "summary": "Kalaari Capital's Harshit Kumar has warned that AI-native startups in India face structurally lower gross margins than traditional SaaS companies due to rising inference costs and the expense of human review processes. He argues that Indian AI founders must prioritise building defensible moats and demonstrating measurable customer ROI rather than relying on growth metrics alone. The advice signals a maturing in investor expectations as the AI startup funding cycle moves from enthusiasm to scrutiny.",
+    "source_url": "https://economictimes.indiatimes.com/tech/startups/ai-startups-dont-enjoy-saas-era-margins-heres-what-kalaari-capitals-harshit-kumar-says-founders-should-do-instead/articleshow/131120241.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Kalaari Capital"
+    ],
+    "technologies": [
+      "AI inference",
+      "large language models",
+      "SaaS vs AI cost structures"
+    ],
+    "use_cases": [
+      "AI startup unit economics",
+      "investor due diligence",
+      "defensible AI product design"
+    ]
+  }
+}

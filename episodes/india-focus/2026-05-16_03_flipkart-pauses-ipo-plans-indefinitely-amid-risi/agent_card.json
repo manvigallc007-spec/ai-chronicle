@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "type": "ai-news-short",
+  "publisher": "The AI Chronicle",
+  "edition": "india-focus",
+  "date": "2026-05-16",
+  "rank": 3,
+  "video_url": "https://www.youtube.com/watch?v=KtuxsnabWxo",
+  "thumbnail_url": "https://i.ytimg.com/vi/KtuxsnabWxo/maxresdefault.jpg",
+  "story": {
+    "title": "Flipkart Pauses IPO Plans Indefinitely Amid Rising Market Volatility and Crowded Public Issue Pipeline",
+    "pillar": "Daily Utility",
+    "summary": "Walmart-owned Flipkart has indefinitely paused its long-anticipated IPO discussions as rising market volatility and a congested public issue pipeline make the timing unfavourable. The company is instead redirecting investment into its quick commerce arm, Flipkart Minutes, as e-commerce growth shows signs of plateauing. The pause follows similar postponements by other major Indian tech firms and signals caution in the broader Indian startup IPO market.",
+    "source_url": "https://economictimes.indiatimes.com/tech/technology/flipkart-pauses-ipo-discussions-amid-rising-volatility-in-markets/articleshow/131110424.cms",
+    "source_name": "Economic Times Tech",
+    "companies": [
+      "Flipkart",
+      "Walmart"
+    ],
+    "technologies": [
+      "quick commerce platforms",
+      "e-commerce infrastructure"
+    ],
+    "use_cases": [
+      "IPO market timing",
+      "quick commerce expansion",
+      "retail investment strategy"
+    ]
+  }
+}

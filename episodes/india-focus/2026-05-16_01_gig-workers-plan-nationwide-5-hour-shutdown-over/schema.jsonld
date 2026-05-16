@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsMediaOrganization",
+      "name": "The AI Chronicle",
+      "url": "https://theaichronicle.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://theaichronicle.com/logo.png"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@theaichronicle007-p8o"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "name": "The AI Chronicle India — 2026-05-16",
+      "description": "Daily AI news briefing — 1 stories on jobs, policy, research, and tools. India Focus edition.",
+      "uploadDate": "2026-05-16T00:00:00Z",
+      "datePublished": "2026-05-16T00:00:00Z",
+      "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "The AI Chronicle",
+        "url": "https://theaichronicle.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://theaichronicle.com/logo.png"
+        },
+        "sameAs": [
+          "https://www.youtube.com/@theaichronicle007-p8o"
+        ]
+      },
+      "isFamilyFriendly": true,
+      "inLanguage": "en",
+      "genre": "News",
+      "contentUrl": "https://www.youtube.com/watch?v=Z8qggjDpGgg",
+      "embedUrl": "https://www.youtube.com/embed/Z8qggjDpGgg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Z8qggjDpGgg/maxresdefault.jpg"
+    },
+    {
+      "@type": "ItemList",
+      "name": "Top 1 AI Stories — 2026-05-16",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "NewsArticle",
+            "headline": "Gig Workers Plan Nationwide 5-Hour Shutdown Over Rising Fuel Costs and Stagnant Per-KM Pay",
+            "articleSection": "Job Evolution",
+            "abstract": "A gig and platform workers' union has called a nationwide five-hour shutdown to protest rising fuel prices that are eroding take-home earnings for delivery and ride-hailing workers. The union is demanding an immediate upward revision of per-kilometre service rates, arguing that platforms have not adjusted pay to reflect input cost increases. The action could disrupt food delivery, cab and package services across Indian cities on the day of the protest.",
+            "url": "https://economictimes.indiatimes.com/tech/technology/gig-workers-union-calls-for-five-hour-shutdown-over-rising-fuel-costs/articleshow/131124516.cms",
+            "publisher": {
+              "@type": "NewsMediaOrganization",
+              "name": "The AI Chronicle",
+              "url": "https://theaichronicle.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://theaichronicle.com/logo.png"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@theaichronicle007-p8o"
+              ]
+            },
+            "about": [
+              {
+                "@type": "Organization",
+                "name": "Swiggy"
+              },
+              {
+                "@type": "Organization",
+                "name": "Zomato"
+              },
+              {
+                "@type": "Organization",
+                "name": "Ola"
+              },
+              {
+                "@type": "Organization",
+                "name": "Uber"
+              },
+              {
+                "@type": "Organization",
+                "name": "Rapido"
+              },
+              {
+                "@type": "Thing",
+                "name": "gig platform algorithms"
+              },
+              {
+                "@type": "Thing",
+                "name": "per-kilometre dynamic pricing"
+              }
+            ],
+            "keywords": "Swiggy, Zomato, Ola, Uber, Rapido, gig platform algorithms, per-kilometre dynamic pricing, gig worker wage advocacy, platform labour rights, fuel cost impact on delivery economics",
+            "isAccessibleForFree": true
+          }
+        }
+      ]
+    }
+  ]
+}
